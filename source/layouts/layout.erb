@@ -21,11 +21,11 @@
       </table>
 
       <div id="tabs">
-        <%= link_to 'HOME', '/home', :class => active_if_current('/home/') %>
+        <%= link_to 'HOME', '/home', :class => active_if_current('/home') %>
         <div class="space">&nbsp;</div>
-        <%= link_to 'BOOC', '/booc', :class => '' %>
+        <%= link_to 'BOOC', '/booc', :class => active_if_current('/booc') %>
         <div class="space">&nbsp;</div>
-        <%= link_to 'FILES', '/works', :class => '' %>
+        <%= link_to 'FILES', '/works', :class => active_if_current('/works') %>
         <div class="space">&nbsp;</div>
         <%= link_to 'PIXCELL', '/images/pix_cell.png', :popup => true %>
         <div class="space">&nbsp;</div>

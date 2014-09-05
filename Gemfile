@@ -5,6 +5,8 @@ source 'http://rubygems.org'
 gem "middleman", "~>3.3.5"
 gem "middleman-deploy", "~> 0.3.0"
 
+gem 'RedCloth', '3.0.4', require: 'redcloth'
+
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
 

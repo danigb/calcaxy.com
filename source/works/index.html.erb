@@ -1,0 +1,31 @@
+
+
+
+<div id="files_browser">
+</div>
+
+<div class="files main">
+  <% calc_view.works.each do |card| %>
+    <div class="file">
+      <div class="thumb"><%= thumb_of card, :thumb %> </div>
+      <%  if (card.meta(:link) != nil) %>
+        <div class="info"><%= link_to image_tag('pdf.gif'),
+          card.attachment(:pdf).public_filename %></div>
+        <div class="info last"><%= link_to image_tag('www.gif'),
+          card.meta(:link) %></div>
+      <% elsif card.attachment(:pdf) %>
+        <div class="info last"><%= link_to image_tag('pdf.gif'),
+          card.attachment(:pdf).public_filename %></div>
+      <% end %>
+    </div>
+  <% end -%>
+</div>
+
+<%= clear  %>
+<br/><br/><br/>
+
+
+<script type="text/javascript">
+  jQuery(function($) {$("a.thumbnail").fancybox();});
+  // just to show one:   jQuery(function($) {$.show_image('<%= @show %>');});
+</script>

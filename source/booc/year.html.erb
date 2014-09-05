@@ -1,0 +1,78 @@
+<% parent = calc_view.booc_parent(current_year) %>
+<% boocs = parent.children.reverse! %>
+
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+  <% for year in Calcaxy.booc_years -%>
+    <li>
+      <% if year == current_year -%>
+        <div class="active">
+          <div class="head"><%= year %></div>
+          <ul><% boocs.each do |booc| -%>
+              <li><%= link_to booc.meta(:year), "#booc#{booc.id}" %></li>
+          <% end -%></ul>
+        </div>
+      <% else -%>
+        <%= link_to year, "/booc/#{year}" %>
+      <% end -%>
+    </li>
+  <% end -%>
+</ul>
+
+<div class="boocs main">
+  <% boocs.each do |booc| %>
+    <div class="booc">
+      <h1><a name="booc<%= booc.id %>" href="#selector"><%= booc.title %></a></h1>
+      <div class="date"><%= booc.meta(:year) %></div>
+      <div class="body"><%= supercloth booc.content %></div>
+
+      <%= clear %>
+      <a href="#selector">back to top</a>
+      <div class="image">
+        <% if booc.attachment(:thumb) %>
+          <%= image_tag booc.attachment(:thumb).public_filename %>
+        <% end %>
+      </div>
+
+    </div>
+    <br/>
+  <% end  %>
+</div>
+
+<%= clear %>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>

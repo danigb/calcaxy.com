@@ -23,12 +23,26 @@ end
 Page = Struct.new(:id, :parent_id, :title, :position, :depth, :state,
                   :mime, :content, :created_at, :updated_at) do
 
+
+  def children
+    @children ||= Repo.all('Page').select {|p| p.parent_id.to_i == id.to_i }.sort_by! {|p| p.position }
+  end
+
   def attachments
     @attachments ||= Repo.all('Attachment').select {|a| a.page_id.to_i == id.to_i }
   end
 
-
-  def attachment(name)
-    Repo.all('Attachment').find {|a| a.page_id.to_i == id.to_i && a.label == name }
+  def metas
+    @metas ||= Repo.all('Meta').select {|a| a.page_id.to_i == id.to_i }
   end
+
+  def attachment(label)
+    Repo.all('Attachment').find {|a| a.page_id.to_i == id.to_i && a.label == label.to_s }
+  end
+
+  def meta(name)
+    meta = Repo.all('Meta').find {|a| a.page_id.to_i == id.to_i && a.name == name.to_s }
+    meta.present? ? meta.value : ''
+  end
+
 end

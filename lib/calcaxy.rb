@@ -24,6 +24,19 @@ end
 
 module Calcaxy
   MODELS = ['Meta', 'Attachment', 'Page']
+  MIN_YEAR = 1990
+  MAX_YEAR = 2008
+
+  def self.booc_years
+    years = (MIN_YEAR..MAX_YEAR).to_a.reverse!
+    years.delete(2006)
+    years
+  end
+
+  def self.valid_year?(string)
+    year = string.to_i
+    year < MIN_YEAR || year > MAX_YEAR
+  end
 
   def self.load
     MODELS.each {|name| Repo.load(name) }
