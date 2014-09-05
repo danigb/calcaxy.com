@@ -7,6 +7,18 @@ Calcaxy.booc_years.each do |year|
     locals: { current_year: year}, ignore: true
 end
 
+biobiblios = Repo.find('Page', Calcaxy::PAGE_BIO).children
+biobiblios.each do |page|
+  proxy "/biobiblio/#{page.id}", "/txts/txt.html",
+    locals: { page_id: page.id, page_type: 'biobiblio'}, ignore: true
+end
+
+txts = Repo.find('Page', Calcaxy::PAGE_TXT).children
+txts.each do |page|
+  proxy "/txts/#{page.id}", "/txts/txt.html",
+    locals: { page_id: page.id, page_type: 'txts'}, ignore: true
+end
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'

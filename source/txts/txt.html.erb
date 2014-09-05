@@ -1,0 +1,21 @@
+
+<% current_page = Repo.find('Page', page_id) %>
+<% menu = current_page.parent.children %>
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+  <% menu.each do |text| %>
+    <li>
+      <%  if text.id == current_page.id -%>
+        <div class="active"><div class="head"><%= text.title %></div></div>
+      <% else -%>
+        <%= link_to text.title, "/#{page_type}/#{text.id}"  %>
+      <% end  -%>
+    </li>
+  <% end -%>
+</ul>
+
+<div class="main textile">
+  <%= supercloth current_page.content %>
+</div>

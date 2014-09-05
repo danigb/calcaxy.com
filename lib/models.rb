@@ -23,6 +23,9 @@ end
 Page = Struct.new(:id, :parent_id, :title, :position, :depth, :state,
                   :mime, :content, :created_at, :updated_at) do
 
+  def parent
+    @parent ||= Repo.find('Page', parent_id)
+  end
 
   def children
     @children ||= Repo.all('Page').select {|p| p.parent_id.to_i == id.to_i }.sort_by! {|p| p.position }

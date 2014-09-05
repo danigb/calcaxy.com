@@ -26,6 +26,10 @@ module Calcaxy
   MODELS = ['Meta', 'Attachment', 'Page']
   MIN_YEAR = 1990
   MAX_YEAR = 2008
+  PAGE_HOME = 1
+  PAGE_BOOC = 2
+  PAGE_BIO = 216
+  PAGE_TXT = 20
 
   def self.booc_years
     years = (MIN_YEAR..MAX_YEAR).to_a.reverse!

@@ -4,12 +4,6 @@ module ViewHelpers
   end
 
   class CalcaxyView
-
-    PAGE_HOME = 1
-    PAGE_BOOC = 2
-    PAGE_BIO = 216
-    PAGE_TXT = 20
-
     def home
       @home ||= Repo.find('Page', 1)
     end
@@ -24,7 +18,7 @@ module ViewHelpers
     end
 
     def booc_parent(year)
-      Repo.all('Page').find { |p| p.parent_id.to_i == PAGE_BOOC && p.title == year.to_s }
+      Repo.all('Page').find { |p| p.parent_id.to_i == Calcaxy::PAGE_BOOC && p.title == year.to_s }
     end
   end
 
