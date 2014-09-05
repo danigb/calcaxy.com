@@ -1,0 +1,16 @@
+
+
+<div class="home_image">
+  <% image = calc_view.home.attachment('home') %>
+  <%= image.public_filename %>
+  <% link_to(image_tag(image.public_filename), '/homeology') if image.present? %>
+</div>
+
+<div id="calc_form">
+<img alt="semantic_bot" src="/images/semanticrobot.png" />
+  <ul>
+    <% calc_view.metas.reverse.each do |meta| %>
+      <li><%= as_calc meta.value %> </li>
+    <% end %>
+  </ul>
+</div>

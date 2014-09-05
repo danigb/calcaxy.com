@@ -1,0 +1,8707 @@
+---
+- !ruby/struct:Meta
+  id: 21
+  page_id: 14
+  name: year
+  value: 1990/10/10
+- !ruby/struct:Meta
+  id: 22
+  page_id: 14
+  name: country
+  value: egypt
+- !ruby/struct:Meta
+  id: 23
+  page_id: 14
+  name: location
+  value: sinai
+- !ruby/struct:Meta
+  id: 24
+  page_id: 14
+  name: project
+  value: basata
+- !ruby/struct:Meta
+  id: 25
+  page_id: 14
+  name: collaborators
+  value: sherif al ghamrawy, maria al ghamrawy
+- !ruby/struct:Meta
+  id: 26
+  page_id: 14
+  name: calcies
+  value: omi, teresa
+- !ruby/struct:Meta
+  id: 27
+  page_id: 15
+  name: year
+  value: 1991/12/06
+- !ruby/struct:Meta
+  id: 28
+  page_id: 15
+  name: country
+  value: spain
+- !ruby/struct:Meta
+  id: 29
+  page_id: 15
+  name: location
+  value: las aceñas, asturias
+- !ruby/struct:Meta
+  id: 30
+  page_id: 15
+  name: project
+  value: casqueiro
+- !ruby/struct:Meta
+  id: 31
+  page_id: 15
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 32
+  page_id: 16
+  name: year
+  value: 1992/10/08
+- !ruby/struct:Meta
+  id: 33
+  page_id: 16
+  name: country
+  value: austria
+- !ruby/struct:Meta
+  id: 34
+  page_id: 16
+  name: location
+  value: bregenz, theater am kornmarkt
+- !ruby/struct:Meta
+  id: 35
+  page_id: 16
+  name: project
+  value: 'the projection of the project: calc'
+- !ruby/struct:Meta
+  id: 36
+  page_id: 16
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 37
+  page_id: 17
+  name: year
+  value: 1993/01/08
+- !ruby/struct:Meta
+  id: 38
+  page_id: 17
+  name: country
+  value: spain
+- !ruby/struct:Meta
+  id: 39
+  page_id: 17
+  name: location
+  value: navia, asturias
+- !ruby/struct:Meta
+  id: 40
+  page_id: 17
+  name: project
+  value: 'entretanto, glatz stempel, t-shirt navia '
+- !ruby/struct:Meta
+  id: 42
+  page_id: 18
+  name: year
+  value: 1994/01/12
+- !ruby/struct:Meta
+  id: 43
+  page_id: 18
+  name: country
+  value: spain
+- !ruby/struct:Meta
+  id: 44
+  page_id: 18
+  name: location
+  value: navia, asturias
+- !ruby/struct:Meta
+  id: 45
+  page_id: 18
+  name: calcies
+  value: omi, lux, teresa
+- !ruby/struct:Meta
+  id: 46
+  page_id: 18
+  name: collaborators
+  value: gernot tscherteu
+- !ruby/struct:Meta
+  id: 47
+  page_id: 18
+  name: project
+  value: interface design calc, salto grandas, casqueiro
+- !ruby/struct:Meta
+  id: 48
+  page_id: 25
+  name: year
+  value: 1995/01/12
+- !ruby/struct:Meta
+  id: 49
+  page_id: 25
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 50
+  page_id: 25
+  name: project
+  value: calcaxy, jardines firmados, computed images, casqueiro
+- !ruby/struct:Meta
+  id: 51
+  page_id: 25
+  name: country
+  value: spain
+- !ruby/struct:Meta
+  id: 52
+  page_id: 25
+  name: location
+  value: las aceñas, asturias, austria
+- !ruby/struct:Meta
+  id: 53
+  page_id: 26
+  name: year
+  value: 1996/01/12
+- !ruby/struct:Meta
+  id: 54
+  page_id: 26
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 56
+  page_id: 26
+  name: country
+  value: spain, italy
+- !ruby/struct:Meta
+  id: 57
+  page_id: 26
+  name: location
+  value: las aceñas, asturias, castropol, bolzano
+- !ruby/struct:Meta
+  id: 58
+  page_id: 26
+  name: project
+  value: 'calcaxy, alternativa, asacuna, rheinart, sebastopol, ida kleiterp, allfred
+    adler, everlast, cartographia '
+- !ruby/struct:Meta
+  id: 59
+  page_id: 26
+  name: collaborations
+  value: hilario suarez, bertl theuritzbacher, martin gepp, kurt spirig, spallo kolb,
+    ida kleiterp
+- !ruby/struct:Meta
+  id: 60
+  page_id: 27
+  name: year
+  value: 1997/01/12
+- !ruby/struct:Meta
+  id: 61
+  page_id: 27
+  name: country
+  value: spain, austria, switzerland, italy
+- !ruby/struct:Meta
+  id: 62
+  page_id: 27
+  name: location
+  value: las aceñas, kunsthaus-bregenz, neuchatel, biella
+- !ruby/struct:Meta
+  id: 63
+  page_id: 27
+  name: project
+  value: 'nave, calcaxy 2.0, DU, expo01, cuisine '
+- !ruby/struct:Meta
+  id: 64
+  page_id: 27
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 65
+  page_id: 27
+  name: collaborations
+  value: marco koeppel, carlos martinez, pippi lotti rist, ian campbell, rainer ganahl,
+    lisi haemmerle, rudolf sagmeister, roland joerg, ingo springenschmid, michelangelo
+    pistoletto, maria pioppi
+- !ruby/struct:Meta
+  id: 66
+  page_id: 28
+  name: date
+  value: 1991/11
+- !ruby/struct:Meta
+  id: 67
+  page_id: 29
+  name: date
+  value: 2005/11
+- !ruby/struct:Meta
+  id: 68
+  page_id: 30
+  name: date
+  value: 2002/04
+- !ruby/struct:Meta
+  id: 69
+  page_id: 31
+  name: date
+  value: 2002/03
+- !ruby/struct:Meta
+  id: 70
+  page_id: 32
+  name: date
+  value: 2004/10
+- !ruby/struct:Meta
+  id: 71
+  page_id: 33
+  name: date
+  value: 2005/03
+- !ruby/struct:Meta
+  id: 72
+  page_id: 34
+  name: date
+  value: 2003/11
+- !ruby/struct:Meta
+  id: 73
+  page_id: 35
+  name: date
+  value: 1995/05
+- !ruby/struct:Meta
+  id: 74
+  page_id: 36
+  name: date
+  value: 2006/05
+- !ruby/struct:Meta
+  id: 75
+  page_id: 37
+  name: date
+  value: 1999/08
+- !ruby/struct:Meta
+  id: 76
+  page_id: 38
+  name: date
+  value: 2003/04
+- !ruby/struct:Meta
+  id: 77
+  page_id: 39
+  name: date
+  value: 2006/08
+- !ruby/struct:Meta
+  id: 78
+  page_id: 40
+  name: date
+  value: 2006/01
+- !ruby/struct:Meta
+  id: 79
+  page_id: 41
+  name: date
+  value: 2007/02
+- !ruby/struct:Meta
+  id: 80
+  page_id: 42
+  name: date
+  value: 2008/01
+- !ruby/struct:Meta
+  id: 81
+  page_id: 43
+  name: date
+  value: 2000/06
+- !ruby/struct:Meta
+  id: 82
+  page_id: 44
+  name: date
+  value: 2001/01
+- !ruby/struct:Meta
+  id: 83
+  page_id: 45
+  name: date
+  value: 2006/04
+- !ruby/struct:Meta
+  id: 84
+  page_id: 46
+  name: date
+  value: 2001/11
+- !ruby/struct:Meta
+  id: 85
+  page_id: 47
+  name: date
+  value: 1998/07
+- !ruby/struct:Meta
+  id: 86
+  page_id: 48
+  name: date
+  value: 2007/12
+- !ruby/struct:Meta
+  id: 87
+  page_id: 49
+  name: date
+  value: 2003/10
+- !ruby/struct:Meta
+  id: 88
+  page_id: 50
+  name: date
+  value: 1996/06
+- !ruby/struct:Meta
+  id: 89
+  page_id: 51
+  name: date
+  value: 1992/01
+- !ruby/struct:Meta
+  id: 90
+  page_id: 52
+  name: date
+  value: 2003/07
+- !ruby/struct:Meta
+  id: 91
+  page_id: 53
+  name: date
+  value: 2007/10
+- !ruby/struct:Meta
+  id: 92
+  page_id: 54
+  name: date
+  value: 1999/05
+- !ruby/struct:Meta
+  id: 93
+  page_id: 55
+  name: date
+  value: 1997/06
+- !ruby/struct:Meta
+  id: 94
+  page_id: 56
+  name: date
+  value: 1999/07
+- !ruby/struct:Meta
+  id: 95
+  page_id: 73
+  name: date
+  value: 2008/02
+- !ruby/struct:Meta
+  id: 96
+  page_id: 57
+  name: date
+  value: 2003/09
+- !ruby/struct:Meta
+  id: 97
+  page_id: 58
+  name: date
+  value: 2000/12
+- !ruby/struct:Meta
+  id: 98
+  page_id: 59
+  name: date
+  value: 1997/02
+- !ruby/struct:Meta
+  id: 100
+  page_id: 61
+  name: date
+  value: 2001/07
+- !ruby/struct:Meta
+  id: 101
+  page_id: 62
+  name: date
+  value: 1993/06
+- !ruby/struct:Meta
+  id: 102
+  page_id: 63
+  name: date
+  value: 2005/06
+- !ruby/struct:Meta
+  id: 103
+  page_id: 64
+  name: date
+  value: 2004/07
+- !ruby/struct:Meta
+  id: 104
+  page_id: 65
+  name: date
+  value: 1994/08
+- !ruby/struct:Meta
+  id: 105
+  page_id: 66
+  name: date
+  value: 1999/04
+- !ruby/struct:Meta
+  id: 106
+  page_id: 67
+  name: date
+  value: 2003/02
+- !ruby/struct:Meta
+  id: 107
+  page_id: 68
+  name: date
+  value: 1997/04
+- !ruby/struct:Meta
+  id: 108
+  page_id: 69
+  name: date
+  value: 2001/04
+- !ruby/struct:Meta
+  id: 109
+  page_id: 70
+  name: date
+  value: 1998/03
+- !ruby/struct:Meta
+  id: 110
+  page_id: 71
+  name: date
+  value: 1999/03
+- !ruby/struct:Meta
+  id: 111
+  page_id: 72
+  name: date
+  value: 2000/08
+- !ruby/struct:Meta
+  id: 113
+  page_id: 29
+  name: link
+  value: http://centro.us.es/arquitectura/
+- !ruby/struct:Meta
+  id: 114
+  page_id: 30
+  name: link
+  value: http://www.comune.torino.it/gioart/big/bigguest/
+- !ruby/struct:Meta
+  id: 115
+  page_id: 31
+  name: link
+  value: http://www.comune.torino.it/gioart/big/bigguest/
+- !ruby/struct:Meta
+  id: 116
+  page_id: 33
+  name: link
+  value: http://www.casamasomenos.net/
+- !ruby/struct:Meta
+  id: 117
+  page_id: 34
+  name: link
+  value: http://www.cittadellarte.it/
+- !ruby/struct:Meta
+  id: 118
+  page_id: 36
+  name: link
+  value: http://www.demosaica.com/
+- !ruby/struct:Meta
+  id: 120
+  page_id: 39
+  name: link
+  value: http://www.mundofantasio.com/
+- !ruby/struct:Meta
+  id: 121
+  page_id: 40
+  name: link
+  value: http://www.sevillafest.com/
+- !ruby/struct:Meta
+  id: 122
+  page_id: 41
+  name: link
+  value: http://www.sevillafest.com/
+- !ruby/struct:Meta
+  id: 125
+  page_id: 44
+  name: link
+  value: http://www.fotobot.net/
+- !ruby/struct:Meta
+  id: 126
+  page_id: 45
+  name: link
+  value: http://www.elgranpollodelaalameda.net/
+- !ruby/struct:Meta
+  id: 127
+  page_id: 46
+  name: link
+  value: http://www.johannesgees.com/wp/?cat=26
+- !ruby/struct:Meta
+  id: 128
+  page_id: 48
+  name: link
+  value: http://www.despachodepan.com/ver/indice
+- !ruby/struct:Meta
+  id: 130
+  page_id: 53
+  name: link
+  value: http://www.novaron.ch
+- !ruby/struct:Meta
+  id: 132
+  page_id: 56
+  name: link
+  value: http://www.jorgeyeregui.com/files/camino/ppal.htm
+- !ruby/struct:Meta
+  id: 133
+  page_id: 57
+  name: l
+  value: http://www.solidaridad.org
+- !ruby/struct:Meta
+  id: 134
+  page_id: 58
+  name: link
+  value: http://www.kunsthaus-bregenz.at/kubuse/SPACEplace/
+- !ruby/struct:Meta
+  id: 137
+  page_id: 66
+  name: link
+  value: http://www.communimage.net
+- !ruby/struct:Meta
+  id: 138
+  page_id: 67
+  name: link
+  value: http://www.geografiaffettiva.net/info/index.html
+- !ruby/struct:Meta
+  id: 139
+  page_id: 72
+  name: link
+  value: http://unidee.cittadellarte.it/index.php
+- !ruby/struct:Meta
+  id: 140
+  page_id: 26
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 142
+  page_id: 74
+  name: calcies
+  value: omi, lux, malex, teresa
+- !ruby/struct:Meta
+  id: 143
+  page_id: 74
+  name: year
+  value: 1998/01/08
+- !ruby/struct:Meta
+  id: 144
+  page_id: 74
+  name: country
+  value: spain, switzerland, austria, italy
+- !ruby/struct:Meta
+  id: 145
+  page_id: 74
+  name: location
+  value: casqueiro, expo01 cuisine, cittadellarte, kunsthaus bregenz
+- !ruby/struct:Meta
+  id: 146
+  page_id: 74
+  name: project
+  value: casqueiro, synctanc, timecloud
+- !ruby/struct:Meta
+  id: 147
+  page_id: 74
+  name: collaborators
+  value: ian campbell, martina gutmann, alvaro garcia lanza
+- !ruby/struct:Meta
+  id: 148
+  page_id: 74
+  name: collaborations
+  value: 'curt scheiderbauer, pipi lotti rist, claude garcon, marco koeppel, martin
+    roth, johannes gees, michelangelo pistoletto '
+- !ruby/struct:Meta
+  id: 149
+  page_id: 75
+  name: year
+  value: 1998/08/01
+- !ruby/struct:Meta
+  id: 151
+  page_id: 76
+  name: year
+  value: 1999/03/04
+- !ruby/struct:Meta
+  id: 152
+  page_id: 78
+  name: year
+  value: 1999/08/20
+- !ruby/struct:Meta
+  id: 153
+  page_id: 79
+  name: year
+  value: 1999/09/13
+- !ruby/struct:Meta
+  id: 154
+  page_id: 80
+  name: year
+  value: 1999/10/10
+- !ruby/struct:Meta
+  id: 155
+  page_id: 81
+  name: year
+  value: 1999/15/11
+- !ruby/struct:Meta
+  id: 156
+  page_id: 82
+  name: year
+  value: 2000/01/01
+- !ruby/struct:Meta
+  id: 157
+  page_id: 83
+  name: year
+  value: 200/01/07
+- !ruby/struct:Meta
+  id: 158
+  page_id: 84
+  name: year
+  value: 2000/02/01
+- !ruby/struct:Meta
+  id: 159
+  page_id: 85
+  name: year
+  value: 2000/08/18
+- !ruby/struct:Meta
+  id: 160
+  page_id: 86
+  name: year
+  value: 2000/04/01
+- !ruby/struct:Meta
+  id: 161
+  page_id: 87
+  name: year
+  value: 2000/05/01
+- !ruby/struct:Meta
+  id: 162
+  page_id: 89
+  name: year
+  value: 2000/07/18
+- !ruby/struct:Meta
+  id: 164
+  page_id: 88
+  name: year
+  value: 2000/06/01
+- !ruby/struct:Meta
+  id: 165
+  page_id: 98
+  name: year
+  value: 2007/02/01
+- !ruby/struct:Meta
+  id: 167
+  page_id: 100
+  name: year
+  value: 2005/08/01
+- !ruby/struct:Meta
+  id: 168
+  page_id: 101
+  name: year
+  value: 2005/07/01
+- !ruby/struct:Meta
+  id: 169
+  page_id: 102
+  name: year
+  value: 2005/06/10
+- !ruby/struct:Meta
+  id: 170
+  page_id: 103
+  name: year
+  value: 2005/05/19
+- !ruby/struct:Meta
+  id: 172
+  page_id: 104
+  name: year
+  value: 2005/04/14
+- !ruby/struct:Meta
+  id: 173
+  page_id: 105
+  name: year
+  value: 2000/04/01
+- !ruby/struct:Meta
+  id: 174
+  page_id: 106
+  name: year
+  value: 2005/03/01
+- !ruby/struct:Meta
+  id: 175
+  page_id: 107
+  name: year
+  value: 2005/02/05
+- !ruby/struct:Meta
+  id: 176
+  page_id: 108
+  name: year
+  value: 2005/01/25
+- !ruby/struct:Meta
+  id: 177
+  page_id: 109
+  name: year
+  value: 2005/01/09
+- !ruby/struct:Meta
+  id: 178
+  page_id: 110
+  name: year
+  value: 2005/01/01
+- !ruby/struct:Meta
+  id: 179
+  page_id: 111
+  name: year
+  value: 2004/11/01
+- !ruby/struct:Meta
+  id: 181
+  page_id: 113
+  name: year
+  value: 2004/10/01
+- !ruby/struct:Meta
+  id: 182
+  page_id: 112
+  name: year
+  value: 2004/10/20
+- !ruby/struct:Meta
+  id: 184
+  page_id: 115
+  name: year
+  value: 2004/09/01
+- !ruby/struct:Meta
+  id: 185
+  page_id: 114
+  name: year
+  value: 2004/09/25
+- !ruby/struct:Meta
+  id: 186
+  page_id: 116
+  name: year
+  value: 2004/08/20
+- !ruby/struct:Meta
+  id: 187
+  page_id: 117
+  name: year
+  value: 2004/09/02
+- !ruby/struct:Meta
+  id: 188
+  page_id: 118
+  name: year
+  value: 2004/08/29
+- !ruby/struct:Meta
+  id: 189
+  page_id: 119
+  name: year
+  value: 2004/07/30
+- !ruby/struct:Meta
+  id: 190
+  page_id: 120
+  name: year
+  value: 2004/06/23
+- !ruby/struct:Meta
+  id: 191
+  page_id: 121
+  name: year
+  value: 2004/06/01
+- !ruby/struct:Meta
+  id: 192
+  page_id: 122
+  name: year
+  value: 2004/04/30
+- !ruby/struct:Meta
+  id: 193
+  page_id: 123
+  name: year
+  value: 2004/04/01
+- !ruby/struct:Meta
+  id: 194
+  page_id: 124
+  name: year
+  value: 2004/03/20
+- !ruby/struct:Meta
+  id: 195
+  page_id: 125
+  name: year
+  value: 2004/03/11
+- !ruby/struct:Meta
+  id: 196
+  page_id: 126
+  name: year
+  value: 2004/02/15
+- !ruby/struct:Meta
+  id: 197
+  page_id: 127
+  name: year
+  value: 2004/01/20
+- !ruby/struct:Meta
+  id: 198
+  page_id: 128
+  name: year
+  value: 2004/01/10
+- !ruby/struct:Meta
+  id: 199
+  page_id: 129
+  name: year
+  value: 2004/01/01
+- !ruby/struct:Meta
+  id: 200
+  page_id: 130
+  name: year
+  value: 2003/12/15
+- !ruby/struct:Meta
+  id: 201
+  page_id: 131
+  name: year
+  value: 2003/12/01
+- !ruby/struct:Meta
+  id: 202
+  page_id: 132
+  name: year
+  value: 2003/11/10
+- !ruby/struct:Meta
+  id: 203
+  page_id: 133
+  name: year
+  value: 2003/11/08
+- !ruby/struct:Meta
+  id: 204
+  page_id: 134
+  name: year
+  value: 2003/11/01
+- !ruby/struct:Meta
+  id: 205
+  page_id: 134
+  name: year
+  value: 2003/11/01
+- !ruby/struct:Meta
+  id: 206
+  page_id: 135
+  name: year
+  value: 2003/10/20
+- !ruby/struct:Meta
+  id: 207
+  page_id: 136
+  name: year
+  value: 2003/10/03
+- !ruby/struct:Meta
+  id: 208
+  page_id: 137
+  name: year
+  value: 2003/09/28
+- !ruby/struct:Meta
+  id: 209
+  page_id: 138
+  name: year
+  value: 2003/09/20
+- !ruby/struct:Meta
+  id: 210
+  page_id: 139
+  name: year
+  value: 2003/09/15
+- !ruby/struct:Meta
+  id: 211
+  page_id: 140
+  name: year
+  value: 2003/09/03
+- !ruby/struct:Meta
+  id: 212
+  page_id: 141
+  name: year
+  value: 2003/08/15
+- !ruby/struct:Meta
+  id: 213
+  page_id: 142
+  name: year
+  value: 2003/08/01
+- !ruby/struct:Meta
+  id: 214
+  page_id: 143
+  name: year
+  value: 2003/07/15
+- !ruby/struct:Meta
+  id: 215
+  page_id: 144
+  name: year
+  value: 2003/06/24
+- !ruby/struct:Meta
+  id: 216
+  page_id: 145
+  name: year
+  value: 2003/06/18
+- !ruby/struct:Meta
+  id: 217
+  page_id: 146
+  name: year
+  value: 2003/06/11
+- !ruby/struct:Meta
+  id: 218
+  page_id: 147
+  name: year
+  value: 2003/06/01
+- !ruby/struct:Meta
+  id: 219
+  page_id: 148
+  name: year
+  value: 2003/05/13
+- !ruby/struct:Meta
+  id: 220
+  page_id: 149
+  name: year
+  value: 2003/04/11
+- !ruby/struct:Meta
+  id: 221
+  page_id: 150
+  name: year
+  value: 2003/03/04
+- !ruby/struct:Meta
+  id: 222
+  page_id: 151
+  name: year
+  value: 2003/02/04
+- !ruby/struct:Meta
+  id: 223
+  page_id: 152
+  name: year
+  value: 2003/01/25
+- !ruby/struct:Meta
+  id: 224
+  page_id: 153
+  name: year
+  value: 2003/01/18
+- !ruby/struct:Meta
+  id: 225
+  page_id: 154
+  name: year
+  value: 2003/01/12
+- !ruby/struct:Meta
+  id: 226
+  page_id: 155
+  name: year
+  value: 2003/01/01
+- !ruby/struct:Meta
+  id: 227
+  page_id: 156
+  name: year
+  value: 2002/12/15
+- !ruby/struct:Meta
+  id: 228
+  page_id: 157
+  name: year
+  value: 2002/12/04
+- !ruby/struct:Meta
+  id: 229
+  page_id: 158
+  name: year
+  value: 2002/11/10
+- !ruby/struct:Meta
+  id: 230
+  page_id: 159
+  name: year
+  value: 2002/10/20
+- !ruby/struct:Meta
+  id: 231
+  page_id: 160
+  name: year
+  value: 2002/10/10
+- !ruby/struct:Meta
+  id: 232
+  page_id: 161
+  name: year
+  value: 2002/09/20
+- !ruby/struct:Meta
+  id: 233
+  page_id: 162
+  name: year
+  value: 2002/09/04
+- !ruby/struct:Meta
+  id: 234
+  page_id: 163
+  name: year
+  value: 2002/08/15
+- !ruby/struct:Meta
+  id: 235
+  page_id: 164
+  name: year
+  value: 2002/08/01
+- !ruby/struct:Meta
+  id: 236
+  page_id: 165
+  name: year
+  value: 2002/07/28
+- !ruby/struct:Meta
+  id: 237
+  page_id: 166
+  name: year
+  value: 2002/06/10
+- !ruby/struct:Meta
+  id: 238
+  page_id: 167
+  name: year
+  value: 2002/05/15
+- !ruby/struct:Meta
+  id: 241
+  page_id: 168
+  name: year
+  value: 2002/05/14
+- !ruby/struct:Meta
+  id: 242
+  page_id: 169
+  name: year
+  value: 2002/05/11
+- !ruby/struct:Meta
+  id: 243
+  page_id: 170
+  name: year
+  value: 2002/05/04
+- !ruby/struct:Meta
+  id: 244
+  page_id: 171
+  name: year
+  value: 2002/05/01
+- !ruby/struct:Meta
+  id: 245
+  page_id: 172
+  name: year
+  value: 2002/04/20
+- !ruby/struct:Meta
+  id: 246
+  page_id: 173
+  name: year
+  value: 2002/04/15
+- !ruby/struct:Meta
+  id: 247
+  page_id: 174
+  name: year
+  value: 2002/04/10
+- !ruby/struct:Meta
+  id: 248
+  page_id: 175
+  name: year
+  value: 2002/04/01
+- !ruby/struct:Meta
+  id: 249
+  page_id: 176
+  name: year
+  value: 2002/03/22
+- !ruby/struct:Meta
+  id: 250
+  page_id: 177
+  name: year
+  value: 2002/03/15
+- !ruby/struct:Meta
+  id: 251
+  page_id: 178
+  name: year
+  value: 2002/02/10
+- !ruby/struct:Meta
+  id: 252
+  page_id: 179
+  name: year
+  value: 2002/02/03
+- !ruby/struct:Meta
+  id: 253
+  page_id: 180
+  name: year
+  value: 2002/03/08
+- !ruby/struct:Meta
+  id: 254
+  page_id: 181
+  name: year
+  value: 2002/02/01
+- !ruby/struct:Meta
+  id: 255
+  page_id: 182
+  name: year
+  value: 2002/01/01
+- !ruby/struct:Meta
+  id: 256
+  page_id: 183
+  name: year
+  value: 2001/12/08
+- !ruby/struct:Meta
+  id: 257
+  page_id: 184
+  name: year
+  value: 2001/11/10
+- !ruby/struct:Meta
+  id: 258
+  page_id: 185
+  name: year
+  value: 2001/11/07
+- !ruby/struct:Meta
+  id: 259
+  page_id: 186
+  name: year
+  value: 2001/10/29
+- !ruby/struct:Meta
+  id: 260
+  page_id: 187
+  name: year
+  value: 2001/10/15
+- !ruby/struct:Meta
+  id: 261
+  page_id: 188
+  name: year
+  value: 2001/10/10
+- !ruby/struct:Meta
+  id: 262
+  page_id: 189
+  name: year
+  value: 2001/10/04
+- !ruby/struct:Meta
+  id: 264
+  page_id: 190
+  name: year
+  value: 2001/09/15
+- !ruby/struct:Meta
+  id: 266
+  page_id: 191
+  name: year
+  value: 2001/09/09
+- !ruby/struct:Meta
+  id: 267
+  page_id: 192
+  name: year
+  value: 2001/08/25
+- !ruby/struct:Meta
+  id: 268
+  page_id: 193
+  name: year
+  value: 2001/08/10
+- !ruby/struct:Meta
+  id: 269
+  page_id: 194
+  name: year
+  value: 2001/07/23
+- !ruby/struct:Meta
+  id: 270
+  page_id: 195
+  name: year
+  value: 2001/07/10
+- !ruby/struct:Meta
+  id: 271
+  page_id: 196
+  name: year
+  value: 2001/07/01
+- !ruby/struct:Meta
+  id: 272
+  page_id: 197
+  name: year
+  value: 2001/06/20
+- !ruby/struct:Meta
+  id: 273
+  page_id: 198
+  name: year
+  value: 2001/05/25
+- !ruby/struct:Meta
+  id: 274
+  page_id: 199
+  name: year
+  value: 2001/05/05
+- !ruby/struct:Meta
+  id: 275
+  page_id: 200
+  name: year
+  value: 2001/04/20
+- !ruby/struct:Meta
+  id: 276
+  page_id: 201
+  name: year
+  value: 2001/04/01
+- !ruby/struct:Meta
+  id: 277
+  page_id: 202
+  name: year
+  value: 2001/01/12
+- !ruby/struct:Meta
+  id: 278
+  page_id: 203
+  name: year
+  value: 2001/01/01
+- !ruby/struct:Meta
+  id: 279
+  page_id: 204
+  name: year
+  value: 2000/08/01
+- !ruby/struct:Meta
+  id: 280
+  page_id: 205
+  name: year
+  value: 2000/09/01
+- !ruby/struct:Meta
+  id: 281
+  page_id: 206
+  name: year
+  value: 2000/09/25
+- !ruby/struct:Meta
+  id: 282
+  page_id: 207
+  name: year
+  value: 2000/11/04
+- !ruby/struct:Meta
+  id: 283
+  page_id: 208
+  name: year
+  value: 2000/12/05
+- !ruby/struct:Meta
+  id: 286
+  page_id: 1
+  name: calc
+  value: casqueiro atlántico laboratorio cultural
+- !ruby/struct:Meta
+  id: 289
+  page_id: 1
+  name: calc
+  value: como amigos lavando casas
+- !ruby/struct:Meta
+  id: 290
+  page_id: 1
+  name: calc
+  value: cuando algo llora y cant
+- !ruby/struct:Meta
+  id: 291
+  page_id: 1
+  name: calc
+  value: como algo lounge curry
+- !ruby/struct:Meta
+  id: 292
+  page_id: 1
+  name: calc
+  value: colossal artistic labour community
+- !ruby/struct:Meta
+  id: 293
+  page_id: 1
+  name: calc
+  value: creamy arty lousy cracks
+- !ruby/struct:Meta
+  id: 294
+  page_id: 1
+  name: calc
+  value: cracky altruistic loopy cowgirls
+- !ruby/struct:Meta
+  id: 296
+  page_id: 38
+  name: link
+  value: http://old.calcaxy.com/erbse/#
+- !ruby/struct:Meta
+  id: 297
+  page_id: 1
+  name: calc
+  value: collective art living club
+- !ruby/struct:Meta
+  id: 298
+  page_id: 77
+  name: year
+  value: 1999/06/10
+- !ruby/struct:Meta
+  id: 299
+  page_id: 42
+  name: link
+  value: http://www.sevillafest.com
+- !ruby/struct:Meta
+  id: 300
+  page_id: 61
+  name: link
+  value: "\thttp://old.calcaxy.com/casqueiro.html"
+- !ruby/struct:Meta
+  id: 301
+  page_id: 43
+  name: link
+  value: http://old.calcaxy.com/father_son/index.html
+- !ruby/struct:Meta
+  id: 302
+  page_id: 54
+  name: link
+  value: http://old.calcaxy.com/now_here/index.html
+- !ruby/struct:Meta
+  id: 303
+  page_id: 59
+  name: link
+  value: http://old.calcaxy.com/spanada/spanada.html
+- !ruby/struct:Meta
+  id: 304
+  page_id: 28
+  name: link
+  value: http://old.calcaxy.com/casqueiro.html
+- !ruby/struct:Meta
+  id: 305
+  page_id: 51
+  name: link
+  value: http://old.calcaxy.com/casqueiro.html
+- !ruby/struct:Meta
+  id: 306
+  page_id: 1
+  name: calc
+  value: clean air love club
+- !ruby/struct:Meta
+  id: 307
+  page_id: 1
+  name: calc
+  value: cook aquaplaning loleilo cockpit
+- !ruby/struct:Meta
+  id: 308
+  page_id: 1
+  name: calc
+  value: crowdy angels looping crispy
+- !ruby/struct:Meta
+  id: 309
+  page_id: 1
+  name: calc
+  value: covering artistic lust clusters
+- !ruby/struct:Meta
+  id: 310
+  page_id: 223
+  name: link
+  value: http://www.communimage.ch
+- !ruby/struct:Meta
+  id: 311
+  page_id: 223
+  name: date
+  value: 2008/11
+- !ruby/struct:Meta
+  id: 312
+  page_id: 1
+  name: calc
+  value: cleine arbeiterInnen lieben cekse
+- !ruby/struct:Meta
+  id: 313
+  page_id: 1
+  name: calc
+  value: creative action live composing
+- !ruby/struct:Meta
+  id: 314
+  page_id: 1
+  name: calc
+  value: communimage affine loving culturals
+- !ruby/struct:Meta
+  id: 315
+  page_id: 1
+  name: calc
+  value: culture affine living creatures
+- !ruby/struct:Meta
+  id: 316
+  page_id: 224
+  name: year
+  value: 2008/11/06
+- !ruby/struct:Meta
+  id: 317
+  page_id: 1
+  name: calc
+  value: cualquier artista lleva couscous
+- !ruby/struct:Meta
+  id: 318
+  page_id: 1
+  name: calc
+  value: ciss aaaaaaaa long ciss
+- !ruby/struct:Meta
+  id: 319
+  page_id: 1
+  name: calc
+  value: click at loodwigs corruptibal
+- !ruby/struct:Meta
+  id: 320
+  page_id: 1
+  name: calc
+  value: cunst at loominous calcland
+- !ruby/struct:Meta
+  id: 321
+  page_id: 1
+  name: calc
+  value: can ayone lendme cash?
+- !ruby/struct:Meta
+  id: 322
+  page_id: 1
+  name: calc
+  value: carelessful anti location calculation
+- !ruby/struct:Meta
+  id: 330
+  page_id: 225
+  name: year
+  value: 2008/10/19
+- !ruby/struct:Meta
+  id: 331
+  page_id: 226
+  name: year
+  value: 2008/10/31
+- !ruby/struct:Meta
+  id: 332
+  page_id: 227
+  name: year
+  value: 2008/01/11
+- !ruby/struct:Meta
+  id: 333
+  page_id: 228
+  name: year
+  value: 2008/02/11
+- !ruby/struct:Meta
+  id: 334
+  page_id: 228
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 335
+  page_id: 229
+  name: year
+  value: 2008/03/11
+- !ruby/struct:Meta
+  id: 336
+  page_id: 230
+  name: year
+  value: 2008/04/11
+- !ruby/struct:Meta
+  id: 337
+  page_id: 230
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 338
+  page_id: 231
+  name: year
+  value: 2008/05/11
+- !ruby/struct:Meta
+  id: 339
+  page_id: 232
+  name: year
+  value: 2008/11/06
+- !ruby/struct:Meta
+  id: 340
+  page_id: 1
+  name: calc
+  value: colaboracion amistad lúdico constancia
+- !ruby/struct:Meta
+  id: 341
+  page_id: 1
+  name: calc
+  value: cool artists lick candy
+- !ruby/struct:Meta
+  id: 342
+  page_id: 1
+  name: calc
+  value: corazon amistad life compañia
+- !ruby/struct:Meta
+  id: 343
+  page_id: 1
+  name: calc
+  value: cuando  alguien logra cambiar el modo de ver el mundo
+- !ruby/struct:Meta
+  id: 344
+  page_id: 1
+  name: calc
+  value: cacao apple lemon cinnamon
+- !ruby/struct:Meta
+  id: 346
+  page_id: 1
+  name: calc
+  value: cool adults living culture
+- !ruby/struct:Meta
+  id: 347
+  page_id: 1
+  name: calc
+  value: capital analogo laborare cologo
+- !ruby/struct:Meta
+  id: 348
+  page_id: 1
+  name: calc
+  value: catapultic arts loop colossal
+- !ruby/struct:Meta
+  id: 349
+  page_id: 1
+  name: calc
+  value: casas artes lenguas caesknoepfle
+- !ruby/struct:Meta
+  id: 350
+  page_id: 1
+  name: calc
+  value: clean arts leave clusters
+- !ruby/struct:Meta
+  id: 351
+  page_id: 1
+  name: calc
+  value: cooking artichokes living coconuts
+- !ruby/struct:Meta
+  id: 352
+  page_id: 1
+  name: calc
+  value: canadian angels live cold
+- !ruby/struct:Meta
+  id: 354
+  page_id: 1
+  name: calc
+  value: chromatic artistic lunatic cherrasic
+- !ruby/struct:Meta
+  id: 355
+  page_id: 1
+  name: calc
+  value: cuatro jóvenes trashumantes, tres de los cuales recalaron en Sevilla y que
+    no dejan tranquilo a nadie -con lo tranquila que era esta ciudad- con sus proyectos
+    insólitos y ese burbujear más chisporroteante que la Coca-Cola y, sin duda, mucho
+    más sabroso
+- !ruby/struct:Meta
+  id: 356
+  page_id: 1
+  name: calc
+  value: cuatro amig·s libando canutos
+- !ruby/struct:Meta
+  id: 357
+  page_id: 60
+  name: date
+  value: 2001/01
+- !ruby/struct:Meta
+  id: 358
+  page_id: 1
+  name: calc
+  value: crackers and little cheese
+- !ruby/struct:Meta
+  id: 359
+  page_id: 70
+  name: link
+  value: http://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html
+- !ruby/struct:Meta
+  id: 360
+  page_id: 1
+  name: calc
+  value: creepy arts limping crowded
+- !ruby/struct:Meta
+  id: 361
+  page_id: 1
+  name: calc
+  value: caramel! ananas! lichy! cocos!
+- !ruby/struct:Meta
+  id: 362
+  page_id: 1
+  name: calc
+  value: caca artistica limpia clasica
+- !ruby/struct:Meta
+  id: 363
+  page_id: 1
+  name: calc
+  value: colocón audible lingüistico comercial
+- !ruby/struct:Meta
+  id: 364
+  page_id: 1
+  name: calc
+  value: cómo amar los cocos
+- !ruby/struct:Meta
+  id: 365
+  page_id: 1
+  name: calc
+  value: can anyone listen carefully?
+- !ruby/struct:Meta
+  id: 368
+  page_id: 1
+  name: calc
+  value: cous at long cous
+- !ruby/struct:Meta
+  id: 369
+  page_id: 1
+  name: calc
+  value: cuessen am lieben caucasus
+- !ruby/struct:Meta
+  id: 370
+  page_id: 1
+  name: calc
+  value: can a     lippy lover create?
+- !ruby/struct:Meta
+  id: 371
+  page_id: 1
+  name: calc
+  value: creative anarchic lust center
+- !ruby/struct:Meta
+  id: 372
+  page_id: 1
+  name: calc
+  value: criptical anti logo capital
+- !ruby/struct:Meta
+  id: 373
+  page_id: 1
+  name: calc
+  value: cold antarktis loves coolfruit
+- !ruby/struct:Meta
+  id: 374
+  page_id: 1
+  name: calc
+  value: ceine arschgeige lodert clein
+- !ruby/struct:Meta
+  id: 375
+  page_id: 1
+  name: calc
+  value: clouds are loving clima
+- !ruby/struct:Meta
+  id: 376
+  page_id: 1
+  name: calc
+  value: calc anatomy lego calc - I already said that
+- !ruby/struct:Meta
+  id: 377
+  page_id: 1
+  name: calc
+  value: centrální asimilační lék cefalu
+- !ruby/struct:Meta
+  id: 379
+  page_id: 1
+  name: calc
+  value: caramel apricot lime cacao
+- !ruby/struct:Meta
+  id: 380
+  page_id: 1
+  name: calc
+  value: cnisternde alpenluft lodert crawallig
+- !ruby/struct:Meta
+  id: 381
+  page_id: 1
+  name: calc
+  value: clandestino amigo lumioso colega
+- !ruby/struct:Meta
+  id: 383
+  page_id: 1
+  name: calc
+  value: 'credible amazing looooong catapultism '
+- !ruby/struct:Meta
+  id: 384
+  page_id: 1
+  name: calc
+  value: cous allah lamb cous
+- !ruby/struct:Meta
+  id: 385
+  page_id: 1
+  name: calc
+  value: cant  alles lingual construieren
+- !ruby/struct:Meta
+  id: 386
+  page_id: 1
+  name: calc
+  value: cnuddeln angeben lippeln caesewerfen
+- !ruby/struct:Meta
+  id: 387
+  page_id: 1
+  name: calc
+  value: carre  anwerfen lange curven
+- !ruby/struct:Meta
+  id: 388
+  page_id: 1
+  name: calc
+  value: cain abel liebt cruzifixer
+- !ruby/struct:Meta
+  id: 389
+  page_id: 1
+  name: calc
+  value: ccalc acalc lcalc ccalc
+- !ruby/struct:Meta
+  id: 390
+  page_id: 1
+  name: calc
+  value: calcaño alambre lanjgosta caca
+- !ruby/struct:Meta
+  id: 391
+  page_id: 1
+  name: calc
+  value: cuándo acabarán las clases?
+- !ruby/struct:Meta
+  id: 392
+  page_id: 1
+  name: calc
+  value: cada a dia l  mas c  tonta
+- !ruby/struct:Meta
+  id: 393
+  page_id: 1
+  name: calc
+  value: cuándo  acabarán las clases?
+- !ruby/struct:Meta
+  id: 394
+  page_id: 1
+  name: calc
+  value: cosmic  art labour carma
+- !ruby/struct:Meta
+  id: 395
+  page_id: 1
+  name: calc
+  value: cassius animal linking clay
+- !ruby/struct:Meta
+  id: 396
+  page_id: 1
+  name: calc
+  value: cuien arregla las cosas?
+- !ruby/struct:Meta
+  id: 397
+  page_id: 1
+  name: calc
+  value: cleine  ameisen lieben cluengeln
+- !ruby/struct:Meta
+  id: 398
+  page_id: 1
+  name: calc
+  value: clear  arithmetic looping circles
+- !ruby/struct:Meta
+  id: 399
+  page_id: 1
+  name: calc
+  value: como andan las cosas?
+- !ruby/struct:Meta
+  id: 400
+  page_id: 1
+  name: calc
+  value: crownberry apple lemon choose
+- !ruby/struct:Meta
+  id: 402
+  page_id: 1
+  name: calc
+  value: calc archive loops cringelkunst
+- !ruby/struct:Meta
+  id: 403
+  page_id: 1
+  name: calc
+  value: creuzung ampel links cadilacken
+- !ruby/struct:Meta
+  id: 404
+  page_id: 1
+  name: calc
+  value: calsium act lion cat
+- !ruby/struct:Meta
+  id: 405
+  page_id: 1
+  name: calc
+  value: communicate ali lemon cotton
+- !ruby/struct:Meta
+  id: 406
+  page_id: 1
+  name: calc
+  value: cool air looks cold
+- !ruby/struct:Meta
+  id: 407
+  page_id: 1
+  name: calc
+  value: cleines arsch loch cackt
+- !ruby/struct:Meta
+  id: 408
+  page_id: 1
+  name: calc
+  value: creative amazing love commons
+- !ruby/struct:Meta
+  id: 409
+  page_id: 1
+  name: calc
+  value: cat art lot com
+- !ruby/struct:Meta
+  id: 410
+  page_id: 1
+  name: calc
+  value: c=c a=a l=l c=c
+- !ruby/struct:Meta
+  id: 412
+  page_id: 1
+  name: calc
+  value: c........... a.......... l........... c...........
+- !ruby/struct:Meta
+  id: 413
+  page_id: 1
+  name: calc
+  value: cann art leben croenen?
+- !ruby/struct:Meta
+  id: 414
+  page_id: 1
+  name: calc
+  value: condividual art looms clearer
+- !ruby/struct:Meta
+  id: 416
+  page_id: 1
+  name: calc
+  value: crowns and lees couple
+- !ruby/struct:Meta
+  id: 417
+  page_id: 1
+  name: calc
+  value: cannst alle lieb craulen
+- !ruby/struct:Meta
+  id: 418
+  page_id: 1
+  name: calc
+  value: can as love can
+- !ruby/struct:Meta
+  id: 420
+  page_id: 1
+  name: calc
+  value: crowdy and louzy cake
+- !ruby/struct:Meta
+  id: 424
+  page_id: 1
+  name: calc
+  value: capitanes azules luciendo crestas
+- !ruby/struct:Meta
+  id: 425
+  page_id: 1
+  name: calc
+  value: crawatten angelschnuere langlaufunterlagen croenungsschmiere
+- !ruby/struct:Meta
+  id: 426
+  page_id: 1
+  name: calc
+  value: casi acordé la Lola cantando
+- !ruby/struct:Meta
+  id: 427
+  page_id: 1
+  name: calc
+  value: calculate alot like conspiracy
+- !ruby/struct:Meta
+  id: 428
+  page_id: 1
+  name: calc
+  value: cratzer am linken cotfluegel
+- !ruby/struct:Meta
+  id: 429
+  page_id: 1
+  name: calc
+  value: cross art love creed
+- !ruby/struct:Meta
+  id: 430
+  page_id: 1
+  name: calc
+  value: cras  am limit calculiert
+- !ruby/struct:Meta
+  id: 431
+  page_id: 1
+  name: calc
+  value: caaaaa aaaaaaa laaaaa caaaaaa
+- !ruby/struct:Meta
+  id: 432
+  page_id: 1
+  name: calc
+  value: commt ain lenglein ceflogen
+- !ruby/struct:Meta
+  id: 433
+  page_id: 1
+  name: calc
+  value: couples and  lurds coupled
+- !ruby/struct:Meta
+  id: 434
+  page_id: 1
+  name: calc
+  value: critical art l'esamble calc
+- !ruby/struct:Meta
+  id: 435
+  page_id: 1
+  name: calc
+  value: carotten affen loeffeln crautsuppen
+- !ruby/struct:Meta
+  id: 436
+  page_id: 1
+  name: calc
+  value: cultur  / alltAg  / l 'ego  / collectivo  .
+- !ruby/struct:Meta
+  id: 437
+  page_id: 1
+  name: calc
+  value: clappy appy lovely 2 0 0 9 calcies do wish you!
+- !ruby/struct:Meta
+  id: 438
+  page_id: 1
+  name: calc
+  value: come arare le campagne
+- !ruby/struct:Meta
+  id: 440
+  page_id: 1
+  name: calc
+  value: color amor lolor candor
+- !ruby/struct:Meta
+  id: 441
+  page_id: 1
+  name: calc
+  value: cebolla albahaca laurel comino
+- !ruby/struct:Meta
+  id: 442
+  page_id: 1
+  name: calc
+  value: cer ate li co
+- !ruby/struct:Meta
+  id: 444
+  page_id: 1
+  name: calc
+  value: cuidado! acércate lentamente, cariño
+- !ruby/struct:Meta
+  id: 446
+  page_id: 1
+  name: calc
+  value: casa alonso loves calc
+- !ruby/struct:Meta
+  id: 448
+  page_id: 1
+  name: calc
+  value: cuando arrecie la calma
+- !ruby/struct:Meta
+  id: 449
+  page_id: 1
+  name: calc
+  value: colour area location construct
+- !ruby/struct:Meta
+  id: 450
+  page_id: 1
+  name: calc
+  value: carrot ass lemon corax
+- !ruby/struct:Meta
+  id: 455
+  page_id: 1
+  name: calc
+  value: can artists love cucerachas?
+- !ruby/struct:Meta
+  id: 457
+  page_id: 1
+  name: calc
+  value: calc arbeitet laengst condividuell
+- !ruby/struct:Meta
+  id: 459
+  page_id: 1
+  name: calc
+  value: cuando ando llueven  cosas
+- !ruby/struct:Meta
+  id: 460
+  page_id: 1
+  name: calc
+  value: cat apu lta ción a la famaaaaaaaaaaaaaaaaaaaaa
+- !ruby/struct:Meta
+  id: 462
+  page_id: 1
+  name: calc
+  value: change art and  life  changes
+- !ruby/struct:Meta
+  id: 464
+  page_id: 1
+  name: calc
+  value: coennte alle loewen craulen
+- !ruby/struct:Meta
+  id: 465
+  page_id: 1
+  name: calc
+  value: cola aola lola cola
+- !ruby/struct:Meta
+  id: 468
+  page_id: 1
+  name: calc
+  value: calor aire levedad colores
+- !ruby/struct:Meta
+  id: 470
+  page_id: 1
+  name: calc
+  value: café arte laedt  zum cranz
+- !ruby/struct:Meta
+  id: 472
+  page_id: 233
+  name: date
+  value: 1991/03
+- !ruby/struct:Meta
+  id: 473
+  page_id: 234
+  name: date
+  value: 2005/08
+- !ruby/struct:Meta
+  id: 474
+  page_id: 235
+  name: date
+  value: 2004/02
+- !ruby/struct:Meta
+  id: 475
+  page_id: 1
+  name: calc
+  value: circo ambulante lumière cinema
+- !ruby/struct:Meta
+  id: 476
+  page_id: 1
+  name: calc
+  value: cool arktis loves ceeping cool
+- !ruby/struct:Meta
+  id: 477
+  page_id: 1
+  name: calc
+  value: crema alucinante que lleva cardamon!
+- !ruby/struct:Meta
+  id: 478
+  page_id: 1
+  name: calc
+  value: cLITZEKLEINE  aNFAENGE lANDEN MANCHMAL cOLLOSSAL
+- !ruby/struct:Meta
+  id: 479
+  page_id: 1
+  name: calc
+  value: c625ml ain Liter l625ml  cin Liter
+- !ruby/struct:Meta
+  id: 480
+  page_id: 1
+  name: calc
+  value: cluge anfaenger lieben cluegersein
+- !ruby/struct:Meta
+  id: 481
+  page_id: 1
+  name: calc
+  value: cartoffel ackerbauern luegen ceine bohne
+- !ruby/struct:Meta
+  id: 482
+  page_id: 1
+  name: calc
+  value: clowns at labour cracking
+- !ruby/struct:Meta
+  id: 483
+  page_id: 1
+  name: calc
+  value: cracks at labour clowning
+- !ruby/struct:Meta
+  id: 484
+  page_id: 1
+  name: calc
+  value: corazones al limite creando
+- !ruby/struct:Meta
+  id: 485
+  page_id: 1
+  name: calc
+  value: cripple at long creek
+- !ruby/struct:Meta
+  id: 486
+  page_id: 1
+  name: calc
+  value: cuando alguien lo conoce
+- !ruby/struct:Meta
+  id: 487
+  page_id: 1
+  name: calc
+  value: could artpieces live cure?
+- !ruby/struct:Meta
+  id: 488
+  page_id: 1
+  name: calc
+  value: can a LA FUGA luis define c a l c?
+- !ruby/struct:Meta
+  id: 489
+  page_id: 1
+  name: calc
+  value: c单反 a读书法 l色的 c时的地方
+- !ruby/struct:Meta
+  id: 490
+  page_id: 1
+  name: calc
+  value: cleardance arrival lasts clearwater
+- !ruby/struct:Meta
+  id: 495
+  page_id: 1
+  name: calc
+  value: can a  stranger learn c--a--l--c--ing here?
+- !ruby/struct:Meta
+  id: 496
+  page_id: 1
+  name: calc
+  value: crawling aquas lagoonic  creaciones
+- !ruby/struct:Meta
+  id: 497
+  page_id: 1
+  name: calc
+  value: crane at loading codes
+- !ruby/struct:Meta
+  id: 498
+  page_id: 1
+  name: calc
+  value: coffee and lipstick collage
+- !ruby/struct:Meta
+  id: 499
+  page_id: 1
+  name: calc
+  value: cities always lies country
+- !ruby/struct:Meta
+  id: 500
+  page_id: 1
+  name: calc
+  value: countries always layout  cities
+- !ruby/struct:Meta
+  id: 501
+  page_id: 1
+  name: calc
+  value: cuando acabaron  las clases ??
+- !ruby/struct:Meta
+  id: 502
+  page_id: 1
+  name: calc
+  value: clases acabaran ludicamente  cuando somos sabi*s
+- !ruby/struct:Meta
+  id: 503
+  page_id: 1
+  name: calc
+  value: crepes and lobster citchen
+- !ruby/struct:Meta
+  id: 504
+  page_id: 236
+  name: date
+  value: 1999/09
+- !ruby/struct:Meta
+  id: 506
+  page_id: 1
+  name: calc
+  value: came and laydown confortably
+- !ruby/struct:Meta
+  id: 507
+  page_id: 1
+  name: calc
+  value: cuidate ahora la cabeza
+- !ruby/struct:Meta
+  id: 508
+  page_id: 1
+  name: calc
+  value: capiche altra lingua catapultina
+- !ruby/struct:Meta
+  id: 509
+  page_id: 1
+  name: calc
+  value: curry and lemon chicken
+- !ruby/struct:Meta
+  id: 510
+  page_id: 1
+  name: calc
+  value: caramba amig*s! la vida cambia continuamente !
+- !ruby/struct:Meta
+  id: 511
+  page_id: 1
+  name: calc
+  value: clash and love cultures
+- !ruby/struct:Meta
+  id: 512
+  page_id: 1
+  name: calc
+  value: cloves and laurel cackle
+- !ruby/struct:Meta
+  id: 513
+  page_id: 1
+  name: calc
+  value: clover ants lapping character
+- !ruby/struct:Meta
+  id: 514
+  page_id: 1
+  name: calc
+  value: cluge anfaenger leben clein
+- !ruby/struct:Meta
+  id: 516
+  page_id: 1
+  name: calc
+  value: capital anti larifari clichés
+- !ruby/struct:Meta
+  id: 517
+  page_id: 1
+  name: calc
+  value: calculations and looping composures
+- !ruby/struct:Meta
+  id: 518
+  page_id: 1
+  name: calc
+  value: cambia al levantado capitulo
+- !ruby/struct:Meta
+  id: 519
+  page_id: 1
+  name: calc
+  value: cainainziga arbeita loeffelt capital
+- !ruby/struct:Meta
+  id: 520
+  page_id: 1
+  name: calc
+  value: cuebelweise antwolten lelational zul cunst
+- !ruby/struct:Meta
+  id: 521
+  page_id: 1
+  name: calc
+  value: crasse arbeiten lagern creuzweis
+- !ruby/struct:Meta
+  id: 522
+  page_id: 1
+  name: calc
+  value: cleine ameisen lausen cleinere
+- !ruby/struct:Meta
+  id: 523
+  page_id: 1
+  name: calc
+  value: crude alphanumerische langzeit crawalle
+- !ruby/struct:Meta
+  id: 524
+  page_id: 1
+  name: calc
+  value: cerdos asta los cojones
+- !ruby/struct:Meta
+  id: 525
+  page_id: 1
+  name: calc
+  value: clash and love cultures
+- !ruby/struct:Meta
+  id: 526
+  page_id: 1
+  name: calc
+  value: clooney and lombard clan
+- !ruby/struct:Meta
+  id: 527
+  page_id: 1
+  name: calc
+  value: carrots at   a lyric citchen
+- !ruby/struct:Meta
+  id: 528
+  page_id: 1
+  name: calc
+  value: chic almonds loosing consciousness
+- !ruby/struct:Meta
+  id: 531
+  page_id: 1
+  name: calc
+  value: crawatten ablegungen langen caum
+- !ruby/struct:Meta
+  id: 533
+  page_id: 1
+  name: calc
+  value: crumb and lonely cafka
+- !ruby/struct:Meta
+  id: 534
+  page_id: 1
+  name: calc
+  value: cada arbol los caminos
+- !ruby/struct:Meta
+  id: 536
+  page_id: 1
+  name: calc
+  value: clipping arrangements looming creatures
+- !ruby/struct:Meta
+  id: 537
+  page_id: 1
+  name: calc
+  value: como abrasarme los cojones
+- !ruby/struct:Meta
+  id: 538
+  page_id: 1
+  name: calc
+  value: como antizipar los cacauhuetes
+- !ruby/struct:Meta
+  id: 540
+  page_id: 1
+  name: calc
+  value: credible ants labour like crocodiles
+- !ruby/struct:Meta
+  id: 542
+  page_id: 1
+  name: calc
+  value: can  as life can
+- !ruby/struct:Meta
+  id: 543
+  page_id: 1
+  name: calc
+  value: como apoyar,disfrutar,enredar.desde lo  colectivo
+- !ruby/struct:Meta
+  id: 545
+  page_id: 1
+  name: calc
+  value: como alas ligeras circulan
+- !ruby/struct:Meta
+  id: 546
+  page_id: 1
+  name: calc
+  value: casualmente  anoche los conocí
+- !ruby/struct:Meta
+  id: 547
+  page_id: 1
+  name: calc
+  value: clonic and ludic crew
+- !ruby/struct:Meta
+  id: 548
+  page_id: 1
+  name: calc
+  value: cerca aunque lejos casi
+- !ruby/struct:Meta
+  id: 549
+  page_id: 1
+  name: calc
+  value: cute anarchists learning creaming
+- !ruby/struct:Meta
+  id: 550
+  page_id: 1
+  name: calc
+  value: crambambuli arangiert langweillose carrieren
+- !ruby/struct:Meta
+  id: 551
+  page_id: 1
+  name: calc
+  value: costs a  little lousy cent
+- !ruby/struct:Meta
+  id: 552
+  page_id: 1
+  name: calc
+  value: can ain luegner coennen?
+- !ruby/struct:Meta
+  id: 553
+  page_id: 1
+  name: calc
+  value: cunst aendert laufend cunst
+- !ruby/struct:Meta
+  id: 554
+  page_id: 1
+  name: calc
+  value: chinesischer alpen ländler club
+- !ruby/struct:Meta
+  id: 557
+  page_id: 1
+  name: calc
+  value: cualquier analfabeta lee cryptocaos
+- !ruby/struct:Meta
+  id: 560
+  page_id: 1
+  name: calc
+  value: cugelrundes all liedert choere
+- !ruby/struct:Meta
+  id: 561
+  page_id: 1
+  name: calc
+  value: canned art lacks calories
+- !ruby/struct:Meta
+  id: 565
+  page_id: 1
+  name: calc
+  value: cute artists labouring crackers
+- !ruby/struct:Meta
+  id: 566
+  page_id: 1
+  name: calc
+  value: cuessen auf laaaaaanger couch
+- !ruby/struct:Meta
+  id: 567
+  page_id: 1
+  name: calc
+  value: cradles and lifes comittee
+- !ruby/struct:Meta
+  id: 568
+  page_id: 1
+  name: calc
+  value: "c\t热爱  a\t怜惜  l\t抓住  c\t上映 "
+- !ruby/struct:Meta
+  id: 570
+  page_id: 1
+  name: calc
+  value: classe arbeit liebe calcies!
+- !ruby/struct:Meta
+  id: 571
+  page_id: 1
+  name: calc
+  value: clear and loud c-dur-tone
+- !ruby/struct:Meta
+  id: 572
+  page_id: 1
+  name: calc
+  value: cd ad ld cd
+- !ruby/struct:Meta
+  id: 573
+  page_id: 1
+  name: calc
+  value: clausura artistica lumenis creatoribus
+- !ruby/struct:Meta
+  id: 574
+  page_id: 1
+  name: calc
+  value: crampus attakiert laufend    claus
+- !ruby/struct:Meta
+  id: 575
+  page_id: 1
+  name: calc
+  value: citchen and livingroom curators
+- !ruby/struct:Meta
+  id: 576
+  page_id: 1
+  name: calc
+  value: corey's anal love cocoon
+- !ruby/struct:Meta
+  id: 577
+  page_id: 1
+  name: calc
+  value: corey's antique lough couch
+- !ruby/struct:Meta
+  id: 578
+  page_id: 1
+  name: calc
+  value: cristal alarms leave clingelingelings
+- !ruby/struct:Meta
+  id: 579
+  page_id: 1
+  name: calc
+  value: casablanca aerea living couscous
+- !ruby/struct:Meta
+  id: 580
+  page_id: 1
+  name: calc
+  value: culandulenski arandolfka lumbonezkwi crawallonewik
+- !ruby/struct:Meta
+  id: 581
+  page_id: 1
+  name: calc
+  value: camelian and lonesome caravan
+- !ruby/struct:Meta
+  id: 582
+  page_id: 1
+  name: calc
+  value: cellular atom looms caned
+- !ruby/struct:Meta
+  id: 583
+  page_id: 1
+  name: calc
+  value: calor aguas lenguas color
+- !ruby/struct:Meta
+  id: 584
+  page_id: 1
+  name: calc
+  value: como andamos los caminos
+- !ruby/struct:Meta
+  id: 586
+  page_id: 1
+  name: calc
+  value: como alguien liberando capullos
+- !ruby/struct:Meta
+  id: 587
+  page_id: 1
+  name: calc
+  value: can a  halogen light compose?
+- !ruby/struct:Meta
+  id: 588
+  page_id: 1
+  name: calc
+  value: cAIN aLOGEN lAPMT cLASSE
+- !ruby/struct:Meta
+  id: 589
+  page_id: 1
+  name: calc
+  value: cual alogen lumina caravanas ?
+- !ruby/struct:Meta
+  id: 591
+  page_id: 1
+  name: calc
+  value: crispy ants lacking crumbs
+- !ruby/struct:Meta
+  id: 592
+  page_id: 1
+  name: calc
+  value: calling all longgggggggggggggggggggggggggggggggggggggg cats!111!!11!!!!!!?!1onelongcat!11!
+- !ruby/struct:Meta
+  id: 593
+  page_id: 1
+  name: calc
+  value: callback anticat lonemouse catkill
+- !ruby/struct:Meta
+  id: 594
+  page_id: 1
+  name: calc
+  value: colibris anarcic loops carneval
+- !ruby/struct:Meta
+  id: 596
+  page_id: 1
+  name: calc
+  value: cross atlantic love creation
+- !ruby/struct:Meta
+  id: 597
+  page_id: 1
+  name: calc
+  value: croetenhafte angriffe linker chaoten das!!
+- !ruby/struct:Meta
+  id: 598
+  page_id: 1
+  name: calc
+  value: coesltiche arti_schoken liebevoller coechinnen
+- !ruby/struct:Meta
+  id: 599
+  page_id: 1
+  name: calc
+  value: cazando algunas libélulas contagiadas
+- !ruby/struct:Meta
+  id: 600
+  page_id: 1
+  name: calc
+  value: cuando algunos locos cantan
+- !ruby/struct:Meta
+  id: 601
+  page_id: 1
+  name: calc
+  value: clear and loud cry
+- !ruby/struct:Meta
+  id: 602
+  page_id: 1
+  name: calc
+  value: cantando algunos locos comunican
+- !ruby/struct:Meta
+  id: 603
+  page_id: 1
+  name: calc
+  value: calculando  algunos labios creen
+- !ruby/struct:Meta
+  id: 604
+  page_id: 1
+  name: calc
+  value: c2+2 a2 l3 c2
+- !ruby/struct:Meta
+  id: 605
+  page_id: 1
+  name: calc
+  value: consum am langen cuechentisch
+- !ruby/struct:Meta
+  id: 606
+  page_id: 1
+  name: calc
+  value: calor agnostico labor cristiano
+- !ruby/struct:Meta
+  id: 607
+  page_id: 1
+  name: calc
+  value: calypso and low tech circle
+- !ruby/struct:Meta
+  id: 608
+  page_id: 1
+  name: calc
+  value: calaidoscopic analog light crossings
+- !ruby/struct:Meta
+  id: 609
+  page_id: 1
+  name: calc
+  value: cilemacharo alpen liegen cuehl
+- !ruby/struct:Meta
+  id: 610
+  page_id: 1
+  name: calc
+  value: calculations at a  lonesome cashbank
+- !ruby/struct:Meta
+  id: 611
+  page_id: 1
+  name: calc
+  value: canadian alpaca lunch committee
+- !ruby/struct:Meta
+  id: 612
+  page_id: 1
+  name: calc
+  value: californian atypical leary cluster
+- !ruby/struct:Meta
+  id: 613
+  page_id: 1
+  name: calc
+  value: carvations and luminations creations
+- !ruby/struct:Meta
+  id: 620
+  page_id: 1
+  name: calc
+  value: creative  antworten liebenswerter cuenstler
+- !ruby/struct:Meta
+  id: 622
+  page_id: 1
+  name: calc
+  value: clear artless lone clang
+- !ruby/struct:Meta
+  id: 623
+  page_id: 1
+  name: calc
+  value: calamari and lettuce crackers
+- !ruby/struct:Meta
+  id: 624
+  page_id: 1
+  name: calc
+  value: cuore amore la infinitá cósmos
+- !ruby/struct:Meta
+  id: 626
+  page_id: 1
+  name: calc
+  value: croenung aller leibloser cronen
+- !ruby/struct:Meta
+  id: 629
+  page_id: 1
+  name: calc
+  value: crucial arrangments leaving  cracks
+- !ruby/struct:Meta
+  id: 630
+  page_id: 1
+  name: calc
+  value: cooler als lei chen
+- !ruby/struct:Meta
+  id: 631
+  page_id: 1
+  name: calc
+  value: cann ain luemmel creieren?
+- !ruby/struct:Meta
+  id: 632
+  page_id: 1
+  name: calc
+  value: cunstbildschirme adventsartig lichterloh corazoniert
+- !ruby/struct:Meta
+  id: 633
+  page_id: 1
+  name: calc
+  value: creiert am lack cratzer
+- !ruby/struct:Meta
+  id: 634
+  page_id: 1
+  name: calc
+  value: cnoedel an lauch carotten
+- !ruby/struct:Meta
+  id: 639
+  page_id: 1
+  name: calc
+  value: cradle and lulaby cakeism
+- !ruby/struct:Meta
+  id: 640
+  page_id: 1
+  name: calc
+  value: captured alphanumeric ludic codes
+- !ruby/struct:Meta
+  id: 641
+  page_id: 1
+  name: calc
+  value: crumbach am losen contakten
+- !ruby/struct:Meta
+  id: 642
+  page_id: 1
+  name: calc
+  value: couleur artistique lumen carambolage
+- !ruby/struct:Meta
+  id: 644
+  page_id: 1
+  name: calc
+  value: clarer anti laboraler craftstoff
+- !ruby/struct:Meta
+  id: 647
+  page_id: 1
+  name: calc
+  value: clash amoureux of  lonely cultures
+- !ruby/struct:Meta
+  id: 649
+  page_id: 1
+  name: calc
+  value: cartoffeln artischoken lauch creme
+- !ruby/struct:Meta
+  id: 650
+  page_id: 1
+  name: calc
+  value: cruzifix arschglump larifari contraevolution
+- !ruby/struct:Meta
+  id: 651
+  page_id: 1
+  name: calc
+  value: colocar anxiomas locutor calcinomas
+- !ruby/struct:Meta
+  id: 653
+  page_id: 1
+  name: calc
+  value: ciao amore luce cuore
+- !ruby/struct:Meta
+  id: 654
+  page_id: 1
+  name: calc
+  value: camera arcetectonica letto cuadrado
+- !ruby/struct:Meta
+  id: 655
+  page_id: 1
+  name: calc
+  value: calculiamo arte longituttinale cardinale
+- !ruby/struct:Meta
+  id: 656
+  page_id: 1
+  name: calc
+  value: c123 a235 l456 c789
+- !ruby/struct:Meta
+  id: 657
+  page_id: 1
+  name: calc
+  value: crampf adern lose cichererbsen
+- !ruby/struct:Meta
+  id: 658
+  page_id: 1
+  name: calc
+  value: crescere anche lontano da casa
+- !ruby/struct:Meta
+  id: 660
+  page_id: 1
+  name: calc
+  value: cielo ancora leggermente coperto
+- !ruby/struct:Meta
+  id: 661
+  page_id: 1
+  name: calc
+  value: come aperitivo l'acqua calda
+- !ruby/struct:Meta
+  id: 667
+  page_id: 1
+  name: calc
+  value: cretino antipatico legermente curioso
+- !ruby/struct:Meta
+  id: 668
+  page_id: 1
+  name: calc
+  value: ceine albernen losen cinkerlitzchen
+- !ruby/struct:Meta
+  id: 671
+  page_id: 1
+  name: calc
+  value: circo arctico ludens calore
+- !ruby/struct:Meta
+  id: 672
+  page_id: 1
+  name: calc
+  value: clear alphabetical language (post) circles
+- !ruby/struct:Meta
+  id: 673
+  page_id: 1
+  name: calc
+  value: camel and leopard ciss
+- !ruby/struct:Meta
+  id: 674
+  page_id: 1
+  name: calc
+  value: cristus aufm lorbeer creuz
+- !ruby/struct:Meta
+  id: 675
+  page_id: 1
+  name: calc
+  value: caine art lebt catapultig
+- !ruby/struct:Meta
+  id: 676
+  page_id: 1
+  name: calc
+  value: camera absurda lametta cojonuda
+- !ruby/struct:Meta
+  id: 678
+  page_id: 1
+  name: calc
+  value: circunstancias al borde del limite celeste
+- !ruby/struct:Meta
+  id: 679
+  page_id: 1
+  name: calc
+  value: caminos abiertos lenta caída
+- !ruby/struct:Meta
+  id: 682
+  page_id: 1
+  name: calc
+  value: caída abierta lento  camino
+- !ruby/struct:Meta
+  id: 683
+  page_id: 1
+  name: calc
+  value: colossale arbeit  lot sei dank ceine
+- !ruby/struct:Meta
+  id: 684
+  page_id: 1
+  name: calc
+  value: caninchen auf libidoeser cante
+- !ruby/struct:Meta
+  id: 685
+  page_id: 1
+  name: calc
+  value: cumino anis lilly curry
+- !ruby/struct:Meta
+  id: 686
+  page_id: 1
+  name: calc
+  value: call it artists lack crisis
+- !ruby/struct:Meta
+  id: 688
+  page_id: 1
+  name: calc
+  value: 'change to: artists live crisis'
+- !ruby/struct:Meta
+  id: 689
+  page_id: 1
+  name: calc
+  value: cleaning an  old luminous castle
+- !ruby/struct:Meta
+  id: 691
+  page_id: 1
+  name: calc
+  value: crishna are lare crishna
+- !ruby/struct:Meta
+  id: 693
+  page_id: 1
+  name: calc
+  value: cash and light carry
+- !ruby/struct:Meta
+  id: 694
+  page_id: 1
+  name: calc
+  value: cunst abc lustreicher crapfen
+- !ruby/struct:Meta
+  id: 695
+  page_id: 1
+  name: calc
+  value: clash among lurry cultures
+- !ruby/struct:Meta
+  id: 696
+  page_id: 1
+  name: calc
+  value: cuidame al lungomare cuore
+- !ruby/struct:Meta
+  id: 698
+  page_id: 1
+  name: calc
+  value: crawling along looking cradles
+- !ruby/struct:Meta
+  id: 699
+  page_id: 1
+  name: calc
+  value: cacatoès  aimes les chansons
+- !ruby/struct:Meta
+  id: 700
+  page_id: 1
+  name: calc
+  value: come alubias lentejas caracoles
+- !ruby/struct:Meta
+  id: 701
+  page_id: 1
+  name: calc
+  value: claro, algunas lentejas comere!
+- !ruby/struct:Meta
+  id: 702
+  page_id: 1
+  name: calc
+  value: can anyone lend me  cash?
+- !ruby/struct:Meta
+  id: 704
+  page_id: 1
+  name: calc
+  value: capire algoritmos lenguisticas calososamente
+- !ruby/struct:Meta
+  id: 705
+  page_id: 1
+  name: calc
+  value: could archimedes love cleopatra?
+- !ruby/struct:Meta
+  id: 706
+  page_id: 1
+  name: calc
+  value: cuando alguien leyó comics
+- !ruby/struct:Meta
+  id: 707
+  page_id: 1
+  name: calc
+  value: casa abitable luce creativa
+- !ruby/struct:Meta
+  id: 708
+  page_id: 1
+  name: calc
+  value: creatures all love creativity
+- !ruby/struct:Meta
+  id: 709
+  page_id: 1
+  name: calc
+  value: cull all luscious carrots
+- !ruby/struct:Meta
+  id: 710
+  page_id: 1
+  name: calc
+  value: clint aestwood loves calc too
+- !ruby/struct:Meta
+  id: 711
+  page_id: 1
+  name: calc
+  value: clever artists love calc
+- !ruby/struct:Meta
+  id: 712
+  page_id: 1
+  name: calc
+  value: colibris all like colors
+- !ruby/struct:Meta
+  id: 713
+  page_id: 1
+  name: calc
+  value: cohlrabis all  love cosher
+- !ruby/struct:Meta
+  id: 714
+  page_id: 1
+  name: calc
+  value: cumpels always labber cheers
+- !ruby/struct:Meta
+  id: 715
+  page_id: 1
+  name: calc
+  value: cultivate and leverage culture
+- !ruby/struct:Meta
+  id: 716
+  page_id: 1
+  name: calc
+  value: caninchen angeln loseph ceuys
+- !ruby/struct:Meta
+  id: 717
+  page_id: 1
+  name: calc
+  value: compañeros abren latas colusorio
+- !ruby/struct:Meta
+  id: 720
+  page_id: 1
+  name: calc
+  value: caulcuappen angeln liebaeugelnd craulcuappen
+- !ruby/struct:Meta
+  id: 721
+  page_id: 1
+  name: calc
+  value: creating alphanumeric loop creations
+- !ruby/struct:Meta
+  id: 724
+  page_id: 1
+  name: calc
+  value: caminando adelante la cucaracha
+- !ruby/struct:Meta
+  id: 725
+  page_id: 1
+  name: calc
+  value: cantando a todos los corazones
+- !ruby/struct:Meta
+  id: 726
+  page_id: 1
+  name: calc
+  value: cucaracha ay la cucarachaaa
+- !ruby/struct:Meta
+  id: 727
+  page_id: 1
+  name: calc
+  value: como ayudar la communidad
+- !ruby/struct:Meta
+  id: 728
+  page_id: 1
+  name: calc
+  value: con el arte de lerles la cartilla!
+- !ruby/struct:Meta
+  id: 729
+  page_id: 1
+  name: calc
+  value: calculieren alle losen calculi mit ein
+- !ruby/struct:Meta
+  id: 730
+  page_id: 1
+  name: calc
+  value: capilare ansichten lustwandelnder cumpels
+- !ruby/struct:Meta
+  id: 731
+  page_id: 1
+  name: calc
+  value: cibule algoritmus lizatko citron
+- !ruby/struct:Meta
+  id: 732
+  page_id: 1
+  name: calc
+  value: cwiebel algorythmisch lausige citrone??
+- !ruby/struct:Meta
+  id: 734
+  page_id: 1
+  name: calc
+  value: claudio audio lo claudio
+- !ruby/struct:Meta
+  id: 736
+  page_id: 1
+  name: calc
+  value: connect any longing connection
+- !ruby/struct:Meta
+  id: 737
+  page_id: 1
+  name: calc
+  value: clammheimliche artefakte leben clandestin
+- !ruby/struct:Meta
+  id: 738
+  page_id: 1
+  name: calc
+  value: cocinamos a veces lubina calzalarga
+- !ruby/struct:Meta
+  id: 740
+  page_id: 1
+  name: calc
+  value: creisrunde allschlucker lallen cringel
+- !ruby/struct:Meta
+  id: 741
+  page_id: 1
+  name: calc
+  value: ceine art laust croeten
+- !ruby/struct:Meta
+  id: 742
+  page_id: 1
+  name: calc
+  value: cuerpos a  la llongitud colombiana
+- !ruby/struct:Meta
+  id: 743
+  page_id: 1
+  name: calc
+  value: cave and loury clapping
+- !ruby/struct:Meta
+  id: 744
+  page_id: 1
+  name: calc
+  value: curz arbeit lohn capital
+- !ruby/struct:Meta
+  id: 745
+  page_id: 1
+  name: calc
+  value: capit aa lverbre chen
+- !ruby/struct:Meta
+  id: 746
+  page_id: 1
+  name: calc
+  value: codigo abierto link colaborativo
+- !ruby/struct:Meta
+  id: 747
+  page_id: 1
+  name: calc
+  value: comemos asta los coños   jajajajajaja!!
+- !ruby/struct:Meta
+  id: 748
+  page_id: 1
+  name: calc
+  value: caelber albern laut ueber cuehe
+- !ruby/struct:Meta
+  id: 749
+  page_id: 1
+  name: calc
+  value: cumple años feliz leonard cohen!
+- !ruby/struct:Meta
+  id: 751
+  page_id: 1
+  name: calc
+  value: coming again lonely cowboy
+- !ruby/struct:Meta
+  id: 752
+  page_id: 1
+  name: calc
+  value: coalas are lovely creatures
+- !ruby/struct:Meta
+  id: 753
+  page_id: 1
+  name: calc
+  value: canta a la cabana
+- !ruby/struct:Meta
+  id: 754
+  page_id: 1
+  name: calc
+  value: crees algun lemming cree?
+- !ruby/struct:Meta
+  id: 755
+  page_id: 1
+  name: calc
+  value: cuando alguien lee crece
+- !ruby/struct:Meta
+  id: 756
+  page_id: 1
+  name: calc
+  value: cuando  alguien se  lamenta craquea
+- !ruby/struct:Meta
+  id: 757
+  page_id: 1
+  name: calc
+  value: ciss again sam love casablanca
+- !ruby/struct:Meta
+  id: 759
+  page_id: 237
+  name: date
+  value: 2007/11
+- !ruby/struct:Meta
+  id: 760
+  page_id: 1
+  name: calc
+  value: clinton and lewinsky chatting
+- !ruby/struct:Meta
+  id: 761
+  page_id: 1
+  name: calc
+  value: crunsh and lunch circus
+- !ruby/struct:Meta
+  id: 762
+  page_id: 1
+  name: calc
+  value: crumb and loriot confusion
+- !ruby/struct:Meta
+  id: 763
+  page_id: 1
+  name: calc
+  value: cassius always listens chopin
+- !ruby/struct:Meta
+  id: 764
+  page_id: 1
+  name: calc
+  value: confuzius at one long road called home
+- !ruby/struct:Meta
+  id: 765
+  page_id: 240
+  name: date
+  value: 2008/12
+- !ruby/struct:Meta
+  id: 766
+  page_id: 1
+  name: calc
+  value: coño!  areglate los cuernos
+- !ruby/struct:Meta
+  id: 767
+  page_id: 1
+  name: calc
+  value: chocolate and licorice candy
+- !ruby/struct:Meta
+  id: 768
+  page_id: 1
+  name: calc
+  value: come and locate centaurus
+- !ruby/struct:Meta
+  id: 769
+  page_id: 1
+  name: calc
+  value: ch at li ck
+- !ruby/struct:Meta
+  id: 770
+  page_id: 1
+  name: calc
+  value: cosy artless lumber cracks
+- !ruby/struct:Meta
+  id: 771
+  page_id: 1
+  name: calc
+  value: celentano adriano loves calc!
+- !ruby/struct:Meta
+  id: 772
+  page_id: 1
+  name: calc
+  value: carbonara antipasti lasagne caprese
+- !ruby/struct:Meta
+  id: 774
+  page_id: 1
+  name: calc
+  value: corn almonds lemon curry
+- !ruby/struct:Meta
+  id: 775
+  page_id: 1
+  name: calc
+  value: crocodile aligator leguan chameleon
+- !ruby/struct:Meta
+  id: 776
+  page_id: 1
+  name: calc
+  value: croeten algen laeuse crapfen
+- !ruby/struct:Meta
+  id: 777
+  page_id: 1
+  name: calc
+  value: cosmos aleatorio? lolvidalo, es un cósmos!
+- !ruby/struct:Meta
+  id: 778
+  page_id: 1
+  name: calc
+  value: cinder arbeiten ludisch cósmisch
+- !ruby/struct:Meta
+  id: 779
+  page_id: 1
+  name: calc
+  value: can we all life closer?
+- !ruby/struct:Meta
+  id: 780
+  page_id: 1
+  name: calc
+  value: captain a-z labour club
+- !ruby/struct:Meta
+  id: 781
+  page_id: 1
+  name: calc
+  value: calc attributes the lofty cloud
+- !ruby/struct:Meta
+  id: 782
+  page_id: 1
+  name: calc
+  value: clouds are living complexes
+- !ruby/struct:Meta
+  id: 783
+  page_id: 1
+  name: calc
+  value: casa antigua levadura controlada
+- !ruby/struct:Meta
+  id: 784
+  page_id: 1
+  name: calc
+  value: come and loose coins
+- !ruby/struct:Meta
+  id: 785
+  page_id: 1
+  name: calc
+  value: complexes are living clouds
+- !ruby/struct:Meta
+  id: 786
+  page_id: 1
+  name: calc
+  value: charlie acted like chaplin
+- !ruby/struct:Meta
+  id: 787
+  page_id: 1
+  name: calc
+  value: cambiar algunos lemas cruciales
+- !ruby/struct:Meta
+  id: 789
+  page_id: 1
+  name: calc
+  value: croucho argued like campino!
+- !ruby/struct:Meta
+  id: 790
+  page_id: 1
+  name: calc
+  value: cucumbers are like curken
+- !ruby/struct:Meta
+  id: 791
+  page_id: 1
+  name: calc
+  value: cucacharitas are little cucarachas
+- !ruby/struct:Meta
+  id: 793
+  page_id: 1
+  name: calc
+  value: cats are lnteresting creatures
+- !ruby/struct:Meta
+  id: 794
+  page_id: 1
+  name: calc
+  value: children act like college
+- !ruby/struct:Meta
+  id: 795
+  page_id: 1
+  name: calc
+  value: crimp alligators looklikelittle crodcodiles
+- !ruby/struct:Meta
+  id: 796
+  page_id: 1
+  name: calc
+  value: change can arise from only one lonely click
+- !ruby/struct:Meta
+  id: 797
+  page_id: 1
+  name: calc
+  value: craters are limp creators
+- !ruby/struct:Meta
+  id: 798
+  page_id: 1
+  name: calc
+  value: cisses are louder than calaschnikoffs!
+- !ruby/struct:Meta
+  id: 800
+  page_id: 1
+  name: calc
+  value: cisses are still  louder, cryptoman
+- !ruby/struct:Meta
+  id: 801
+  page_id: 1
+  name: calc
+  value: cereals always likely crunsh
+- !ruby/struct:Meta
+  id: 802
+  page_id: 1
+  name: calc
+  value: count and learn combining
+- !ruby/struct:Meta
+  id: 803
+  page_id: 1
+  name: calc
+  value: customers are like collectors
+- !ruby/struct:Meta
+  id: 804
+  page_id: 1
+  name: calc
+  value: creationists are little children
+- !ruby/struct:Meta
+  id: 805
+  page_id: 1
+  name: calc
+  value: carge arge large carage
+- !ruby/struct:Meta
+  id: 806
+  page_id: 1
+  name: calc
+  value: cluge ameisen laborieren curzfristig
+- !ruby/struct:Meta
+  id: 807
+  page_id: 1
+  name: calc
+  value: capas alternativas lluvias colorantes
+- !ruby/struct:Meta
+  id: 810
+  page_id: 1
+  name: calc
+  value: cross arting life creating
+- !ruby/struct:Meta
+  id: 811
+  page_id: 1
+  name: calc
+  value: crawall am langenau canal
+- !ruby/struct:Meta
+  id: 812
+  page_id: 1
+  name: calc
+  value: casperle angelt lametten cnoedel
+- !ruby/struct:Meta
+  id: 813
+  page_id: 1
+  name: calc
+  value: come and look calclab (icon 2the right!)
+- !ruby/struct:Meta
+  id: 815
+  page_id: 1
+  name: calc
+  value: colores al borde lucido colectivo
+- !ruby/struct:Meta
+  id: 816
+  page_id: 1
+  name: calc
+  value: crecimiento aritmico langustinal calculato
+- !ruby/struct:Meta
+  id: 817
+  page_id: 1
+  name: calc
+  value: choclate apes with long campercars
+- !ruby/struct:Meta
+  id: 818
+  page_id: 1
+  name: calc
+  value: cracked arche lecture codes
+- !ruby/struct:Meta
+  id: 820
+  page_id: 1
+  name: calc
+  value: clapton and lou clapping
+- !ruby/struct:Meta
+  id: 822
+  page_id: 1
+  name: calc
+  value: conectando algunas lluvias de ideas colectivas
+- !ruby/struct:Meta
+  id: 823
+  page_id: 1
+  name: calc
+  value: comiendo ampollas lamiendo caras
+- !ruby/struct:Meta
+  id: 826
+  page_id: 1
+  name: calc
+  value: clearly another learning class
+- !ruby/struct:Meta
+  id: 828
+  page_id: 1
+  name: calc
+  value: cae antes la  raña  que calc
+- !ruby/struct:Meta
+  id: 829
+  page_id: 1
+  name: calc
+  value: corvettes all  a long candy beach
+- !ruby/struct:Meta
+  id: 830
+  page_id: 1
+  name: calc
+  value: cous arab league cous
+- !ruby/struct:Meta
+  id: 831
+  page_id: 1
+  name: calc
+  value: cradles are limmerick cadillacs
+- !ruby/struct:Meta
+  id: 832
+  page_id: 1
+  name: calc
+  value: cadillacs are lolling cowards
+- !ruby/struct:Meta
+  id: 833
+  page_id: 1
+  name: calc
+  value: cistenweise aepfel lagern cuehl
+- !ruby/struct:Meta
+  id: 834
+  page_id: 1
+  name: calc
+  value: confusion anto lallall clearness
+- !ruby/struct:Meta
+  id: 835
+  page_id: 1
+  name: calc
+  value: creative arche loopical capital
+- !ruby/struct:Meta
+  id: 836
+  page_id: 1
+  name: calc
+  value: chomsky asks linguists caracters. . .
+- !ruby/struct:Meta
+  id: 837
+  page_id: 1
+  name: calc
+  value: computers are linuxely clever
+- !ruby/struct:Meta
+  id: 838
+  page_id: 1
+  name: calc
+  value: 'computers are luxury commodities '
+- !ruby/struct:Meta
+  id: 839
+  page_id: 1
+  name: calc
+  value: computers are  the result of a  long history of  culture
+- !ruby/struct:Meta
+  id: 840
+  page_id: 1
+  name: calc
+  value: cultures are leanover cells
+- !ruby/struct:Meta
+  id: 844
+  page_id: 1
+  name: calc
+  value: culture and           socia l    night and day club
+- !ruby/struct:Meta
+  id: 845
+  page_id: 1
+  name: calc
+  value: calculieren andersweitige laengenmasse clarer
+- !ruby/struct:Meta
+  id: 846
+  page_id: 1
+  name: calc
+  value: calcies are like  lampreys charme
+- !ruby/struct:Meta
+  id: 847
+  page_id: 1
+  name: calc
+  value: cucire a mano le calzette
+- !ruby/struct:Meta
+  id: 848
+  page_id: 1
+  name: calc
+  value: cucinare a maquina la  calzone
+- !ruby/struct:Meta
+  id: 849
+  page_id: 1
+  name: calc
+  value: cruzar al  estrecho  en linea casablanca
+- !ruby/struct:Meta
+  id: 851
+  page_id: 1
+  name: calc
+  value: civilizations alienigenous like to clash
+- !ruby/struct:Meta
+  id: 852
+  page_id: 1
+  name: calc
+  value: continentes acerdandose lentamente a las costas
+- !ruby/struct:Meta
+  id: 853
+  page_id: 1
+  name: calc
+  value: chromatic antiautoritarian libertarian clusters
+- !ruby/struct:Meta
+  id: 855
+  page_id: 1
+  name: calc
+  value: cuadrants are looping-loving cualities
+- !ruby/struct:Meta
+  id: 856
+  page_id: 1
+  name: calc
+  value: cualquier argumento llega calc_ulado
+- !ruby/struct:Meta
+  id: 857
+  page_id: 1
+  name: calc
+  value: curious agendas leave calculi
+- !ruby/struct:Meta
+  id: 871
+  page_id: 1
+  name: calc
+  value: calcographers are lampooning with crayons
+- !ruby/struct:Meta
+  id: 872
+  page_id: 1
+  name: calc
+  value: comemos antes luego calculamos
+- !ruby/struct:Meta
+  id: 873
+  page_id: 1
+  name: calc
+  value: camas aman libres colchones
+- !ruby/struct:Meta
+  id: 877
+  page_id: 1
+  name: calc
+  value: cimonos and linen cappelli
+- !ruby/struct:Meta
+  id: 878
+  page_id: 1
+  name: calc
+  value: cleinlaute argwoehner lachen caum
+- !ruby/struct:Meta
+  id: 879
+  page_id: 1
+  name: calc
+  value: cain abend ohne larry cing
+- !ruby/struct:Meta
+  id: 880
+  page_id: 1
+  name: calc
+  value: creis aehnliche laengs cnicke
+- !ruby/struct:Meta
+  id: 881
+  page_id: 1
+  name: calc
+  value: curz aber langsam crumm
+- !ruby/struct:Meta
+  id: 882
+  page_id: 1
+  name: calc
+  value: citzeln anderer lachsaecke cann wehtun
+- !ruby/struct:Meta
+  id: 883
+  page_id: 1
+  name: calc
+  value: crallen ackern lehm crapfen
+- !ruby/struct:Meta
+  id: 884
+  page_id: 1
+  name: calc
+  value: cuemmerliche antilopen lofen crass
+- !ruby/struct:Meta
+  id: 885
+  page_id: 1
+  name: calc
+  value: capellmeister anton lechner cruesst
+- !ruby/struct:Meta
+  id: 888
+  page_id: 1
+  name: calc
+  value: crumb is a straight lynonym for comics
+- !ruby/struct:Meta
+  id: 889
+  page_id: 1
+  name: calc
+  value: claude au revoir levy ciao
+- !ruby/struct:Meta
+  id: 890
+  page_id: 1
+  name: calc
+  value: ceyboards are lengthenings corporales
+- !ruby/struct:Meta
+  id: 891
+  page_id: 1
+  name: calc
+  value: chromst aeh lerne cokusnuesse
+- !ruby/struct:Meta
+  id: 892
+  page_id: 1
+  name: calc
+  value: chanting about live channel
+- !ruby/struct:Meta
+  id: 893
+  page_id: 1
+  name: calc
+  value: ciss after lecturing ciss
+- !ruby/struct:Meta
+  id: 894
+  page_id: 1
+  name: calc
+  value: cry after loughing cry
+- !ruby/struct:Meta
+  id: 895
+  page_id: 1
+  name: calc
+  value: cradles at lullaby creek
+- !ruby/struct:Meta
+  id: 896
+  page_id: 1
+  name: calc
+  value: cops all like coffee
+- !ruby/struct:Meta
+  id: 897
+  page_id: 1
+  name: calc
+  value: condones a a los cipotes
+- !ruby/struct:Meta
+  id: 898
+  page_id: 1
+  name: calc
+  value: capullos aa la cárcel
+- !ruby/struct:Meta
+  id: 899
+  page_id: 1
+  name: calc
+  value: corruptos aa la cárcel
+- !ruby/struct:Meta
+  id: 900
+  page_id: 1
+  name: calc
+  value: calligrams are letter cascades
+- !ruby/struct:Meta
+  id: 901
+  page_id: 1
+  name: calc
+  value: capotes se  acercan lento a las costas
+- !ruby/struct:Meta
+  id: 902
+  page_id: 1
+  name: calc
+  value: chilly amateurs light candles
+- !ruby/struct:Meta
+  id: 903
+  page_id: 1
+  name: calc
+  value: computer apples lack calories
+- !ruby/struct:Meta
+  id: 904
+  page_id: 1
+  name: calc
+  value: crazy aborigines love chips
+- !ruby/struct:Meta
+  id: 905
+  page_id: 1
+  name: calc
+  value: crawalle aendern lauter crawalle
+- !ruby/struct:Meta
+  id: 906
+  page_id: 1
+  name: calc
+  value: cratzer am lausgruenen cotfluegel
+- !ruby/struct:Meta
+  id: 907
+  page_id: 1
+  name: calc
+  value: caninchen auf loher cee
+- !ruby/struct:Meta
+  id: 908
+  page_id: 1
+  name: calc
+  value: c) Pferd a) Igel l) Mensch c) Taschentuch
+- !ruby/struct:Meta
+  id: 909
+  page_id: 1
+  name: calc
+  value: cinder angeln lustvoll croeten
+- !ruby/struct:Meta
+  id: 910
+  page_id: 1
+  name: calc
+  value: croeten aengstigt lustvolle cinder!
+- !ruby/struct:Meta
+  id: 911
+  page_id: 1
+  name: calc
+  value: calle amor de lios cuerentaytantos
+- !ruby/struct:Meta
+  id: 912
+  page_id: 1
+  name: calc
+  value: cULOS  aBIERTOS lOS cOMEMOS
+- !ruby/struct:Meta
+  id: 913
+  page_id: 1
+  name: calc
+  value: crisis anticapitalista lleva capital
+- !ruby/struct:Meta
+  id: 914
+  page_id: 1
+  name: calc
+  value: chromo alergico ludens categorico
+- !ruby/struct:Meta
+  id: 915
+  page_id: 1
+  name: calc
+  value: come and layout at        www. communimage.net
+- !ruby/struct:Meta
+  id: 916
+  page_id: 1
+  name: calc
+  value: cloudy autumn leaf circus
+- !ruby/struct:Meta
+  id: 917
+  page_id: 1
+  name: calc
+  value: crowdy agoras liquid circles
+- !ruby/struct:Meta
+  id: 918
+  page_id: 1
+  name: calc
+  value: creamday after lousy canday
+- !ruby/struct:Meta
+  id: 919
+  page_id: 1
+  name: calc
+  value: clapday after laddish clashday
+- !ruby/struct:Meta
+  id: 920
+  page_id: 1
+  name: calc
+  value: cashday after limpic coinout
+- !ruby/struct:Meta
+  id: 921
+  page_id: 1
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 922
+  page_id: 1
+  name: calc
+  value: coolday after loooong coldday
+- !ruby/struct:Meta
+  id: 923
+  page_id: 1
+  name: calc
+  value: cluger ainstein lallt cosmisch
+- !ruby/struct:Meta
+  id: 925
+  page_id: 1
+  name: calc
+  value: captown amsterdam lissabon cairo
+- !ruby/struct:Meta
+  id: 926
+  page_id: 1
+  name: calc
+  value: cultura altura levadura costura
+- !ruby/struct:Meta
+  id: 927
+  page_id: 1
+  name: calc
+  value: c1100111 a0001110 l1001111 c1110111
+- !ruby/struct:Meta
+  id: 928
+  page_id: 1
+  name: calc
+  value: core ambient louvre cellar
+- !ruby/struct:Meta
+  id: 929
+  page_id: 1
+  name: calc
+  value: central america lleva c02
+- !ruby/struct:Meta
+  id: 930
+  page_id: 1
+  name: calc
+  value: crane attack lobby critics
+- !ruby/struct:Meta
+  id: 931
+  page_id: 1
+  name: calc
+  value: camping at lake crimson
+- !ruby/struct:Meta
+  id: 932
+  page_id: 1
+  name: calc
+  value: co_canadians at lago di  como
+- !ruby/struct:Meta
+  id: 933
+  page_id: 1
+  name: calc
+  value: cuadrado asimetrico llevando co_co_lores
+- !ruby/struct:Meta
+  id: 934
+  page_id: 1
+  name: calc
+  value: coco anorackt luderlich channel
+- !ruby/struct:Meta
+  id: 935
+  page_id: 1
+  name: calc
+  value: changetime at landscape calcspace
+- !ruby/struct:Meta
+  id: 936
+  page_id: 1
+  name: calc
+  value: cugeln auf langgewundenen curven
+- !ruby/struct:Meta
+  id: 937
+  page_id: 1
+  name: calc
+  value: cruising around loch chess
+- !ruby/struct:Meta
+  id: 938
+  page_id: 1
+  name: calc
+  value: cumple años lovefilled campagnamore
+- !ruby/struct:Meta
+  id: 940
+  page_id: 1
+  name: calc
+  value: ciefers anselm laesst clumpen
+- !ruby/struct:Meta
+  id: 941
+  page_id: 1
+  name: calc
+  value: coenig albern II laesst cruessn!
+- !ruby/struct:Meta
+  id: 942
+  page_id: 1
+  name: calc
+  value: cringel algen labbern cochcunst
+- !ruby/struct:Meta
+  id: 945
+  page_id: 1
+  name: calc
+  value: corazones anfibioticos ludicalis cruzal
+- !ruby/struct:Meta
+  id: 946
+  page_id: 1
+  name: calc
+  value: caras argetinas llevando cascos
+- !ruby/struct:Meta
+  id: 947
+  page_id: 1
+  name: calc
+  value: considera alguna labor común
+- !ruby/struct:Meta
+  id: 948
+  page_id: 1
+  name: calc
+  value: cambia algo lo conocido
+- !ruby/struct:Meta
+  id: 949
+  page_id: 1
+  name: calc
+  value: comparte asímismo las cosas
+- !ruby/struct:Meta
+  id: 950
+  page_id: 1
+  name: calc
+  value: crea antes las condiciones
+- !ruby/struct:Meta
+  id: 951
+  page_id: 1
+  name: calc
+  value: cluge artikel landen colossal
+- !ruby/struct:Meta
+  id: 952
+  page_id: 1
+  name: calc
+  value: cluge alexander landen colossaler
+- !ruby/struct:Meta
+  id: 953
+  page_id: 1
+  name: calc
+  value: cliff angels looping clouds
+- !ruby/struct:Meta
+  id: 954
+  page_id: 1
+  name: calc
+  value: crea antes luego crakeas!
+- !ruby/struct:Meta
+  id: 955
+  page_id: 1
+  name: calc
+  value: camellos andan ligeramente caravanicas
+- !ruby/struct:Meta
+  id: 957
+  page_id: 1
+  name: calc
+  value: cuando andas ligero caminas
+- !ruby/struct:Meta
+  id: 958
+  page_id: 1
+  name: calc
+  value: cuando amamos laureles calculamos
+- !ruby/struct:Meta
+  id: 959
+  page_id: 1
+  name: calc
+  value: chairs are leary closets
+- !ruby/struct:Meta
+  id: 960
+  page_id: 1
+  name: calc
+  value: cooking in an open lovescape citchen
+- !ruby/struct:Meta
+  id: 961
+  page_id: 1
+  name: calc
+  value: cuando amamos laureles calculamos
+- !ruby/struct:Meta
+  id: 962
+  page_id: 241
+  name: date
+  value: 2009/12
+- !ruby/struct:Meta
+  id: 964
+  page_id: 1
+  name: calc
+  value: cut and leave cure
+- !ruby/struct:Meta
+  id: 965
+  page_id: 1
+  name: calc
+  value: cuando alguien late con cuidado
+- !ruby/struct:Meta
+  id: 966
+  page_id: 1
+  name: calc
+  value: creepin along a looming cay
+- !ruby/struct:Meta
+  id: 967
+  page_id: 1
+  name: calc
+  value: copenhagens arena lacks  climate
+- !ruby/struct:Meta
+  id: 968
+  page_id: 1
+  name: calc
+  value: cruzblanca ademas ligeramente cruzroja
+- !ruby/struct:Meta
+  id: 969
+  page_id: 1
+  name: calc
+  value: chicago adults learning chic  ago
+- !ruby/struct:Meta
+  id: 970
+  page_id: 1
+  name: calc
+  value: crishna and  his/her leather christ
+- !ruby/struct:Meta
+  id: 971
+  page_id: 1
+  name: calc
+  value: chrismas aint loosing christ
+- !ruby/struct:Meta
+  id: 972
+  page_id: 1
+  name: calc
+  value: chimerica aint loving climate
+- !ruby/struct:Meta
+  id: 974
+  page_id: 1
+  name: calc
+  value: calc arbeitet ludisch chronisch
+- !ruby/struct:Meta
+  id: 975
+  page_id: 1
+  name: calc
+  value: camele aus liechtenstein cumpeln
+- !ruby/struct:Meta
+  id: 976
+  page_id: 1
+  name: calc
+  value: croeten artverwandeln lagunen chromosomisch
+- !ruby/struct:Meta
+  id: 977
+  page_id: 1
+  name: calc
+  value: cse sale oi x pape? ajaja lpape makina cangel cabron lavate
+- !ruby/struct:Meta
+  id: 978
+  page_id: 1
+  name: calc
+  value: calm aurobindo leaving calcutta
+- !ruby/struct:Meta
+  id: 979
+  page_id: 1
+  name: calc
+  value: christ aint loving chrismas
+- !ruby/struct:Meta
+  id: 980
+  page_id: 1
+  name: calc
+  value: circuits around lightning cuestions
+- !ruby/struct:Meta
+  id: 982
+  page_id: 1
+  name: calc
+  value: cunst allein leuchtet cuenstlich
+- !ruby/struct:Meta
+  id: 983
+  page_id: 1
+  name: calc
+  value: crampus aergert  laufend christus
+- !ruby/struct:Meta
+  id: 984
+  page_id: 1
+  name: calc
+  value: christkind ankert langsam cern
+- !ruby/struct:Meta
+  id: 985
+  page_id: 1
+  name: calc
+  value: clingt ain liebhaft clöcklain
+- !ruby/struct:Meta
+  id: 986
+  page_id: 1
+  name: calc
+  value: christ anyway loves crampus
+- !ruby/struct:Meta
+  id: 987
+  page_id: 1
+  name: calc
+  value: corbusier anyway loves corbusier
+- !ruby/struct:Meta
+  id: 988
+  page_id: 1
+  name: calc
+  value: cyber anyway links creality
+- !ruby/struct:Meta
+  id: 989
+  page_id: 1
+  name: calc
+  value: cash' johnny ain't leapy country!
+- !ruby/struct:Meta
+  id: 990
+  page_id: 1
+  name: calc
+  value: confuzius answers lonely cow
+- !ruby/struct:Meta
+  id: 992
+  page_id: 1
+  name: calc
+  value: cow alpine loughs with confuzius
+- !ruby/struct:Meta
+  id: 994
+  page_id: 1
+  name: calc
+  value: crowleys alister loves caos
+- !ruby/struct:Meta
+  id: 995
+  page_id: 1
+  name: calc
+  value: christ  and l'uncle crishna
+- !ruby/struct:Meta
+  id: 996
+  page_id: 1
+  name: calc
+  value: calma mi alma luego cenamos
+- !ruby/struct:Meta
+  id: 997
+  page_id: 1
+  name: calc
+  value: cunst argwoehnt lausigkeit ceinesfalls
+- !ruby/struct:Meta
+  id: 998
+  page_id: 1
+  name: calc
+  value: cunst anlagen lohnen nur crohnen
+- !ruby/struct:Meta
+  id: 999
+  page_id: 1
+  name: calc
+  value: clumms aidi laufstegt crumm
+- !ruby/struct:Meta
+  id: 1000
+  page_id: 1
+  name: calc
+  value: crueselndes algenlaub lammelelt culinarisch
+- !ruby/struct:Meta
+  id: 1001
+  page_id: 1
+  name: calc
+  value: c-able are luminous collectives!
+- !ruby/struct:Meta
+  id: 1002
+  page_id: 1
+  name: calc
+  value: cruemel auf losem cern
+- !ruby/struct:Meta
+  id: 1003
+  page_id: 1
+  name: calc
+  value: cnutschen am laufenden cragen
+- !ruby/struct:Meta
+  id: 1004
+  page_id: 1
+  name: ''
+  value: comisch ain lausiger krawall
+- !ruby/struct:Meta
+  id: 1005
+  page_id: 1
+  name: calc
+  value: cardonwvski arbattlov lirmunsk cradensk!
+- !ruby/struct:Meta
+  id: 1006
+  page_id: 1
+  name: calc
+  value: crawatten aendern leute crunzsaechlich
+- !ruby/struct:Meta
+  id: 1008
+  page_id: 1
+  name: calc
+  value: could anyone let the camel out?
+- !ruby/struct:Meta
+  id: 1009
+  page_id: 1
+  name: calc
+  value: continues assambling little calculi
+- !ruby/struct:Meta
+  id: 1010
+  page_id: 1
+  name: calc
+  value: cracks again a  lawsome code
+- !ruby/struct:Meta
+  id: 1011
+  page_id: 1
+  name: calc
+  value: can apochromatic lenses colorview?
+- !ruby/struct:Meta
+  id: 1012
+  page_id: 1
+  name: calc
+  value: colossus artificialis lascivus creatibus
+- !ruby/struct:Meta
+  id: 1013
+  page_id: 1
+  name: calc
+  value: ciencia artistica lluvias celulares
+- !ruby/struct:Meta
+  id: 1014
+  page_id: 1
+  name: calc
+  value: can authors learn tu trust copyleft?
+- !ruby/struct:Meta
+  id: 1016
+  page_id: 1
+  name: calc
+  value: cern atom looping concern
+- !ruby/struct:Meta
+  id: 1018
+  page_id: 1
+  name: calc
+  value: cleiner amber leuchtet cristalin
+- !ruby/struct:Meta
+  id: 1019
+  page_id: 1
+  name: calc
+  value: comisch, allraum luftet caum
+- !ruby/struct:Meta
+  id: 1020
+  page_id: 1
+  name: calc
+  value: condensed air leaves clouds
+- !ruby/struct:Meta
+  id: 1022
+  page_id: 1
+  name: calc
+  value: cnolle am leuchttum crandioselt
+- !ruby/struct:Meta
+  id: 1023
+  page_id: 1
+  name: calc
+  value: 'claim: art lacks culture today.'
+- !ruby/struct:Meta
+  id: 1025
+  page_id: 1
+  name: calc
+  value: 'cuestion: all livings create?'
+- !ruby/struct:Meta
+  id: 1027
+  page_id: 1
+  name: calc
+  value: clingelong avedon loureelooraa clongeling
+- !ruby/struct:Meta
+  id: 1029
+  page_id: 1
+  name: calc
+  value: coco and loco channel
+- !ruby/struct:Meta
+  id: 1031
+  page_id: 1
+  name: calc
+  value: commas astronomicas llevando curvas
+- !ruby/struct:Meta
+  id: 1033
+  page_id: 1
+  name: calc
+  value: cain abel loest conflikte
+- !ruby/struct:Meta
+  id: 1034
+  page_id: 1
+  name: calc
+  value: cluger  adam lagert cnoedel
+- !ruby/struct:Meta
+  id: 1035
+  page_id: 1
+  name: calc
+  value: cerade aus und  links curvenbiegen
+- !ruby/struct:Meta
+  id: 1037
+  page_id: 241
+  name: link
+  value: http://www.r08.es/
+- !ruby/struct:Meta
+  id: 1038
+  page_id: 1
+  name: calc
+  value: curiously all lemmings are cliff jumpers!
+- !ruby/struct:Meta
+  id: 1039
+  page_id: 1
+  name: calc
+  value: cocreation at the limits of cocradles
+- !ruby/struct:Meta
+  id: 1040
+  page_id: 1
+  name: calc
+  value: carnev al a la crisis
+- !ruby/struct:Meta
+  id: 1041
+  page_id: 1
+  name: calc
+  value: caution! artists learning to click
+- !ruby/struct:Meta
+  id: 1042
+  page_id: 1
+  name: calc
+  value: cosmology advisory lightning cryptozoology
+- !ruby/struct:Meta
+  id: 1044
+  page_id: 1
+  name: calc
+  value: cadiz atlantico laboratorio carneval
+- !ruby/struct:Meta
+  id: 1046
+  page_id: 1
+  name: calc
+  value: carma alma lama comeback
+- !ruby/struct:Meta
+  id: 1047
+  page_id: 1
+  name: calc
+  value: 'capitaloskje arbitramens labortove calenskaya '
+- !ruby/struct:Meta
+  id: 1048
+  page_id: 1
+  name: calc
+  value: cronen aber lediglich corken
+- !ruby/struct:Meta
+  id: 1051
+  page_id: 1
+  name: calc
+  value: cluge  anfaenger lagern curvenlineale
+- !ruby/struct:Meta
+  id: 1052
+  page_id: 1
+  name: calc
+  value: can aliens love culture ?
+- !ruby/struct:Meta
+  id: 1053
+  page_id: 1
+  name: calc
+  value: cod knows! aliens love  calc, thats 4 sure!
+- !ruby/struct:Meta
+  id: 1054
+  page_id: 1
+  name: calc
+  value: charley angel light chaplin
+- !ruby/struct:Meta
+  id: 1055
+  page_id: 1
+  name: calc
+  value: crosswords amenstarts legosculps cashjohnnies
+- !ruby/struct:Meta
+  id: 1056
+  page_id: 1
+  name: calc
+  value: capitan america loosing credit
+- !ruby/struct:Meta
+  id: 1057
+  page_id: 1
+  name: calc
+  value: clint and leone casting
+- !ruby/struct:Meta
+  id: 1062
+  page_id: 1
+  name: calc
+  value: clueckliche asturianer liebaeugeln cunterbunter
+- !ruby/struct:Meta
+  id: 1063
+  page_id: 1
+  name: calc
+  value: canadian artist leonhard cohen
+- !ruby/struct:Meta
+  id: 1064
+  page_id: 1
+  name: calc
+  value: crist all luster clingt
+- !ruby/struct:Meta
+  id: 1068
+  page_id: 1
+  name: calc
+  value: cruising all a long celticsea
+- !ruby/struct:Meta
+  id: 1069
+  page_id: 1
+  name: calc
+  value: comuni amici liberi creativi
+- !ruby/struct:Meta
+  id: 1070
+  page_id: 1
+  name: calc
+  value: creative action lead community
+- !ruby/struct:Meta
+  id: 1071
+  page_id: 1
+  name: calc
+  value: come st ate? un abbraccio, fi lippo. ba ci, a presto
+- !ruby/struct:Meta
+  id: 1072
+  page_id: 1
+  name: calc
+  value: come alberi liberi caminati :-)
+- !ruby/struct:Meta
+  id: 1075
+  page_id: 1
+  name: calc
+  value: costa adriatica laboratorio culinario
+- !ruby/struct:Meta
+  id: 1076
+  page_id: 1
+  name: calc
+  value: cleines archiv langer creuz+querfahrten
+- !ruby/struct:Meta
+  id: 1079
+  page_id: 1
+  name: calc
+  value: clare ader lange curve
+- !ruby/struct:Meta
+  id: 1080
+  page_id: 1
+  name: calc
+  value: cringel algo_rythmen lumbrigeln curvencuadrate
+- !ruby/struct:Meta
+  id: 1081
+  page_id: 1
+  name: calc
+  value: cuehlschrank arbeiter leben cuehl
+- !ruby/struct:Meta
+  id: 1082
+  page_id: 1
+  name: calc
+  value: ciao al signore Vendo la!  E bon cinque  anni!
+- !ruby/struct:Meta
+  id: 1083
+  page_id: 1
+  name: calc
+  value: capitulo adriatico lungamare creationale
+- !ruby/struct:Meta
+  id: 1084
+  page_id: 1
+  name: calc
+  value: curators and other co- laborators creations
+- !ruby/struct:Meta
+  id: 1087
+  page_id: 1
+  name: calc
+  value: cubes are lonely cylinders
+- !ruby/struct:Meta
+  id: 1088
+  page_id: 1
+  name: calc
+  value: cuando alguien lea caracolas
+- !ruby/struct:Meta
+  id: 1089
+  page_id: 1
+  name: calc
+  value: compassion activism lacks competition
+- !ruby/struct:Meta
+  id: 1093
+  page_id: 1
+  name: calc
+  value: cnoedel androiden loechern cosmos!
+- !ruby/struct:Meta
+  id: 1094
+  page_id: 1
+  name: calc
+  value: cn autsch la ck ist im kommen!
+- !ruby/struct:Meta
+  id: 1095
+  page_id: 1
+  name: calc
+  value: cau ainmal lakritze caugummi!
+- !ruby/struct:Meta
+  id: 1096
+  page_id: 1
+  name: calc
+  value: caugimmi anderer leute caum
+- !ruby/struct:Meta
+  id: 1097
+  page_id: 1
+  name: calc
+  value: cistenweise aprikosen limonen carotten
+- !ruby/struct:Meta
+  id: 1098
+  page_id: 1
+  name: calc
+  value: cute little animals licking crapefruitjuice
+- !ruby/struct:Meta
+  id: 1100
+  page_id: 1
+  name: calc
+  value: cuestionamos andere lonsome contenuti
+- !ruby/struct:Meta
+  id: 1102
+  page_id: 1
+  name: calc
+  value: calc amigos lndios caballo
+- !ruby/struct:Meta
+  id: 1104
+  page_id: 1
+  name: calc
+  value: crause arten lausen croeten
+- !ruby/struct:Meta
+  id: 1105
+  page_id: 1
+  name: calc
+  value: celebr ating language cous cous
+- !ruby/struct:Meta
+  id: 1106
+  page_id: 1
+  name: calc
+  value: chip alternative logical chip
+- !ruby/struct:Meta
+  id: 1107
+  page_id: 1
+  name: calc
+  value: cuenntest aigentlich langsam capieren
+- !ruby/struct:Meta
+  id: 1108
+  page_id: 1
+  name: calc
+  value: cooking an anonymous light cake
+- !ruby/struct:Meta
+  id: 1110
+  page_id: 1
+  name: calc
+  value: crying  again  like a  child
+- !ruby/struct:Meta
+  id: 1111
+  page_id: 1
+  name: calc
+  value: childish again like a cry
+- !ruby/struct:Meta
+  id: 1112
+  page_id: 1
+  name: calc
+  value: cracking an abandoned lonesome castle
+- !ruby/struct:Meta
+  id: 1113
+  page_id: 1
+  name: calc
+  value: costa asturiana love calc
+- !ruby/struct:Meta
+  id: 1114
+  page_id: 1
+  name: calc
+  value: calc as well loves this costa :)
+- !ruby/struct:Meta
+  id: 1116
+  page_id: 1
+  name: calc
+  value: crawallen am ersten mai laehmt launen crass
+- !ruby/struct:Meta
+  id: 1117
+  page_id: 1
+  name: calc
+  value: cumpleños felizes p a' la lady PI!! cue viva felice!
+- !ruby/struct:Meta
+  id: 1118
+  page_id: 1
+  name: calc
+  value: casarse aqui en  po lignano abri gli cuori :-)
+- !ruby/struct:Meta
+  id: 1121
+  page_id: 1
+  name: calc
+  value: circulare abitare lungomare cultivare
+- !ruby/struct:Meta
+  id: 1122
+  page_id: 1
+  name: calc
+  value: cronkorkn auspuffn lange canaele
+- !ruby/struct:Meta
+  id: 1124
+  page_id: 1
+  name: calc
+  value: cleine alte laster carren dinge
+- !ruby/struct:Meta
+  id: 1125
+  page_id: 1
+  name: calc
+  value: crist all luster crash
+- !ruby/struct:Meta
+  id: 1126
+  page_id: 1
+  name: calc
+  value: crowded avenues leaving cracks
+- !ruby/struct:Meta
+  id: 1127
+  page_id: 1
+  name: calc
+  value: cnisterndes  alpenheu lauselt crippelnd
+- !ruby/struct:Meta
+  id: 1128
+  page_id: 1
+  name: calc
+  value: cantucky angry lied chicken
+- !ruby/struct:Meta
+  id: 1129
+  page_id: 1
+  name: calc
+  value: costa asiatica laboratorio cenbuddhista
+- !ruby/struct:Meta
+  id: 1130
+  page_id: 1
+  name: calc
+  value: costa  africana laboraorio cineasta
+- !ruby/struct:Meta
+  id: 1131
+  page_id: 1
+  name: calc
+  value: closter au lemmissen cleist
+- !ruby/struct:Meta
+  id: 1136
+  page_id: 243
+  name: date
+  value: 2010/03
+- !ruby/struct:Meta
+  id: 1137
+  page_id: 243
+  name: link
+  value: " \t http://en.luegerplatz.com/index.html"
+- !ruby/struct:Meta
+  id: 1138
+  page_id: 1
+  name: calc
+  value: cocos aaaaa la cesta
+- !ruby/struct:Meta
+  id: 1139
+  page_id: 1
+  name: calc
+  value: cucerachas aaaaa los cocos
+- !ruby/struct:Meta
+  id: 1140
+  page_id: 1
+  name: calc
+  value: cumple  años  fe liz c_able mali!
+- !ruby/struct:Meta
+  id: 1141
+  page_id: 1
+  name: calc
+  value: coepfeln aus lichter    hoeh copfueber
+- !ruby/struct:Meta
+  id: 1144
+  page_id: 1
+  name: calc
+  value: clatschen aplausen lobhudeln crawattenschwingen
+- !ruby/struct:Meta
+  id: 1145
+  page_id: 1
+  name: calc
+  value: cratzen  ablausen lauwaermeln crapfenschleudern
+- !ruby/struct:Meta
+  id: 1146
+  page_id: 1
+  name: calc
+  value: cometas andan libre por el cielo
+- !ruby/struct:Meta
+  id: 1147
+  page_id: 1
+  name: calc
+  value: classe asse lassen crasse
+- !ruby/struct:Meta
+  id: 1148
+  page_id: 1
+  name: calc
+  value: cutelittle ants licking chellyfish
+- !ruby/struct:Meta
+  id: 1149
+  page_id: 1
+  name: calc
+  value: caleidoskopisches atrium lacht  circular
+- !ruby/struct:Meta
+  id: 1151
+  page_id: 1
+  name: calc
+  value: cloudish artlough lackleft cowbeuys!
+- !ruby/struct:Meta
+  id: 1153
+  page_id: 1
+  name: calc
+  value: cackfudel arschgeigel lackaffel cnautschlaggel!
+- !ruby/struct:Meta
+  id: 1154
+  page_id: 1
+  name: calc
+  value: cahlschlag antibrand lorbeer comittee
+- !ruby/struct:Meta
+  id: 1155
+  page_id: 1
+  name: calc
+  value: cumple años de  lOLA cinque :-)))))
+- !ruby/struct:Meta
+  id: 1156
+  page_id: 1
+  name: calc
+  value: cave artist lagooning curls
+- !ruby/struct:Meta
+  id: 1157
+  page_id: 1
+  name: calc
+  value: cost appartment landstrip wet camp
+- !ruby/struct:Meta
+  id: 1158
+  page_id: 1
+  name: calc
+  value: color arch l'open cuestion
+- !ruby/struct:Meta
+  id: 1159
+  page_id: 1
+  name: calc
+  value: craut acker laut crackern
+- !ruby/struct:Meta
+  id: 1160
+  page_id: 1
+  name: calc
+  value: cringel allle losen clungel
+- !ruby/struct:Meta
+  id: 1161
+  page_id: 1
+  name: calc
+  value: calzit asphalt laurel creide
+- !ruby/struct:Meta
+  id: 1162
+  page_id: 1
+  name: calc
+  value: caktus angelt laengs crallen
+- !ruby/struct:Meta
+  id: 1163
+  page_id: 1
+  name: calc
+  value: captain artroot lailing along coldcost
+- !ruby/struct:Meta
+  id: 1164
+  page_id: 1
+  name: calc
+  value: captain artheart licks cucumber
+- !ruby/struct:Meta
+  id: 1165
+  page_id: 1
+  name: calc
+  value: caleidoscopic artwhirling longlasting credo
+- !ruby/struct:Meta
+  id: 1166
+  page_id: 1
+  name: calc
+  value: come come and and loolook closerer
+- !ruby/struct:Meta
+  id: 1167
+  page_id: 1
+  name: calc
+  value: copyleft and lechts copyright
+- !ruby/struct:Meta
+  id: 1168
+  page_id: 1
+  name: calc
+  value: cosas absurdas llegan corriendo
+- !ruby/struct:Meta
+  id: 1169
+  page_id: 1
+  name: calc
+  value: corazones abiertos lllegan casarnos :-)))
+- !ruby/struct:Meta
+  id: 1170
+  page_id: 1
+  name: calc
+  value: climbing apon loreleis cliffs
+- !ruby/struct:Meta
+  id: 1171
+  page_id: 1
+  name: calc
+  value: cracking awsome lousy codes
+- !ruby/struct:Meta
+  id: 1172
+  page_id: 1
+  name: calc
+  value: camping at lakeshore constance
+- !ruby/struct:Meta
+  id: 1173
+  page_id: 1
+  name: calc
+  value: chingeling and lingeling clingeling
+- !ruby/struct:Meta
+  id: 1174
+  page_id: 1
+  name: calc
+  value: como amara las  cucarachas?
+- !ruby/struct:Meta
+  id: 1176
+  page_id: 1
+  name: calc
+  value: can all lovers can
+- !ruby/struct:Meta
+  id: 1178
+  page_id: 1
+  name: calc
+  value: casamiento amor lovers corazón
+- !ruby/struct:Meta
+  id: 1179
+  page_id: 1
+  name: calc
+  value: crocdile andy likes croc art
+- !ruby/struct:Meta
+  id: 1180
+  page_id: 1
+  name: calc
+  value: colibri adam loves col_lab_oration
+- !ruby/struct:Meta
+  id: 1181
+  page_id: 1
+  name: calc
+  value: casados con amor los corazones
+- !ruby/struct:Meta
+  id: 1184
+  page_id: 1
+  name: calc
+  value: casi acabo la calcaxy
+- !ruby/struct:Meta
+  id: 1186
+  page_id: 1
+  name: calc
+  value: cee above le nouvelle feature le cell du pix!
+- !ruby/struct:Meta
+  id: 1188
+  page_id: 1
+  name: calc
+  value: citchen art licking cakes
+- !ruby/struct:Meta
+  id: 1189
+  page_id: 1
+  name: calc
+  value: clarer frueher abend leuchtet clarblautief
+- !ruby/struct:Meta
+  id: 1191
+  page_id: 1
+  name: calc
+  value: cosa altra la casa
+- !ruby/struct:Meta
+  id: 1192
+  page_id: 1
+  name: calc
+  value: call all lonely  creatures
+- !ruby/struct:Meta
+  id: 1194
+  page_id: 1
+  name: calc
+  value: clicks around l'open cuestions
+- !ruby/struct:Meta
+  id: 1195
+  page_id: 1
+  name: calc
+  value: chaning a stonished lifes coerces
+- !ruby/struct:Meta
+  id: 1196
+  page_id: 1
+  name: calc
+  value: cumple años  feliz   dalai lama cumpl
+- !ruby/struct:Meta
+  id: 1203
+  page_id: 1
+  name: calc
+  value: casa ala llima cangelica
+- !ruby/struct:Meta
+  id: 1218
+  page_id: 1
+  name: calc
+  value: cruising around looping comets
+- !ruby/struct:Meta
+  id: 1219
+  page_id: 1
+  name: calc
+  value: califa ali laba calibr
+- !ruby/struct:Meta
+  id: 1220
+  page_id: 1
+  name: calc
+  value: can all lick coke?
+- !ruby/struct:Meta
+  id: 1221
+  page_id: 1
+  name: calc
+  value: cass andras leber caese
+- !ruby/struct:Meta
+  id: 1222
+  page_id: 1
+  name: calc
+  value: caratteri alegri laborano chocando!
+- !ruby/struct:Meta
+  id: 1223
+  page_id: 1
+  name: calc
+  value: crossroads among leapy crosswords
+- !ruby/struct:Meta
+  id: 1224
+  page_id: 1
+  name: calc
+  value: cyclic arktic ludic chaschlic
+- !ruby/struct:Meta
+  id: 1225
+  page_id: 1
+  name: calc
+  value: cammer aden luegen crautsam!
+- !ruby/struct:Meta
+  id: 1226
+  page_id: 1
+  name: calc
+  value: clamm aimliche lust caramelle
+- !ruby/struct:Meta
+  id: 1227
+  page_id: 1
+  name: calc
+  value: come a little closer
+- !ruby/struct:Meta
+  id: 1228
+  page_id: 1
+  name: calc
+  value: cream an orange lemon cake
+- !ruby/struct:Meta
+  id: 1229
+  page_id: 1
+  name: calc
+  value: cleargear adelante longward cicumstancia
+- !ruby/struct:Meta
+  id: 1230
+  page_id: 1
+  name: calc
+  value: chorus apelini ludens colorissimus
+- !ruby/struct:Meta
+  id: 1231
+  page_id: 1
+  name: calc
+  value: cleines augenaepfelchen lugt crossartiges
+- !ruby/struct:Meta
+  id: 1232
+  page_id: 1
+  name: calc
+  value: chewing art laureates clinker bricks!
+- !ruby/struct:Meta
+  id: 1233
+  page_id: 1
+  name: calc
+  value: curiositaeten, anti-antiquitaeten, limobilien, cocunst
+- !ruby/struct:Meta
+  id: 1234
+  page_id: 1
+  name: calc
+  value: content as well as large containers
+- !ruby/struct:Meta
+  id: 1235
+  page_id: 1
+  name: calc
+  value: cushions all over the X large couch
+- !ruby/struct:Meta
+  id: 1236
+  page_id: 1
+  name: calc
+  value: cocunst? an  original longterm calcmatter!
+- !ruby/struct:Meta
+  id: 1237
+  page_id: 1
+  name: calc
+  value: creuzberg am linken canal
+- !ruby/struct:Meta
+  id: 1238
+  page_id: 1
+  name: calc
+  value: cl ang loeck chen
+- !ruby/struct:Meta
+  id: 1239
+  page_id: 1
+  name: calc
+  value: club authentischer luftschloss cnacker
+- !ruby/struct:Meta
+  id: 1240
+  page_id: 1
+  name: calc
+  value: crisby and  crosby linkin' cinky
+- !ruby/struct:Meta
+  id: 1241
+  page_id: 1
+  name: calc
+  value: clockwork amarillo looping chromatical
+- !ruby/struct:Meta
+  id: 1242
+  page_id: 1
+  name: calc
+  value: city alphabet linguist  feet clapping
+- !ruby/struct:Meta
+  id: 1243
+  page_id: 1
+  name: calc
+  value: colored ants labouring commfortable
+- !ruby/struct:Meta
+  id: 1244
+  page_id: 1
+  name: calc
+  value: connecting awesome lost calculi
+- !ruby/struct:Meta
+  id: 1245
+  page_id: 1
+  name: calc
+  value: club der artverwandten lichter    ( in -              corporated )
+- !ruby/struct:Meta
+  id: 1246
+  page_id: 1
+  name: calc
+  value: cada artista lo come
+- !ruby/struct:Meta
+  id: 1247
+  page_id: 1
+  name: calc
+  value: calamares a. la cubana
+- !ruby/struct:Meta
+  id: 1248
+  page_id: 1
+  name: calc
+  value: crios artistas lococ curiosos
+- !ruby/struct:Meta
+  id: 1250
+  page_id: 1
+  name: calc
+  value: cain  algo-rythmus loest cnoten
+- !ruby/struct:Meta
+  id: 1251
+  page_id: 1
+  name: calc
+  value: cuessen algen lenden, citzelt's
+- !ruby/struct:Meta
+  id: 1252
+  page_id: 1
+  name: calc
+  value: cratzn antennen luftfahrzeuge, crashts
+- !ruby/struct:Meta
+  id: 1253
+  page_id: 1
+  name: calc
+  value: citzeln ameisen luftroehren, cotzts
+- !ruby/struct:Meta
+  id: 1254
+  page_id: 1
+  name: calc
+  value: cringeln affen locken, cuenstelts
+- !ruby/struct:Meta
+  id: 1255
+  page_id: 1
+  name: calc
+  value: clirren armbrueste lauthals, clingelts
+- !ruby/struct:Meta
+  id: 1256
+  page_id: 1
+  name: calc
+  value: clopfen armleuchter laustueren, crachts
+- !ruby/struct:Meta
+  id: 1257
+  page_id: 1
+  name: calc
+  value: cluengeln arbeiter lauthals, cwerkschaftelts
+- !ruby/struct:Meta
+  id: 1258
+  page_id: 1
+  name: calc
+  value: ciffn angsthasn lorbeer, cackts
+- !ruby/struct:Meta
+  id: 1259
+  page_id: 1
+  name: calc
+  value: cnutschn argentinier lustenauer, cwietschtsss
+- !ruby/struct:Meta
+  id: 1260
+  page_id: 1
+  name: calc
+  value: crabbeln amoeben lendaufwaerts, crippelts
+- !ruby/struct:Meta
+  id: 1262
+  page_id: 1
+  name: calc
+  value: clauen analphabeten lettern, cnastets
+- !ruby/struct:Meta
+  id: 1263
+  page_id: 1
+  name: calc
+  value: craulen aasgeier laemmer, cadaverts
+- !ruby/struct:Meta
+  id: 1264
+  page_id: 1
+  name: calc
+  value: climmen alpinisten looshaeuser, casselts
+- !ruby/struct:Meta
+  id: 1265
+  page_id: 1
+  name: calc
+  value: crautern archiologen lehmgrubn, cochts
+- !ruby/struct:Meta
+  id: 1266
+  page_id: 1
+  name: calc
+  value: clagen advokaten lemmige, cuebelts
+- !ruby/struct:Meta
+  id: 1267
+  page_id: 1
+  name: calc
+  value: cnackn angestellte lohntuetn, cashts
+- !ruby/struct:Meta
+  id: 1268
+  page_id: 1
+  name: calc
+  value: cragen anhaenger langaus, coepfts
+- !ruby/struct:Meta
+  id: 1269
+  page_id: 1
+  name: calc
+  value: capitalisiern anleger luftschloesser, clirrts
+- !ruby/struct:Meta
+  id: 1270
+  page_id: 1
+  name: calc
+  value: comment aplatir les canaries
+- !ruby/struct:Meta
+  id: 1271
+  page_id: 1
+  name: calc
+  value: cubus angelus liquidus cosmicus
+- !ruby/struct:Meta
+  id: 1272
+  page_id: 1
+  name: calc
+  value: clene alfabetten labban cedichte
+- !ruby/struct:Meta
+  id: 1273
+  page_id: 1
+  name: calc
+  value: clang angel lauthals chor
+- !ruby/struct:Meta
+  id: 1274
+  page_id: 1
+  name: calc
+  value: cannste abba lange clickn, ey
+- !ruby/struct:Meta
+  id: 1276
+  page_id: 1
+  name: calc
+  value: cnuddeln am lodernden camin
+- !ruby/struct:Meta
+  id: 1278
+  page_id: 1
+  name: calc
+  value: claglos alleine luglos caempfend
+- !ruby/struct:Meta
+  id: 1280
+  page_id: 1
+  name: calc
+  value: cugelnde atmosphaere langsam craulend
+- !ruby/struct:Meta
+  id: 1282
+  page_id: 1
+  name: calc
+  value: cualquier ambiguedad lo completa
+- !ruby/struct:Meta
+  id: 1283
+  page_id: 1
+  name: calc
+  value: couches all  a long contemplation
+- !ruby/struct:Meta
+  id: 1284
+  page_id: 1
+  name: calc
+  value: camp artischock lecker crack
+- !ruby/struct:Meta
+  id: 1285
+  page_id: 1
+  name: calc
+  value: commt ain lama ceflogen
+- !ruby/struct:Meta
+  id: 1289
+  page_id: 1
+  name: calc
+  value: 'comisch: ainer luemmelt continuierlich'
+- !ruby/struct:Meta
+  id: 1290
+  page_id: 1
+  name: calc
+  value: continuum absurdum lagert  nur curz!
+- !ruby/struct:Meta
+  id: 1291
+  page_id: 1
+  name: calc
+  value: cansch au links curve
+- !ruby/struct:Meta
+  id: 1292
+  page_id: 1
+  name: calc
+  value: cuentsch aba au  rechts lang carraessla
+- !ruby/struct:Meta
+  id: 1293
+  page_id: 1
+  name: calc
+  value: cuadrate abgerundet laengsver cantet
+- !ruby/struct:Meta
+  id: 1294
+  page_id: 1
+  name: calc
+  value: castanien allee laub crausell
+- !ruby/struct:Meta
+  id: 1295
+  page_id: 1
+  name: calc
+  value: cinky artscenes lack calcies
+- !ruby/struct:Meta
+  id: 1297
+  page_id: 1
+  name: calc
+  value: cold autumn lacks cero
+- !ruby/struct:Meta
+  id: 1298
+  page_id: 1
+  name: calc
+  value: calm aunt loughs coffee
+- !ruby/struct:Meta
+  id: 1301
+  page_id: 1
+  name: calc
+  value: creating abrazing loving curating
+- !ruby/struct:Meta
+  id: 1302
+  page_id: 1
+  name: calc
+  value: camiones andan lentos caramba!
+- !ruby/struct:Meta
+  id: 1303
+  page_id: 1
+  name: calc
+  value: cassius ali leopard clay!
+- !ruby/struct:Meta
+  id: 1304
+  page_id: 1
+  name: calc
+  value: correcaminos aaaa laaaa carretera!!!!!!!!!!!!!!!!
+- !ruby/struct:Meta
+  id: 1305
+  page_id: 1
+  name: calc
+  value: cambiamos aa los camiones
+- !ruby/struct:Meta
+  id: 1306
+  page_id: 1
+  name: calc
+  value: could a big lastwagen be cosy to live in ?
+- !ruby/struct:Meta
+  id: 1307
+  page_id: 1
+  name: calc
+  value: cutschen allerdings lieber camelgezogen
+- !ruby/struct:Meta
+  id: 1308
+  page_id: 1
+  name: calc
+  value: cluge ameisen luemmeln cluengelig
+- !ruby/struct:Meta
+  id: 1309
+  page_id: 1
+  name: calc
+  value: clarer antrag  auf langzeit cuchenessen
+- !ruby/struct:Meta
+  id: 1310
+  page_id: 1
+  name: calc
+  value: cursor adventure limited coorporated
+- !ruby/struct:Meta
+  id: 1312
+  page_id: 1
+  name: calc
+  value: cows always loved the countryside
+- !ruby/struct:Meta
+  id: 1313
+  page_id: 1
+  name: calc
+  value: cause all looks crispy green
+- !ruby/struct:Meta
+  id: 1315
+  page_id: 1
+  name: calc
+  value: calc? anyhing  but lousy  traditional clouds.
+- !ruby/struct:Meta
+  id: 1316
+  page_id: 1
+  name: calc
+  value: 'calc: a-z life co-compendium'
+- !ruby/struct:Meta
+  id: 1317
+  page_id: 1
+  name: calc
+  value: clobalisation as little cosmosis
+- !ruby/struct:Meta
+  id: 1318
+  page_id: 1
+  name: calc
+  value: cNN aBB lSD cO2
+- !ruby/struct:Meta
+  id: 1319
+  page_id: 1
+  name: calc
+  value: connects     ( alllmost)  all lost  connections
+- !ruby/struct:Meta
+  id: 1320
+  page_id: 1
+  name: calc
+  value: catch a traditional lousy cloud, try !!!!
+- !ruby/struct:Meta
+  id: 1321
+  page_id: 1
+  name: calc
+  value: cloudcatching above landartscape cought no problems!
+- !ruby/struct:Meta
+  id: 1322
+  page_id: 1
+  name: calc
+  value: clapping aunts licking candles
+- !ruby/struct:Meta
+  id: 1324
+  page_id: 1
+  name: calc
+  value: cousine angelbraut laesst cruessen!
+- !ruby/struct:Meta
+  id: 1325
+  page_id: 1
+  name: calc
+  value: cardinal angelus liebt christine
+- !ruby/struct:Meta
+  id: 1326
+  page_id: 1
+  name: calc
+  value: cousine angelbraut laesst cruessen!
+- !ruby/struct:Meta
+  id: 1327
+  page_id: 1
+  name: calc
+  value: cross angle loud ceaker
+- !ruby/struct:Meta
+  id: 1328
+  page_id: 1
+  name: calc
+  value: cony ailand landmark cartograffy
+- !ruby/struct:Meta
+  id: 1330
+  page_id: 1
+  name: calc
+  value: cream air loom core
+- !ruby/struct:Meta
+  id: 1331
+  page_id: 1
+  name: calc
+  value: caminando    en amorado  por la  larga calle
+- !ruby/struct:Meta
+  id: 1332
+  page_id: 1
+  name: calc
+  value: combinando algo lindo carajo!!!!!!!!
+- !ruby/struct:Meta
+  id: 1333
+  page_id: 1
+  name: calc
+  value: cenando asparagi                      a la contadina
+- !ruby/struct:Meta
+  id: 1334
+  page_id: 1
+  name: calc
+  value: crumme angel lugt ceradeaus
+- !ruby/struct:Meta
+  id: 1336
+  page_id: 1
+  name: calc
+  value: clorophorme algenbanden lagunen crautmaessig
+- !ruby/struct:Meta
+  id: 1339
+  page_id: 1
+  name: calc
+  value: caine ahnung luegt cehrtwendig
+- !ruby/struct:Meta
+  id: 1340
+  page_id: 1
+  name: calc
+  value: coastbare augenblicce, welche lieb cosen
+- !ruby/struct:Meta
+  id: 1342
+  page_id: 1
+  name: calc
+  value: cain aintrag    im lockbuch calcs
+- !ruby/struct:Meta
+  id: 1344
+  page_id: 1
+  name: calc
+  value: cabling atlantics lable calc
+- !ruby/struct:Meta
+  id: 1345
+  page_id: 1
+  name: calc
+  value: calcerburry advocats love cradledinners
+- !ruby/struct:Meta
+  id: 1348
+  page_id: 1
+  name: calc
+  value: candles as labour crackers
+- !ruby/struct:Meta
+  id: 1351
+  page_id: 1
+  name: calc
+  value: cabaret abandoned labeled cabinet
+- !ruby/struct:Meta
+  id: 1353
+  page_id: 1
+  name: calc
+  value: calculable abatement lace cabin cruiser
+- !ruby/struct:Meta
+  id: 1354
+  page_id: 1
+  name: calc
+  value: cabbage abashed laboratory calibrated
+- !ruby/struct:Meta
+  id: 1355
+  page_id: 1
+  name: calc
+  value: calculating arable loaf cultures
+- !ruby/struct:Meta
+  id: 1356
+  page_id: 1
+  name: calc
+  value: cous apettite lick cous
+- !ruby/struct:Meta
+  id: 1358
+  page_id: 1
+  name: calc
+  value: crapfen angler lieben carneval
+- !ruby/struct:Meta
+  id: 1359
+  page_id: 1
+  name: calc
+  value: casting abgesagt!  leerlaufen cann jeder!
+- !ruby/struct:Meta
+  id: 1360
+  page_id: 1
+  name: calc
+  value: calor avion lmno cardia
+- !ruby/struct:Meta
+  id: 1362
+  page_id: 1
+  name: calc
+  value: cradwandelnde alpinartisten lauwaermeln caltherzen
+- !ruby/struct:Meta
+  id: 1364
+  page_id: 1
+  name: calc
+  value: cruegerl abhebung -  lohntueten cnautschzone
+- !ruby/struct:Meta
+  id: 1365
+  page_id: 1
+  name: calc
+  value: cerzenlicht an_schein -  lager -  co_continuum.
+- !ruby/struct:Meta
+  id: 1366
+  page_id: 1
+  name: calc
+  value: crash and later carry cash (wallstreetf*s!)
+- !ruby/struct:Meta
+  id: 1367
+  page_id: 1
+  name: calc
+  value: capitalism always like crashes !
+- !ruby/struct:Meta
+  id: 1368
+  page_id: 1
+  name: calc
+  value: converted analphabets lecturing cakepear
+- !ruby/struct:Meta
+  id: 1371
+  page_id: 1
+  name: calc
+  value: curssturz aufwaertsig laesst croncorkn cnalln
+- !ruby/struct:Meta
+  id: 1372
+  page_id: 1
+  name: calc
+  value: couscous angekommen liebes calc
+- !ruby/struct:Meta
+  id: 1373
+  page_id: 1
+  name: calc
+  value: couscous?  aber  knob lauchig cuemmelig bitte!
+- !ruby/struct:Meta
+  id: 1374
+  page_id: 1
+  name: calc
+  value: cann arcoiris lobpreisen? canna!
+- !ruby/struct:Meta
+  id: 1375
+  page_id: 1
+  name: calc
+  value: circunstancias anímicas llegítimas carambolas
+- !ruby/struct:Meta
+  id: 1376
+  page_id: 1
+  name: calc
+  value: colores abanicando el libre cielo
+- !ruby/struct:Meta
+  id: 1377
+  page_id: 1
+  name: calc
+  value: calabazas a la luz del crepusculo
+- !ruby/struct:Meta
+  id: 1379
+  page_id: 1
+  name: calc
+  value: coestlicher apfelstrudel langwedelt curzweil
+- !ruby/struct:Meta
+  id: 1380
+  page_id: 1
+  name: calc
+  value: column arch laufmetert cruemmerlich
+- !ruby/struct:Meta
+  id: 1382
+  page_id: 1
+  name: calc
+  value: cruemelgeile ameisen luemmeln cumpelig
+- !ruby/struct:Meta
+  id: 1383
+  page_id: 1
+  name: calc
+  value: cinema atletica, luzes cruzandose
+- !ruby/struct:Meta
+  id: 1384
+  page_id: 1
+  name: calc
+  value: corbb all laufs chuhspiel
+- !ruby/struct:Meta
+  id: 1385
+  page_id: 1
+  name: calc
+  value: cooling aggregats looming cilowatts
+- !ruby/struct:Meta
+  id: 1386
+  page_id: 1
+  name: calc
+  value: cleine artschwangere ludik cirmes
+- !ruby/struct:Meta
+  id: 1388
+  page_id: 1
+  name: calc
+  value: civil association of local councils
+- !ruby/struct:Meta
+  id: 1389
+  page_id: 1
+  name: calc
+  value: con affetto lancio coni
+- !ruby/struct:Meta
+  id: 1390
+  page_id: 1
+  name: calc
+  value: clirrend abend lichter clingen hell
+- !ruby/struct:Meta
+  id: 1391
+  page_id: 1
+  name: calc
+  value: contra alpha lobby club
+- !ruby/struct:Meta
+  id: 1392
+  page_id: 1
+  name: calc
+  value: chola amenizando la cabeza
+- !ruby/struct:Meta
+  id: 1393
+  page_id: 1
+  name: calc
+  value: camerillo always  brillo love dirty cappa frank
+- !ruby/struct:Meta
+  id: 1396
+  page_id: 1
+  name: calc
+  value: circus alameda lupus cinderella
+- !ruby/struct:Meta
+  id: 1397
+  page_id: 1
+  name: calc
+  value: cama amante lujuría condón
+- !ruby/struct:Meta
+  id: 1398
+  page_id: 1
+  name: calc
+  value: camel airport luxor calling
+- !ruby/struct:Meta
+  id: 1400
+  page_id: 1
+  name: calc
+  value: captain arschkarte laesst cragn platzn
+- !ruby/struct:Meta
+  id: 1402
+  page_id: 1
+  name: calc
+  value: computer artificial locomotive calculation
+- !ruby/struct:Meta
+  id: 1403
+  page_id: 1
+  name: calc
+  value: can't agree lost context
+- !ruby/struct:Meta
+  id: 1404
+  page_id: 1
+  name: calc
+  value: context agreement labour carneval
+- !ruby/struct:Meta
+  id: 1405
+  page_id: 1
+  name: calc
+  value: couch ants licking cinemoncookies
+- !ruby/struct:Meta
+  id: 1407
+  page_id: 1
+  name: calc
+  value: canton apenzell lorbeert cahlrecht
+- !ruby/struct:Meta
+  id: 1408
+  page_id: 1
+  name: calc
+  value: combines art'n life clearly
+- !ruby/struct:Meta
+  id: 1409
+  page_id: 1
+  name: calc
+  value: cooks asparagus limeginger cocorisewok
+- !ruby/struct:Meta
+  id: 1410
+  page_id: 1
+  name: calc
+  value: clipp aller leute clar
+- !ruby/struct:Meta
+  id: 1411
+  page_id: 1
+  name: calc
+  value: clappt allen lenden clipp
+- !ruby/struct:Meta
+  id: 1412
+  page_id: 1
+  name: calc
+  value: 'colossale aale laichen cyklisch '
+- !ruby/struct:Meta
+  id: 1413
+  page_id: 1
+  name: calc
+  value: crabbel anti_lope lauert clarsichtig
+- !ruby/struct:Meta
+  id: 1414
+  page_id: 1
+  name: calc
+  value: carrierte angelachsen lichtern crassraus
+- !ruby/struct:Meta
+  id: 1415
+  page_id: 1
+  name: calc
+  value: culinarrische attacken auf lose crautfetzen
+- !ruby/struct:Meta
+  id: 1416
+  page_id: 1
+  name: calc
+  value: czech amigo lukasch' conferencing
+- !ruby/struct:Meta
+  id: 1417
+  page_id: 1
+  name: calc
+  value: colorful arrival looks closed take the black and wihite entrance
+- !ruby/struct:Meta
+  id: 1418
+  page_id: 1
+  name: calc
+  value: cruzando a traves llegas a calc
+- !ruby/struct:Meta
+  id: 1419
+  page_id: 1
+  name: calc
+  value: czech amigetto laboured this couderwelsh?
+- !ruby/struct:Meta
+  id: 1420
+  page_id: 1
+  name: calc
+  value: chavala astur-suiza laesst crüssen
+- !ruby/struct:Meta
+  id: 1421
+  page_id: 1
+  name: calc
+  value: ciao asturintliana laeufts csund?
+- !ruby/struct:Meta
+  id: 1422
+  page_id: 1
+  name: calc
+  value: csundheit astursuiza! luagdaguat cuore!
+- !ruby/struct:Meta
+  id: 1424
+  page_id: 1
+  name: calc
+  value: cugel antennen leuchten chiffren
+- !ruby/struct:Meta
+  id: 1425
+  page_id: 1
+  name: calc
+  value: car a `  lenin se cucaj
+- !ruby/struct:Meta
+  id: 1426
+  page_id: 1
+  name: calc
+  value: calc astimates lukas czech benes!
+- !ruby/struct:Meta
+  id: 1427
+  page_id: 1
+  name: calc
+  value: czeck  animates lovely calcpics @ home!
+- !ruby/struct:Meta
+  id: 1428
+  page_id: 1
+  name: calc
+  value: cradle adventures lured cosmichew
+- !ruby/struct:Meta
+  id: 1429
+  page_id: 1
+  name: calc
+  value: can  an  analphatic lukas write 'bout cable?
+- !ruby/struct:Meta
+  id: 1430
+  page_id: 1
+  name: calc
+  value: can arsenic be lives' cellbase??
+- !ruby/struct:Meta
+  id: 1432
+  page_id: 1
+  name: calc
+  value: cismet archimed larifari cirkuss
+- !ruby/struct:Meta
+  id: 1433
+  page_id: 1
+  name: calc
+  value: congrats assange, for leaking censorheads
+- !ruby/struct:Meta
+  id: 1435
+  page_id: 1
+  name: calc
+  value: chromosomisch altruistisch legastenisch cryptisch
+- !ruby/struct:Meta
+  id: 1436
+  page_id: 1
+  name: calc
+  value: cute aunts loving cool (hot)
+- !ruby/struct:Meta
+  id: 1437
+  page_id: 1
+  name: calc
+  value: calter advent laiert clirrend
+- !ruby/struct:Meta
+  id: 1438
+  page_id: 1
+  name: calc
+  value: cielo al revez  se llama cosmos tambien
+- !ruby/struct:Meta
+  id: 1440
+  page_id: 1
+  name: calc
+  value: contra alphabet luchstabiert clirrtext
+- !ruby/struct:Meta
+  id: 1442
+  page_id: 1
+  name: calc
+  value: craft akt lack caff
+- !ruby/struct:Meta
+  id: 1443
+  page_id: 1
+  name: calc
+  value: cambridge' alternative lifejump campus
+- !ruby/struct:Meta
+  id: 1444
+  page_id: 1
+  name: calc
+  value: cirkus alex laubert cindernasional
+- !ruby/struct:Meta
+  id: 1445
+  page_id: 1
+  name: calc
+  value: creetings from the adriatic labour-joy coast
+- !ruby/struct:Meta
+  id: 1446
+  page_id: 1
+  name: calc
+  value: cant argumentiert laengs der cante
+- !ruby/struct:Meta
+  id: 1447
+  page_id: 1
+  name: calc
+  value: cain abel liebt crischtus
+- !ruby/struct:Meta
+  id: 1449
+  page_id: 1
+  name: calc
+  value: chaos auf linearen cruemmungen
+- !ruby/struct:Meta
+  id: 1450
+  page_id: 1
+  name: calc
+  value: cada atomo lleva un copo alrededor
+- !ruby/struct:Meta
+  id: 1451
+  page_id: 1
+  name: calc
+  value: captain beefheart, adios! loop the cosmos!
+- !ruby/struct:Meta
+  id: 1452
+  page_id: 1
+  name: calc
+  value: children anyway love chrismas
+- !ruby/struct:Meta
+  id: 1453
+  page_id: 1
+  name: calc
+  value: corn apes lurckin" coffee
+- !ruby/struct:Meta
+  id: 1454
+  page_id: 1
+  name: calc
+  value: cradle arts lullaby circuits
+- !ruby/struct:Meta
+  id: 1455
+  page_id: 1
+  name: calc
+  value: cnoedel attakke auf lorbeer craenze
+- !ruby/struct:Meta
+  id: 1458
+  page_id: 1
+  name: calc
+  value: cool (hot) and lucky chrismas
+- !ruby/struct:Meta
+  id: 1459
+  page_id: 1
+  name: calc
+  value: con arte limpias cabezas
+- !ruby/struct:Meta
+  id: 1460
+  page_id: 1
+  name: calc
+  value: cielo alto l'alma cerca
+- !ruby/struct:Meta
+  id: 1462
+  page_id: 1
+  name: calc
+  value: calculate all living creatures
+- !ruby/struct:Meta
+  id: 1463
+  page_id: 1
+  name: calc
+  value: cozze al limone crude
+- !ruby/struct:Meta
+  id: 1464
+  page_id: 1
+  name: calc
+  value: commercial arts lick citsch
+- !ruby/struct:Meta
+  id: 1465
+  page_id: 1
+  name: calc
+  value: comes another   year landing in u'r center
+- !ruby/struct:Meta
+  id: 1468
+  page_id: 1
+  name: calc
+  value: ciao anno nuovo, lasciaci celebrare!
+- !ruby/struct:Meta
+  id: 1469
+  page_id: 1
+  name: calc
+  value: countdown auntdown laydown calcup!
+- !ruby/struct:Meta
+  id: 1470
+  page_id: 1
+  name: calc
+  value: como algunos lo contaron
+- !ruby/struct:Meta
+  id: 1471
+  page_id: 1
+  name: calc
+  value: come altri lo hanno cantati
+- !ruby/struct:Meta
+  id: 1472
+  page_id: 1
+  name: calc
+  value: calles aquaticas  que llevan cocodrilos
+- !ruby/struct:Meta
+  id: 1473
+  page_id: 1
+  name: calc
+  value: claro antes liabamos  canutos
+- !ruby/struct:Meta
+  id: 1474
+  page_id: 1
+  name: calc
+  value: crassroots analogies life circles
+- !ruby/struct:Meta
+  id: 1476
+  page_id: 1
+  name: calc
+  value: cindisch algebrisch ludisch cultuerlisch
+- !ruby/struct:Meta
+  id: 1477
+  page_id: 1
+  name: calc
+  value: clash against luxus class
+- !ruby/struct:Meta
+  id: 1479
+  page_id: 1
+  name: calc
+  value: clicks along with loud clacks
+- !ruby/struct:Meta
+  id: 1480
+  page_id: 1
+  name: calc
+  value: carpfen angler lugen carpfig
+- !ruby/struct:Meta
+  id: 1482
+  page_id: 1
+  name: calc
+  value: cells angels listening chopin
+- !ruby/struct:Meta
+  id: 1483
+  page_id: 1
+  name: calc
+  value: 'cincuenta aňos long live the cing '
+- !ruby/struct:Meta
+  id: 1484
+  page_id: 1
+  name: calc
+  value: corazon a por los proximos cincuenta !!!!!!!!
+- !ruby/struct:Meta
+  id: 1486
+  page_id: 1
+  name: calc
+  value: clarer anfang, leere cassa
+- !ruby/struct:Meta
+  id: 1487
+  page_id: 1
+  name: calc
+  value: customized autorship - linked copyrights
+- !ruby/struct:Meta
+  id: 1489
+  page_id: 1
+  name: calc
+  value: comes an  ever lasting cucumber
+- !ruby/struct:Meta
+  id: 1490
+  page_id: 1
+  name: calc
+  value: chic ago lond on cooperation
+- !ruby/struct:Meta
+  id: 1491
+  page_id: 1
+  name: calc
+  value: crimen abstracto limbo confuso
+- !ruby/struct:Meta
+  id: 1492
+  page_id: 1
+  name: calc
+  value: coop accrobats learning 2 claying
+- !ruby/struct:Meta
+  id: 1493
+  page_id: 1
+  name: calc
+  value: com_plete ab_solute re_ lative cross_roots
+- !ruby/struct:Meta
+  id: 1494
+  page_id: 1
+  name: calc
+  value: cuelo alomejor lemins coño
+- !ruby/struct:Meta
+  id: 1495
+  page_id: 1
+  name: calc
+  value: ceine art aber  zuegel lose cunst
+- !ruby/struct:Meta
+  id: 1496
+  page_id: 1
+  name: calc
+  value: ceine angst,  leben cuert dich so oder so
+- !ruby/struct:Meta
+  id: 1498
+  page_id: 1
+  name: calc
+  value: craftstoff aggregat lodert craeftig
+- !ruby/struct:Meta
+  id: 1500
+  page_id: 1
+  name: calc
+  value: casperlnde amphibien laufen crumm
+- !ruby/struct:Meta
+  id: 1501
+  page_id: 1
+  name: calc
+  value: cuess ainfach lauter chinesen!
+- !ruby/struct:Meta
+  id: 1502
+  page_id: 1
+  name: calc
+  value: cada ada llora cava
+- !ruby/struct:Meta
+  id: 1503
+  page_id: 1
+  name: calc
+  value: clammer affen lesen cyberschinken
+- !ruby/struct:Meta
+  id: 1505
+  page_id: 1
+  name: calc
+  value: calder associates lockfree cosmologs
+- !ruby/struct:Meta
+  id: 1507
+  page_id: 1
+  name: calc
+  value: colabor ative leary cycle
+- !ruby/struct:Meta
+  id: 1508
+  page_id: 1
+  name: calc
+  value: crane arms leading copperbeams
+- !ruby/struct:Meta
+  id: 1509
+  page_id: 1
+  name: calc
+  value: ciller aale lallen cnuelle
+- !ruby/struct:Meta
+  id: 1511
+  page_id: 1
+  name: calc
+  value: cut any lnteresting cam
+- !ruby/struct:Meta
+  id: 1512
+  page_id: 1
+  name: calc
+  value: cismet attacks linger childlike (none)
+- !ruby/struct:Meta
+  id: 1513
+  page_id: 1
+  name: calc
+  value: cing and lionel chatting
+- !ruby/struct:Meta
+  id: 1514
+  page_id: 1
+  name: calc
+  value: chic ago london cooperation
+- !ruby/struct:Meta
+  id: 1515
+  page_id: 1
+  name: calc
+  value: 'call at late night: concert'
+- !ruby/struct:Meta
+  id: 1516
+  page_id: 1
+  name: calc
+  value: cleiner anhang, lange ceile
+- !ruby/struct:Meta
+  id: 1517
+  page_id: 1
+  name: calc
+  value: cabaret abba lambent cachinnate
+- !ruby/struct:Meta
+  id: 1518
+  page_id: 1
+  name: calc
+  value: chante avec lumiere claire ;-*
+- !ruby/struct:Meta
+  id: 1519
+  page_id: 1
+  name: calc
+  value: cneten adam, lebkuchen cneten
+- !ruby/struct:Meta
+  id: 1520
+  page_id: 1
+  name: calc
+  value: cas aas las cas
+- !ruby/struct:Meta
+  id: 1521
+  page_id: 1
+  name: calc
+  value: c+ a+ l+ c;
+- !ruby/struct:Meta
+  id: 1522
+  page_id: 1
+  name: calc
+  value: can all loose control
+- !ruby/struct:Meta
+  id: 1523
+  page_id: 1
+  name: calc
+  value: caufhaus archipol leerraum creuzgang
+- !ruby/struct:Meta
+  id: 1526
+  page_id: 1
+  name: calc
+  value: coch archiv der sowohl als lauch collegen
+- !ruby/struct:Meta
+  id: 1527
+  page_id: 1
+  name: calc
+  value: chigago athen lissabon cairo
+- !ruby/struct:Meta
+  id: 1528
+  page_id: 1
+  name: calc
+  value: crumbach andelsbuch lingenau caelleg :-)
+- !ruby/struct:Meta
+  id: 1530
+  page_id: 1
+  name: calc
+  value: calcivorous association of ind. living centers
+- !ruby/struct:Meta
+  id: 1532
+  page_id: 1
+  name: calc
+  value: cryptography  and lettuce conference
+- !ruby/struct:Meta
+  id: 1533
+  page_id: 1
+  name: calc
+  value: cargo acceptance load control
+- !ruby/struct:Meta
+  id: 1534
+  page_id: 1
+  name: calc
+  value: computational approaches to linguistic creativity
+- !ruby/struct:Meta
+  id: 1536
+  page_id: 1
+  name: calc
+  value: casa amica loro calda
+- !ruby/struct:Meta
+  id: 1537
+  page_id: 1
+  name: calc
+  value: careful appreciative lovable cranky
+- !ruby/struct:Meta
+  id: 1538
+  page_id: 1
+  name: calc
+  value: child authorized learning center
+- !ruby/struct:Meta
+  id: 1539
+  page_id: 1
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 1540
+  page_id: 1
+  name: calc
+  value: crises and  lesser conflicts
+- !ruby/struct:Meta
+  id: 1542
+  page_id: 244
+  name: link
+  value: http://www.edicionesvibok.net
+- !ruby/struct:Meta
+  id: 1543
+  page_id: 244
+  name: date
+  value: 2011/01
+- !ruby/struct:Meta
+  id: 1544
+  page_id: 1
+  name: calc
+  value: caeseplatte - allplattte - lallplatte - calteplatte
+- !ruby/struct:Meta
+  id: 1545
+  page_id: 1
+  name: calc
+  value: clippen absprung luftraum continuum
+- !ruby/struct:Meta
+  id: 1546
+  page_id: 1
+  name: calc
+  value: calor del amor de la luz a la cruz
+- !ruby/struct:Meta
+  id: 1547
+  page_id: 1
+  name: calc
+  value: cnutschen in aufgeraeumten labor cajueten
+- !ruby/struct:Meta
+  id: 1548
+  page_id: 1
+  name: calc
+  value: creis atrappe leerlauf cirkus
+- !ruby/struct:Meta
+  id: 1549
+  page_id: 1
+  name: calc
+  value: cosmopolitan aborigines living cosmic
+- !ruby/struct:Meta
+  id: 1550
+  page_id: 1
+  name: calc
+  value: comix arts make  laugh not cold war
+- !ruby/struct:Meta
+  id: 1551
+  page_id: 1
+  name: calc
+  value: curzes akronym - langes continuum
+- !ruby/struct:Meta
+  id: 1552
+  page_id: 1
+  name: calc
+  value: crampf adet linderungs creme
+- !ruby/struct:Meta
+  id: 1553
+  page_id: 1
+  name: calc
+  value: cross artige lebens cleinigkeiten
+- !ruby/struct:Meta
+  id: 1554
+  page_id: 1
+  name: calc
+  value: con alma liberamos el cuerpo
+- !ruby/struct:Meta
+  id: 1555
+  page_id: 1
+  name: calc
+  value: con ajax limpiamos la  cocina
+- !ruby/struct:Meta
+  id: 1556
+  page_id: 1
+  name: calc
+  value: con  alegria lanzamos confetti
+- !ruby/struct:Meta
+  id: 1557
+  page_id: 1
+  name: calc
+  value: con antipatia llevamos cruzes
+- !ruby/struct:Meta
+  id: 1558
+  page_id: 1
+  name: calc
+  value: catastrophal atomic lurking clouds
+- !ruby/struct:Meta
+  id: 1559
+  page_id: 1
+  name: calc
+  value: concrete abstracts lightning couderwelsh
+- !ruby/struct:Meta
+  id: 1560
+  page_id: 1
+  name: calc
+  value: camaradas aaaaa las cocinas
+- !ruby/struct:Meta
+  id: 1561
+  page_id: 1
+  name: calc
+  value: colegas aaaaaa las computerdoras
+- !ruby/struct:Meta
+  id: 1562
+  page_id: 1
+  name: calc
+  value: charme agenten lieben chuzpe
+- !ruby/struct:Meta
+  id: 1563
+  page_id: 1
+  name: calc
+  value: charisma angler leben coeterlich
+- !ruby/struct:Meta
+  id: 1564
+  page_id: 1
+  name: calc
+  value: clatsch affe latsch clatsche
+- !ruby/struct:Meta
+  id: 1565
+  page_id: 1
+  name: calc
+  value: cuesse fuer alonsolinas leica carriere
+- !ruby/struct:Meta
+  id: 1566
+  page_id: 1
+  name: calc
+  value: cuehe alpen lachwurzn caulquappen
+- !ruby/struct:Meta
+  id: 1567
+  page_id: 1
+  name: calc
+  value: camus albert leally caid that?
+- !ruby/struct:Meta
+  id: 1568
+  page_id: 1
+  name: calc
+  value: craphic artological lovelough creatives
+- !ruby/struct:Meta
+  id: 1569
+  page_id: 1
+  name: calc
+  value: cloudless artless lessless cloudcrowd
+- !ruby/struct:Meta
+  id: 1570
+  page_id: 1
+  name: calc
+  value: creamy artjuice leaks clowness
+- !ruby/struct:Meta
+  id: 1571
+  page_id: 1
+  name: calc
+  value: corallen allen lallenden collegen
+- !ruby/struct:Meta
+  id: 1572
+  page_id: 1
+  name: calc
+  value: cute artists labeling contracitsch
+- !ruby/struct:Meta
+  id: 1573
+  page_id: 1
+  name: calc
+  value: contradictions are not as limportant as they cay!
+- !ruby/struct:Meta
+  id: 1574
+  page_id: 1
+  name: calc
+  value: calico abiogenesis lactoscope  callisteia
+- !ruby/struct:Meta
+  id: 1575
+  page_id: 1
+  name: calc
+  value: clear-mind arm-open light-day crisp-breath
+- !ruby/struct:Meta
+  id: 1576
+  page_id: 1
+  name: calc
+  value: cagacomo? an intimate lido? crazy calc...
+- !ruby/struct:Meta
+  id: 1579
+  page_id: 1
+  name: calc
+  value: clammer affe laust collegen
+- !ruby/struct:Meta
+  id: 1580
+  page_id: 1
+  name: calc
+  value: children are love created
+- !ruby/struct:Meta
+  id: 1581
+  page_id: 1
+  name: calc
+  value: cops are lousy cavaliere
+- !ruby/struct:Meta
+  id: 1582
+  page_id: 1
+  name: calc
+  value: caps are little cradels
+- !ruby/struct:Meta
+  id: 1583
+  page_id: 1
+  name: calc
+  value: caramba!  are los topis comming?
+- !ruby/struct:Meta
+  id: 1585
+  page_id: 1
+  name: calc
+  value: climbing app leisure cliffs
+- !ruby/struct:Meta
+  id: 1586
+  page_id: 1
+  name: calc
+  value: cardboard architecture lowbudget castles
+- !ruby/struct:Meta
+  id: 1587
+  page_id: 1
+  name: calc
+  value: chinese attack of lost circles
+- !ruby/struct:Meta
+  id: 1590
+  page_id: 1
+  name: calc
+  value: channel antialpha longdis call
+- !ruby/struct:Meta
+  id: 1591
+  page_id: 1
+  name: calc
+  value: camping at lifeshore circuits
+- !ruby/struct:Meta
+  id: 1592
+  page_id: 1
+  name: calc
+  value: composing alternative light cnoedel
+- !ruby/struct:Meta
+  id: 1593
+  page_id: 1
+  name: calc
+  value: computing artichoks by labeling cucumbers
+- !ruby/struct:Meta
+  id: 1594
+  page_id: 1
+  name: calc
+  value: 'cuckoo are laughing concertedly '
+- !ruby/struct:Meta
+  id: 1595
+  page_id: 1
+  name: calc
+  value: chloroforme arten lallen cruenzeugs
+- !ruby/struct:Meta
+  id: 1596
+  page_id: 1
+  name: calc
+  value: cañavate alonso lola carrusel :-)
+- !ruby/struct:Meta
+  id: 1597
+  page_id: 1
+  name: calc
+  value: caña alonso lola carrusel
+- !ruby/struct:Meta
+  id: 1598
+  page_id: 1
+  name: calc
+  value: clingend alphorn lichttal cglockenclanggg
+- !ruby/struct:Meta
+  id: 1599
+  page_id: 1
+  name: calc
+  value: cumple alonsos resi hoy! love & cisses, mundo.
+- !ruby/struct:Meta
+  id: 1600
+  page_id: 1
+  name: calc
+  value: calfs and apes loudly camping
+- !ruby/struct:Meta
+  id: 1601
+  page_id: 1
+  name: calc
+  value: cugel achse leicht crumm
+- !ruby/struct:Meta
+  id: 1602
+  page_id: 1
+  name: calc
+  value: calcies are luminated calculi
+- !ruby/struct:Meta
+  id: 1604
+  page_id: 1
+  name: calc
+  value: citchen adventures of lime cooks
+- !ruby/struct:Meta
+  id: 1605
+  page_id: 1
+  name: calc
+  value: 'can americans learn to can-not? '
+- !ruby/struct:Meta
+  id: 1606
+  page_id: 1
+  name: calc
+  value: cerco ancora le carezze
+- !ruby/struct:Meta
+  id: 1607
+  page_id: 1
+  name: calc
+  value: cirka andandhalb liter cognac
+- !ruby/struct:Meta
+  id: 1608
+  page_id: 1
+  name: calc
+  value: cleine amoebchen l(i)eben cellen
+- !ruby/struct:Meta
+  id: 1609
+  page_id: 1
+  name: calc
+  value: clap and lap class
+- !ruby/struct:Meta
+  id: 1610
+  page_id: 1
+  name: calc
+  value: context anticontext labels  post- context
+- !ruby/struct:Meta
+  id: 1611
+  page_id: 1
+  name: calc
+  value: click attack on latenight clearstars
+- !ruby/struct:Meta
+  id: 1612
+  page_id: 1
+  name: calc
+  value: casting actors for loony chapters
+- !ruby/struct:Meta
+  id: 1613
+  page_id: 1
+  name: calc
+  value: central artelligence laboratory circle
+- !ruby/struct:Meta
+  id: 1614
+  page_id: 1
+  name: calc
+  value: cells angels learning 2 cliffdive
+- !ruby/struct:Meta
+  id: 1615
+  page_id: 1
+  name: calc
+  value: cliff angers loudspeak corner
+- !ruby/struct:Meta
+  id: 1616
+  page_id: 1
+  name: calc
+  value: casa activista llamada calle
+- !ruby/struct:Meta
+  id: 1617
+  page_id: 1
+  name: calc
+  value: cheesus, alibabba, low tse and  crishnahurtig.
+- !ruby/struct:Meta
+  id: 1618
+  page_id: 1
+  name: calc
+  value: cest ain leace chill scott-heron!
+- !ruby/struct:Meta
+  id: 1619
+  page_id: 1
+  name: calc
+  value: citzel achsel lachend coerper
+- !ruby/struct:Meta
+  id: 1620
+  page_id: 1
+  name: calc
+  value: camping allowed at lake cosmos
+- !ruby/struct:Meta
+  id: 1621
+  page_id: 1
+  name: calc
+  value: chor allee liedert chopin
+- !ruby/struct:Meta
+  id: 1622
+  page_id: 1
+  name: calc
+  value: colibríes altruistas libando caléndulas
+- !ruby/struct:Meta
+  id: 1623
+  page_id: 1
+  name: calc
+  value: country aunts licking cookies
+- !ruby/struct:Meta
+  id: 1624
+  page_id: 1
+  name: calc
+  value: cookin' arts - lookin' cards
+- !ruby/struct:Meta
+  id: 1625
+  page_id: 1
+  name: calc
+  value: clangwonnen allsonnen langwellen chorbellen
+- !ruby/struct:Meta
+  id: 1626
+  page_id: 1
+  name: calc
+  value: cabin and captain are a landing crew
+- !ruby/struct:Meta
+  id: 1627
+  page_id: 1
+  name: calc
+  value: casa amore larità cazzo
+- !ruby/struct:Meta
+  id: 1629
+  page_id: 1
+  name: calc
+  value: crafts and lefts centercourt
+- !ruby/struct:Meta
+  id: 1630
+  page_id: 1
+  name: calc
+  value: captain aeroplane lets hand calmdown
+- !ruby/struct:Meta
+  id: 1631
+  page_id: 1
+  name: calc
+  value: cockpit architecture light comfort
+- !ruby/struct:Meta
+  id: 1632
+  page_id: 1
+  name: calc
+  value: carnaval anti liberal culture
+- !ruby/struct:Meta
+  id: 1633
+  page_id: 1
+  name: calc
+  value: crise alimentaire llyrique centimentale
+- !ruby/struct:Meta
+  id: 1634
+  page_id: 1
+  name: calc
+  value: carrément allemand libre et content
+- !ruby/struct:Meta
+  id: 1635
+  page_id: 1
+  name: calc
+  value: cing art loves citsch
+- !ruby/struct:Meta
+  id: 1636
+  page_id: 1
+  name: calc
+  value: café augustin,  linz cnochengasse
+- !ruby/struct:Meta
+  id: 1637
+  page_id: 1
+  name: calc
+  value: coasts allover lovely croatia
+- !ruby/struct:Meta
+  id: 1638
+  page_id: 1
+  name: calc
+  value: circles all_a_around lovely circus
+- !ruby/struct:Meta
+  id: 1639
+  page_id: 1
+  name: calc
+  value: cellophaner antiaalglatterei lobhudl complott
+- !ruby/struct:Meta
+  id: 1640
+  page_id: 1
+  name: calc
+  value: cells aren't lonley components
+- !ruby/struct:Meta
+  id: 1641
+  page_id: 1
+  name: calc
+  value: crystal air loudly crumbles
+- !ruby/struct:Meta
+  id: 1642
+  page_id: 1
+  name: calc
+  value: cyclop aeugelt lallend clamm
+- !ruby/struct:Meta
+  id: 1643
+  page_id: 1
+  name: calc
+  value: crop alignments line circles
+- !ruby/struct:Meta
+  id: 1644
+  page_id: 1
+  name: calc
+  value: cracky algorithms, large coffees
+- !ruby/struct:Meta
+  id: 1645
+  page_id: 1
+  name: calc
+  value: "come also onto the\r\n lounge couch"
+- !ruby/struct:Meta
+  id: 1646
+  page_id: 1
+  name: calc
+  value: currently about learning cyrillic
+- !ruby/struct:Meta
+  id: 1647
+  page_id: 1
+  name: calc
+  value: composing art life constructions
+- !ruby/struct:Meta
+  id: 1648
+  page_id: 1
+  name: calc
+  value: como alcanzamos                  e l- cielo?
+- !ruby/struct:Meta
+  id: 1649
+  page_id: 1
+  name: calc
+  value: crowning an old loughing cow
+- !ruby/struct:Meta
+  id: 1650
+  page_id: 1
+  name: calc
+  value: chewing on an old  licorice chewing gum
+- !ruby/struct:Meta
+  id: 1651
+  page_id: 1
+  name: calc
+  value: cold and lousy weather conditions
+- !ruby/struct:Meta
+  id: 1652
+  page_id: 1
+  name: calc
+  value: cocinar acompañado de los chiles
+- !ruby/struct:Meta
+  id: 1654
+  page_id: 1
+  name: calc
+  value: cooling agregats  leaving fires cold
+- !ruby/struct:Meta
+  id: 1655
+  page_id: 1
+  name: calc
+  value: clandestine acrobats  on g lobal circus
+- !ruby/struct:Meta
+  id: 1656
+  page_id: 1
+  name: calc
+  value: cat - angle - look -  clasp
+- !ruby/struct:Meta
+  id: 1657
+  page_id: 1
+  name: calc
+  value: car arnošt líže cecek
+- !ruby/struct:Meta
+  id: 1658
+  page_id: 1
+  name: calc
+  value: crumbling around luscious cookies
+- !ruby/struct:Meta
+  id: 1659
+  page_id: 1
+  name: calc
+  value: celá armáda láká cukrkandly
+- !ruby/struct:Meta
+  id: 1660
+  page_id: 1
+  name: calc
+  value: cloudless antirain leads to canshine
+- !ruby/struct:Meta
+  id: 1661
+  page_id: 1
+  name: calc
+  value: 'capital ape-affairs don''t leak capitalists '
+- !ruby/struct:Meta
+  id: 1662
+  page_id: 1
+  name: calc
+  value: cochen artig loefflen critzeln
+- !ruby/struct:Meta
+  id: 1663
+  page_id: 1
+  name: calc
+  value: conscious august lacks consciousness
+- !ruby/struct:Meta
+  id: 1664
+  page_id: 1
+  name: calc
+  value: crashing         w(e) allstreet leaves cashcrumbs
+- !ruby/struct:Meta
+  id: 1665
+  page_id: 1
+  name: calc
+  value: cratzn am lack des capitals
+- !ruby/struct:Meta
+  id: 1666
+  page_id: 1
+  name: calc
+  value: cerns atome laufen crumm
+- !ruby/struct:Meta
+  id: 1667
+  page_id: 1
+  name: calc
+  value: cluft arm-reich luft clamm-clump
+- !ruby/struct:Meta
+  id: 1668
+  page_id: 1
+  name: calc
+  value: clumms aidi laufstegt crumm
+- !ruby/struct:Meta
+  id: 1670
+  page_id: 1
+  name: calc
+  value: cummt ain lengel ceflogen
+- !ruby/struct:Meta
+  id: 1671
+  page_id: 1
+  name: calc
+  value: como ancona livorno.. e ritorno a  como
+- !ruby/struct:Meta
+  id: 1672
+  page_id: 1
+  name: calc
+  value: cool are lockt chinder
+- !ruby/struct:Meta
+  id: 1673
+  page_id: 1
+  name: calc
+  value: chocolate aligned like creatures
+- !ruby/struct:Meta
+  id: 1675
+  page_id: 1
+  name: calc
+  value: canadisches ahorn laubt celtisch
+- !ruby/struct:Meta
+  id: 1676
+  page_id: 1
+  name: calc
+  value: chef alonso loves cooking :)
+- !ruby/struct:Meta
+  id: 1677
+  page_id: 1
+  name: calc
+  value: climpfliche artentate loesen craempfe
+- !ruby/struct:Meta
+  id: 1678
+  page_id: 1
+  name: calc
+  value: corn ale put lips in the corner
+- !ruby/struct:Meta
+  id: 1680
+  page_id: 1
+  name: calc
+  value: cipher any lacking communicae
+- !ruby/struct:Meta
+  id: 1681
+  page_id: 1
+  name: calc
+  value: cool and light coexistance
+- !ruby/struct:Meta
+  id: 1682
+  page_id: 1
+  name: calc
+  value: chairman anthony linoleum,  comfortable
+- !ruby/struct:Meta
+  id: 1683
+  page_id: 1
+  name: calc
+  value: cipfel alebnisse laeutern chromosamen
+- !ruby/struct:Meta
+  id: 1684
+  page_id: 1
+  name: calc
+  value: chickens always love corn
+- !ruby/struct:Meta
+  id: 1685
+  page_id: 1
+  name: calc
+  value: convergence addicted lines and circles
+- !ruby/struct:Meta
+  id: 1686
+  page_id: 1
+  name: calc
+  value: cotton and linoleum carpets
+- !ruby/struct:Meta
+  id: 1687
+  page_id: 1
+  name: calc
+  value: carot and lemon cakes
+- !ruby/struct:Meta
+  id: 1688
+  page_id: 1
+  name: calc
+  value: chester and lawrence chatting
+- !ruby/struct:Meta
+  id: 1689
+  page_id: 1
+  name: calc
+  value: cubist artists learn circling
+- !ruby/struct:Meta
+  id: 1690
+  page_id: 1
+  name: calc
+  value: crockante alegante lieblamm cumpeloni!
+- !ruby/struct:Meta
+  id: 1691
+  page_id: 1
+  name: calc
+  value: casi  añoro los compañeros de estudio
+- !ruby/struct:Meta
+  id: 1692
+  page_id: 1
+  name: calc
+  value: cardamom and other luscious cooking ingredients
+- !ruby/struct:Meta
+  id: 1693
+  page_id: 1
+  name: calc
+  value: crows aerostyle labializes cloudspells
+- !ruby/struct:Meta
+  id: 1694
+  page_id: 1
+  name: calc
+  value: color agnostic living room couch
+- !ruby/struct:Meta
+  id: 1695
+  page_id: 1
+  name: calc
+  value: calcutta andelsbuch l.a. cannes
+- !ruby/struct:Meta
+  id: 1696
+  page_id: 1
+  name: calc
+  value: cid creole and le coconuts
+- !ruby/struct:Meta
+  id: 1697
+  page_id: 1
+  name: calc
+  value: crashing angels learning to camp
+- !ruby/struct:Meta
+  id: 1698
+  page_id: 1
+  name: calc
+  value: concept architecture life cycle
+- !ruby/struct:Meta
+  id: 1699
+  page_id: 1
+  name: calc
+  value: competent agents licking crapefruitflesh
+- !ruby/struct:Meta
+  id: 1700
+  page_id: 1
+  name: calc
+  value: chrismas always lights up christcandles
+- !ruby/struct:Meta
+  id: 1701
+  page_id: 1
+  name: calc
+  value: crysler autos are lacky crashtestvaults
+- !ruby/struct:Meta
+  id: 1702
+  page_id: 1
+  name: calc
+  value: c-black bird flying in the dark a silhouette like a stencil against the full
+    moon la sound of a weeping frog from the meadow c-trees hanging upside down
+- !ruby/struct:Meta
+  id: 1703
+  page_id: 1
+  name: calc
+  value: clanglose antworten luegen wohl caum
+- !ruby/struct:Meta
+  id: 1704
+  page_id: 1
+  name: calc
+  value: catching artballs from  libero calc
+- !ruby/struct:Meta
+  id: 1705
+  page_id: 1
+  name: calc
+  value: citzelige achsel  macht lachen cummerlos
+- !ruby/struct:Meta
+  id: 1706
+  page_id: 1
+  name: calc
+  value: cognac armagnac lauchschnaps closterfraumeklissengeist
+- !ruby/struct:Meta
+  id: 1707
+  page_id: 1
+  name: calc
+  value: chuzpe ain't a  lost chakra
+- !ruby/struct:Meta
+  id: 1708
+  page_id: 1
+  name: calc
+  value: crazily and lazily crashed
+- !ruby/struct:Meta
+  id: 1709
+  page_id: 1
+  name: calc
+  value: certainly and laureltree. can't it be?
+- !ruby/struct:Meta
+  id: 1710
+  page_id: 1
+  name: calc
+  value: crumbling around lonely in the  coffee shop
+- !ruby/struct:Meta
+  id: 1711
+  page_id: 1
+  name: calc
+  value: car attacs luck cada día
+- !ruby/struct:Meta
+  id: 1712
+  page_id: 1
+  name: calc
+  value: come on andrew, let the cow chomp
+- !ruby/struct:Meta
+  id: 1713
+  page_id: 1
+  name: calc
+  value: chris and annie licking candy
+- !ruby/struct:Meta
+  id: 1714
+  page_id: 1
+  name: calc
+  value: candy over - annie licks chris
+- !ruby/struct:Meta
+  id: 1715
+  page_id: 1
+  name: calc
+  value: crappy appy lappy crew
+- !ruby/struct:Meta
+  id: 1716
+  page_id: 1
+  name: calc
+  value: cops anger  doesn't look like copanger
+- !ruby/struct:Meta
+  id: 1717
+  page_id: 1
+  name: calc
+  value: charlie angel likes  christians
+- !ruby/struct:Meta
+  id: 1718
+  page_id: 1
+  name: calc
+  value: channel artcore launching coreart
+- !ruby/struct:Meta
+  id: 1719
+  page_id: 1
+  name: calc
+  value: coche al lado circulando
+- !ruby/struct:Meta
+  id: 1720
+  page_id: 1
+  name: calc
+  value: calctrinos arriba luz corriente
+- !ruby/struct:Meta
+  id: 1721
+  page_id: 1
+  name: calc
+  value: casqueiro atlantico laboratorio cultural
+- !ruby/struct:Meta
+  id: 1722
+  page_id: 1
+  name: calc
+  value: cyan and lemongreen coral reef
+- !ruby/struct:Meta
+  id: 1723
+  page_id: 1
+  name: calc
+  value: casdad aadsada lasdad casad
+- !ruby/struct:Meta
+  id: 1724
+  page_id: 1
+  name: calc
+  value: creide abendessen loest cehlkopfklemmen!
+- !ruby/struct:Meta
+  id: 1725
+  page_id: 1
+  name: calc
+  value: cozze aringa  lupo di mare calamari
+- !ruby/struct:Meta
+  id: 1726
+  page_id: 1
+  name: calc
+  value: climax and loudmary climbing
+- !ruby/struct:Meta
+  id: 1727
+  page_id: 1
+  name: calc
+  value: 'clartext: alles leben cringelt.'
+- !ruby/struct:Meta
+  id: 1728
+  page_id: 1
+  name: calc
+  value: come along lovely calf
+- !ruby/struct:Meta
+  id: 1729
+  page_id: 1
+  name: calc
+  value: come altre lingue concepiscono
+- !ruby/struct:Meta
+  id: 1730
+  page_id: 1
+  name: calc
+  value: camm am lamm clamm
+- !ruby/struct:Meta
+  id: 1731
+  page_id: 1
+  name: calc
+  value: came well, ate bad, liqueured 'lot, crashed vomit.
+- !ruby/struct:Meta
+  id: 1732
+  page_id: 1
+  name: calc
+  value: com€ a£tre         specu lant¥ $ono tutti cazzi
+- !ruby/struct:Meta
+  id: 1733
+  page_id: 1
+  name: calc
+  value: closeup after language change
+- !ruby/struct:Meta
+  id: 1734
+  page_id: 1
+  name: calc
+  value: cuckoos are living in clocks
+- !ruby/struct:Meta
+  id: 1735
+  page_id: 1
+  name: calc
+  value: cummer argwohn, launen cram
+- !ruby/struct:Meta
+  id: 1736
+  page_id: 1
+  name: calc
+  value: crack arsen lauchlikoer croetenschleim
+- !ruby/struct:Meta
+  id: 1737
+  page_id: 1
+  name: calc
+  value: crowns are lamp citsch
+- !ruby/struct:Meta
+  id: 1738
+  page_id: 1
+  name: calc
+  value: cleine apfelsine lernt calauern
+- !ruby/struct:Meta
+  id: 1739
+  page_id: 1
+  name: calc
+  value: computer apples  versus lemon computers
+- !ruby/struct:Meta
+  id: 1741
+  page_id: 1
+  name: calc
+  value: computational alogrithmic lexical comparison
+- !ruby/struct:Meta
+  id: 1745
+  page_id: 1
+  name: calc
+  value: cnusper alone late on the couch
+- !ruby/struct:Meta
+  id: 1746
+  page_id: 1
+  name: calc
+  value: chilly autumn likely coming
+- !ruby/struct:Meta
+  id: 1747
+  page_id: 1
+  name: calc
+  value: cashive attack on lousy credits
+- !ruby/struct:Meta
+  id: 1748
+  page_id: 1
+  name: calc
+  value: carfunkeling art luminates calc
+- !ruby/struct:Meta
+  id: 1749
+  page_id: 1
+  name: calc
+  value: cardiac ampere luminating cheerfull thoughts
+- !ruby/struct:Meta
+  id: 1750
+  page_id: 1
+  name: calc
+  value: crystal amplified light continuum
+- !ruby/struct:Meta
+  id: 1751
+  page_id: 1
+  name: calc
+  value: cerebrum anterior lateral colosal
+- !ruby/struct:Meta
+  id: 1752
+  page_id: 1
+  name: calc
+  value: cover art lashes content
+- !ruby/struct:Meta
+  id: 1753
+  page_id: 1
+  name: calc
+  value: casa anarquica laboratorio caotico
+- !ruby/struct:Meta
+  id: 1754
+  page_id: 1
+  name: calc
+  value: can a human life radically inside- change?
+- !ruby/struct:Meta
+  id: 1757
+  page_id: 1
+  name: calc
+  value: cyprische artischoken ligurische cartoffeln
+- !ruby/struct:Meta
+  id: 1758
+  page_id: 1
+  name: calc
+  value: cowards are lesson catchers
+- !ruby/struct:Meta
+  id: 1759
+  page_id: 1
+  name: calc
+  value: copywriters are letter catchers
+- !ruby/struct:Meta
+  id: 1760
+  page_id: 1
+  name: calc
+  value: cultures advanced leisure club
+- !ruby/struct:Meta
+  id: 1761
+  page_id: 1
+  name: calc
+  value: citizens are leaving currencies
+- !ruby/struct:Meta
+  id: 1762
+  page_id: 1
+  name: calc
+  value: conflicts are longterm crosswords
+- !ruby/struct:Meta
+  id: 1763
+  page_id: 1
+  name: calc
+  value: crayons and lions collaborating
+- !ruby/struct:Meta
+  id: 1764
+  page_id: 1
+  name: calc
+  value: caff am landrand,  clein und fein.
+- !ruby/struct:Meta
+  id: 1765
+  page_id: 1
+  name: calc
+  value: clark able loves collywood
+- !ruby/struct:Meta
+  id: 1766
+  page_id: 1
+  name: calc
+  value: clampfen am lagerfeuer claepft!
+- !ruby/struct:Meta
+  id: 1767
+  page_id: 1
+  name: calc
+  value: ciao amore looser cavaliere!
+- !ruby/struct:Meta
+  id: 1768
+  page_id: 1
+  name: calc
+  value: capital anti letters commitment
+- !ruby/struct:Meta
+  id: 1770
+  page_id: 1
+  name: calc
+  value: chromatic autumn light coughing
+- !ruby/struct:Meta
+  id: 1771
+  page_id: 1
+  name: calc
+  value: cipfl alebnisse   am laufenden camm!
+- !ruby/struct:Meta
+  id: 1772
+  page_id: 1
+  name: calc
+  value: curro aix =   a lmost Dr. culture now!
+- !ruby/struct:Meta
+  id: 1773
+  page_id: 1
+  name: calc
+  value: corpi artistici luminando il centro
+- !ruby/struct:Meta
+  id: 1774
+  page_id: 1
+  name: calc
+  value: corpus angelicus loreleierlei christus
+- !ruby/struct:Meta
+  id: 1775
+  page_id: 1
+  name: calc
+  value: christmas and no limit commerce
+- !ruby/struct:Meta
+  id: 1776
+  page_id: 1
+  name: calc
+  value: christstollen anknabbern     hinter laesst cruemel
+- !ruby/struct:Meta
+  id: 1777
+  page_id: 1
+  name: calc
+  value: czech adventures   of lasting couples
+- !ruby/struct:Meta
+  id: 1778
+  page_id: 1
+  name: calc
+  value: cafca mit C ist wie ag ohne Pr.   lose ceile.
+- !ruby/struct:Meta
+  id: 1779
+  page_id: 1
+  name: calc
+  value: c'è anche la cedrata
+- !ruby/struct:Meta
+  id: 1780
+  page_id: 1
+  name: calc
+  value: cumple años  feliz lovely campagna!
+- !ruby/struct:Meta
+  id: 1781
+  page_id: 1
+  name: calc
+  value: call another love city
+- !ruby/struct:Meta
+  id: 1782
+  page_id: 1
+  name: calc
+  value: cry and love citizen
+- !ruby/struct:Meta
+  id: 1783
+  page_id: 1
+  name: calc
+  value: clieben gruß aus ldortmund cgeorg
+- !ruby/struct:Meta
+  id: 1784
+  page_id: 1
+  name: calc
+  value: clobig artig lautlos clappernd
+- !ruby/struct:Meta
+  id: 1785
+  page_id: 1
+  name: calc
+  value: cama alma laboratorio curratoriale
+- !ruby/struct:Meta
+  id: 1786
+  page_id: 1
+  name: calc
+  value: clooney affects ladies considering rings
+- !ruby/struct:Meta
+  id: 1787
+  page_id: 1
+  name: calc
+  value: clooney also a loonely cowboy
+- !ruby/struct:Meta
+  id: 1788
+  page_id: 1
+  name: calc
+  value: czech amore lukaš cruising prague
+- !ruby/struct:Meta
+  id: 1789
+  page_id: 1
+  name: calc
+  value: calm flying autumn leaves clouding
+- !ruby/struct:Meta
+  id: 1790
+  page_id: 1
+  name: calc
+  value: critical artists licking candles
+- !ruby/struct:Meta
+  id: 1791
+  page_id: 1
+  name: calc
+  value: collaborative ants labouring on cakes and fakes
+- !ruby/struct:Meta
+  id: 1792
+  page_id: 1
+  name: calc
+  value: cow arts loves curt
+- !ruby/struct:Meta
+  id: 1799
+  page_id: 245
+  name: link
+  value: http://www.calcaxy.com
+- !ruby/struct:Meta
+  id: 1800
+  page_id: 245
+  name: date
+  value: 2011/02
+- !ruby/struct:Meta
+  id: 1801
+  page_id: 1
+  name: calc
+  value: cappuccino al latte caldo
+- !ruby/struct:Meta
+  id: 1802
+  page_id: 1
+  name: calc
+  value: confectioner's sugar allover lovely countryside
+- !ruby/struct:Meta
+  id: 1803
+  page_id: 1
+  name: calc
+  value: cluppige angeber lumpen csindel
+- !ruby/struct:Meta
+  id: 1804
+  page_id: 1
+  name: calc
+  value: cnackige austrianer lieben cuasseln
+- !ruby/struct:Meta
+  id: 1805
+  page_id: 1
+  name: calc
+  value: craul appen leben craullenzend
+- !ruby/struct:Meta
+  id: 1806
+  page_id: 1
+  name: calc
+  value: cows are looking for crass
+- !ruby/struct:Meta
+  id: 1807
+  page_id: 1
+  name: calc
+  value: crampus already left campus
+- !ruby/struct:Meta
+  id: 1808
+  page_id: 1
+  name: calc
+  value: christkinds approach and landing cordially
+- !ruby/struct:Meta
+  id: 1809
+  page_id: 1
+  name: calc
+  value: cnuspern all die leckeren christstollen
+- !ruby/struct:Meta
+  id: 1810
+  page_id: 1
+  name: calc
+  value: cluge artisten liebkosen cringelkekse
+- !ruby/struct:Meta
+  id: 1811
+  page_id: 1
+  name: calc
+  value: curatorial axis loops copy-pastings!
+- !ruby/struct:Meta
+  id: 1812
+  page_id: 1
+  name: calc
+  value: cleaning a  fassade - leaning on crumbs
+- !ruby/struct:Meta
+  id: 1813
+  page_id: 1
+  name: calc
+  value: cleaning another loose cornerstone
+- !ruby/struct:Meta
+  id: 1814
+  page_id: 1
+  name: calc
+  value: carving awsome lazy colors
+- !ruby/struct:Meta
+  id: 1815
+  page_id: 1
+  name: calc
+  value: commt ain landwerker ceflogen
+- !ruby/struct:Meta
+  id: 1816
+  page_id: 1
+  name: calc
+  value: clettern am langen cabel
+- !ruby/struct:Meta
+  id: 1817
+  page_id: 1
+  name: calc
+  value: clingeln an lauter clocke
+- !ruby/struct:Meta
+  id: 1818
+  page_id: 1
+  name: calc
+  value: cellular archive of lightdriven cardinal sins
+- !ruby/struct:Meta
+  id: 1819
+  page_id: 1
+  name: calc
+  value: canz an liaben c(r)uss!
+- !ruby/struct:Meta
+  id: 1820
+  page_id: 1
+  name: calc
+  value: city and pub li city
+- !ruby/struct:Meta
+  id: 1821
+  page_id: 1
+  name: calc
+  value: curating abandoned lonely corners
+- !ruby/struct:Meta
+  id: 1822
+  page_id: 1
+  name: calc
+  value: cinema arduino l'open course
+- !ruby/struct:Meta
+  id: 1823
+  page_id: 1
+  name: calc
+  value: compliment all living creatures
+- !ruby/struct:Meta
+  id: 1824
+  page_id: 1
+  name: calc
+  value: catalyst annalist lutanist calcist
+- !ruby/struct:Meta
+  id: 1825
+  page_id: 1
+  name: calc
+  value: cisterne  appese come lanterne per il  compleanno :-)
+- !ruby/struct:Meta
+  id: 1826
+  page_id: 1
+  name: calc
+  value: come  and dance a long  come on
+- !ruby/struct:Meta
+  id: 1827
+  page_id: 1
+  name: calc
+  value: cenes (genes) are liquid characters
+- !ruby/struct:Meta
+  id: 1828
+  page_id: 1
+  name: calc
+  value: call for  applications on lomatinous calculi
+- !ruby/struct:Meta
+  id: 1829
+  page_id: 1
+  name: calc
+  value: copyrights are left copies
+- !ruby/struct:Meta
+  id: 1830
+  page_id: 1
+  name: calc
+  value: copyrights are laming creativity
+- !ruby/struct:Meta
+  id: 1831
+  page_id: 1
+  name: calc
+  value: caleidoscoping art and life circumstances
+- !ruby/struct:Meta
+  id: 1832
+  page_id: 1
+  name: calc
+  value: como ando  liado  con  esto
+- !ruby/struct:Meta
+  id: 1833
+  page_id: 1
+  name: calc
+  value: cracks  all across lackadaisical ceilings
+- !ruby/struct:Meta
+  id: 1834
+  page_id: 1
+  name: calc
+  value: copernicus ambitiously looking for comets
+- !ruby/struct:Meta
+  id: 1835
+  page_id: 1
+  name: calc
+  value: cushion averse lurking creature
+- !ruby/struct:Meta
+  id: 1836
+  page_id: 1
+  name: calc
+  value: contemporary arts lack contemporarity
+- !ruby/struct:Meta
+  id: 1837
+  page_id: 1
+  name: calc
+  value: camlarda asılı  lastik coplar
+- !ruby/struct:Meta
+  id: 1838
+  page_id: 1
+  name: calc
+  value: cielo ella busca. ¿y que encuentra? encuentra otro bosque, encuentra cosas
+    imposibles, encuentra un animal raro, encuentra una cosecha mayor, encuentra un
+    amor. asi  lo cambia
+- !ruby/struct:Meta
+  id: 1839
+  page_id: 1
+  name: calc
+  value: corrupt apples lemonize california
+- !ruby/struct:Meta
+  id: 1840
+  page_id: 1
+  name: calc
+  value: cosmetics and lubricating cream
+- !ruby/struct:Meta
+  id: 1841
+  page_id: 1
+  name: calc
+  value: ceos are love-lack crocodiles
+- !ruby/struct:Meta
+  id: 1842
+  page_id: 1
+  name: calc
+  value: climmzuege atemzuege lungenzuege cityzuege
+- !ruby/struct:Meta
+  id: 1843
+  page_id: 1
+  name: calc
+  value: cooper accompanied by little chill
+- !ruby/struct:Meta
+  id: 1844
+  page_id: 1
+  name: calc
+  value: cava anarchica lago caspio
+- !ruby/struct:Meta
+  id: 1845
+  page_id: 1
+  name: calc
+  value: croissants are likely curved
+- !ruby/struct:Meta
+  id: 1846
+  page_id: 1
+  name: calc
+  value: caro antoni Tàpies left  catalunya. r.i.p.
+- !ruby/struct:Meta
+  id: 1847
+  page_id: 1
+  name: calc
+  value: calcium alone letter culito
+- !ruby/struct:Meta
+  id: 1848
+  page_id: 1
+  name: calc
+  value: crammy awards      lack clamour
+- !ruby/struct:Meta
+  id: 1849
+  page_id: 1
+  name: calc
+  value: climbing all up to the lightnight ceiling
+- !ruby/struct:Meta
+  id: 1850
+  page_id: 1
+  name: calc
+  value: cuarenta  anos lleno corazon
+- !ruby/struct:Meta
+  id: 1851
+  page_id: 1
+  name: calc
+  value: colossal artbusters labouring on concrete
+- !ruby/struct:Meta
+  id: 1852
+  page_id: 1
+  name: calc
+  value: co-creation aint a ludic collaboration
+- !ruby/struct:Meta
+  id: 1853
+  page_id: 1
+  name: calc
+  value: clatschende aale laichen cuervelnd
+- !ruby/struct:Meta
+  id: 1854
+  page_id: 1
+  name: calc
+  value: craxelnde alpinisten lauern und  cauern
+- !ruby/struct:Meta
+  id: 1855
+  page_id: 1
+  name: calc
+  value: completely astonishing life cells
+- !ruby/struct:Meta
+  id: 1856
+  page_id: 1
+  name: calc
+  value: cannot always loose consciousness
+- !ruby/struct:Meta
+  id: 1857
+  page_id: 1
+  name: calc
+  value: cooking amplifies live conviviality
+- !ruby/struct:Meta
+  id: 1858
+  page_id: 1
+  name: calc
+  value: cranes are lifting chums
+- !ruby/struct:Meta
+  id: 1861
+  page_id: 1
+  name: calc
+  value: captain arctic  shiping all a long the hot coast
+- !ruby/struct:Meta
+  id: 1862
+  page_id: 1
+  name: calc
+  value: ceine art liebt creationisten
+- !ruby/struct:Meta
+  id: 1863
+  page_id: 1
+  name: calc
+  value: clang an_ton laeutet clingend clar
+- !ruby/struct:Meta
+  id: 1864
+  page_id: 1
+  name: calc
+  value: curly antenas ligthning cignals
+- !ruby/struct:Meta
+  id: 1865
+  page_id: 1
+  name: calc
+  value: ciudad avanguardia laboratorio colaborativo
+- !ruby/struct:Meta
+  id: 1866
+  page_id: 1
+  name: calc
+  value: colleridge and lenin = ceo`s of the world
+- !ruby/struct:Meta
+  id: 1867
+  page_id: 1
+  name: calc
+  value: chaplin and stan laurel are the real cings
+- !ruby/struct:Meta
+  id: 1868
+  page_id: 1
+  name: calc
+  value: commt a feins lüfterl ceflogen
+- !ruby/struct:Meta
+  id: 1869
+  page_id: 1
+  name: calc
+  value: circling around a larger circumstance
+- !ruby/struct:Meta
+  id: 1870
+  page_id: 1
+  name: calc
+  value: curving along large central europe
+- !ruby/struct:Meta
+  id: 1871
+  page_id: 1
+  name: calc
+  value: catching ants while life catches me
+- !ruby/struct:Meta
+  id: 1872
+  page_id: 1
+  name: calc
+  value: caressing a problem at its lightning corner
+- !ruby/struct:Meta
+  id: 1873
+  page_id: 1
+  name: calc
+  value: consonic artfarts  stink like  rotten cucumber
+- !ruby/struct:Meta
+  id: 1874
+  page_id: 1
+  name: calc
+  value: cnackige aepfel latschige carotten
+- !ruby/struct:Meta
+  id: 1875
+  page_id: 1
+  name: calc
+  value: clein amadeus lugt caleidoskopisch
+- !ruby/struct:Meta
+  id: 1876
+  page_id: 1
+  name: calc
+  value: cirpende amper libellen cnausern
+- !ruby/struct:Meta
+  id: 1878
+  page_id: 1
+  name: calc
+  value: ceine angst lose cirche . . .
+- !ruby/struct:Meta
+  id: 1879
+  page_id: 1
+  name: calc
+  value: creuz + quere allerlei lauwebt den cleincosmos
+- !ruby/struct:Meta
+  id: 1880
+  page_id: 1
+  name: calc
+  value: cloud angle loves cablesalat!
+- !ruby/struct:Meta
+  id: 1881
+  page_id: 1
+  name: calc
+  value: circles aint limp cubes
+- !ruby/struct:Meta
+  id: 1882
+  page_id: 1
+  name: calc
+  value: canned aqua loescht clut ganz gut
+- !ruby/struct:Meta
+  id: 1883
+  page_id: 1
+  name: calc
+  value: coffee and lekker cutzies
+- !ruby/struct:Meta
+  id: 1884
+  page_id: 1
+  name: calc
+  value: creamy snow at lightspa ce
+- !ruby/struct:Meta
+  id: 1885
+  page_id: 1
+  name: calc
+  value: contradiction and lacking conciousness
+- !ruby/struct:Meta
+  id: 1886
+  page_id: 1
+  name: calc
+  value: crowdfounded arts leak capital y tal
+- !ruby/struct:Meta
+  id: 1887
+  page_id: 1
+  name: calc
+  value: cings are looking for crowns
+- !ruby/struct:Meta
+  id: 1888
+  page_id: 1
+  name: calc
+  value: cuck alle leider ceil
+- !ruby/struct:Meta
+  id: 1889
+  page_id: 1
+  name: calc
+  value: corazon ambulante llevando cariño
+- !ruby/struct:Meta
+  id: 1890
+  page_id: 1
+  name: calc
+  value: circles are liberating cubicles
+- !ruby/struct:Meta
+  id: 1891
+  page_id: 1
+  name: calc
+  value: coronaries are live canalization
+- !ruby/struct:Meta
+  id: 1892
+  page_id: 1
+  name: calc
+  value: crishna are lare crishna :-)
+- !ruby/struct:Meta
+  id: 1893
+  page_id: 1
+  name: calc
+  value: curving air loop captains
+- !ruby/struct:Meta
+  id: 1896
+  page_id: 1
+  name: calc
+  value: corn asphalt landscape chevroleting
+- !ruby/struct:Meta
+  id: 1897
+  page_id: 1
+  name: calc
+  value: cosa abstracta lovely cris
+- !ruby/struct:Meta
+  id: 1898
+  page_id: 1
+  name: calc
+  value: ceep always a  love crown
+- !ruby/struct:Meta
+  id: 1899
+  page_id: 1
+  name: calc
+  value: crowning a poor and lovely cing
+- !ruby/struct:Meta
+  id: 1900
+  page_id: 1
+  name: calc
+  value: cipfel abenteuer lauthalsig climmend
+- !ruby/struct:Meta
+  id: 1901
+  page_id: 1
+  name: calc
+  value: cow aighty meters ahaed loves watching cruisers
+- !ruby/struct:Meta
+  id: 1902
+  page_id: 1
+  name: calc
+  value: cervantes autopistas ladroladrones capitalcapullos
+- !ruby/struct:Meta
+  id: 1903
+  page_id: 1
+  name: calc
+  value: colgando al ladrillo los cojones
+- !ruby/struct:Meta
+  id: 1904
+  page_id: 1
+  name: calc
+  value: cloudy atmosphere lazy  celsius
+- !ruby/struct:Meta
+  id: 1905
+  page_id: 1
+  name: calc
+  value: caleidish atrium life curves view
+- !ruby/struct:Meta
+  id: 1906
+  page_id: 1
+  name: calc
+  value: cultivated asphalt light composition
+- !ruby/struct:Meta
+  id: 1907
+  page_id: 1
+  name: calc
+  value: crumme antennen lauschen curvig
+- !ruby/struct:Meta
+  id: 1908
+  page_id: 1
+  name: calc
+  value: crueselnde atome leibern cugelig voran
+- !ruby/struct:Meta
+  id: 1909
+  page_id: 1
+  name: calc
+  value: cultiva alcachofas lechugas   y coles
+- !ruby/struct:Meta
+  id: 1910
+  page_id: 1
+  name: calc
+  value: circular airplaned loudpeaker crashtestdummies
+- !ruby/struct:Meta
+  id: 1911
+  page_id: 1
+  name: calc
+  value: cowboys and lawmen catching nows
+- !ruby/struct:Meta
+  id: 1912
+  page_id: 1
+  name: calc
+  value: cold aint loud cold is silence, but hot.
+- !ruby/struct:Meta
+  id: 1913
+  page_id: 1
+  name: calc
+  value: cantar alto cantar libre  cantar cantar
+- !ruby/struct:Meta
+  id: 1914
+  page_id: 1
+  name: calc
+  value: cartoffel in aqua liebauegt mit camera
+- !ruby/struct:Meta
+  id: 1915
+  page_id: 1
+  name: calc
+  value: cuemmel auf lamm und cous cous
+- !ruby/struct:Meta
+  id: 1916
+  page_id: 1
+  name: calc
+  value: carma ainer licht clocke
+- !ruby/struct:Meta
+  id: 1917
+  page_id: 1
+  name: calc
+  value: computing always lurks cells
+- !ruby/struct:Meta
+  id: 1918
+  page_id: 1
+  name: calc
+  value: chess always looks crazy
+- !ruby/struct:Meta
+  id: 1919
+  page_id: 1
+  name: calc
+  value: conjunktiv adjektriv lokomotiv cleitmotiv
+- !ruby/struct:Meta
+  id: 1920
+  page_id: 1
+  name: calc
+  value: companies are little containers
+- !ruby/struct:Meta
+  id: 1921
+  page_id: 1
+  name: calc
+  value: crumble and love cookies
+- !ruby/struct:Meta
+  id: 1922
+  page_id: 1
+  name: calc
+  value: calculo algoritmos lugar conciencia
+- !ruby/struct:Meta
+  id: 1923
+  page_id: 1
+  name: calc
+  value: cracked artbank liberates creativity
+- !ruby/struct:Meta
+  id: 1924
+  page_id: 1
+  name: calc
+  value: colors again  light up corners
+- !ruby/struct:Meta
+  id: 1925
+  page_id: 1
+  name: calc
+  value: combine any lurking capabilities
+- !ruby/struct:Meta
+  id: 1926
+  page_id: 1
+  name: calc
+  value: chairs awaiting a  lonsome cigarette in man
+- !ruby/struct:Meta
+  id: 1927
+  page_id: 1
+  name: calc
+  value: calm atmosphere loaded with clouds
+- !ruby/struct:Meta
+  id: 1928
+  page_id: 1
+  name: calc
+  value: cleine augen lugen clitzrig
+- !ruby/struct:Meta
+  id: 1929
+  page_id: 1
+  name: calc
+  value: car_ma_ra_do_na av_er_id_er_chi lao_tse cung_fu
+- !ruby/struct:Meta
+  id: 1930
+  page_id: 1
+  name: calc
+  value: corporate aidentity liberation chorus
+- !ruby/struct:Meta
+  id: 1931
+  page_id: 1
+  name: calc
+  value: caukassus arlberg lorelei crumbach
+- !ruby/struct:Meta
+  id: 1932
+  page_id: 1
+  name: calc
+  value: cairo andelsbuch london chicago
+- !ruby/struct:Meta
+  id: 1933
+  page_id: 1
+  name: calc
+  value: coeln antwerpen lingenau capstadt
+- !ruby/struct:Meta
+  id: 1934
+  page_id: 1
+  name: calc
+  value: cleiner ausschnitt eines langen corridors
+- !ruby/struct:Meta
+  id: 1935
+  page_id: 1
+  name: calc
+  value: clouds apon lightning cyberbible
+- !ruby/struct:Meta
+  id: 1936
+  page_id: 1
+  name: calc
+  value: colossale aale laichen im colokreissaal
+- !ruby/struct:Meta
+  id: 1937
+  page_id: 1
+  name: calc
+  value: cuasi another limping cuasimodo
+- !ruby/struct:Meta
+  id: 1938
+  page_id: 1
+  name: calc
+  value: coons art looks like cocainekitsch
+- !ruby/struct:Meta
+  id: 1940
+  page_id: 1
+  name: calc
+  value: combinando algunas lijeras cestas
+- !ruby/struct:Meta
+  id: 1941
+  page_id: 1
+  name: calc
+  value: captain america doesn't lack coldblood
+- !ruby/struct:Meta
+  id: 1942
+  page_id: 1
+  name: calc
+  value: christ and atheist  both love cypher
+- !ruby/struct:Meta
+  id: 1943
+  page_id: 1
+  name: calc
+  value: condoms ampere lightnings cornerstones
+- !ruby/struct:Meta
+  id: 1944
+  page_id: 1
+  name: calc
+  value: culture as a  longterm cradle
+- !ruby/struct:Meta
+  id: 1946
+  page_id: 1
+  name: calc
+  value: cocain amphetamin lidocaine  canabis
+- !ruby/struct:Meta
+  id: 1947
+  page_id: 1
+  name: calc
+  value: caviar asparagus lychee coconut
+- !ruby/struct:Meta
+  id: 1948
+  page_id: 1
+  name: calc
+  value: calcies alle lieben curt
+- !ruby/struct:Meta
+  id: 1949
+  page_id: 1
+  name: calc
+  value: curts arbeit lichtert  im freien chor
+- !ruby/struct:Meta
+  id: 1950
+  page_id: 1
+  name: calc
+  value: colors are the lights curt lives
+- !ruby/struct:Meta
+  id: 1951
+  page_id: 1
+  name: calc
+  value: cristal architecture light chain element
+- !ruby/struct:Meta
+  id: 1952
+  page_id: 1
+  name: calc
+  value: corn and loombroom capital
+- !ruby/struct:Meta
+  id: 1953
+  page_id: 1
+  name: calc
+  value: country alley  valley limp cruisin'
+- !ruby/struct:Meta
+  id: 1954
+  page_id: 1
+  name: calc
+  value: cameron de l a  isla llegara cantando
+- !ruby/struct:Meta
+  id: 1955
+  page_id: 1
+  name: calc
+  value: cola agua llave cosa
+- !ruby/struct:Meta
+  id: 1956
+  page_id: 1
+  name: calc
+  value: colors are all ligthning clashes
+- !ruby/struct:Meta
+  id: 1957
+  page_id: 1
+  name: calc
+  value: cracked asphalt left cornercurves
+- !ruby/struct:Meta
+  id: 1958
+  page_id: 1
+  name: calc
+  value: cosmic and lifes questions make comix
+- !ruby/struct:Meta
+  id: 1959
+  page_id: 1
+  name: calc
+  value: contemporary artists loosely cooperate
+- !ruby/struct:Meta
+  id: 1960
+  page_id: 1
+  name: calc
+  value: cloud airbag leanring to calm down
+- !ruby/struct:Meta
+  id: 1961
+  page_id: 1
+  name: calc
+  value: christian aus lingenau sagt ciao ;-)!
+- !ruby/struct:Meta
+  id: 1962
+  page_id: 1
+  name: calc
+  value: cunigunde aus luneheide sagt crautsachen
+- !ruby/struct:Meta
+  id: 1963
+  page_id: 1
+  name: calc
+  value: coepfelnd ausser landes campierend
+- !ruby/struct:Meta
+  id: 1964
+  page_id: 1
+  name: calc
+  value: cosmopoliten aller laender cuesst euch
+- !ruby/struct:Meta
+  id: 1965
+  page_id: 1
+  name: calc
+  value: cola ama lola cosa
+- !ruby/struct:Meta
+  id: 1966
+  page_id: 1
+  name: calc
+  value: carla aveces llora canicas
+- !ruby/struct:Meta
+  id: 1968
+  page_id: 1
+  name: calc
+  value: closeup and longtime coops
+- !ruby/struct:Meta
+  id: 1969
+  page_id: 1
+  name: calc
+  value: cucken ainfach laufend cradausdurch!
+- !ruby/struct:Meta
+  id: 1970
+  page_id: 1
+  name: calc
+  value: corales atolondrados libremente coralean
+- !ruby/struct:Meta
+  id: 1971
+  page_id: 1
+  name: calc
+  value: certain (at least) is the curtain
+- !ruby/struct:Meta
+  id: 1973
+  page_id: 1
+  name: calc
+  value: classic american laundry capitalists
+- !ruby/struct:Meta
+  id: 1974
+  page_id: 1
+  name: calc
+  value: carols are ligthning corels
+- !ruby/struct:Meta
+  id: 1975
+  page_id: 1
+  name: calc
+  value: cradle attack from lonesome cennelbach
+- !ruby/struct:Meta
+  id: 1976
+  page_id: 1
+  name: calc
+  value: clipping and lapping the clapping
+- !ruby/struct:Meta
+  id: 1977
+  page_id: 1
+  name: calc
+  value: cheers,  and let me know when u come back
+- !ruby/struct:Meta
+  id: 1978
+  page_id: 1
+  name: calc
+  value: curly antenas looping cinformations!
+- !ruby/struct:Meta
+  id: 1980
+  page_id: 1
+  name: calc
+  value: complett im hier und jetzt aber lebende creaturen
+- !ruby/struct:Meta
+  id: 1981
+  page_id: 1
+  name: calc
+  value: cheesey aubergines lenticular clown
+- !ruby/struct:Meta
+  id: 1982
+  page_id: 1
+  name: calc
+  value: cheesey aubergine landscape crust
+- !ruby/struct:Meta
+  id: 1984
+  page_id: 1
+  name: calc
+  value: cornetti e anche un lungo  cafe per favore
+- !ruby/struct:Meta
+  id: 1985
+  page_id: 1
+  name: calc
+  value: chevrolet audi lexus citroen
+- !ruby/struct:Meta
+  id: 1986
+  page_id: 1
+  name: calc
+  value: cutter angelt langsam crummaufwaerts
+- !ruby/struct:Meta
+  id: 1987
+  page_id: 1
+  name: calc
+  value: cunt all loving creoles
+- !ruby/struct:Meta
+  id: 1989
+  page_id: 1
+  name: calc
+  value: cugly agly comment, but lovely creoles :-P
+- !ruby/struct:Meta
+  id: 1990
+  page_id: 1
+  name: calc
+  value: clear air loud children
+- !ruby/struct:Meta
+  id: 1991
+  page_id: 1
+  name: calc
+  value: children are  lousy  cooks but great tasters!
+- !ruby/struct:Meta
+  id: 1994
+  page_id: 1
+  name: calc
+  value: crocodile andy licks candy
+- !ruby/struct:Meta
+  id: 1995
+  page_id: 1
+  name: calc
+  value: campo abierto lilas coloradas
+- !ruby/struct:Meta
+  id: 1996
+  page_id: 1
+  name: calc
+  value: ciffende amsterdammer lallen coemmerlich
+- !ruby/struct:Meta
+  id: 1997
+  page_id: 1
+  name: calc
+  value: creeping actions,  leading creepers
+- !ruby/struct:Meta
+  id: 1998
+  page_id: 1
+  name: calc
+  value: cage and laotse  playing cards
+- !ruby/struct:Meta
+  id: 1999
+  page_id: 1
+  name: calc
+  value: campari apertiv und leckere chips
+- !ruby/struct:Meta
+  id: 2000
+  page_id: 1
+  name: calc
+  value: cold and lousy weather conditions
+- !ruby/struct:Meta
+  id: 2001
+  page_id: 1
+  name: calc
+  value: camping artists laminating clouds
+- !ruby/struct:Meta
+  id: 2002
+  page_id: 1
+  name: calc
+  value: celophane artefakte leise vibrieren im cuehlwind
+- !ruby/struct:Meta
+  id: 2003
+  page_id: 1
+  name: calc
+  value: cannst  aber lange cruebeln
+- !ruby/struct:Meta
+  id: 2004
+  page_id: 1
+  name: calc
+  value: cristos arrival luminates candleforests
+- !ruby/struct:Meta
+  id: 2005
+  page_id: 1
+  name: calc
+  value: cat aot lilly ceppers
+- !ruby/struct:Meta
+  id: 2006
+  page_id: 1
+  name: calc
+  value: crautcomplexe ablegen und losgeloest cochen!
+- !ruby/struct:Meta
+  id: 2007
+  page_id: 1
+  name: calc
+  value: cane ain't   a lovely citizen
+- !ruby/struct:Meta
+  id: 2008
+  page_id: 1
+  name: calc
+  value: cuéntame algún lindo cuento
+- !ruby/struct:Meta
+  id: 2009
+  page_id: 1
+  name: calc
+  value: como antes de la crisis
+- !ruby/struct:Meta
+  id: 2010
+  page_id: 1
+  name: calc
+  value: caramelised apples look crispy
+- !ruby/struct:Meta
+  id: 2011
+  page_id: 1
+  name: calc
+  value: cuando algo libera corazones
+- !ruby/struct:Meta
+  id: 2012
+  page_id: 1
+  name: calc
+  value: claeffende apenzeller langhaardackel,  caempfend
+- !ruby/struct:Meta
+  id: 2013
+  page_id: 1
+  name: calc
+  value: crampf adern loesende craeuterwickel
+- !ruby/struct:Meta
+  id: 2014
+  page_id: 1
+  name: calc
+  value: 'cinder aller laender cragoelt! '
+- !ruby/struct:Meta
+  id: 2016
+  page_id: 1
+  name: calc
+  value: cuentame algo  lindo corazon
+- !ruby/struct:Meta
+  id: 2017
+  page_id: 1
+  name: calc
+  value: 'cunegunde altert langsam, aber choerig! '
+- !ruby/struct:Meta
+  id: 2021
+  page_id: 1
+  name: calc
+  value: cashive attack leaves zero cash
+- !ruby/struct:Meta
+  id: 2022
+  page_id: 1
+  name: calc
+  value: could australia please come a lot closer?
+- !ruby/struct:Meta
+  id: 2023
+  page_id: 1
+  name: calc
+  value: care across lucid camps
+- !ruby/struct:Meta
+  id: 2024
+  page_id: 1
+  name: calc
+  value: camping all along liquid coastlines
+- !ruby/struct:Meta
+  id: 2025
+  page_id: 1
+  name: calc
+  value: comunicating as if the word's a ludic component
+- !ruby/struct:Meta
+  id: 2027
+  page_id: 1
+  name: calc
+  value: crossing a yelloworange autumn light camp
+- !ruby/struct:Meta
+  id: 2028
+  page_id: 1
+  name: calc
+  value: crampf adrige lach craempfe
+- !ruby/struct:Meta
+  id: 2029
+  page_id: 1
+  name: calc
+  value: cerade linien aber laufen immer curvig
+- !ruby/struct:Meta
+  id: 2030
+  page_id: 1
+  name: calc
+  value: come and live in my city
+- !ruby/struct:Meta
+  id: 2031
+  page_id: 1
+  name: calc
+  value: cae un arbol  una  luna crece
+- !ruby/struct:Meta
+  id: 2032
+  page_id: 1
+  name: calc
+  value: cangaroos are long-jump concepts of life
+- !ruby/struct:Meta
+  id: 2033
+  page_id: 1
+  name: calc
+  value: cavolo ancora luna calante
+- !ruby/struct:Meta
+  id: 2034
+  page_id: 1
+  name: calc
+  value: come amore lascia cuore
+- !ruby/struct:Meta
+  id: 2035
+  page_id: 1
+  name: calc
+  value: clashing angels laughing at cosmic explotions
+- !ruby/struct:Meta
+  id: 2036
+  page_id: 1
+  name: calc
+  value: count another logic caos
+- !ruby/struct:Meta
+  id: 2037
+  page_id: 1
+  name: calc
+  value: cnabbern am langen cohl
+- !ruby/struct:Meta
+  id: 2038
+  page_id: 1
+  name: calc
+  value: come as love coming
+- !ruby/struct:Meta
+  id: 2039
+  page_id: 1
+  name: calc
+  value: comisch aber lauese crabbeln nicht
+- !ruby/struct:Meta
+  id: 2040
+  page_id: 1
+  name: calc
+  value: canton schwyz and learning chinese
+- !ruby/struct:Meta
+  id: 2041
+  page_id: 1
+  name: calc
+  value: caves are laminated clouds
+- !ruby/struct:Meta
+  id: 2042
+  page_id: 1
+  name: calc
+  value: cow eating  an apple like a crocodile me
+- !ruby/struct:Meta
+  id: 2043
+  page_id: 1
+  name: calc
+  value: cangaroos and lolling coalas
+- !ruby/struct:Meta
+  id: 2044
+  page_id: 1
+  name: calc
+  value: cOno  un a Nada  de luz  lanzando cAñitos
+- !ruby/struct:Meta
+  id: 2045
+  page_id: 1
+  name: ''
+  value: ''
+- !ruby/struct:Meta
+  id: 2046
+  page_id: 1
+  name: calc
+  value: ceinerlei ainerleis lloreleiern in c a l c
+- !ruby/struct:Meta
+  id: 2047
+  page_id: 1
+  name: calc
+  value: c6-1x0+2/2= a6-1x0+2/2=  l6-1x0+2/2= c6-1x0+2/2=
+- !ruby/struct:Meta
+  id: 2048
+  page_id: 1
+  name: calc
+  value: calculo alfabeto léxico comodín
+- !ruby/struct:Meta
+  id: 2049
+  page_id: 1
+  name: calc
+  value: can I have a .... living comò?
+- !ruby/struct:Meta
+  id: 2050
+  page_id: 1
+  name: calc
+  value: can have all your living comò can life
+- !ruby/struct:Meta
+  id: 2051
+  page_id: 1
+  name: calc
+  value: cruising all  a long the coastline
+- !ruby/struct:Meta
+  id: 2052
+  page_id: 1
+  name: calc
+  value: comic atlantic laughing club
+- !ruby/struct:Meta
+  id: 2053
+  page_id: 1
+  name: calc
+  value: caution! always when love comes
+- !ruby/struct:Meta
+  id: 2054
+  page_id: 1
+  name: calc
+  value: caution! always love comes
+- !ruby/struct:Meta
+  id: 2055
+  page_id: 1
+  name: calc
+  value: colírio amplitude lírica do caos
+- !ruby/struct:Meta
+  id: 2056
+  page_id: 1
+  name: calc
+  value: cama ama lama cama
+- !ruby/struct:Meta
+  id: 2057
+  page_id: 1
+  name: calc
+  value: carack abama lagain cresident of the usa
+- !ruby/struct:Meta
+  id: 2059
+  page_id: 1
+  name: calc
+  value: children at lake constance
+- !ruby/struct:Meta
+  id: 2060
+  page_id: 1
+  name: calc
+  value: crazie anche se è lontano come è!
+- !ruby/struct:Meta
+  id: 2062
+  page_id: 1
+  name: calc
+  value: con ayuda luana camina
+- !ruby/struct:Meta
+  id: 2063
+  page_id: 1
+  name: calc
+  value: cat and leopard  chatting
+- !ruby/struct:Meta
+  id: 2065
+  page_id: 1
+  name: calc
+  value: così andano le cose
+- !ruby/struct:Meta
+  id: 2073
+  page_id: 1
+  name: calc
+  value: ciao amore, come vanno le cose?
+- !ruby/struct:Meta
+  id: 2074
+  page_id: 1
+  name: calc
+  value: cohn ahna om hühmls wühn 'looanig coadn spühn?
+- !ruby/struct:Meta
+  id: 2075
+  page_id: 1
+  name: calc
+  value: ciao! andrà meglio con la vita  che vendrà
+- !ruby/struct:Meta
+  id: 2077
+  page_id: 1
+  name: calc
+  value: come? se solo adesso la vita è,  ciao :)
+- !ruby/struct:Meta
+  id: 2078
+  page_id: 1
+  name: calc
+  value: capricon and scorpion  love to comprehend
+- !ruby/struct:Meta
+  id: 2079
+  page_id: 1
+  name: calc
+  value: citrons and lemons correlate
+- !ruby/struct:Meta
+  id: 2081
+  page_id: 1
+  name: calc
+  value: coca and loca cola
+- !ruby/struct:Meta
+  id: 2082
+  page_id: 1
+  name: calc
+  value: cLA Orange aTree lSpain community
+- !ruby/struct:Meta
+  id: 2083
+  page_id: 1
+  name: calc
+  value: coca and loca cola
+- !ruby/struct:Meta
+  id: 2084
+  page_id: 1
+  name: calc
+  value: can all lions cry?
+- !ruby/struct:Meta
+  id: 2085
+  page_id: 1
+  name: calc
+  value: cork and lace caves
+- !ruby/struct:Meta
+  id: 2086
+  page_id: 1
+  name: calc
+  value: corduroy assholes leave cripples
+- !ruby/struct:Meta
+  id: 2087
+  page_id: 1
+  name: calc
+  value: cock ass limp dick cunt
+- !ruby/struct:Meta
+  id: 2088
+  page_id: 1
+  name: calc
+  value: cim going off athe rails on lthe crazy train
+- !ruby/struct:Meta
+  id: 2089
+  page_id: 1
+  name: calc
+  value: crispy and luscious  cereal
+- !ruby/struct:Meta
+  id: 2091
+  page_id: 1
+  name: calc
+  value: cooking around all past years of longterm calc
+- !ruby/struct:Meta
+  id: 2093
+  page_id: 1
+  name: calc
+  value: calc? an amazing loving love  community
+- !ruby/struct:Meta
+  id: 2094
+  page_id: 1
+  name: calc
+  value: crabbeln anders aber lümmeln cewohnt
+- !ruby/struct:Meta
+  id: 2095
+  page_id: 1
+  name: calc
+  value: cradwandernd, arglos und langsam aber cicher
+- !ruby/struct:Meta
+  id: 2097
+  page_id: 1
+  name: calc
+  value: crawällchen aber leise + langsam crawallierend
+- !ruby/struct:Meta
+  id: 2098
+  page_id: 1
+  name: calc
+  value: castaneda allwandelnd auf lsd auf'm cillemantcharo
+- !ruby/struct:Meta
+  id: 2099
+  page_id: 1
+  name: calc
+  value: cleiner anfang -  langer cratzer
+- !ruby/struct:Meta
+  id: 2100
+  page_id: 1
+  name: calc
+  value: champs are  lonely chimbs
+- !ruby/struct:Meta
+  id: 2101
+  page_id: 1
+  name: calc
+  value: cant argumentiert an lodernden canten
+- !ruby/struct:Meta
+  id: 2102
+  page_id: 1
+  name: calc
+  value: cringel angel lümmel cöda
+- !ruby/struct:Meta
+  id: 2103
+  page_id: 1
+  name: calc
+  value: cebetshaus anlagezerwalter lauszeit curzstrecken
+- !ruby/struct:Meta
+  id: 2104
+  page_id: 1
+  name: calc
+  value: cohle abhole lässt calt
+- !ruby/struct:Meta
+  id: 2108
+  page_id: 1
+  name: calc
+  value: chalking and talking leads to calc
+- !ruby/struct:Meta
+  id: 2109
+  page_id: 1
+  name: calc
+  value: caotic anarchy loves calc
+- !ruby/struct:Meta
+  id: 2110
+  page_id: 1
+  name: calc
+  value: creating art lets change
+- !ruby/struct:Meta
+  id: 2112
+  page_id: 1
+  name: calc
+  value: climbing all up a looping cliff
+- !ruby/struct:Meta
+  id: 2113
+  page_id: 1
+  name: calc
+  value: craxeln auf allen loipen und curven
+- !ruby/struct:Meta
+  id: 2114
+  page_id: 1
+  name: calc
+  value: cavalieres arschgeigen laiern compost_itionen
+- !ruby/struct:Meta
+  id: 2115
+  page_id: 1
+  name: calc
+  value: cariño artistico ludopata concluido
+- !ruby/struct:Meta
+  id: 2116
+  page_id: 1
+  name: calc
+  value: classic arquitects live creativity
+- !ruby/struct:Meta
+  id: 2117
+  page_id: 1
+  name: calc
+  value: cook art less cool
+- !ruby/struct:Meta
+  id: 2118
+  page_id: 1
+  name: calc
+  value: creating axis of love crossings
+- !ruby/struct:Meta
+  id: 2119
+  page_id: 1
+  name: calc
+  value: circuits of all-around-inter- looping circuits
+- !ruby/struct:Meta
+  id: 2120
+  page_id: 1
+  name: calc
+  value: complete archive of one linked cell
+- !ruby/struct:Meta
+  id: 2121
+  page_id: 1
+  name: calc
+  value: canta antes lo contado
+- !ruby/struct:Meta
+  id: 2122
+  page_id: 1
+  name: calc
+  value: charles bukowski and lao tse chatting
+- !ruby/struct:Meta
+  id: 2124
+  page_id: 1
+  name: calc
+  value: children artcritics lovers of cosmos
+- !ruby/struct:Meta
+  id: 2125
+  page_id: 1
+  name: calc
+  value: concrete abstracts, laughing chimps
+- !ruby/struct:Meta
+  id: 2126
+  page_id: 1
+  name: calc
+  value: crapefruits, apples, lemons and the cinemon girl
+- !ruby/struct:Meta
+  id: 2128
+  page_id: 1
+  name: calc
+  value: co ao lo co
+- !ruby/struct:Meta
+  id: 2129
+  page_id: 1
+  name: calc
+  value: colores armonia locura camino
+- !ruby/struct:Meta
+  id: 2132
+  page_id: 1
+  name: calc
+  value: cracking amazing lyrics calcutta cradled
+- !ruby/struct:Meta
+  id: 2133
+  page_id: 1
+  name: calc
+  value: cissing an artist is  like licking coins
+- !ruby/struct:Meta
+  id: 2136
+  page_id: 1
+  name: calc
+  value: chamber or above   a ll crisis
+- !ruby/struct:Meta
+  id: 2137
+  page_id: 1
+  name: calc
+  value: collegen arbeiten langsam aber  cicher
+- !ruby/struct:Meta
+  id: 2141
+  page_id: 1
+  name: calc
+  value: crustentiere algenwiesen lorbeersuppen cugelfische
+- !ruby/struct:Meta
+  id: 2142
+  page_id: 1
+  name: calc
+  value: cleines aber loderndes caminfeuer
+- !ruby/struct:Meta
+  id: 2143
+  page_id: 1
+  name: calc
+  value: classe arbeiter  laborieren  classe
+- !ruby/struct:Meta
+  id: 2144
+  page_id: 1
+  name: calc
+  value: can art change, can love be come true.
+- !ruby/struct:Meta
+  id: 2146
+  page_id: 1
+  name: calc
+  value: can  anyone love cangaroos
+- !ruby/struct:Meta
+  id: 2147
+  page_id: 1
+  name: calc
+  value: clueless and loving completely
