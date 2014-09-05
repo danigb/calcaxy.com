@@ -29,7 +29,7 @@ module Calcaxy
   PAGE_HOME = 1
   PAGE_BOOC = 2
   PAGE_BIO = 216
-  PAGE_TXT = 20
+  PAGE_TXT = 209
 
   def self.booc_years
     years = (MIN_YEAR..MAX_YEAR).to_a.reverse!

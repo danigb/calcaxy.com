@@ -17,6 +17,10 @@ module ViewHelpers
       #Page.find_all_by_mime('file', :order => 'position')
     end
 
+    def last_calc_name
+      @last_calc_name ||= Repo.find('Meta', 2147).value
+    end
+
     def booc_parent(year)
       Repo.all('Page').find { |p| p.parent_id.to_i == Calcaxy::PAGE_BOOC && p.title == year.to_s }
     end

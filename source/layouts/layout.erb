@@ -15,7 +15,7 @@
     <div id="container">
       <table id="header"><tr>
           <td><%= link_to ' ', '/', :id => 'logo'  %></td>
-          <td><div id="calc_name"><%= @calc %></div></td>
+          <td><div id="calc_name"><%= calc_view.last_calc_name %></div></td>
           <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
         </tr>
       </table>
@@ -31,7 +31,7 @@
         <div class="space">&nbsp;</div>
         <%= link_to 'BIOBIBLIO', '/biobiblio/217', :class => active_if_current('/biobiblio') %>
         <div class="space">&nbsp;</div>
-        <%= link_to 'TXT\'S', '/txts', :class => active_if_current('/txts') %>
+        <%= link_to 'TXT\'S', '/txts/210', :class => active_if_current('/txts') %>
         <div class="space">&nbsp;</div>
 
         <div class="tab">&nbsp;</div>
