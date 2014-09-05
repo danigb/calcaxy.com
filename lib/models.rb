@@ -3,7 +3,7 @@ Attachment = Struct.new(:id, :content_type, :filename, :size, :description,
                         :updated_at, :page_id, :label) do
 
   def public_filename
-    filename
+    "/files/xymedia/0000/#{id.to_s.rjust(4, '0')}/#{filename}"
   end
 
   def image?
@@ -23,6 +23,9 @@ end
 Page = Struct.new(:id, :parent_id, :title, :position, :depth, :state,
                   :mime, :content, :created_at, :updated_at) do
 
+  def attachments
+    @attachments ||= Repo.all('Attachment').select {|a| a.page_id.to_i == id.to_i }
+  end
 
 
   def attachment(name)
