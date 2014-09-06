@@ -1,15 +1,31 @@
 
 
-<div class="home_image">
+<div class="home_image" data-sources="">
   <% image = calc_view.home.attachment('home') %>
-  <%= link_to(image_tag(image.public_filename), '/homeology') if image.present? %>
+  <a href="/homeology">
+    <img id="main-image" src="<%= image.public_filename %>">
+  </a>
 </div>
 
-<div id="calc_form">
+<div class="" id="calc_form">
 <img alt="semantic_bot" src="/images/semanticrobot.png" />
-  <ul>
+  <ul class="what-is-calc">
     <% calc_view.metas.reverse.each do |meta| %>
       <li><%= as_calc meta.value %> </li>
     <% end %>
   </ul>
 </div>
+
+<script>
+  var images = "<%= calc_view.home.attachments.reverse.map(&:public_filename).join(',') %>".split(',');
+  $(function() {
+    var current = 1;
+    var nextImage = function() {
+      var src = images[current];
+      $("img#main-image").attr('src', src);
+      current++;
+      if (image.size == current) { current = 0; }
+    }
+    setInterval(nextImage, 6000);
+  });
+</script>

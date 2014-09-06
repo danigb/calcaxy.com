@@ -11,7 +11,7 @@ body,div,dl,dt,dd,ol,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockq
 body{font:13px arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}
 table {font-size:inherit;font:100%;}
 select, input, textarea {font:99% arial,helvetica,clean,sans-serif;}
-pre, code {font:115% monospace;*font-size:100%;} 
+pre, code {font:115% monospace;*font-size:100%;}
 body  {line-height:1.22em; letter-spacing: 0.17em;}
 
 .no_spam {display:none;}
@@ -80,10 +80,12 @@ a:hover {text-decoration: underline;}
 .updates label {color: #7F2622; }
 .updates a {color: #848F17; }
 .home_image {padding: 50px 5px; text-align: center;}
-#calc_form li {letter-spacing: 0.8em; margin: 0.2em; list-style: none;}
-#calc_form li strong {font-weight: bold;}
-#calc_form form > input {display:none;}
-
+ul.what-is-calc li {letter-spacing: 0.8em; margin: 0.2em; list-style: none;}
+ul.what-is-calc li strong {font-weight: bold;}
+ul.what-is-calc form > input {display:none;}
+ul.what-is-calc li:first-child {  font-size: 120%; margin-bottom: 10px; }
+ul.what-is-calc li:first-child strong {  font-size: 150%; }
+ 
 
 /* FILES */
 .files {}

@@ -1,3 +1,17 @@
+// HOME
+(function() {
+  $(function($) {
+    console.log("joder");
+    $("ul.what-is-calc").each(function() {
+      var ul = $(this);
+      var rotate = function() {
+        ul.find('li:first').remove();
+      }
+      setInterval(rotate,3000);
+    });
+  });
+})();
+
 /* WORKS */
 (function($) {
     $(function() {
@@ -50,8 +64,3 @@
         });
     }
 })(jQuery);
-
-/* BOOC */
-(function($){
-    
-    })(jQuery);
