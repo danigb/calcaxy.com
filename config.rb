@@ -3,7 +3,7 @@ Calcaxy.load
 
 
 Calcaxy.booc_years.each do |year|
-  proxy "/booc/#{year}", "/booc/year.html",
+  proxy "/booc/#{year}.html", "/booc/year.html",
     locals: { current_year: year}, ignore: true
 end
 
