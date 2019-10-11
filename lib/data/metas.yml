@@ -447,102 +447,102 @@
   id: 113
   page_id: 29
   name: link
-  value: https://centro.us.es/arquitectura/
+  value: http://centro.us.es/arquitectura/
 - !ruby/struct:Meta
   id: 114
   page_id: 30
   name: link
-  value: https://www.comune.torino.it/gioart/big/bigguest/
+  value: http://www.comune.torino.it/gioart/big/bigguest/
 - !ruby/struct:Meta
   id: 115
   page_id: 31
   name: link
-  value: https://www.comune.torino.it/gioart/big/bigguest/
+  value: http://www.comune.torino.it/gioart/big/bigguest/
 - !ruby/struct:Meta
   id: 116
   page_id: 33
   name: link
-  value: https://www.casamasomenos.net/
+  value: http://www.casamasomenos.net/
 - !ruby/struct:Meta
   id: 117
   page_id: 34
   name: link
-  value: https://www.cittadellarte.it/
+  value: http://www.cittadellarte.it/
 - !ruby/struct:Meta
   id: 118
   page_id: 36
   name: link
-  value: https://www.demosaica.com/
+  value: http://www.demosaica.com/
 - !ruby/struct:Meta
   id: 120
   page_id: 39
   name: link
-  value: https://www.mundofantasio.com/
+  value: http://www.mundofantasio.com/
 - !ruby/struct:Meta
   id: 121
   page_id: 40
   name: link
-  value: https://www.sevillafest.com/
+  value: http://www.sevillafest.com/
 - !ruby/struct:Meta
   id: 122
   page_id: 41
   name: link
-  value: https://www.sevillafest.com/
+  value: http://www.sevillafest.com/
 - !ruby/struct:Meta
   id: 125
   page_id: 44
   name: link
-  value: https://www.fotobot.net/
+  value: http://www.fotobot.net/
 - !ruby/struct:Meta
   id: 126
   page_id: 45
   name: link
-  value: https://www.elgranpollodelaalameda.net/
+  value: http://www.elgranpollodelaalameda.net/
 - !ruby/struct:Meta
   id: 127
   page_id: 46
   name: link
-  value: https://www.johannesgees.com/wp/?cat=26
+  value: http://www.johannesgees.com/wp/?cat=26
 - !ruby/struct:Meta
   id: 128
   page_id: 48
   name: link
-  value: https://www.despachodepan.com/ver/indice
+  value: http://www.despachodepan.com/ver/indice
 - !ruby/struct:Meta
   id: 130
   page_id: 53
   name: link
-  value: https://www.novaron.ch
+  value: http://www.novaron.ch
 - !ruby/struct:Meta
   id: 132
   page_id: 56
   name: link
-  value: https://www.jorgeyeregui.com/files/camino/ppal.htm
+  value: http://www.jorgeyeregui.com/files/camino/ppal.htm
 - !ruby/struct:Meta
   id: 133
   page_id: 57
   name: l
-  value: https://www.solidaridad.org
+  value: http://www.solidaridad.org
 - !ruby/struct:Meta
   id: 134
   page_id: 58
   name: link
-  value: https://www.kunsthaus-bregenz.at/kubuse/SPACEplace/
+  value: http://www.kunsthaus-bregenz.at/kubuse/SPACEplace/
 - !ruby/struct:Meta
   id: 137
   page_id: 66
   name: link
-  value: https://www.communimage.net
+  value: http://www.communimage.net
 - !ruby/struct:Meta
   id: 138
   page_id: 67
   name: link
-  value: https://www.geografiaffettiva.net/info/index.html
+  value: http://www.geografiaffettiva.net/info/index.html
 - !ruby/struct:Meta
   id: 139
   page_id: 72
   name: link
-  value: https://unidee.cittadellarte.it/index.php
+  value: http://unidee.cittadellarte.it/index.php
 - !ruby/struct:Meta
   id: 140
   page_id: 26
@@ -1248,7 +1248,7 @@
   id: 296
   page_id: 38
   name: link
-  value: https://old.calcaxy.com/erbse/#
+  value: http://old.calcaxy.com/erbse/#
 - !ruby/struct:Meta
   id: 297
   page_id: 1
@@ -1263,37 +1263,37 @@
   id: 299
   page_id: 42
   name: link
-  value: https://www.sevillafest.com
+  value: http://www.sevillafest.com
 - !ruby/struct:Meta
   id: 300
   page_id: 61
   name: link
-  value: "\thttps://old.calcaxy.com/casqueiro.html"
+  value: "\thttp://old.calcaxy.com/casqueiro.html"
 - !ruby/struct:Meta
   id: 301
   page_id: 43
   name: link
-  value: https://old.calcaxy.com/father_son/index.html
+  value: http://old.calcaxy.com/father_son/index.html
 - !ruby/struct:Meta
   id: 302
   page_id: 54
   name: link
-  value: https://old.calcaxy.com/now_here/index.html
+  value: http://old.calcaxy.com/now_here/index.html
 - !ruby/struct:Meta
   id: 303
   page_id: 59
   name: link
-  value: https://old.calcaxy.com/spanada/spanada.html
+  value: http://old.calcaxy.com/spanada/spanada.html
 - !ruby/struct:Meta
   id: 304
   page_id: 28
   name: link
-  value: https://old.calcaxy.com/casqueiro.html
+  value: http://old.calcaxy.com/casqueiro.html
 - !ruby/struct:Meta
   id: 305
   page_id: 51
   name: link
-  value: https://old.calcaxy.com/casqueiro.html
+  value: http://old.calcaxy.com/casqueiro.html
 - !ruby/struct:Meta
   id: 306
   page_id: 1
@@ -1318,7 +1318,7 @@
   id: 310
   page_id: 223
   name: link
-  value: https://www.communimage.ch
+  value: http://www.communimage.ch
 - !ruby/struct:Meta
   id: 311
   page_id: 223
@@ -1521,7 +1521,7 @@
   id: 359
   page_id: 70
   name: link
-  value: https://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html
+  value: http://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html
 - !ruby/struct:Meta
   id: 360
   page_id: 1
@@ -4161,7 +4161,7 @@
   id: 1037
   page_id: 241
   name: link
-  value: https://www.r08.es/
+  value: http://www.r08.es/
 - !ruby/struct:Meta
   id: 1038
   page_id: 1
@@ -4501,7 +4501,7 @@
   id: 1137
   page_id: 243
   name: link
-  value: " \t https://en.luegerplatz.com/index.html"
+  value: " \t http://en.luegerplatz.com/index.html"
 - !ruby/struct:Meta
   id: 1138
   page_id: 1
@@ -6036,7 +6036,7 @@
   id: 1542
   page_id: 244
   name: link
-  value: https://www.edicionesvibok.net
+  value: http://www.edicionesvibok.net
 - !ruby/struct:Meta
   id: 1543
   page_id: 244
@@ -7202,7 +7202,7 @@
   id: 1799
   page_id: 245
   name: link
-  value: https://www.calcaxy.com
+  value: http://www.calcaxy.com
 - !ruby/struct:Meta
   id: 1800
   page_id: 245
