@@ -15,4 +15,4 @@
 .DS_Store
 
 xymedia.tar.bz2
-source/files/**
+tmp/
