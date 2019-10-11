@@ -1,0 +1,22 @@
+version: '3.6'
+
+services:
+  build:
+    build: .
+    command: npm run build
+    volumes:
+      - .:/app:cached
+
+  server:
+    build: .
+    command: npm run server
+    volumes:
+      - .:/app:cached
+    ports:
+      - 4567:4567
+
+  bash:
+    build: .
+    command: /bin/bash
+    volumes:
+      - .:/app:cached
