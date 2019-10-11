@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+    <li>
+        <a href="/biobiblio/217">projects - en mundo</a>
+    </li>
+    <li>
+        <div class="active"><div class="head">projects in sito</div></div>
+    </li>
+    <li>
+        <a href="/biobiblio/219">bibliography </a>
+    </li>
+    <li>
+        <a href="/biobiblio/220">the calcies</a>
+    </li>
+</ul>
+
+<div class="main textile">
+  <h2>projects in sito</h2>
+
+
+	<p><strong>I n f r a s c u l p t u r e &gt; Casa Casqueiro, L.A. Las Aceñas &gt;
+Navia, Asturias, Spain, Torino, Italy, and now &gt; Sevilla, Spain</strong></p>
+
+
+	<h3>2004</h3>
+
+
+	<p>sexta fiesta de San Antolin in the park for L.A.</p>
+
+
+	<p>doing a dossier about casqueiro..short history for potential buyers</p>
+
+
+	<h3>2003</h3>
+
+
+	<p>quinta fiesta de San Antolin in the park for L.A.</p>
+
+
+	<p>building the 6th terrace of casquiero in collaboration with Amador 
+el Pescador next to studio2</p>
+
+
+	<p>moving the 2nd infrasculpture from Torino to Sevilla &gt; 
+c a l c &#8211; babyship “la piscina” sharing the studio and first projects 
+with l a p a n a d e r i a</p>
+
+
+	<h3>2002</h3>
+
+
+	<p>starting the planning for &#8220;el matadero&#8221; &gt; transformation of L.A.&#8217;s 
+old slaughterhouse into a &#8220;information center/bar/stage/cinema/ disco&#8221;, 
+continuing the installations for the park of L.A. &gt; &#8220;el paseo naranjo&#8221; 
+in collaboration with Jesús Manrique.</p>
+
+
+	<p>&#8220;cuarta fiesta de San Antolin&#8221; in the park for L.A.</p>
+
+
+	<p>Judith Mala Wielander gets a calci!</p>
+
+
+	<p><span class="caps">BABYSHIP</span> Torino &#8211; we set up a second infrasculpture in Torino, 
+Mothership was expecting long enough!</p>
+
+
+	<h3>2001</h3>
+
+
+	<p>Construction of Chabola, the bikehouse, in colab. with Pablo Carrera, 
+starting plans for Luks sleepinghouse and the re-re-building the mill, 
+interior fittings for <span class="caps">NAVE</span>, the sleeping house</p>
+
+
+	<p>&#8220;tercera fiesta de San Antolin&#8221; in the park for L.A. &#8211; 
+installing the road sign: <span class="caps">PARQUE DEL NARANJO</span></p>
+
+
+	<h3>2000</h3>
+
+
+	<p>Finishing Studio2, changing the digital network (hardware) of c a l c 
+in collaboration with Martin Roth and Malex Spiegel</p>
+
+
+	<p>&#8220;segunda fiesta de San Antolin&#8221; in the park for L.A.</p>
+
+
+	<h3>1999</h3>
+
+
+	<p>Beginning the construction of Studio2, in collaboration with 
+Curt Scheiderbauer and Fred Fürholzer</p>
+
+
+	<p>concept and realisation &#8211; park for L.A., in collaboration with 
+Silke Sporn and Alvaro Garcia Lanza</p>
+
+
+	<p>&#8220;primera fiesta de San Antolin&#8221; in the park for L.A.</p>
+
+
+	<h3>1998</h3>
+
+
+	<p>Construction of Casita, second living house, in collaboration with</p>
+
+
+	<p>Märle and Curt Scheiderbauer and with Alvaro Garcia Lanza and 
+Pablo Carrera.</p>
+
+
+	<h3>1997</h3>
+
+
+	<p>Construction of <span class="caps">NAVE</span> &#8211; the sleeping house, in collaboration with 
+Marco Koeppel</p>
+
+
+	<p>concept and realisation of <span class="caps">ALTERNATIVA</span>, a bar for Navias harbour 
+in collaboration with Hilario Suarez and friends.</p>
+
+
+	<h3>1996</h3>
+
+
+	<p>Construction the Chiringuito &#8211; first part of the summerkitchen</p>
+
+
+	<p>concept and realisation of <span class="caps">PASODOBLE</span>, a bar for Navias beach, 
+in collaboration with Curt Scheiderbauer and Manolo.</p>
+
+
+	<h3>1995</h3>
+
+
+	<p>Installation of a telematic laboratory.</p>
+
+
+	<p>Development of c a l © a x y &#8211; virtual studios for digital artesans 
+in collaboration with Gernot Tscherteu and Malex Spiegel. 
+Translation and/or development of all c a l c projects under 
+http://www.calcaxy.com</p>
+
+
+	<p>concept and realisation of <span class="caps">BLUEBOX</span>, a culture club for Navia 
+in collaboration with Gernot Tscherteu.</p>
+
+
+	<p>Malex Spiegel becomes a (semi)calci.</p>
+
+
+	<h3>1992</h3>
+
+
+	<p>Renovation and transformation of the mill into the &#8220;infrasculpture c a l c&#8221;, 
+in collaboration with Alvaro Garcia Lanza.</p>
+
+
+	<h3>1991</h3>
+
+
+	<p>Purchase of an old millhouse (name:Casqueiro) in Navia, nothwest Spain 
+and founding of c a l c &#8211; casqueiro atlantico laboratorio cultural as a group 
+of artists, a cultural association and a design company (c a l c diseño C.B.)</p>
+
+
+	<h3>1990</h3>
+
+
+	<p>Concept for an &#8220;interactive studiosculpture&#8221; or &#8220;infrasculpture&#8221; 
+during a stay in the Sinai, Egypt.</p>
+</div>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

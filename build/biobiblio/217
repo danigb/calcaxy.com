@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+    <li>
+        <div class="active"><div class="head">projects - en mundo</div></div>
+    </li>
+    <li>
+        <a href="/biobiblio/218">projects in sito</a>
+    </li>
+    <li>
+        <a href="/biobiblio/219">bibliography </a>
+    </li>
+    <li>
+        <a href="/biobiblio/220">the calcies</a>
+    </li>
+</ul>
+
+<div class="main textile">
+  <h2>projects &#8211; en mundo (selection)</h2>
+
+
+	<h3>2008</h3>
+
+
+	<p><strong>communimage re:Vision</strong>
+Re-programming and extending communimage’ features for its re-launch in the 
+<span class="caps">MOMA</span> of San Francisco autumn 2008 
+<a href="http://www.communimage.net/">http://www.communimage.net/</a></p>
+
+
+	<h3>2007</h3>
+
+
+	<p><strong>y &#8211; land</strong>
+A collaborative web-project for Israelian and Palestinian children based 
+on the hexagon as the basic form of this two peoples cultures 
+http://www.y-land.net (only internal until launch)</p>
+
+
+	<h3>2006</h3>
+
+
+	<p><strong>L-able</strong>
+A platform for &#8216;social design&#8217; initiated by Pamela Campagna and  founded
+by her and omi from c a l c.
+<a href="http://www.l-able.net">http://www.l-able.net</a></p>
+
+
+	<p><strong>el gran Pollo de la Alameda</strong>
+Concept, layout, design and translation to the real space (graffiti) 
+of the history of 12 years of initiatives to conserve the freedom of a square 
+<a href="http://www.elgranpollodelaalameda.net">http://www.elgranpollodelaalameda.net</a></p>
+
+
+	<p><strong>sevilla_scan</strong> 
+prototype of geografia affettiva, patronage from La Junta de Andalucia &#8211; 
+<a href="http://www.geografiaffettiva.net">http://www.geografiaffettiva.net</a></p>
+
+
+	<p><strong>geografia  affettiva – the prototype</strong>
+workshops for sevilla_scan with different collectives of sevilla to understand their
+needs and how they could enrich the prototype. 
+<a href="http://www.geografiaffettiva.net">http://www.geografiaffettiva.net</a></p>
+
+
+	<p><strong>el tinglao</strong>
+4&#215;8 meter  „live-cartography“ during the exhibition in th caS, sevilla (centro de artes, Sevilla),
+which allows the public to inform this cartography with special developed symbologies. 
+this symbologies facilitates the public to express their needs and critics related to 
+their living aerea (la Macarena, San Luis und La Alameda).
+in collaboration with Palma Campagna and El Consejo de la Redacción del Gran Pollo 
+de la Alameda. 
+<a href="http://www.elgranpollodelaalameda.net/">http://www.elgranpollodelaalameda.net</a></p>
+
+
+	<p><strong>architecture week Yorkshire</strong>
+Artist house &#8211; Leeds, workshop reflecting urban situations (voidages) and 
+interventions (proposals) in the periphery of Leeds in collaboration with 
+Palma Campagna, Laura Quarmby and Bryan Davies
+<a href="http://www.bryanandlauradavies.com/">http://www.bryanandlauradavies.com</a></p>
+
+
+	<h3>2005</h3>
+
+
+	<p><strong>Social Constructions &#8211; a moment in time V</strong>
+communimage in San Francisco
+curated by Abner Nolan and Scott Snibbe
+13th of May &#8211; 18th of June
+401 Alabama Street &#8211; San Francisco <span class="caps">CA 94110</span>
+<a href="http://soex.org/index.html">www.soex.org</a></p>
+
+
+	<p><strong>geografia affettiva &#8211; collective memories</strong>
+<a href="http://workshop.kunstonline.info">http://workshop.kunstonline.info</a>
+workshop in Gallery Richard Foncke, Ghent
+on the question of geanets and kunst onlines
+way of storing, accessing and forgetting data
+25th &#8211; 30th April, <span class="caps">GRF</span>, Spijkstraat1, Gent
+<a href="http://www.kunstonline.info">www.kunstonline.info</a></p>
+
+
+	<p><strong>casa mas o menos &#8211; Alcala-01</strong>
+a (first) project for partizipative architecture
+in Alcala &#8211; Sevilla, in collaboration with
+l a p a n a d e r i a (www.despachodepan.com)
+<a href="http://www.casamasomenos.net">www.casamasomenos.net</a></p>
+
+
+	<p><strong>Internet Art</strong>
+Edited by Rachel Green
+Thames &#38; Hudson world of Art
+<span class="caps">ISBN</span>: 0-500-20376-8
+<a href="http://www.thamesandhudson.com/en/1/0500203768.mxs?defd2d0e9e491900ff121dc8d526a7aa&#38;0&#38;0&#38;0&#38;6">www.thamesandhudson.com</a></p>
+
+
+	<h3>2004</h3>
+
+
+	<p><strong>agora03</strong>
+a sculpture for sitting and meeting and ..
+in collaboration with Michelangelo Pistoletto
+installed in &#8220;Freie Universitaet Bozen&#8221;, Italy
+<a href="/files/xymedia/0000/0050/2004_10_bolzano_agora03.pdf"><span class="caps">PDF</span></a>
+<a href="http://www.unibz.it">http://www.unibz.it</a></p>
+
+
+	<p><strong><span class="caps">METHODS</span> &#8211; <span class="caps">RESEARCH PROJECTS ON ART</span>-SOCIETY <span class="caps">RELATIONS</span></strong>
+2,3 october, cittadellarte &#8211; Fondazione Pistoletto, Biella, Italia
+<a href="http://www.lovedifference.org/it/news/metodi_ws.htm">http://www.lovedifference.org/it/news/metodi_ws.htm</a></p>
+
+
+	<p><strong><span class="caps">UNIDEE</span> + geografia affettiva</strong>
+27.09 – 09.10 workshop cittadellarte, Biella, Italia
+<a href="http://www.cittadellarte.it">http://www.cittadellarte.it</a></p>
+
+
+	<p><strong>webcam.ping (pong)</strong>
+Gallery Lisi Hämmerle,
+Bregenz, Austria and L.A., <span class="caps">USA</span>
+<a href="/files/xymedia/0000/0217/2004_07_webcamping.pdf"><span class="caps">PDF</span></a>
+<a href="http://www.galerie-lisihaemmerle.at/">http://www.galerie-lisihaemmerle.at</a></p>
+
+
+	<p><strong>visions of paradise</strong>
+Gallery Joa Ferreira 09 &#8211; 31 march
+Cap Town &#8211; South Africa
+<a href="/projects/now_here/index.html">http://www.calcaxy.com/now_here/</a></p>
+
+
+	<p><strong><span class="caps">BCD</span> + geografia affettiva</strong>
+<span class="caps">BUREAU DES COMP</span>ÉTENCES <span class="caps">ET D</span>ÉSIRS &#8211; workshop
+20 &#8211; 28 of march, Marseille, France
+<a href="http://www.geografiaffettiva.net/">http://www.geografiaffettiva.net/</a></p>
+
+
+	<p><strong>l a p i s c i n a</strong>
+january &gt; new c a l c babyship in Sevilla
+sharing a studio and projects with l a p a n a d e r i a
+<a href="http://www.despachodepan.com">http://www.despachodepan.com</a></p>
+
+
+	<h3>2003</h3>
+
+
+	<p><strong>el puente &#8211; orilla-orilla.net</strong>
+Centro Colombiano Americano, Medellin (November)
+in colaboration with Juan Esteban, Cristina Mirandola
+Natalia Restrepo, students of various faculties and cittdellarte.</p>
+
+
+	<p><strong>Michelangelo Pistoletto &#38; cittadellarte &#38;</strong>
+<span class="caps">M HKA</span> Antwerp, 04.10 &#8211; 30.11.2003
+conceived and curated by c a l c and Roni Van de Sompel
+<a href="http://www.muhka.be/toont_beeldende_kunst_detail.php?la=en&#38;id=17&#38;subbase=archief&#38;jaartal=2003">http://www.muhka.be</a></p>
+
+
+	<p><strong>curating degree zero &#8211; Basel</strong>
+<a href="http://www.curatingdegreezero.org">http://www.curatingdegreezero.org</a></p>
+
+
+	<p><strong>critic is not enough &#8211; arte al centro</strong>
+<a href="http://www.shedhalle.ch/eng/archiv/2003/ausstellung/kritik/kritikeng.shtml">Shedhalle Zürich</a></p>
+
+
+	<p><strong>c a l c + geografia affettiva</strong>
+one week workshop. art academy Perpignan (June)</p>
+
+
+	<p><strong>mamila p°°l</strong> &#8211; arting jerusalem, Jerusalem
+<a href="/files/xymedia/0000/0137/2003_10_mamilapool.pdf"><span class="caps">PDF</span></a></p>
+
+
+	<p><strong><span class="caps">UNIDEE</span> &#8211; 2003</strong> &#8211; fondazione pistoletto july &#8211; oct. 2003
+<a href="http://www.cittadellarte.it">http://www.cittadellarte.it</a></p>
+
+
+	<h3>2002</h3>
+
+
+	<p><strong>communimage &#8211; a moment in time VI</strong> &gt; <span class="caps">XXIV</span> Biennale de São Paulo</p>
+
+
+	<p><strong>curating the guestland of the <a href="http://www.comune.torino.it/gioart/big/index1.html">3rd Biennial of Torino &#8211; <span class="caps">BIG</span> Torino 2002</a>,
+Big Social Game</strong>
+<a href="http://www.comune.torino.it/gioart/big/bigguest/index.html">bigguest.net</a></p>
+
+
+	<p><strong><span class="caps">UNIDEE</span> &#8211; year 03</strong> &#8211; again mediators during July and October
+<a href="http://www.cittadellarte.it/unidee/index.html">http://www.cittadellarte.it/unidee/index.html</a></p>
+
+
+	<p><strong>communimage &#8211; a moment in time <span class="caps">VII</span></strong> &gt; <span class="caps">ART FUTURA 2002</span>, Barcelona:
+&#8220;web as canvas&#8221; 
+<a href="http://www.artfutura.org/02/index_e_02.html">http://www.artfutura.org/02/index_e_02.html</a></p>
+
+
+	<p><strong>the <span class="caps">BOO</span>©</strong>
+the calcurriculum got a new name and interface</p>
+
+
+	<h3>2001</h3>
+
+
+	<p><strong>spirit level (wasserwaage)</strong>
+in close collaboration with Curt Scheiderbauer
+travelling play-sculpture (water, metal, sound) for <span class="caps">AUA EXTREMA</span>,
+the western swiss pavillon for swiss Expo.02
+<a href="/files/xymedia/0000/0197/2002_06_spiritlevel.pdf"><span class="caps">PDF</span></a></p>
+
+
+	<p><strong><span class="caps">BIG</span> Torino 2002 &#8211; Big Social Game</strong>
+members of the artistic committee and curating/coordinating bigguest.net,
+<span class="caps">BIG</span>&#8217;s &#8220;guestland&#8221; 2002
+<a href="http://www.comune.torino.it/gioart/big/bigguest/index.html">bigguest.net</a></p>
+
+
+	<p><strong><span class="caps">UNIDEE 2001</span></strong>
+working 2 months as mediators in the University of Ideas in Biella, Italy
+<a href="http://www.cittadellarte.it/unidee/index.html">http://www.cittadellarte.it/unidee/index.html</a></p>
+
+
+	<p><strong>communimage &#8211; a moment in time IV</strong>
+in collaboration with Johannes Gees, 
+videobrasil-13th international electric art festival, 
+São Paulo, Brasil
+<a href="http://www.sescsp.org.br/sesc/videobrasil/site/festivais/festival_13_en.asp">http://www.videobrasil.org.br</a></p>
+
+
+	<p><strong>communimage &#8211; a moment in time V</strong>
+enzimi-festival, Rome</p>
+
+
+	<h3>2000</h3>
+
+
+	<p><strong>communimage &#8211; a moment in time I</strong>
+in collaboration with Johannes Gees, 
+Kunsthalle Bludenz, Austria</p>
+
+
+	<p><strong>spacePlace</strong>
+lebenskunstwerke &#8211; kunsthaus Bregenz, Austria
+<a href="/projects/SPACEplace/index.htm">www</a></p>
+
+
+	<p><strong>communimage &#8211; a moment in time II</strong>
+in collaboration with Johannes Gees, Museo Carrillo Gil, Mexico City, Mexico
+<a href="http://www.communimage.ch">http://www.communimage.ch</a></p>
+
+
+	<p><strong>SANDpit</strong>
+in collaboration with Michelangelo Pistoletto, Museum AR/GE Kunst &#8211; Bolzano, Italy
+<a href="/files/xymedia/0000/0242/2001_04_sandpit.pdf"><span class="caps">PDF</span></a></p>
+
+
+	<p><strong><span class="caps">UNIDEE 2000</span></strong>
+working 2 months as mediators in the University of Ideas in Biella, Italy
+<a href="http://www.cittadellarte.it/unidee/index.html">http://www.cittadellarte.it/unidee/index.html</a></p>
+
+
+	<p><strong>firstBOX</strong>
+in collaboration with Curt Scheiderbauer during sons &#38; fathers,
+Cittadellarte &#8211; Biella, Italy
+<a href="http://old.calcaxy.com/father_son/index.html">http://www.calcaxy.com/father_son/index.html</a></p>
+
+
+	<h3>1999</h3>
+
+
+	<p><strong>communimage &#8211; the amazing expanding image!</strong>
+for the Swiss Expo02
+<a href="http://www.communimage.ch">http://www.communimage.ch</a></p>
+
+
+	<p><strong>a park for L.A.</strong>
+(&#8220;LKW &#8211; Dinge zwischen Leben, Kunst und Werk&#8221;), O.K.Linz, Austria
+<a href="http://www.ok-centrum.at/carteblanche/carteb.html">http://www.ok-centrum.at/carteblanche/carteb.html</a></p>
+
+
+	<p><strong><span class="caps">IL ARTE AL CENTRO 99</span></strong>, Cittadellarte-Biella, Italy
+<a href="http://www.cittadellarte.it">http://www.cittadellarte.it</a></p>
+
+
+	<p><strong>OneDROP &#8211; Segno Arte</strong>
+in collaboration with Michelangelo Pistoletto during
+&#8220;Get together &#8211; Art as teamwork&#8221;, Kunsthalle Vienna, Austria</p>
+
+
+	<p><strong>DROPone &#8211; flexible net tent</strong>
+tendopoli telematica, Cittadellarte- Biella, Italy
+<a href="/files/xymedia/0000/0075/1999_08_dropone.pdf"><span class="caps">PDF</span></a></p>
+
+
+	<h3>1998</h3>
+
+
+	<p><strong>timeCloud I</strong>
+Internet-nomade-architecture, Cittadellarte, Biella, Italy
+<a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/tc_I/index.html">http://www.kunsthaus-bregenz.at/kubuse/timecloud/tc_I/index.html</a></p>
+
+
+	<p><strong>timeCloud II</strong>
+Internet-installation, Kunsthaus Bregenz, Austria
+<a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/tc_II/intro.html">http://www.kunsthaus-bregenz.at/kubuse/timecloud/tc_II/intro.html</a></p>
+
+
+	<h3>1997</h3>
+
+
+	<p><strong><span class="caps">EINFLUSS</span> &#8211; Rheinart 97</strong>, Au-Lustenau, Switzerland, Austria</p>
+
+
+	<p><strong>N.A.V.E. Net Access Virtual Embarking</strong>,
+Kunst in der Stadt 97, <span class="caps">KUB</span> Kunsthaus Bregenz, Austria
+<a href="http://www.kunsthaus-bregenz.at/kubuse/nave/welcome.html">http://www.kunsthaus-bregenz.at/kubuse/nave/welcome.html</a></p>
+
+
+	<h3>1996</h3>
+
+
+	<p><strong>Cartografia</strong>,
+Gallery Museum Ar/Ge Kunst &#8211; Bolzano, Italy</p>
+
+
+	<h3>1995</h3>
+
+
+	<p><strong>Jardines Firmados</strong>,
+Galeria Marta Llames, Oviedo, Spain</p>
+
+
+	<h3>1991-95</h3>
+
+
+	<p>doing jobs in calc diseño C.B., Navia, to finance our lifes and projects,
+mainly the infrasculpture calc</p>
+</div>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

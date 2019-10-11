@@ -1,0 +1,3032 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">2003</div>
+          <ul>
+              <li><a href="#booc155">2003/01/01</a></li>
+          
+              <li><a href="#booc154">2003/01/12</a></li>
+          
+              <li><a href="#booc153">2003/01/18</a></li>
+          
+              <li><a href="#booc152">2003/01/25</a></li>
+          
+              <li><a href="#booc151">2003/02/04</a></li>
+          
+              <li><a href="#booc150">2003/03/04</a></li>
+          
+              <li><a href="#booc149">2003/04/11</a></li>
+          
+              <li><a href="#booc148">2003/05/13</a></li>
+          
+              <li><a href="#booc147">2003/06/01</a></li>
+          
+              <li><a href="#booc146">2003/06/11</a></li>
+          
+              <li><a href="#booc145">2003/06/18</a></li>
+          
+              <li><a href="#booc144">2003/06/24</a></li>
+          
+              <li><a href="#booc143">2003/07/15</a></li>
+          
+              <li><a href="#booc142">2003/08/01</a></li>
+          
+              <li><a href="#booc141">2003/08/15</a></li>
+          
+              <li><a href="#booc140">2003/09/03</a></li>
+          
+              <li><a href="#booc139">2003/09/15</a></li>
+          
+              <li><a href="#booc138">2003/09/20</a></li>
+          
+              <li><a href="#booc137">2003/09/28</a></li>
+          
+              <li><a href="#booc136">2003/10/03</a></li>
+          
+              <li><a href="#booc135">2003/10/20</a></li>
+          
+              <li><a href="#booc134">2003/11/01</a></li>
+          
+              <li><a href="#booc133">2003/11/08</a></li>
+          
+              <li><a href="#booc132">2003/11/10</a></li>
+          
+              <li><a href="#booc131">2003/12/01</a></li>
+          
+              <li><a href="#booc130">2003/12/15</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc155" href="#selector">happy new yeah !, vera, erbse, babystudio</a></h1>
+      <div class="date">2003/01/01</div>
+      <div class="body"><p>happy 2003 new yes everybody!</p>
+
+
+	<p>eVa and omi and Teresa and Soto and Jose and Topi and Bego and Alvaro and Alicia are dancing, Javi and Luis are showing up..later we go out a bit..some to the bars, some to the beach…sunrise in the <span class="caps">NAVE</span>..Janet Jackson sings &#8220;tonights the night&#8221;..she&#8217;s right!</p>
+
+
+	<p>next day..the 2nd &#8211; Teresa and Topi leave to Sevilla.. on their way down they stop in Extremadura to meet Tomas Ruiz Rivas, the curator who wants us for Vera… escucha..
+llegamos a Pasarón de la Vera, en la región conocida como Vera, en el norte de Extremadura, de noche, lloviendo y con mucha niebla. y para empeorar las cosas, un pequeño susto: Teresa sufre un ataque de ¿alergia?
+y se le inflan los mofletes como a un Hamster. visitamos urgencias y a la mañana siguiente todo parece controlado, excepto la niebla, que continua&#8230;</p>
+
+
+	<p>niebladevera
+52Kb</p>
+
+
+	<p>Tomás Ruiz nos espera para enseñarnos la región, una serie de pueblecitos al pie de la sierra. dos productos típicos aquí, el pimentón y el turismo histórico, porque aquí paso sus ultimos años y murio el emperador Carlos I.</p>
+
+
+	<p>pimenton
+24Kb</p>
+
+
+	<p>la primera visita la hacemos al monasterio de Yuste, donde murió &#8220;carlitos&#8221;. demasiado &#8220;recogido&#8221; para nosotros&#8230;</p>
+
+
+	<p>yuste
+36Kb</p>
+
+
+	<p>Tomás esta preparando una bienal de arte contemporaneo en esta region y nos muestra los diferentes pueblos que la forman&#8230;</p>
+
+
+	<p>tomas
+43Kb</p>
+
+
+	<p>Finalmente nos lleva a un pueblo en el que los habitantes estan muy orgullosos de su jardinería&#8230;</p>
+
+
+	<p>seto1
+37Kb</p>
+
+
+	<p>seto2
+34Kb</p>
+
+
+	<p>seto3
+34Kb</p>
+
+
+	<p>until Mala leaves on the 4th omi and her work a lot for the aMAZEing concept..we want to present it end of january.. after that &#8211; in case it will be accepted &#8211; we also can add it to the <span class="caps">BOO</span>©..so u&#8217;ll see..if they don&#8217;t want to realize it as the full &#8220;package of strategy&#8221; we will present it to &#8220;any&#8221; other &#8220;gallery&#8221;..
+before Mala flies back to Torino she spends two days in Madrid..ciao chica, take care..see you soon in babyship! greet Luigi the peepeeper..</p>
+
+
+	<p>on the 5th also eVa leaves..by train back to Sevilla..this was the longest week in omis life! and the widest&#8230;.the.. at the same time it feels like a huge moment..see you soon eVita! tonight you&#8217;ll meet Teresa and Topi..greet them..</p>
+
+
+	<p>by the way &gt;Teresa and Topi are having a nice room with a nice view down in Sevilla..listen..: nuestra habitación en Sevilla, balconcito a la alameda y abajo el cine de verano, ahora vacío. continuación de una vueltecita, España en pocos días: Navia (L.A.), Vera, Sevilla, Benidorm, Barcelona&#8230;luego continuamos pa Italia. en Sevilla tenemos días ajetreados, mudanzas, me sacan una muela (ay!)...mis papis&#8230;Teresa conoce a los Sres. Cañavate, sólo puedo decir una cosa: gracias papis por vuestro cariño..</p>
+
+
+	<p>seville
+47Kb</p>
+
+
+	<p>L°°ks and omi send e r b s e online! thats our working title for the Konstanz proposal..the Jury asked for the concept by e-mail, by snail-mail and by a <span class="caps">URL</span>..wanna read it? as soon as they kicked us out or send us to round 2 we&#8217;ll link it..</p>
+
+
+	<p>Gigimon Scaria sends an e-mail..from Banglore..he showed some c a l c projects to this indian net-art-group he mentioned already during unidee2002..and tells us that him and them are interested to invite us for a certain coop..they have a flat there, small studio..a residency in Banglore..maybe 2004 for some months? yes, we are very curious..lets keep in touch Gigi, grazie..</p>
+
+
+	<p>Juice invites L°°ks and omi for lunch..he wants to talk about the possibility to colaborate in an architeture competition for Europan, this europewide and brussel-initiated thing… this year there is something to do for/in Luarca ..we call miss President and Topi to ask them if they are interested..they are.. omi asks also eVa..she&#8217;d like to be part too..maybe..guay.. okay Juice, lets try it! but when and where? early spring in babyship, Juice and L°°ks will come for a week or so..we&#8217;ll see..</p>
+
+
+	<p>adios todos, tutti, alle..hey L°°ks &#8211; see you and Juice soon in Torino, but hopefully before in L.A..since Mala felt in love also with this place we might return for few weeks in february..enschahallah..take care brother c a l c, thanks for this week..por todo!</p>
+
+
+	<p>T&#8217;n T are passing by Benidorm..listen..:
+en carretera, camino de Peñiscola donde dormiremos esta noche, decidimos parar en Benidorm donde ni Teresa ni yo hemos estado nunca. paisaje increible, torres fantasma (estamos en invierno). más increible que la cantidad de edificios, la densidad y la altura es la cantidad de gruas&#8230; la cantidad de edificios que habrá. mezcla de atracción y repulsión. ahora entiendo porque <span class="caps">MRVDR</span> eligieron esta ciudad para su trabajo &#8220;Costa Ibérica&#8221;...en cualquier caso el libro me parece una porquería..</p>
+
+
+	<p>benidorm
+49Kb</p>
+
+
+	<p>omi leaves now too..with Soto..it&#8217;s the 8th..to Bilbao.. hey hola Ismael, hola Lou, hey Ainara! nice to hug you all again, how&#8217;s art&#8217;n life going in Guggitown? everytime more the same or more different?
+early next moring &gt; Barcelona by bus, meeting Teresa and Topi..in the bus omi reads the book that Stefan and Dr.Nops sent him for x-mas: das buch der von Neil Young getoeteten..its like looking into a milky mirror..it&#8217;s a good book! but where is the CD to listen to what he talks about?</p>
+
+
+	<p>last night T&#8217;n T made a stop in Peñiscola, where Teresas mom has a flat..escucha..:se mezcla la hora (es ya de madrugada) con la estación del año (pleno invierno) para crear una auténtica ciudad fantasma. parece que somos los dueños de la ciudad. hace frío, mas de lo que parece y estamos cansados. la mañana nos sorprenderá con una ¿bella? vista&#8230;no se, una montaña artificial, pero a caso no todas lo son? vamos a por omi&#8230;</p>
+
+
+	<p>peniscola
+43Kb</p>
+
+
+	<p>we meet at 14:30 in north Barcelona.. what a pitty that eVa isn&#8217;t here..ciao belli…and we continue right away.. we&#8217;d like to arrive in Torino this night! the car is packed to the top..Topi brought his books from Sevilla..</p>
+
+
+	<p>look..we&#8217;re passing Perpignan..the city where our friend Nico Dockx teaches in the art-academy..he just sent us an e-mail, asking if we&#8217;d like to do a workshop there.. yes we&#8217;d like to, first of all we&#8217;d like to see Nico again! lets find a date when we&#8217;re well installed in Torino and can overview our next steps..hear you amigo…</p>
+
+
+	<p>Torino &#8211; late night, its cold here..Mala and Iris are sleeping.. wait..no, Mala isn&#8217;t here, she might be with this misterious Luigi..so her sms-culture also brought some nice fruits? ..the next days we organize the house, mainly the little studio in the entrance..we have to set up our laptops and the net as soon as possible..but also the kitchen, the rooms..</p>
+
+
+	<p>babystudio
+31Kb</p>
+
+
+	<p>the 11th and 12th of 01 Teresa and omi are going to San Sicario, where Michelangelo and Maria have a house and where all the citta-staff meets to talk about the most important things we need to re-formulate and to change in cittadellarte and unidee.. what a place! we didn&#8217;t feel this kind of cold and didn&#8217;t see this kind of white for many years..white, dry and thin air..</p>
+
+
+	<p>sansicario
+38Kb</p>
+
+
+	<p>we spend two days here, sit together all day long, have long talks and short walks in the snow..we touch all questions we had to..have a look at unidee in some weeks, its definition and invitation..if your interested in what we decided here..</p>
+
+
+	<p>papertable
+48Kb</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc154" href="#selector">happy book and bed day</a></h1>
+      <div class="date">2003/01/12</div>
+      <div class="body"><p>12th is omi birthday..Teresa brought a book from eVa, from the south &gt; Andalucìa occidental , que bien! all images made from an aeroplane..omi hopes to touch down there..soon..and wow, really..,when they are getting back home to babyship there is a bed in omis room, a birthdaydoublebed! the extended family (Teresa, Mala, L°°ks, Topi, Iris and Max) made this present to him! happy new year o..in the surprisebed with the surprisebook..</p>
+
+
+	<p>bookandbed
+43Kb</p>
+
+
+	<p>omi misses eVa and eVa misses omi..they have to meet.. omi will leave for a week..virgin.com makes it economicaly possible..&#8221;see you on the18th in Sevilla eVa!&#8221;..madonna, que año esta empezando? o will take his laptop and work, together with miss President he has to shufle unideee2002 online..as quick as possible..</p>
+
+
+	<p>14th of 01..
+Lorenzo (digitaltree.it) comes to install the internal net, cioa bello, thanks for helping us! no problem for mister troubleshooter..an hour and all different operating systems are linked in bingoboats net..ma dai, now we can start, fasten your seat belts..</p>
+
+
+	<p>tonight&#8217;s the first time that somebody dances here, Mala, Luigi and Teresa..to this indian borracho-sound… we celebrate babyships first sail! Luigi? o yes, Mala has a new boyfriend too..after they hypnotized each other with sms&#8217; between L.A. and Torino they met and ate each other..she&#8217;s happy..they are dancing..he looks happy too..</p>
+
+
+	<p>okay familia..some hot months are near &#8211; we have to go to Bolzano to talk with gokArt about geografia affectiva, to Bergamo to meet Ciacinto..to talk about a possible project in &#8220;his museum&#8221;, to Zuerich in feb. to do a workshop in the Shedhalle &gt; &#8220;art to the center &#8211; critic is not enough&#8221;, we have to present our aMAZEing concept beginning of 02 and do another one for the first interactive x-maslight..the first what please?? you&#8217;ll see it soon…then we have to/want to pressent a project for <span class="caps">VERA</span>..one for a.i.m.. o, and to visit Marseille maybe end of 01, where we could do a project in/with the bureau de competance..and the updates for novaron.ch and last but not least for <span class="caps">UNIDEE</span> and cittadellarte.. and not to forget arting Jerusalem, a project initiated by Liron Meshulam (a.i.r.2002)..she wants to invite all ex-unidee-residents, c a l c and some artists from israel and palestine to do inter- ventions, performances, istallations..downtown..June 2003! that could be the moment to do smething in/with the Mamila Pool.. but is it a good moment, not too dangerous? lets see what comes out of the meeting in 02..Liron wants to come to Italy then..</p>
+
+
+	<p>mama mia, quiete a lot until L°°ks and Juice are coming to work on the project for Luarca/Europan, no?..but fine, the c a l c family is big right now, Topi works with us, eVa hope- fully too, sister Venerdi..Juice..teleGernot..we can do it all! and we have to! our fridge is more than empty..soon a project has to become real, otherwise we have to start to sell..to sell the fridge maybe..in goat we trust!</p>
+
+
+	<p>omi meets Maria again..ciao L&#8217;Episcopeta, how&#8217;s life?..she&#8217;s fet up with her job in that studio for &#8220;architecture&#8221;..maybe we can do a trip to Austria, Switzerland..we could introduce you to all our archi-friends..perhaps you could work in one of these studios..come on..we&#8217;ll do that soon, okay?</p>
+
+
+	<p>Juan leaves with Anis and Cristina to Colombia..one month back home to show his girls his earth..and to talk to Juan Alberto (Centro Colombiano Americano) about his invitation to do a project there in 11-03..we&#8217;d like to work with Juan..a ver..</p>
+
+
+	<p>its the 17th today..Teresa, Topi and omi are working..sister Venerdi is in her punky room reading her philosophers..its deep winter outside..some hours ago Maria and Michelangelo passed by for a coffee..they told us that Juan sent ane-mail from Medellin..they arrived well..but..first time since 300 years.. its snowing! white Medellin..</p>
+
+
+	<p>tomorrow omi leaves to olècity..to Sevilla..a week or so.. he&#8217;s so excited..madonna..he can&#8217;t get this title song out of his mind..you know, the one from Asphalt Cowboy.. ..:&#8217;I&#8217;m going where the sun keeps shining, through the pouring rain, going where the weather suits my cloths..&#8217; but Topi says its also supercold in Sevilla..</p>
+
+
+	<p>venga familia, lets keep the wires vibrating online.. ciao..see you in a week or so..Teresa and Mala will maybe meet omi in Marseille on his way back from .. spain..we&#8217;ll see..take care..</p>
+
+
+	<p>guess we&#8217;ll be back in the <span class="caps">BOO</span>© in early spring, a presto dear friends and feedbackers ..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc153" href="#selector">sevilla, jerez, arcos olé</a></h1>
+      <div class="date">2003/01/18</div>
+      <div class="body"><p>homepage &#8211; june2003  (homeology)</p>
+
+
+	<p>windtree</p>
+
+
+	<p>18th of january 2003
+omi is leaving again, going the first time to Sevilla, eVas city! Miss Pi and Topo bring him to Milano.. its a cold winterday, grey and wet..ciao famiglia, grazie.. &gt; Brusellas &gt; Madrid &gt; via <span class="caps">AVE</span> to Cordoba &#8211; Sevilla &gt; <span class="caps">EVA 22</span>:00! aiii..</p>
+
+
+	<p>saturday night, first night together in olécity..its raining but it feels already like spring..some bars got the tables outside and there are little fires under the tables..raindrops in our beers..</p>
+
+
+	<p>sunday in Sevilla, long walk through the center, which was once an arabian-jewish-christian center..long time ago, but architecture still talks about it on every corner..and there a lot of these catholic bars..</p>
+
+
+	<p>catholicbar
+34Kb</p>
+
+
+	<p>Plaza Alameda..there is this amazing house, looks abandoned and we are dreaming to &#8220;buy&#8221; it and to install the babyship here. yes, why not moving next year from Torino to Sevilla with our jollyboat? it could anchor each year in a different city..</p>
+
+
+	<p>casalameda
+26Kb</p>
+
+
+	<p>monday..rain again..Marisa, Evas mother, and Lois her boyfriend come back from El Puerto de Santa Maria, where they have <span class="caps">SUR</span>, their sailing boat on the dry dock..they are restoring it from A-Z before they want to start a sailing trip all around the world in november..omi remembers the idea c a l c once had with Kurt Matt, the austrian artist who lives and works a lot on his boat and in harbours &#8211; to use the sailing boat and its GPSdata as a &#8220;drawing kit&#8221; and visualise the route, the wind..</p>
+
+
+	<p>Cristina calls from Jerez de la Frontera, Evas aunt..she maybe found a house for her project..she worked as a linguist in the univercity of Cadiz and would like to set up a language school for imigrants..but also invite other groups and initiatives to give workshops, etc&#8230;Eva will be the architect who brings the house into the shape this activities need. Eva and omi are taking the train to Jerez. Jerez! the cradle of Flamenco and the cradle of Eva! and the one of Tio Pepe..</p>
+
+
+	<p>tiopepe
+18Kb</p>
+
+
+	<p>in Jerez there is this incredible type-center, where people can learn to use the type writer! its like looking through a pastimewindow..</p>
+
+
+	<p>typecenter
+38Kb</p>
+
+
+	<p>obwohl..die zukunft kam anders: http://www.heise.de/tp/deutsch/inhalt/co/14885/1.html</p>
+
+
+	<p>Cristina shows some houses to Eva..an old little factory, a salesroom..they are interesting but non is really convincing and they are all quite expansive..she&#8217;ll go on to look around..</p>
+
+
+	<p>after one night in El Puerto de Santa Maria where Cristina and her family lives E and o are leaving to Arcos de la Frontera ..the &#8220;white village&#8221; which Eva had as the theme for her archi-diplome..amazing village,</p>
+
+
+	<p>arcos
+40Kb</p>
+
+
+	<p>somehow lost in tourism and tradition</p>
+
+
+	<p>arcos_church
+40Kb</p>
+
+
+	<p>but full of spaces which could open up their meaning to the present again..in her diploma Eva proposed to not build a youth hostel (as the theme she choosed was defined..), but to restore all kind of abandoned little structures to have the &#8220;hostal&#8221; all around the village..Ita and Ito (evita and omito..) talk about to bring the project as an exhibition and a proposal to Arcos..but how and when and..</p>
+
+
+	<p>arcos_forsaken
+38Kb</p>
+
+
+	<p>there&#8217;s this view in Arcos..this perspective down to this farm house..omi has the feeling that this earth has babyship-potential and c a l c has olé-potential..</p>
+
+
+	<p>babyshipearth
+55Kb</p>
+
+
+	<p>Dagmar Reichert writes and phones to the calcies: the new agora will be shown soon in the shedhalle Zuerich..Dagmar askes if we want to do a workshop regarding the park for L.A. project which we&#8217;re showing there..D sends also a short text which explains the &#8220;attitude&#8221; of these workshops..will we? we will..but who of we? Miss Pi will be in Barcelona with Topo then..Looks back in mothership..okay Mala and omi will go..maybe Eva can come too..see you on the 15th of february in the shedhalle!</p>
+
+
+	<p>17:00 riding back to Sevilla..meeting las niñas..archisectas.. late at night &#8211; after drinking beer in the jewish quarter..ex- jewish..next to the ex-arabian quarter..this city was a model! was it? it looks like..</p>
+
+
+	<p>going to EL Mundo, flamencobar…lifeconcert..porritos.. cervecitas..the only country we know where imigrants &#8211; los gitanos and their music &#8211; make nearly 100% of the identity &#8211; arabian/indian…viva el flamenco!..what feelings behind every word..&#8221;this morning my heart was discussing with my head&#8221; the singer sings..</p>
+
+
+	<p>wednesday &#8211; workday &#8211; 08:30 omi is a bricklayer! manolos house..where Eva and Topo are doing a renovation-reconstruction..and there are comming officials from the townhall to check if the works already started..and they haven&#8217;t..&#8221;we need urgently a worker who starts, otherwise we won&#8217;t receive the permission to go on..&#8221; while some advocates are weaseling all around the house omi demolishes the fake ceiling in the bathroom..it works..the advocates and manolo are happy..tapas y sssiesta..</p>
+
+
+	<p>omi&#8217;s writing on the icon..the project we want to present to the luci di artista initiative in Torino..Miss Pi works in babyship on the interface for Unidee-2002..Mala in the maze-gallery organizing one show after the other and trying that c a l c can redesign the their website..L°°ks&#8217; back home in mothership &#8211; updating the last version of the <span class="caps">BOO</span>©..Malex in Zürich proposing to change the server..si, venga..we had problems enough with our spanish mailbox..</p>
+
+
+	<p>reserving a train to Barna on saturday night &#8211; another one to Marseille on sunday morning..the babyship-calcies Miss Pi, Mala and omi will meet there with Sylvie and Yanick from the <span class="caps">BUREAU DES COMP</span>ÉTENCES <span class="caps">ET D</span>ÉSIRS ..</p>
+
+
+	<p>there&#8217;s a mail reaching the calcies@calcaxy.com ..from Annette Schindler who runs the plug in in Basel..she did invite us also for curating degree zero..but now its some- thing totally different: basel_medienwettbewerb.doc we think/chat about to maybe present the icon for basel.. there the context could be wider and the icon could not only shine in x-mas times..we&#8217;ll link this concept when we&#8217;ll have presented it..</p>
+
+
+	<p>David Topi is leaving to Madrid..4 days..meeting Ruben and then the folks from the unemployment office in Sevilla..</p>
+
+
+	<p>Miss Pi still working hard on <span class="caps">UNIDEE</span>-2002.. L°°ks and Juice are visiting Luarca&gt;Europan..they don&#8217;t like the problem..the do..they don&#8217;t..they do..but anyway they want to partizipate..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc152" href="#selector">bureau de competences marseille, mamilla pool jerusalem</a></h1>
+      <div class="date">2003/01/25</div>
+      <div class="body"><p>saturday 25th 22:00 Ita and Ito leave..sleeper cabin.. Sevilla-Cordoba-sunday morning Barcelona..train to Cerbere..Jesus what a hole..going to the beach while waiting for the next train to Marseille..</p>
+
+
+	<p>cerbere
+20Kb</p>
+
+
+	<p>Montpellier &#8211; Marseille! 20:17 Miss Pi and Mala arrive by car, Evita and omito by train..abracio/abrazo.. and driving straight to Sylvie and Yanick.. they invited us to do a &#8220;show&#8221; in the new spaces they have downtown..its the first time they have also a show- space..wow, they&#8217;re living on top of this town!</p>
+
+
+	<p>have a look to the south..</p>
+
+
+	<p>marseille_south
+48Kb</p>
+
+
+	<p>have a look to the north..</p>
+
+
+	<p>marseille_north
+64Kb</p>
+
+
+	<p>monday &#8211; visiting the old and (having salat in the meantime)</p>
+
+
+	<p>marseillesalat
+49Kb</p>
+
+
+	<p>the new office/showroom..Yanick shows us..and invites us again officially to do a project in Marseille..here..:</p>
+
+
+	<p>b_d_c_d
+32Kb</p>
+
+
+	<p>yes, with pleasure &#8211; 2004! january..in about a year.. we think we&#8217;ll introduce c a l c as a whole thing and maybe come up also here with geografia affettiva? it would be great to have also Marseille on the g.a.worldmap linked..</p>
+
+
+	<p>geografia affettiva! the project which should make this <span class="caps">BOO</span>© obsolete, resp. tranform it into a living log-boo©..but when we can do the first workshop and when can we link the first project paper <span class="caps">HERE</span>? our ideas got much clearer, but the papers are still to &#8220;secret&#8221; to show you..you know, first we have to talk to a copyright-specialist..it would be a big pitty if the idea would be copied by buisness sharks before the source code gets active and open..soon..we hope, first we have to phaseout some other ventures..</p>
+
+
+	<p>having a long walk all around the city of Marseille..we all heard so much about this city and always wanted to come and do a project..</p>
+
+
+	<p>vabienbar
+30Kb</p>
+
+
+	<p>its seems we only get invited to those places we think of..we&#8217;d like to go..Marseille laid in the air since years somehow.. its like this evening, when we saw &#8220;David&#8221; driving back from visiting the Chapel Michelangelo did for a hospital in Marseille and David Topo calls..</p>
+
+
+	<p>davidtraffic
+29Kb</p>
+
+
+	<p>..Mala is the only one who has been here before..when she was erasmusing around in Aix de Provence..</p>
+
+
+	<p>yousms
+39Kb</p>
+
+
+	<p>Mala is in love with Luigi! thats why we call her You now (youdid..)..You and Lou..she writes more sms than this day has squares&#8230;.</p>
+
+
+	<p>templesoccer
+59Kb</p>
+
+
+	<p>another great dinner with our friends on the hill, tuesday &#8211; next morning we&#8217;re leaving &#8211; merci so much, hear/read you soon…lets do a great show together!</p>
+
+
+	<p>today we are leaving for Torino..before we let Marseille behind and project it on the beginning of 2004 we go to see the big thing Le Corbusier was building in the surburb.. Unité d&#8217;habitation ..what looks from far like a house for rich squarehippies becomes surprisingly interesting when we get closer..and inside..</p>
+
+
+	<p>tonsfly
+39Kb</p>
+
+
+	<p>we do a little performance on the roof..just for Evita ..and the last moments in Marseille..</p>
+
+
+	<p>performanceva
+39Kb</p>
+
+
+	<p>riding straight back home to babyship Torino</p>
+
+
+	<p>we show Evita Monte ugly Carlo..where there was Beigelehem some weeks ago its now just Beige- issen..but we can&#8217;t disclaim that we&#8217;re also fascinated by this decadence..one day we will
+c a l c even here!</p>
+
+
+	<p>straighthome
+25Kb</p>
+
+
+	<p>tuesday night..back in babyship..Iris is still up..ciao fratellita..Topo&#8217;s still down south..bienvenida Evita, estas en casa, vale?</p>
+
+
+	<p>wendsday &#8211; quiete day in Torino ..at noon Miss Pi goes to the airport again, picking up Topo!...bienvenido en bimbabarco! eva and omi cook! everybody&#8217;s in the house.. Luigi Lou..Max, we are 8 people ~ 4 pairs who kiss a lot..</p>
+
+
+	<p>thursday &#8211; finishing <span class="caps">UNIDEE</span>-2002 website..</p>
+
+
+	<p>friday-saturday &#8211; Miss Pi, Evita, omito and Topo brainstorm for ideas for mamila pool &#8211; arting jerusalem..
+we realise that everything we set up in Israel is political, a statement..each color, each form, each context..we think as less we want to &#8220;say&#8221; as more we can express..no words, no symbols, no metaphor, but s e n s a t i o n..space and light and movement and time..as more we reduce all which has to do with the war as more we propose &#8220;peace&#8221; by not mentioning it.. mamila pools dimensions are incredible:</p>
+
+
+	<p>mamilapool01</p>
+
+
+	<p>balloons! the light and the heavy, the life and the death.. there is an abandoned palestinian grave yard on two sides of the pool..the lasting and the fleeting..the &#8220;this&#8221; and the &#8220;me&#8221;.. Evita and Topo do a first simple simulation right away..:</p>
+
+
+	<p>mamilapool02
+37Kb</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc151" href="#selector">ci cittadellarte, torino, LA in zürich</a></h1>
+      <div class="date">2003/02/04</div>
+      <div class="body"><p>monday 4th of Feb.- Annette sends an e-mail.. the <span class="caps">CDZ</span>-archive is online..</p>
+
+
+	<p>tuesday &#8211; working on the CI for cittadellarte..since yesterday ..complete redesign..Miss Pi and omi are doing kind of a workshop with Armona and Marco from cittadellartes uffizi.. all week..we are looking for a dynamic logo which can change appearance without loosing recognition..on friday we present an organic bubble system to all people of all citta-uffizi..they like it..Marco will work now on all applications..depending on its reference the logo changes..such as cittadellarte as a whole entity the c-logo is dynamic/organic as well..it&#8217;s not a repeating signal like logos are normally, but a changing, growing and communicating code..:</p>
+
+
+	<p>cittalogo_new
+24Kb</p>
+
+
+	<p>metaphorical the c-logo looks like a micro organism, a fractal structure, or the goundfloor of a cittadella..and these connotations aren&#8217;t disappointed by the sign &#8211; in fact it is all these things! a micro organism like cittadellarte is a growing,changing and exchanging organ in an international body named world, a fractal structure because each part (field) of citta&#8217; is related to all others and each contains the whole, a grounfloor of a cittadella because it&#8217;s the &#8220;groundfloor of content&#8221; of cittadellarte..</p>
+
+
+	<p>Topo working in preparations for Europan..he and Miss Pi also want to propose a project for Luarca..eVa works on a magazine for schools in Andalucia..job..and on first ideas for the renovation of Manolos house in Sevilla..You&#8217;s busybusy in the gallery and L°°ks back home southwest in our mothership forgot to make some notes for this <span class="caps">BOO</span>©..;-)</p>
+
+
+	<p>eVa is taking images of this huge scaffold they setting up on Piazza Vittorio ..in few days this will be the iron mountain for snowboarders from all around the world..Red Bulls will spons down this amazing costs..
+compared to sports art has no muscles..but its nice that this installation beats Jason Rhodes Hamburgthing..(&#8220;the biggest installation ever..blabla..&#8221;)</p>
+
+
+	<p>snowboard
+70Kb</p>
+
+
+	<p>Liron calls..we talk the first time about our idea for mamila p°°l..we already sent her the images E and T where making..she likes the idea..she says that every- body who saw them likes it..and she also mentiones that its &#8220;politically stronger&#8221; because it avoids political &#8220;language&#8221;..we start to investigate how this flying carpet could be parked on its alternative sky/earth level and bankrolled..</p>
+
+
+	<p>wendsday…Tal calls…he&#8217;s going to Zürich on saturday already..he&#8217;s presenting Pettek there..&#8221;see you there! You, Eva and omi will come..&#8221;, &#8220;who is Eva?&#8221;..</p>
+
+
+	<p>You is organizing a visit to the Interaction Design Institute Ivrea ..meeting Christoph and Mark and more and some students and projects and the first typewriter Olivetti did..:</p>
+
+
+	<p>olivetti
+50Kb</p>
+
+
+	<p>we&#8217;ll present you our 1st official papers regarding geografia affettiva, okay? Ivrea wears its festive dress today, tomorrow the legendary carneval starts..</p>
+
+
+	<p>ivreanstallation
+50Kb</p>
+
+
+	<p>they&#8217;ll do an orange war..shop windows are bunkered like the G8 are comming tomorrow.. we&#8217;d like to stay and watch and make some images for the vitrine and the people of L.A&#8230;but we can&#8217;t..Zürich&#8217;s calling..</p>
+
+
+	<p>thursday &#8211; 13th of Feb &gt; Zürich, eVa, omi, You..trainride.. working on our workshop.. Shedhalle ~ meeting a lot of people we know..hola Dagmar and Davide, wow, this looks good..we get a little bay in the entrance to install the short art history about the park for L.A. a rat ate all the little orange trees they fostered the last weeks..but there are still seeds.. lets plant them again and protect the earth-hill at night when the rat is alone in the exhibition..</p>
+
+
+	<p>shedhalle
+32Kb</p>
+
+
+	<p>we meet some women from kuverun..they organize guided tours and other things related to that exhibition..the best they tell us is that they presented their ideas also to seniors from an old people&#8217;s home..and they proposed to do an orange- fitness hour in front of our park-installation! we hope they&#8217;ll do some images so we can show them to the people of L.A. ..by the way..Juice found a show-case we can install next to the park..for information like about this show..or images about the orange-aerobics..</p>
+
+
+	<p>the workshop goes well..we just have some hours..and some very nice women who come to try with us finding new ideas for the park..the village..the culture of L.A&#8230;</p>
+
+
+	<p>shedshop
+45Kb</p>
+
+
+	<p>the most important we find is that we have to do the next steps for the children..for mothers..we should study the second bedraggled land in the eastend of L.A. and propose a playground there..an open field for all kind of playing the day.</p>
+
+
+	<p>we order a Salat for 10 people..Michelangelo, Maria, Armona, Crisitina, Paolo, Fillipo, Iris, Katerina..and more came from Biella..they present love difference in this context..and we get a big bowl with at least 30 green leafes! the waiter askes for unbelievable 50 €/$!! we are in an &#8220;alternative restaurant&#8221;.. and in Switzerland..we get the green for 25 after making clear that it cost them some cents..</p>
+
+
+	<p>Evita und You go back to Torino after some days..omi leaves the same night for some days to Bregenz to see MamaMärle and PapaCurt..they come to pick him up in Zürich!</p>
+
+
+	<p>when omi comes back to Torino on the 21st Teresa, Topo and Eva left to Spain already :-(, just You and him and Iris are here now..and Juan, Cristina and Anis who came for the weekend.. and to work on our ideas for Colombia..el puente..Medellin.. where we want to do a 2week workshop with students from various fields..el puente wants to investigate, imagine, propose and start to realise different ideas to bridge colombia and europe..</p>
+
+
+	<p>some days later Teresa and Topo are already back from Barcelona, Topo&#8217;s setting up pattern with Miss Pi in <span class="caps">HANGAR</span>..</p>
+
+
+	<p>zonalibera
+30Kb</p>
+
+
+	<p>You, Teresa and omi work on Geografia Affettiva &#8211; we want to realise this program/project as soon as possible! this <span class="caps">BOO</span>© can become redundant then..when we all can inform the surface and draw our personal and collective maps..we have to invite Malex to clear some technical questions and listen to his ideas regarding the transpersonal mapping..we propose to meet from the 7th &#8211; 14th of May..he can come..grrreat! we also need to work on e.r.b.s.e then..the idea we proposed for this library in Konstanz..</p>
+
+
+	<p>we get the okay from <span class="caps">MAZE</span> to redesign their web-site, bene! the fridge is quite empty..our concept for aMAZEing we&#8217;ll show them maybe later, we are unsure about some points..mainly if we really want to realise the project in their gallery frame..You proposes to do it not only online, but also on the road..each time in a different city/context..good idea..we&#8217;ll see..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc150" href="#selector">sevilla, LAstudio, torino cinema museum, europan</a></h1>
+      <div class="date">2003/03/04</div>
+      <div class="body"><p>on the 4th of march omi leaves to Sevilla again.. and to L.A. and to Lissabon..</p>
+
+
+	<p>Sevilla ~ Evitamor! Sevillas life quality is so high, living&#8217;s so easy, the beer so cold&#8217;n cheap and all kind of traditions so strong, that almost nobody feels the need to come up with different ideas.. new ideas..says Eva..</p>
+
+
+	<p>relishop
+39Kb</p>
+
+
+	<p>Ita and Ito work and ride bicycle!
+Evita regalaba una bici a omito!</p>
+
+
+	<p>Teresa and Mala are working intensively in A.I.M (arte atraverso il muri) everyday they meet also omi, L°°ks and Malex in a chat to discuss and find answers. on the 15th we give the concept to Juan, who is coordinating this invitation. we present <span class="caps">LUCE</span>.. a system where all incomming and outgoing steps of people using the main entrance get translated into traces of light..these traces would be displayed during the night..the system should run autonomously via a solar panel..</p>
+
+
+	<p>..visit to Jerez again, Cristina bought a house! good place, good space, good price, good step..en hora buena!</p>
+
+
+	<p>: jerez02
+36Kb</p>
+
+
+	<p>going a bit more down south to sea the see..and a high chair for long views..</p>
+
+
+	<p>sillata
+26Kb</p>
+
+
+	<p>after 10 days omi leaves to L.A&#8230;long trainride from Sevilla to Oviedo through all different kind of landscapes..amazing how this world with its 40.000 km diameter and its 6.000.000.000 people has still so much freespace..</p>
+
+
+	<p>L.A.! L°°ks looks good! since Navias public swimming pool opened he and Juice are going there every morning&#8230; Juice talks about the architecture studio he wants to not install downtown L.A&#8230;.he thinking loud about a name&#8230;L.A.studios.. L.A.studio&#8230;LA studio&#8230;la studio sounds good if you spell it spanish, like one word &gt; lastudio..a feminine studio..omi offers to do the grafics..logo..as a present&#8230;well as a counterbuisness better said, Juice is doing so much for the park now! its so good to have him in the village..and everytime drawing nearer..</p>
+
+
+	<p>1st</p>
+
+
+	<p>the spanish hacienda deletes more than 2000 € from c a l c&#8217;s bankaccount! now we are all on 0..even deeper..we realize that working a year in <span class="caps">BIG</span> and not really have developed new projects or looking for interesting web-jobs made a big hole in our economy&#8230;slimtimes started again&#8230;well they never have been really fat, but now its slimer than since a long time&#8230;not dramatic, but spaghetti..and there are so many ideas in the air and ready to touch down now! cmmm oooonnn!</p>
+
+
+	<p>after some days omi travels to Lissabon to meet eVa, Ana, Ruben and Oscar from Sevilla who lives there with Anabela.. taluego amigos..no vemo prontito &#8216;speramos..</p>
+
+
+	<p>Lissboa! its Evas birthday!! happy new year Evita! she and the others came to decide if they want to do the EUROpan Lissabon ..they will..but Eva&#8217;s more interested in colaborating with c a l c on the Luarca problem..</p>
+
+
+	<p>Ana lends Eva and Omi the car&#8230;they go to madrid the next day to meet her and Ruben&#8230;all architects! its nice to be with architect- artists, somehow they think more spacial..one night Madrid only&#8230; omi&#8217;s leaving next morning..taluego Gusanita . . . with Ana by car to Gerona and..&gt; Torino again..</p>
+
+
+	<p>o&#8217;s arriving, Miss Pi and Topo are leaving for almost a month to L.A. and Sevilla..c a l c traffic&#8217;s getting tight..but it never feels like leaving the others, we just shift our geographical layers and keep on affettivi&#8217;..Ms P and T want to work in Casqueiro on the EUROpan-project for Luarca..but before they leave Ms Pi and o have an important meeting with Michelangelo and Paolo regarding all c a l c &#8211; tasks in cittadellarte 2003..:</p>
+
+
+	<p>Michelangeolo already asked Teresa (when omi was with L°°ks in L.A&#8230;) if we want to co-curate the cittadellarte-show for Antwerpen.. with pleasure, thanks for asking us..we should go to Antwerpen soon! and won&#8217;t take this challenge without You!</p>
+
+
+	<p><span class="caps">UNIDEE 2003</span>..same as last years..swinging between the a.i.r, the projects and the uffizi..cittaweasels agains, but only 2 intensive days a week..</p>
+
+
+	<p>..and we get asked if we want do propose a concept for the office of communication in cittadellarte..ssss..maybe the work for Antwerpen could be thought and done as its first project..we&#8217;ll see..</p>
+
+
+	<p>e..hombre<img src=".gratulazione" alt="" /> Michelangelo got the golden lion of the Venice biennial 2003 for his lifework..although life seems to just start..over here in cittadellarte..;-)</p>
+
+
+	<p>2nd of April..
+Miss Pi and Topo leave today..You and omi work a lot! its great to have You in the C-family..we&#8217;re like wider now..we&#8217;re touching el puente,and geografia affettiva..and You makes a contact with Tati who&#8217;s a curator in Torinos cinema museum &#8211; contexts..Tati&#8217;s looking for an &#8220;interactive furniture&#8221; which can host the new inter- netaccess they want to install in the museum..</p>
+
+
+	<p>Tati (not Jacques, but Tatjana) already bought a projecting system which make things a bit nerved..but its a pleasure anyhow to work the fist time with Eva on something like that..and over the cable.. we just have some days until Tati has to present..and we just have edgetime..we imagine a kind of strange antique <span class="caps">UFO</span> which looks like it came out of the Jules Verne movie you never saw.. like a space coach..a science fiction glowfly..</p>
+
+
+	<p>guziluz
+45Kb</p>
+
+
+	<p>mamila p°°l! things aren&#8217;t as easy as it seemed..hard to get the permission to set up the balloons..also the costs swimm.. its war and balloons have it more difficult to rise than bombs to fall..</p>
+
+
+	<p>Karin Frei (remember her? she was the curator-santa claus who sold all L.A.park prints to a Foundation in Franfurt..) is back from Southafrica&#8230;she was doing a research and a conceptual work on the notions of &#8220;paradise&#8221;...now she writes and asks us if we want to be part of a show touching this theme in Kapstadt in spring 2004..she also asked the etoy&#8217;s and other people we&#8217;d like to meet again..yes, we say..yes..lets see your ideas first, but yes..Miss Pi proposes to do a park for L.A. &#8211; translation/transaction..or maybe to do another geografia affettiva station?</p>
+
+
+	<p>fine, we´ll meet Stephan Hobbs from The Trinty Session again!
+Martin Swami Roth, from Belleville Zürich calls&#8230;they also applied with a project for the Konstanz-thing..but they did&#8217;nt make it&#8230;but the projects idea has a big potential (for this bibliothek it might was to popular..) and Martin asks if we want to be part..fotobot &#8211; Sevilla,Torino..literature..word&#8217;s and selfportraits? still secret sorry..if Brussels accepts we may tell/link it..but c a l c is only helping to find places and people..writers..You&#8217;s doing Torino, omi Sevilla..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc149" href="#selector">navia deepshop, la feria de sevilla,  e.r.b.s.e., mamilla pool</a></h1>
+      <div class="date">2003/04/11</div>
+      <div class="body"><p>on the 11th of April omi&#8217;s leaving again &#8211; from Bergamo to Gerona &#8211; from there to Gijon where tomorrow Eva arrives from Sevilla! all calcies..well, no, ecept You (who left to Sicily for some days with Lou..) and Malex (who goes for a cake-attack back home to Mam over easter&#8230;) meet in Casqueiro with Märle and Curt! Miss Pi and Topo are already there since a while..its going fine with the extended family!</p>
+
+
+	<p>hola Evita! one week in Casqueiro &#8211; first time that the we all meet..some days later also Ruben arrives! happy easter everybody.. &gt; l o v e . .</p>
+
+
+	<p>wow, how easy it can be..one cares of the other and thats why everyone cares of everyone..Märle cooks fine meals while all the other artists cook ideas and plans..</p>
+
+
+	<p>20th Märles birthday! milles besos from all around..sms- besos, telephone-besos, e-mail-besos, snailmail-besos and realspace-besos, feliz cumpleaños y salud Märlita!</p>
+
+
+	<p>freeflower
+31Kb</p>
+
+
+	<p>fine days in c..in L.A..in Navia..el Pasodoble..Miss Pi, Topo and Eva visit Taramundi and Teixois..L°°ks and omi start to work on a small job..for a hip-hop-shop in Madrid..Visus shop..Visu used to live here too..will be online soon..</p>
+
+
+	<p>rotate_ccw
+47Kb</p>
+
+
+	<p>deepshop
+25Kb</p>
+
+
+	<p>some days later &gt; ciaoamores! Topolino and Teresa Miss Pi and Evita Gusanita and omito omeloni are leaving to Madrid..Sevilla..Miss Pi and Topi stay in M for a day or 2..Topi has a meeting with this engeneers firm for which he investigates theoretically on certain problems and projects..no vemo..cuidado..exito.. Sevilla..working on mamila
+p°°l again..sending Liron a precise plan how the set up could work..still unsure if the city allows some hundreds of big balloon to hover around in mamila..and we start to doubt that the flying carpet is a good idea..maybe the single balloons should be independent? when Topo and Ms Pi arrive we decide to go to La Feria this afternoonight.. La Feria de Sevilla! caramba muchacho, if you didn&#8217;t see it if you didn&#8217;t dance it smell it hear it touch it taste it, you won&#8217;t believe it! almost all women are dressed like colves and men like elegant Zorros..</p>
+
+
+	<p>laferia01
+42Kb</p>
+
+
+	<p>laferia02
+36Kb</p>
+
+
+	<p>laferia03
+42Kb</p>
+
+
+	<p>laferia04
+41Kb</p>
+
+
+	<p>laferia05
+46Kb</p>
+
+
+	<p>laferia06
+33Kb</p>
+
+
+	<p>laferia07
+41Kb</p>
+
+
+	<p>next day we go again! Eva dresses like the colvequeen! but before we meet Federico Guzman and Alonso from Cambalache or how they call them now? and Esther with a huge babybelly! and Pedro, a friend of them and writer who might can help us to make contacts with other people who work with words..for the fotobot-project in Sevilla..</p>
+
+
+	<p>que fiesta, tan cerrada como abierta, tan bonita como ugly..i mean why do they have to have these private bars everywhere? you need an invitation to get in..others, the bigbig ones with orchestra are &#8220;free&#8221;..&#8221;in Jerez its different..all bartents are public, people dance from bars to stripes&#8221;..lets go there next year..but before omi has to learn to dance sevillanas..the clovedance..</p>
+
+
+	<p>cloveland
+144Kb</p>
+
+
+	<p>cervesitas&#8230;Dani, the brother of Ruben comes too..Dani makes nice music and loves design! especially Stefan Sagmeister! he mentions Stefan as one the &#8220;best designers of the world&#8221;..omi and Teresa have to lough..not because they think it&#8217;s not true, but because the size of a small world..we tell Dani that we&#8217;re friends with Stefan..and that we maybe could invite him to do a workshop or something in Sevilla..Dani shines!</p>
+
+
+	<p>on the 3rd of May we&#8217;re (Miss Pi, Topo and omi) back in Torino..ciao You..ciao springtime! 4th..its Miss Pi&#8217;s birthday! viva la presidenta! we give her a symbolic entrance to the flamenco biennial in Sevilla this september! since years MsPi is talking about going there..</p>
+
+
+	<p>the next two days she and omi are in cittadellarte..doing together with Michelangelo, Cristiana and some people from the Uffizi the selection for <span class="caps">UNIDEE2003</span>&#8230;some very interesting applications reached us! we are looking so much forward to meet the a.i.r.!</p>
+
+
+	<p>ciao Malex! 7th of May..until the 14th you&#8217;re the baby, we&#8217;re the ship;-)..we working hard and playfull on e.r.b.s.e..we realise that the first idea to build all up upon the searchterms isn&#8217;t realistic..first simulations You and Miss Pi are doing don&#8217;t show any surprising results..although we don&#8217;t like this kind of sportive art-events we are working with enthusiasm! and take now the index card of each book to visualise relations and proportions.. we have to send e.r.b.s.e on the 27th of May, lets do the finishing online..look ~ a websketch..:</p>
+
+
+	<p>erbsesketch
+27Kb</p>
+
+
+	<p>when the jury calls to tell us that we should have a party tonight we&#8217;ll link the whole concept..and did you know that Eve didn&#8217;t give Adam an apple but a pea? or why you thought we&#8217;re talking about the erbs_ünde?</p>
+
+
+	<p>we also touch geografia affettiva with Malex..he&#8217;s showing us what is possible and how..and also likes the idea! the first g.a. workshop we&#8217;re doing in three weeks in Perpignan!</p>
+
+
+	<p>slate02
+41Kb</p>
+
+
+	<p>and!: with the help from Caterina we get two old, big blackboards.. one for the kitchen, one for the studioffice..beautiful pieces..real slate..huge as big doors and perfect to compile common imaginations..</p>
+
+
+	<p>slate01
+31Kb</p>
+
+
+	<p>we decide to reduce the ball°°ns for mamila to ~500..each one with 100cm diameter and leaving 2 meters between the threads..to open the carpet to a forest, to make them more independent..not one crowded dance with the wind and the light/shadow, but fivehundred..this all came because the ~5000 ball°°ns of the same size are much to expensive to buy and to transport..to install..but in fact we think the idea got stronger by this compromise..the colour is still open..</p>
+
+
+	<p>mamila_now
+32Kb</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc148" href="#selector">mhka antwerp, musrara jerusalem, perpignan week</a></h1>
+      <div class="date">2003/05/13</div>
+      <div class="body"><p>on the 13th we &gt; You, Miss Pi and omi are going to Biella to have a meeting with Michelangelo regarding the big cittadellarte show in the
+<span class="caps">M HKA</span> ..we&#8217;re a good team..in some hours we find first ideas how to translate the very complex content of cittadellarte into the M HKAdellartespaces..</p>
+
+
+	<p>on the 16th Ronald, a curator from the <span class="caps">M HKA</span> and our co-curator in this case is comming to life and work with us for a weekend! big weekend!..in only one day we can decide together with Michelangelo the whole structure and basic desicions for the catalogue/book! Ronald isn&#8217;t it a pleasure to work together? the show opens the 4th of October..why don&#8217;t you drop in? see you soon in Antwerp Ronald!</p>
+
+
+	<p>topogigi
+40Kb</p>
+
+
+	<p>next days..we&#8217;re bringing all new generated date from the last Malex-week into some internal papers and prepare our trip to Antwerp..Miss Pi, Topo, You and omi want to go there in order to get a feeling for the spaces, meet the house technicians, the designer who does the catalogue..</p>
+
+
+	<p>Michelangelo and Francesco, the man who runs the Uffizi for economy, production and work in cittadellarte, also will come! and Nico Dockx we might can meet too!</p>
+
+
+	<p>after omi lets Dani know that Stefan is open to come to Sevilla if we pay at least his flight and hotel Dani sends an image..he still is shining!:</p>
+
+
+	<p>danishines
+43Kb</p>
+
+
+	<p>and a sketch for a new music he&#8217;s playing with..he&#8217;s started to mix this kind of flamenco-moaning with his kind of lovesongs.. may we link this piece here Dani?</p>
+
+
+	<p>shit &gt; the israelian police doesn&#8217;t give the permission to do the balloon installation! too dangerous&#8230;a balloon could fly away and clash with the turbine of an aircraft..okay, we can&#8217;t do it as fast as we thought, lets go on trying! but what we do now?</p>
+
+
+	<p>mamilapoolita</p>
+
+
+	<p>after sleeping it over we decide to also do a workshop in Jerusalem..to introduce c a l c and the project for mamila p°°l and then opening the ideas of geografia affettiva.. it would be great to have also a middle east platform on g.a&#8217;s worldmap!..right from the beginning..</p>
+
+
+	<p>eVa sends some images from Sevilla..they are putting sails over the streets and on the squares now..tranforming the innercity into a shadowship..it&#8217;s so hot that every little field of shadow feels like mercy..
+these sails were here for centuries, then they were &#8220;forgotten&#8221; for many years but came back over the city in the 19seventies.. Pedro calls it the best political decision of the whole decade!</p>
+
+
+	<p>salvavolador
+33Kb</p>
+
+
+	<p>driving all through germany..how strange things look up here.. houses are like models of houses, women are like models of women..11 hours..a lot of music and talks..travelling is relaxing..</p>
+
+
+	<p>rhino
+34Kb</p>
+
+
+	<p><span class="caps">M HKA</span>! what a strange ship you are!</p>
+
+
+	<p>wallwalk
+29Kb</p>
+
+
+	<p>we scann all spaces, feel all corners, imagine a lot and decide few things..2 days we visit the spaces together..meet the people, talk about all open questions and project ideas into the air..when we have dinner in the museums cafeteria there is this wedding couple and this photographer taking images in the entrance of a James Turell installation..&#8221;lets life in a cube with only a window to heaven darling&#8221;..</p>
+
+
+	<p>jameswedding
+27Kb</p>
+
+
+	<p>just one hour..late at night in a bar on this huge square which reminds so much in Sevillas Alameda&#8230;so nice to see Nico again! and Elena..his g~friend..omi brought a jacket for Nico..Nico a big book for omi! see you in a week in Perpignan!</p>
+
+
+	<p>omi flies from Brussels to Sevilla..Miss PI, You and Topo leave one day later by car to Torino..they still want to go through all pages and images we preselected from cittadellartes big archive.</p>
+
+
+	<p>Sevilla again..what a change! like comming from the rational to the ritual, from the &#8220;ornament is a crime-&#8221; to the &#8220;ornament is fine-land&#8221;..</p>
+
+
+	<p>a new situation &gt; Eva, Ana, Ruben, Jaime and soon Topo, who&#8217;ll also forms part of this team, were lucky and got offered to use a house, they are renovating, as their studio until the de/construction works start..que bien, jo..and the <span class="caps">ADSL</span> equipment arrives already!..</p>
+
+
+	<p>while they all are working on their big project (they are planing 10 houses for 10 families outside Sevilla!) the calcies meet in the the chatscape to get e.r.b.s.e. ready to send..Miss Pi and You are coordinating and cording up the package in Torino.. on the 27th e.r.b.s.e. rolls northwards..</p>
+
+
+	<p>omi&#8217;s doing a little poster for Jerusalem&#8230;Tal organized the workshop in Musrara school for photography and new media..</p>
+
+
+	<p>cartelito
+16Kb</p>
+
+
+	<p>in some days omi will meet Miss Pi in Perpignan to give the 1st workshop regarding geografia affettiva! they are very excited about that 1st step towards the real..will the students like the project? will they help us improving it also in their own interest..and will the ecole superieure d&#8217;art want to colaborate with us developing the programm and become a partner? we send the students the perpi_weekprogram.doc . .</p>
+
+
+	<p>Eva and omi talk about the &#8220;pre-ruins&#8221;..you know, those buildings which never got finished..there are so many, especially in Spain.. and they decide to make a little project out of it..they want to take good images of these kind of ruins and collect them for further steps.. you remember when Juan also proposed to work with them? maybe we can do something together? also Miss Pi is fascinated by this construction-decadence..well first of all we are going to collect them..we&#8217;ll let you know..let us know if you&#8217;re working with them already! ta luego ita, no vemo supapronto!</p>
+
+
+	<p>omi meets Miss P and Topo in Cerbere on the 1st of June. its hot and sunny. Topo came only for a day..tomorrow he&#8217;ll continue to Barcelona and then straight on to Sevilla where the other archis are awaiting him..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc147" href="#selector">geografiaffettiva perpignan workshop, cui goes westcoast</a></h1>
+      <div class="date">2003/06/01</div>
+      <div class="body"><p>1st of June &#8211; bloody city! welcome to Perpignan..first night at a thai restaurant: man attack each other with a knive and bottles.. blood, shoutings..we escape..where are we?</p>
+
+
+	<p>2nd hola Catherine, hola Michel! (two professors who together with Nico do a lets-open-the-questions-good job in the a-school&#8230;) hola estudiantes, somos Teresa and omi&#8230;we start with talking about c a l c, how it came, where we are and where we&#8217;d like to go to..</p>
+
+
+	<p>in the evening we go for dinner with Nico, Catherine and Michel.. on the way to the restaurant a man lays in liters of blood, people all around..some are loughing, others can&#8217;t let their eyes from the blood..what happend here?..why is Perpignan so extremely violent? a lot of man wear knives..eyes in the street are hasty and nervous..</p>
+
+
+	<p>we start..after we have shown some of our projects..with introducing geografia affettiva..but before we say anything we ask them all to write down a definition &gt; what does geografia affettiva mean to you?</p>
+
+
+	<p>perpis01
+30Kb</p>
+
+
+	<p>it goes well! Julien, Etienne, Delphine, Jacques, Sophie, Landry, Sylvain, Fred, Marilyn, Manu, Nico, Catherine, Michel and Jean Nicola like the project! everyday we are more concentrated and sharing more and more one imagination..we&#8217;re doing drawings.. they help us to imagine the process of informing geografia affettiva maps step by step..</p>
+
+
+	<p>perpis02
+30Kb</p>
+
+
+	<p>we had this idea already a while ago &gt; that we try to do more of these kind of workshops in which we&#8217;d like to bring the project further and offer in the same time to the institutions, organisations, etc. who invited us to become an active partner..which means that they get their own g.a. platform for their needs and contexts.. they can decide about the interface design..the criterion how to become a member, etc..so the partners would buy the package for little money, but because there are many it can be financed..</p>
+
+
+	<p>Catherine, Michel and Nico like this idea..they will present the project (there will also be an exibition of all 8 workshops of this year soon..) to the responsables from the townhall and try to find the money there..</p>
+
+
+	<p>perpis03
+29Kb</p>
+
+
+	<p>You is working on making contacts to various other institutions and offers g.a.workshops..we&#8217;d like to do 4 or 5 this year! You is in contact with the uni of Bolzano and a foundation in Torino right now..</p>
+
+
+	<p>more and more we think that also in Colombia in November g.a. should play an important role.. isn&#8217;t it a puente par excellence?!</p>
+
+
+	<p>we do a paper on the 5th and last day..a big one..they can use this poster when they present all the workshops in some weeks: espace d&#8217;art contemporain la halle au poisson &#8230;.so this paper will serve to show the people what it is all about&#8230;we also will send all the digi-images we took..and the new paper we are going to write when we&#8217;ll be back in babyship..till the end it got clear that all the definitions they gave were right..all that can find place and expression in geografia affettiva..</p>
+
+
+	<p>perpis04
+35Kb</p>
+
+
+	<p>wow, now eva and omi will go much more relaxed to Jerusalem.. well, at least what concerns to the workshop we wanna give.. we&#8217;ll tell them about our experience in Perpignan..how it went there and how we go on now..</p>
+
+
+	<p>ciao tutti belli frutti..we&#8217;ll send you the images and new texts soon..thanks for all, it was a pleasure to work and learn with you! hope to see you soon informing your personal maps;-)</p>
+
+
+	<p>Catherine and Michel, who have to go to Paris come with us until Marseille..we have a nice talk about everything we touched the last days..the project, our work in <span class="caps">UNIDEE</span> and the curating we&#8217;re doing for Antwerp..we invite them to come to see the show..they think it could be a perfect start for the new semester if they come with all students..welcome! but see you before in Torino, your bed&#8217;s always ready!</p>
+
+
+	<p>back in babyship..Miss Pi, You and omi are working on two things now: the big show in Antwerpen and geografia affettiva.. preparing the material for the workshop-show in Perpignan and the workshop in Jerusalem&#8230;</p>
+
+
+	<p>in cittadellarte everything is going crazy right now..in few days the Venice biennial opens..Michelangelo Golden Lion will present in the utopian-pavillon from H.U.Obrist the love difference project&#8230; so imagine how our meeting with Michelangelo went? we had 5 minutes to talk about Antwerpen..then we went eating and talked about everything else&#8230;but its okay, there is big trust and there are good ideas&#8230;see you in some weeks..all the best for Venice!</p>
+
+
+	<p>Jose Rapper Carrera, our friend from Navia who&#8217;s living&#8217;n arting in Bilbo now, sends greetings and an image..</p>
+
+
+	<p>Jose-Revolucionario
+29Kb</p>
+
+
+	<p>on thursday we &#8211; Miss Pi and omi &#8211; are leaving already again.. the last months, since we are in love with loves in Sevilla, we are travelling more than ever..but thats fine..its like moving through space is comming closer to oneself..wherever we go we go home. home is where my sweetheart is. Miss Pi will stay a week in Sevilla, Eva and omi will go to Jerusalem, You will stay in the torinoship rocking the Antwerp- baby, L°°ks back in mothership is working on some webjobs and enjoying with Märle and Curt a wide spring, Malex in Zürich is investigating the net for the coding of geo.aff. and e.r.b.s.e&#8230;</p>
+
+
+	<p>e.r.b.s.e. that pea in germany..they called some days ago, a man said that they are doing the jury right now..he asked if in our proposal the <span class="caps">VAT</span> is included and if we can keep what we promise&#8230;You talkes to him&#8230;she is very diplomatic..and excited&#8230; right after she sends a mail to calcies@calcaxy.com telling them.. is this a good sign? what we do with the concept if they don&#8217;t want to do it? shall we offer it to antother library? they&#8217;ll let us know on the 1st of July..</p>
+
+
+	<p>today Benedetta and Daniele are comming to visit us in babyship..they are working in cittadellarte and could assist us for the M HKAshow..we would love to work with both, one we need at least! for a good colaboration! see you after we&#8217;re back from Sevilla and Antwerp!
+Scott Snibbe writes&#8230;artist..San Francisco..gallery&#8230;he&#8217;s organizing a show with &#8220;colaborative works&#8221;..he wants to show communimage.. again and again..but its okay, its never the same, so its okay with us..and what is &#8220;us&#8221; if 1816 people are working/playing on it? very small space..shall we scale communimage to 40% and do a third big print. just print? moment in time V? hmm..
+curt sends a link:</p>
+
+
+	<p>bild_nave
+47Kb</p>
+
+
+	<p>wow, they count our horreo marciano to the most extreme architecture! well..watch out who &#8220;knows&#8221; that&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc146" href="#selector">pre-ruins, no way to jerusalem</a></h1>
+      <div class="date">2003/06/11</div>
+      <div class="body"><p>11th of June &gt; Miss Pi and omi are leaving Torino early in the morning to sevilla..long trip..tranquil trip..the first night we stay in Peniscola where Miss Pi smother has a little flat..omi takes an image of a pre-ruin near there:</p>
+
+
+	<p>pre_ruin01
+48Kb</p>
+
+
+	<p>the spanish brandy-bull is one of the last commercial signs the EC couldn&#8217;t rule away..it would have been like erasing part of the spanish identity..</p>
+
+
+	<p>brandybull
+27Kb</p>
+
+
+	<p>we see another little giant wheel and remember the idea we once had..you remember? it&#8217;s was back in 1999 when we wanted to bring a g-wheel plus the gypsy family who runs it to the <span class="caps">KUB</span>-square..one day we&#8217;ll wheel!</p>
+
+
+	<p>bigwheel
+22Kb</p>
+
+
+	<p>and there is a streetship passing..maybe a rich man, who brings the thing from one sea to the other and can&#8217;t afford shiping his ship..or its a mobile-mass-destrucion-laboratory disguised as a christoboat and now the <span class="caps">CIA</span> satellites find proofs again..</p>
+
+
+	<p>streetship
+32Kb</p>
+
+
+	<p>we&#8217;re passing Guadix la primera vez! where the hills are of clay and they are &#8220;building&#8221; their houses into those hills..whole villages..its reminds us of this village in Turkey..we forgot the name..this are not buildings but peelings..innerpeelings..</p>
+
+
+	<p>Toposevilla! olÉvita! so good to be home again! we have 12 days..then we have to leave to Antwerp again..You, Miss Pi and omi want to work on the posters for the cittadellarte show then..taking images..working on the slogans..meeting Ronald and the spaces again..and Nico!</p>
+
+
+	<p>shit..there is no flamenco-biennial this year in Sevilla.. yes, the last one was last year..lets see if there are other concerts in summer where we could send Miss Pirthday to..</p>
+
+
+	<p>but now oye (omi y eva) have to get things ready for Jersualem! tomorrow we&#8217;re leaving!</p>
+
+
+	<p>15th of June! it&#8217;s..it&#8217;s..it&#8217;s..we can&#8217;t believe it: we really are in time, our doubts and fears are almost completely gone and we&#8217;re full of lust to go!</p>
+
+
+	<p>but its sunday..no taxis on Plaza Alfalfa.. and we have to call a taxi but the taxi don&#8217;t come.. and don&#8217;t come..but tranqui we&#8217;re still in time..but the taxi doesn&#8217;t comewe walk&#8230;joder..we runooow..the whole fucking city seems to be taxifree! there! there is one! Estacion de Santa Justa porfa..</p>
+
+
+	<p>Jesus! this guy is the most legal taxisnake in whole Spain! he doesn&#8217;t drive faster as allowed, he doesn&#8217;t want to cross a double line in the middle of the street although we tell him that we take the responsability.. take car Snaky, Eva will choke you soon!..ooo the station! we run as fast as we can the train is still here! but..but.. what??? &#8220;we close three minutes before, sorry we can&#8217;t let you pass..&#8221; a few moments later we see the train leaving the tube..shit, no way of catching the plane we booked!</p>
+
+
+	<p>God what a morning! is this Karma or bullshit? but it isn&#8217;t finished yet! we call El Al ..next plane, when? a lady with a taperecordervoice tells us that there were no flights confirmed! bbbbut, we have the confimation printed..from the internet!! &#8220;there maybe were problems with your credit- card, sorry..&#8221; the next plane is taking of when our workshop starts..</p>
+
+
+	<p>we don&#8217;t go, we can&#8217;t. i call Tal..&#8221;Karma&#8221; he says..you shouldn&#8217;t come..okay, we believe that too now..but what we do now? we fall into a strange hole of frust and trust.</p>
+
+
+	<p>good luck and time Liron, Tal..all of you down there, please lets try to organize our workshop in Musrara sometime in winter..okay?</p>
+
+
+	<p>joder..well..at least the new chapter of the <span class="caps">BOO</span>© gets online sooner..but hey, maybe we can visit Pedro and Carmen and Pablo..Evas padre y su mujer y su hermanito en Cartagena..Murcia? its June the 16th 2003. ~ oye will go to Cartagena! some days in the city where Eva grew up..Teresa will stay here in Sevilla and finally finish the <span class="caps">MAZE</span>-site..Topo, Ana, Ruben and Jaime go on working on the yectis..</p>
+
+
+	<p>we&#8217;ll add some new lines and strips soon, right after Cartagena..and Antwerp..where we meet You in about a week..keep on klicking!</p>
+
+
+	<p>c u soon..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc145" href="#selector">cartagena: bunkers, fires and a wallweasel</a></h1>
+      <div class="date">2003/06/18</div>
+      <div class="body"><p>homepage &#8211; october2003  (homeology)</p>
+
+
+	<p>.
+but back to the now which was 10 lines above on the 18th of June when ita and ito went northeast to Cartagena.. where Pedro and Carmen and Pablo (padre, su segunda mujer y hermanito ) and friends and neighbours are living..</p>
+
+
+	<p>hot earth wind and fire..young couple makes love on the beach in Cabo de Gata ..like mirnix-dirnix! they do it so softly that you could think they don’t but they do..they don’t look like tourists..this is a free country..</p>
+
+
+	<p>Mojacar..pueblo blanco lleno de ingleses y vistas.. jolin &gt; monte morillo. .</p>
+
+
+	<p>hothouse_murcia01
+31Kb</p>
+
+
+	<p>no piece of nature far and wide..</p>
+
+
+	<p>hothouse_murcia02
+27Kb</p>
+
+
+	<p>..although it looks like</p>
+
+
+	<p>hothouse_murcia03
+30Kb</p>
+
+
+	<p>patterns and memories from mars</p>
+
+
+	<p>hothouse_murcia04
+28Kb</p>
+
+
+	<p>Cartagena is very near..at a beach..village peoplebeach..an ugly house drives by, thats beautiful..:</p>
+
+
+	<p>chiringuito
+39Kb</p>
+
+
+	<p>and a stop for our preruins archive..this ugly could be near the beautiful..
+almost-ready-made architecture..</p>
+
+
+	<p>preruin02
+44Kb</p>
+
+
+	<p>Cartagena! half of it..everybody in Sevilla told omi that he’s going to visit an ugly city.. except evita..it all depends on what you have played when you were a child..and where and how..</p>
+
+
+	<p>cartagena
+36Kb</p>
+
+
+	<p>que dias nos caen del cielo..el mundo crece.. gracias, sois amores..el barrio lleva globos. . y pronto empieza el gran festival encima de la colina..especial india..</p>
+
+
+	<p>fiestita
+39Kb</p>
+
+
+	<p>y oye..quizas Miss Pi quiere ver el festival de flamenco en La Union..cante de las minas ?</p>
+
+
+	<p>a half day on the sea..along the coast along the fortress hills there is a ship..big ship standing there.. corean freighter..frightening –</p>
+
+
+	<p>coreancargo
+33Kb</p>
+
+
+	<p>anchoring and laying on liquid sky..in water time floats slower sometimes ~</p>
+
+
+	<p>saltfly
+28Kb</p>
+
+
+	<p>and bunkers..bunkerbeach in the harbours entrance, waruins..bleak but provocing also a lot of other images than war. .</p>
+
+
+	<p>bunkerbeach
+39Kb</p>
+
+
+	<p>y el monte esta quemando cuando volvemos del mar..</p>
+
+
+	<p>fuegocoptero
+29Kb</p>
+
+
+	<p>prisaprisa Pablo will climb free..indoor..competition, big hall hip hop seems that sports becomes real..</p>
+
+
+	<p>autoimage
+32Kb</p>
+
+
+	<p>2morrow we’ll leave already..back to Sevilla..but now is today and now we stay and wonder about Pablo the wallweasel_ .</p>
+
+
+	<p>pablofree
+31Kb</p>
+
+
+	<p>we have to go..Eva says she wants to do an investigation on military architecture all around Cartagena..reminds us of what Virilio did in France..although we (omi wants to assist..) want to look first of all to its spacial appereance..</p>
+
+
+	<p>then we would like to talk to Alberto Ibero..a friend of Pedro and architect..the man who build the “Centro de Interpretacion de la Muralla Punica”..we liked it! we’re sure he can help us with this investigation on cartagenas bunkers..</p>
+
+
+	<p>adios familia! thanks so much for everything, soon we’ll be back..and..Cartagena isn’t the ugly city everybody told omi.. it is if you look with a halfbrain-touristeye, but it isn’t if you get closer and in touch with people who decided to life (t)here! ciao belli!</p>
+
+
+	<p>while Eva and omi talk about this possibility to investigate the military buildings in Cartagena, Miss Pi and Topo think about to do a project in “las 3000”..this quarter in Sevilla which they built to put los gitanos in “social appartments” ..which didn’t work of course..not the way the social planners wanted..we want to colaborate in both projects, the one way or the other..and of course things will be boo©ed..</p>
+
+
+	<p>driving back to Sevilla..Murcia is the most desert omi ever saw..in Spain..</p>
+
+
+	<p>murciascape
+30Kb</p>
+
+
+	<p>back to sevi..just for one day..2morrow Miss Pi and omi have to leave to Antwerp..to meet You and to work on the posters for the exhibition and the book..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc144" href="#selector">mhkadellarte, unidee 2003 starts</a></h1>
+      <div class="date">2003/06/24</div>
+      <div class="body"><p>24th of June &gt; bye amores! see you soon in Torino! love you! be good to the bricks. .</p>
+
+
+	<p>we drive all the way through..upup north to Antwerp.</p>
+
+
+	<p>allthewaythrough
+28Kb</p>
+
+
+	<p>You is here already, she came by plane from Milano.. working on the book and the images for the 8 posters we want to do. . Nico shows omi the city, omi makes tons of images. now we’ll drive back to Torino and work on that material..and welcome the <span class="caps">UNIDEE</span> residents 2003!</p>
+
+
+	<p>homesweethome02</p>
+
+
+	<p>on the second day in Antwerp &#8211; they gave us one room in this small hotel &#8211; we see that the three of us got the same image above the bed! a kissing couple, a kitsching kissl..but thats fine, the amorous three take it as a wink from kismet..</p>
+
+
+	<p>but what&#8217;s that? in the first moment we think that <span class="caps">AVL</span>-ville extended to <span class="caps">M HKAS</span> parking space.. but no, of course not, these rolling homes belong to carnies..there’s a circus on the huge square next to the Schelde&#8230;</p>
+
+
+	<p>carniehouses
+51Kb</p>
+
+
+	<p>on our way back to Torino/Biella we stop at this swiss lake..we want to jump into this water, we see a zeppelin!</p>
+
+
+	<p>zeppelin
+40Kb</p>
+
+
+	<p>back to Biella/Torino – its the 1st of July – all a.i.r. arrived in cittadellarte! welcome Iman, Vaibhav, Jean Charles, Ryan, Oier, Hannah, Ayumi, Michal, Morten, Chiara, Kai, Sophie and welcome Rufus!</p>
+
+
+	<p>firstair
+35Kb</p>
+
+
+	<p>all the following week we show our previous projects to each other..getting closer, understanding back- grounds to find easier together in one foreground..</p>
+
+
+	<p>nextair
+72Kb</p>
+
+
+	<p>at the and we also show what c a l c was/is doing.. our most actual project is the antwerp curating of cittadellarte -Michelangelo Pistoletto &#38; cittadellarte &#38; we present to all the a.i.r. what we’re planing for the citta-presentation in <span class="caps">M HKA</span> and invite them to show “their view” in the big triangular space..we mark its ground plan in cittas yard</p>
+
+
+	<p>groundflooryard
+45Kb</p>
+
+
+	<p>in order to translate cittadellartes complexity we decide to do that in 5 or 6 different ways. there is not one sight, there is not one site. there is a growing network and there are several foci..all are valid..in all its up to you if things make contact and sense.</p>
+
+
+	<p>muhka_sofar
+51Kb</p>
+
+
+	<p>L°°ks mails an article Orlando, our neighbour, wrote for the “libro de las fiestas de Navia”..about the
+Park for L.A. ..he lives right next to it.. he was the first and last comunist mayor Navia ever had. now Orlando’s writing a novel under the O-tree.</p>
+
+
+	<p>orlando_txt
+113Kb</p>
+
+
+	<p>Eva, Topo and Ruben arrived in Torino! its the
+1st time Ruben is here..we have a long walk all along the river Po..we see that rolling houseboat..</p>
+
+
+	<p>caravan
+37Kb</p>
+
+
+	<p>the next days we finish the presentations with the a.i.r..to listen is a lot of work although you just sit there and do nothing..but..we all need a little weekend break..</p>
+
+
+	<p>Miss Pi goes with Topo and Ruben to see Radiohead in Florencia..actually omi wanted to come too..to understand why everybody like these tired boys so much..but he’s too tired himself..</p>
+
+
+	<p>radioheads
+24Kb</p>
+
+
+	<p>so eva y omi give their tickets to You and Lou and go down south to Sori..a small village on the Ligurian coast..sea, sleep, walk, listen.</p>
+
+
+	<p>seesea</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc143" href="#selector">heterotopia, plans for mhka, childrens visit y la orilla</a></h1>
+      <div class="date">2003/07/15</div>
+      <div class="body"><p>2working 2days with Bart and Pascal, Michelangelo,You, Benni, Raphaelle, Miss Pi, Daniele, Morten and omi on the text for the book..on Pascals text: Welcome to Heterotopia.. Pascal came last year to visit us for some weeks..to understand how cittadellarte and <span class="caps">UNIDEE</span> works..the text is fine..actually.. we just try to profound some details</p>
+
+
+	<p>onpascalstext
+122Kb</p>
+
+
+	<p>..and el puente..el puente joder! the theme of our workshop in Colombia..November, you remember? tranqui Juan, Cristina, omi, tranqui Evita, tutti calci y los niños en Medellin con Natalia..vamos hacer una buena cosa!</p>
+
+
+	<p>when Eva meets omi and Juan in cittadellarte she proposes that each one comes with his own bridge-suitecase to Medellin.. full of working material..the problem is that we have one week after our arrival the opening..we like to understand this day as the day on which we bridge our projects to the public..and then go on the second workshop week with an open door..</p>
+
+
+	<p>we see that we’ll have like 4 bridges which are all the “same” in the end, but which start from different shores: Eva and the physical bridge, the real bridge, architecture..she calls it the “extension of the banks” (-la extencion de las orillas), omi and the bridge of comunication &#8211; he wants to introduce geografia affettiva and invite to take some decisions together, Juan and Cristina and the bridge of daily social life &#8211; they want to bring the experience of a fiesta they organized in a neighbourhood in Biella to Medellin and see what this means in the colombian context..and Natalia and her students, which are bridging since months in Medellin already!</p>
+
+
+	<p>we still don’t know if we should let everything open until we meet, just open our suitcases and share its contents and see around which aspect the theme mainly bridges, or if we should outline a clear programe for our two common weeks..we’ll see..you’ll see..</p>
+
+
+	<p>pchapina
+42Kb</p>
+
+
+	<p>Eva, Topo and Ruby leave :-( see you supersoon in Spain!</p>
+
+
+	<p>working on the sketches for the show in Antwerp with Michelangelo..we promised to send the plans end of July so the technicians there can think about early enough how to translate them into the <span class="caps">M HKA</span> space..</p>
+
+
+	<p>portesketch
+51Kb</p>
+
+
+	<p>the process goes fine..as easy we could have worked out our ideas with Michelangelo as easy those ideas find now into precise plans. in some days Maria Le Episcopeta has the cad-files for the Logo- and the Porte-space ready..</p>
+
+
+	<p>logospace
+18Kb</p>
+
+
+	<p>portespace_cad
+16Kb</p>
+
+
+	<p>at the same time Topo, eVita and Ruben are working hard on the model for Manolos house in Sevilla..they are studying a roofscape since days..</p>
+
+
+	<p>secuencia_maquetix
+56Kb</p>
+
+
+	<p>Ruby sends omi an image..surprise! feels like Ian Feldglocke is back from Spanada&#8230;does now another fishual pingpong start?</p>
+
+
+	<p>evahaus
+40Kb</p>
+
+
+	<p>..we almost forgot to tell you..when Eva, You and omi went to Zürich some months ago they visited also Johannes Gees, our friend and partner in various projects..Johannes told us then that he was doing a workshop in Graz where he also met Rafael Lozano Hemmer..and that they were driving around in the city with a huge projector to do a kind of cinema in which not the movie, but the projector moved. look, they also projected some stills from communimage ! onto a big house and under a highway bridge..</p>
+
+
+	<p>cui_onbighouse
+51Kb</p>
+
+
+	<p>cui_underbridge
+54Kb</p>
+
+
+	<p>but back to the now – 18th of July – long day in cittadellarte, but the day gets younger when he ends..we’re going to see Massive Attack in Torino this night! almost all residents and Miss Pi and omi..the visuals are louder than the music, really, sometimes we don’t hear anything because the eyes occupy all the perception scope..we want to know who did this! Pamela, miss fund raising of cittadellarte makes it possible.. her experience and charme..
+we meet Chris Bird from the <span class="caps">UVA</span>. – United Visual Artists from London..the man who did the visuals for this Massive Attack&#8230; tour. what a nice guy! we’re talking almost an hour..all our stupid questions get an answer..and we invite each other to our motherships! see ya bulbman!</p>
+
+
+	<p>ui, we almost forgot &gt; there are this updates to do.. for novaron..our busyness archifriends from switzaland!</p>
+
+
+	<p>hmm, strange, still no feedback from Tal or Eytan from Jerusalam and geografiaffettiva..hope they just have too much on their plates..</p>
+
+
+	<p>Dagmar Reichert, our friend and curator sends a surprise. Edith Krebs, the woman who joined the little workshop we did some weeks ago during “critic is not enough”, wrote an article for the <span class="caps">WOZ</span>..sorry but we only have this mammouth jpg..in deutsch..</p>
+
+
+	<p>woz_orange
+340Kb</p>
+
+
+	<p>Luisa, Tom, Uschi, Jan and the kids come to visit us in babyship! great &#8211; now we have to take a weekend off, and play and&#8230;and..the kids want to see the mumies in Torinos egyptian museum</p>
+
+
+	<p>tuttibambini
+41Kb</p>
+
+
+	<p>we visit this kind of science-to-play-with-exhibition right next to the river po. the kids love it, we have a great day! amazing how real fun makes you forget about everything. its just saturday and its just fine. they have this electrostatic hairdresser installation&#8230;:</p>
+
+
+	<p>electrohair
+45Kb</p>
+
+
+	<p>before they all have to leave the children give great presents to us &#8211; drawings they did while being here! see a little selection:</p>
+
+
+	<p>regaloarte
+55Kb</p>
+
+
+	<p>Miss Pi and You are working hard on bringing the book to an end..corrections of corrections of corrections..at the same time they start to talk about which projects we want to show within the “containers” which omi is bringing further terms of materials, proportians..</p>
+
+
+	<p>we have the idea o rise cittadellartes logo into the 3rd dimension and build a huge sofa! Michelangelo loves the idea..does <span class="caps">M HKA</span> have the money?</p>
+
+
+	<p>logosofa</p>
+
+
+	<p>working every day..all week..with Michelangelo.. deciding1000 open questions..goes well..time swashes gently through comon space..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc142" href="#selector">back to LA, vacation galicia</a></h1>
+      <div class="date">2003/08/01</div>
+      <div class="body"><p>before Miss Pi and omi are leaving to Marseille and Navia, before You is leaving to Calabria and before L°°ks is giving us a summer welcome in Casqueiro omi has a meeting with people from the Fondazione Fitzcarraldo in Torino.. presenting them geografia affettiva..good meeting..although everybody’s already more on the beach than in the office.. lets see after summer if this meeting can create some important patterns for g.a&#8230;enjoy your leisure time!</p>
+
+
+	<p>uff what a bad day to travel, 31st of July, half Europe on wheels, we need a half day to Marseille&#8230;call the people from the Bureau de Competences and hear that they are also “spiritually burned out”..okay &gt; giant tea break &gt; holydays &gt; see you later on our way back then..</p>
+
+
+	<p>all of the sudden Miss Pi and omi pass this strange doll’s house somewhere in south france..this doesn’t look funny, but tragic.. what happend before this dolls got hung?</p>
+
+
+	<p>dollshouse
+134Kb</p>
+
+
+	<p>we are lucky..find a nice and cheap and weird hotel. today we’ve been more in a traffic jam than on the way back home, we’re extraexhausted..the groundfloor of this building gives us some energy/humor back:</p>
+
+
+	<p>hotelhumor
+35Kb</p>
+
+
+	<p>on the next day, in spain already, we pass by this natural grown architecture park..from far it could be the skyline of L.A. not this L.A., the other L.A., the real one, the surreal.</p>
+
+
+	<p>skyline_la
+33Kb</p>
+
+
+	<p>in Barcelona Miss PI takes a bus to Sevilla..bye bye, see you soon in L.A. kiss Topo &gt;&lt; kiss
+L°°ks..omi drives up to the atlantik coast alone, only Bubba Sparxxx, Jimmy Mathis and all the others from Deliverance are joining the ride through this mild west.</p>
+
+
+	<p>wow. there was nothing some months ago, now there is almost a whole nuevo puente!</p>
+
+
+	<p>puentenuevo
+31Kb</p>
+
+
+	<p>bienvenido en nuestros brazos! hola omi, hola
+L°°ks, jo que bien verte tio! que bonito todo aquí, cada vez mas! the next days we’re tranquilamente but concentrated working on the icon&#8230; you know, this x-maslight-idea we had for Torino, you remember?..now we want to present it for Basel &gt; “Kunst für die Stadt”..we only have very little time..but we send it in time &gt; its on its way on the 6th of July.</p>
+
+
+	<p>if you don’t want it Basel, we’ll present it to you Torino!</p>
+
+
+	<p>whats that? Ruben found a little omi advertising..</p>
+
+
+	<p>omino</p>
+
+
+	<p>and sends another bonito idea/image..a polytopo riding through spacetime..</p>
+
+
+	<p>retro_topovision</p>
+
+
+	<p>no doubt we have a full fishual pingpongpotential, but both sides are too busy to play more than the own tasks allow..</p>
+
+
+	<p>a historical mail arrives!: Tom Luyckx writes! every
+c a l c- nose knows that this is a beginning of something real. this mail smells great! Tom was hired by Ronald in Antwerp in order to take colaborate with us for realizing all our plans in the
+<span class="caps">M HKA</span> spaces. Tom is an architect. he speaks our language! we feel much lighter now, merci Tom de Luxe!</p>
+
+
+	<p>a mail – no E.R.B.S.E. for Konstanz, we didn’t make it :-(, well, we wouldn’t have time anyway..and we can try it later somewhere else..but we get toled that we were in the shortlist.. at least..</p>
+
+
+	<p>Ismael invites us to an exhibition to Bilbo..pitty that none of us can go..Isi paints cellular now..</p>
+
+
+	<p>ismarte
+32Kb</p>
+
+
+	<p>the 8th of August! while Miss Pi’s enjoying the century heat of Sevilla, You’s somewhere in Calabria diving with Lou in a possible future and a clear presence, Malex sweats in Zürich, while L°°ks starts to organize this years fiesta de L.A., omi packs the Bubbas again and rides down south to Madrid where he meets e V a &#8230;fine..ally!! aiaiaiaii&#8230;v a c a t i o n !</p>
+
+
+	<p>since years c a l c didn’t spell this word with so much need and lust and delight..! a week at least..
+n o t h i n g but what the way brings, the bay sings and the souls link..</p>
+
+
+	<p>.</p>
+
+
+	<p>a dot of 8 days.</p>
+
+
+	<p>we don’t tell you much..just some images to let u sea..</p>
+
+
+	<p>we are passing craneland</p>
+
+
+	<p>vacation01
+26Kb</p>
+
+
+	<p>and another pre-ruin calls our attention</p>
+
+
+	<p>vacation02
+36Kb</p>
+
+
+	<p>visiting Maria Joao’n family in Porto..and the new Siza museum..the entrance/exit was the best.</p>
+
+
+	<p>vacation03
+34Kb</p>
+
+
+	<p>..and another one..these almost houses provoce everytime more imagination to work with them.</p>
+
+
+	<p>vacation04
+34Kb</p>
+
+
+	<p>Maria, Miguel and Ines show us Porto. we want to come and dive deeper! this is the biguest bridging in europe with just two anchors..</p>
+
+
+	<p>vacation04a
+20Kb</p>
+
+
+	<p>looks like Wim Wenders worked here..</p>
+
+
+	<p>vacation05
+36Kb</p>
+
+
+	<p>we’re invited to boat a bit around the Rias Bajas en Galizia.. this tracking of a gps-interface inspires us a lot for geografia affettiva..</p>
+
+
+	<p>vacation06
+37Kb</p>
+
+
+	<p>..the shell rafts..almost all these little marine cultures survived the oil pollution of last year..we get toled that about 1000 ships were closing the entrance to the Rias Bajas..NUNCA <span class="caps">MAIS</span>!</p>
+
+
+	<p>vacation07
+38Kb</p>
+
+
+	<p>this small wooden sailing boat, La Irmandiña, built like they did it hundreds of years ago, will cross the ocean soon! captain Javier Babé is a friend of Eva..Javier invites us all to la fiesta de la inauguracion de La Irmandiña..</p>
+
+
+	<p>vacation08
+33Kb</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc141" href="#selector">san antolin nº5, visits and more plans for mhka</a></h1>
+      <div class="date">2003/08/15</div>
+      <div class="body"><p>around the 15th we arrive in L.A&#8230;Miss PI and Topo from Andalucia, Evita and omito from Galicia..and Märle and Curt arrived in the meantime! hola guapos, que bien veros aqui! and Cristina, Francesco and Mathilde from Piemonte! they are living in Pacos and Fuens house. and Arno and Gabi from Innsbruck (you remember? Arno’s the 1 who runs the architecture forum there&#8230;) You told him that he should come here..a ver a ver..</p>
+
+
+	<p>uuuu&#8230;sssssogood to be back in mothership and mothertown! august! pitty that You and Lou and also Malex and Salome couldn’t come, but they are sharing feelings somewhere in Calabria and Switzaland..</p>
+
+
+	<p>we here in L.A. have to start to work again..but as always 50:50..half studio, half beach..half active exhale, half passive inhale..</p>
+
+
+	<p>pasodoble_txema
+31Kb</p>
+
+
+	<p>why does only august swing so perfectly between playing and working? we should find ways to extend summer culture to all seasons..</p>
+
+
+	<p>this image above made our friend Txema..in the early evening.. the Pasodoble at the beach of Navia..we’re all in there drinking a beer now..</p>
+
+
+	<p>Scott Snibbe mails again..and sends images of his gallery in San Francisco..remember, he wants to show communimage there..okay, ultimate proposal: we’d like to do a print..no computers, just a view onto the polymoment..but the space is very small and Scott wants to show also 3 or 4 other works.. we would scale the “image” down to 40%.. what you think Scott?</p>
+
+
+	<p>spanganga
+32Kb</p>
+
+
+	<p>meeting Alvaro again..long time! he has been travelling with Alicia and the kids..and he’ll travel again when we will celebrate the 5th L.A.villageparty in two weeks! first time without him..its almost as if the orange tree would not be part..Juice (Jesus from LAstudio..) found an old display case for L.A. finally we can easily communicate to all people of L.A. whats going on around the park..and the village..</p>
+
+
+	<p>la_vitrine
+37Kb</p>
+
+
+	<p>first display will be the poster for this years fiesta! Topo offers to do it..great! Soto will do the big entrance banner again and L°°ks is already organizing a lot..</p>
+
+
+	<p>la_cartel_2003
+38Kb</p>
+
+
+	<p>in the meantime Ruben arrived in L.A.! immediately he joins Evas and Topos work..working on those architecture projects for/in Sevilla..Teresa and omi are deciding and drawing proposals for Antwerp..how to present the work office..how to present the religion office..who to present the communication office..we are strange curators, aren’t we?</p>
+
+
+	<p>mobili
+28Kb</p>
+
+
+	<p>this year only Miss Pi and omi will go from shop to shop in Navia..to ask for money..so we’ll be able again to offer everything for its cost price..we’re a bit late, all the others from all the other fiestas from all around came already..</p>
+
+
+	<p>but first we want to go to la noche de Porcia! the big concert night in the forests near Tapias beaches..it’s the first time that Eva, omi, Topo, Teresa and Ruben go there..its absolutely amazingbeautifulcrazyunique..L°°ks went every year and he told us every year..everybody’s there..ey folks, lets doodl!</p>
+
+
+	<p>noche_celta01
+41Kb
+noche_celta02
+21Kb
+noche_celta03
+30Kb</p>
+
+
+	<p>Cristiana, Francesco and Matilde have to leave some days before the fiesta of L.A. starts..que pena..not even Porcia they can enjoy with us..</p>
+
+
+	<p>Cristiana was quite bemused by this reality here..we still don’t understand if it was the absolute lack of design down here which made her look a bit lost..until now only people from Zürich had this kind of culture shock..anyway..the fiesta would have shown Cristiana that this its just very different, and no images from the familiar world helps to understand this one..only life does..</p>
+
+
+	<p>look, like these people bellow looking all together at some images in the new display case of L.A..we did them yesterday.. what this has to do with Cri’s culture shock? good question!</p>
+
+
+	<p>viva_la_vitrina
+47Kb</p>
+
+
+	<p>yesterday was the footballgame! solteres contra casados.. you know, the married ones against the not yet or the divorced.. this is an old tradition..doesn’t really matter..there are some who are more married without a golden ring than others who have already two..anyway..next year we also want to propose a ladysoccer game or even a mixed match..although Juice wants do change from soccer to bungee jumping..when the bridge is already finished then..just a joke* of course but L.A. is was often the place where jokes came true (*Etymology: Latin jocus; perhaps akin to Old High German gehan to say, Sanskrit yAcati he asks)</p>
+
+
+	<p>partido03_01partido03_02partido03_03partido03_04
+partido03_05partido03_06partido03_07partido03_08
+partido03_09partido03_10partido03_11partido03_12</p>
+
+
+	<p>and today &gt;&gt; 2nd of September 2003 -
+5th villageparty of L.A.! Miss Pi and omi collected more money then ever..la fiesta is already known as something particular..compared to so many others on this coast the L.A.party is just more festive..off the big beaten commercial tracks (bigger, louder..) and back to the party roots (non profit, good-all-kind-of-music-for-all-kind- of-people, and all exept intolerance tolerated)..</p>
+
+
+	<p>also Arno and Gabi had to leave today..they didn’t even pass by Casqueiro so busy was their sightseeing-agenda.. but amazing how sometimes things meet without causal connexion: Arno tells us that he worked intensively on the theme of the Bridge..in the context of the architecture forum.. he invited architects to investigate the “negative space” under a bridge (“the roofed space”..)..he tells us tons of interesting stories and finally we ask him if he wants to give us also a suitcase for Colombia..?..”maybe” he says..”maybe, i have to see if i find time to pack this bag..”</p>
+
+
+	<p>deconstruct
+41Kb</p>
+
+
+	<p>Ana sent this bridge-image the other day..she’s back in Berlin.. studing construction engeneering now..she really does it!</p>
+
+
+	<p>also him – Arno &#8211; had this kind off shock..but more than the “cultural palette” (“i want to go out of my house and find everything”) he missed this kind of “intelectual landscape” (“i need certain people to talk to”)...well..same as above..i mean.. how could you talk to them not knowing spanish? can you read eyes and gestures so well? do all “intelligent” people speak english? or german? or where is the center? Beuys knew what he did when he was “looking for the most stupid”..</p>
+
+
+	<p>well anyway..anywhere..today the center is in L.A.!</p>
+
+
+	<p>san_antolin03_all
+65Kb</p>
+
+
+	<p>this was the best L.A.village party ever..next year we want to bring two life gigs..one celtic again..and one hip hop maybe.. who is doing celtic hip hop?? where is the asturian Bubba??</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc140" href="#selector">bureau de competences, 8 posters and 1 and a sofa</a></h1>
+      <div class="date">2003/09/03</div>
+      <div class="body"><p>2morrow we are leaving already..the archis back to Sevilla, Miss Pi and omi back to Biella into the <span class="caps">UNIDEE</span> and Antwerp tasks..before a :-(mail reaches us: Basels art jury isn’t convinced by our the icon..did we do the presentation papers to hurryhurry or have we been not enough “politic”..god knows, those people never tell you how they found the desicion..okay icon, we’ll present you in the cultural office of the city of Turin..</p>
+
+
+	<p>good that it was at least a payed contest..we’re all pretty broke..</p>
+
+
+	<p>Oviedo..4th of September..hasta pronto amores..see you soon in Antwerp..when the big cittashow opens!</p>
+
+
+	<p>this time Miss Pi and omi stop in Marseille to meet Sylvie, Yanick and the Bureau de Competences&#8230;hola amigos.. only some hours..but good ones! we let them know what geografia affetiva means and how we imagine to present the project in the Bureau..by a workshop..or two..maybe with students from the art- or/and the architecture faculty..that Eva had the idea to come with a 3D model of the interface..we leave them our g.a.papers and go before sundown.we’d like to make it to Torino before midnight..we’re looking forward to come back..</p>
+
+
+	<p>bureau_de_c
+49Kb</p>
+
+
+	<p>Torino! 6th of 09..ciao You!! how was the deep italian south, how was the spanish north? You and Lou want to do a Sistership in Calabria..Lou got this ruin from his parents..aiaiai..thrilling! we could directly sail over from Fuengirola after having breakfast with Topos parents ;-)</p>
+
+
+	<p>one night in the babyshipbed and the 3 of us are back in Biella.. full programme..finishing the posters..doing the graphic..the 8 images and slogans we already chose with Michelangelo before August..4000 of those posters will be spread all over the city..inviting people to be curious..</p>
+
+
+	<p>post_artpost_communicationpost_educationpost_politics
+post_religionpost_productionpost_workpost_economy</p>
+
+
+	<p>1000 little details and decisions..what will be how where in the Logo-space? which ex-residents we would like to invite, which projects..and going on shooting around with the digi-cam for the long strip we want to add beside the logospace..</p>
+
+
+	<p>cittastrip
+31Kb</p>
+
+
+	<p>and of course the work with the residents..but again..little time to really follow and help them.. next year &#8211; if we’ll go on &#8211; we will definitely only do one project in the cittadellarte context either <span class="caps">UNIDEE</span> or..for example curating a show..</p>
+
+
+	<p>one day after comming to Biella Nico Dockx and friends are arriving, a whole bus of them! they are on their way to Venice where they will do some performances in the Utopia Station..</p>
+
+
+	<p>finally we can meet Louwrien Wijers..que bien..you know, the Women who invented and organized Arts meets Science and Spirituality in a changing Economy.. Nico told us a lot about her..unfortunately we’re too busy with <span class="caps">UNIDEE</span>-Antwerp to really take time for each other, but this first touch is much more than nothing! we will see us on the opening on the 4th of october in Antwerp..</p>
+
+
+	<p>Peter the cook, the artist who works in the kitchen, is one in Nicos bus..they arrive just in the moment when there is no cook in citta..Maria and Salvatore also left and actually we wanted to go downtown to have some pizza..but then Peter discovers the deep freezers! madonna, we didn’t know what there was buried under ice! we have a great meal all together..</p>
+
+
+	<p>Ni&#38;co are leaving, Catherine, Michel and some students from the art academy in Perpignan, where we did the first geografia affettiva workshop, are arriving..short visit, also on their way to Venice..they are invited by Nico..</p>
+
+
+	<p>perpis
+47Kb</p>
+
+
+	<p>Tal is also here..you remember? Tal Adler..Itemz.org..he also will go to Venice, but he got invited by Filippo from the politic office of cittadellarte..Love difference..which is also present in this utopian pavillon..</p>
+
+
+	<p>Tal tells us how we could propose geografia affettiva for the near east after it didn’t work out with the Musrara school..he tells us to get in contact with the people from the digital artlab in Tel Aviv.. thanks..we will..</p>
+
+
+	<p>no news from Scott Snibbe and communimage in San Francisco.. maybe we should forget about? hey and did you read? Taschen made a big book about Muhammed Ali G.O.A.T..Greatest Of All Times..didn’t we always say in Goat we trust?..we have to lough about how funny synchronicity can be sometimes..</p>
+
+
+	<p>its middle of September .. in <span class="caps">M HKA</span> the realisation of our plans start..the wire to Tom is excellent, we don’t doubt a second that this is the perfect partner..we only doubt that “perfect” means the same in Antwerp then here in cittadellarte..good that Miss Pi and You are already going up tomorrow..and will find out..omi will follow in about a week or so..only two weeks until the opening on the 4th of oct!</p>
+
+
+	<p>we have this idea to do a poster for <span class="caps">UNIDEE 2004</span>..you know, there is this advertising pillar in the logospace which represents the education office..and it will be full of all posters which were made so far..it would be nice to also have the poster inviting for next years <span class="caps">UNIDEE</span>..we do a democratic design: each resident of 2004 (apart from Kai who still didn’t return from Tokio..) chooses one digit out of u n i d e e 2 0 0 4..from each one omi takes a photography of the left eye..the chosen digit desides which slice of the eye is part of the whole 11eyes-eye..what? this:</p>
+
+
+	<p>unidee2004
+46Kb</p>
+
+
+	<p>Miss Pi and You almost didn’t arrive and send very good news already: Tom is as de Luxe as we thought! <span class="caps">AND</span>: they had an idea how to produce the Logo-Sofa in that very short time: <span class="caps">M HKA</span> will pay the production, after we’ll try to sell it and they get their expances back! now Tom de Luxe is trying to organize that..</p>
+
+
+	<p>to come to the point: it worked!</p>
+
+
+	<p>logosofa
+58Kb</p>
+
+
+	<p>puenteviaje</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc139" href="#selector">setting up MUHKADELLARTE unidee, tom luyckx</a></h1>
+      <div class="date">2003/09/15</div>
+      <div class="body"><p>homepage &#8211; december2003  (homeology)</p>
+
+
+	<p>rying
+31Kb</p>
+
+
+	<p>but hey, how are we, who and why?</p>
+
+
+	<p>we are c a l c, we learned some important things this year, felt in loves and believe in each other more than ever!</p>
+
+
+	<p>but wait a minute, where were we? ...right&#8230; middle of september still and Antwerp is getting very close.. Miss Pi andYou are sending images then and when.. from the process there..they are glad to have Tom Luyckx, the architect who was our contact person the last weeks and who’s no working very close with them..-</p>
+
+
+	<p>curtaindance
+25Kb</p>
+
+
+	<p>in the meantime als Kai is back from Japan..back in cittadellarte! good that he also wants to do a project for Antwerp..and for the presi-residay..he wants to work with this shrinking supermarket- bags&#8230;you’ll see..</p>
+
+
+	<p>asturbruss
+32Kb</p>
+
+
+	<p>Miss Pi and You have a weekend-break..they go to Brussels&#8230; and arrive to Asturias..and they make omi a funny present..these images from graffities all around Antwerp..”we are spraying for your welcome omi!” of course they don’t..there must be another omi up there..</p>
+
+
+	<p>omiomiomi
+32Kb</p>
+
+
+	<p>but what’s that? Malex found an interesting image which only moves in our minds..like all images, but this one makes it obvious:</p>
+
+
+	<p>rotsnake
+32Kb</p>
+
+
+	<p>while in <span class="caps">UNIDEE</span> everybody is working on the projects for Antwerp Miss Pi and You started to draw the logo on the museums floor.. Daniele helps us a lot since the calcgirls left and since omi can’t be the only assistent in these crazy days..</p>
+
+
+	<p>an e-mail reaches us..again the people who organized the curating- degree-zero-shows&#8230;now it goes to Bremen.. we’d love to go too&#8230;actually we know very little, just that we’re part and who else is..and partly with what, but no idea how things look and work like in space..</p>
+
+
+	<p>l°°ks sends omi a link where the text of one of his favorite songs can be reat..never understood what mister Bubba Sparxxx was singing..</p>
+
+
+	<p>ooo…but now we know..a bit more&#8230;how curating_.._.. looks like, there was arriving another mail today:</p>
+
+
+	<p>curat_01  curat_02  curat_03
+28Kb              34Kb              36Kb</p>
+
+
+	<p>Michal, a resident from Isreal is working quite a lot now with omi..her project consits in getting a german passport (...!) and omi phones around..until they find a really nice guy in the german imigration-office..sounds like an angel but is a lawyer..explaining them the chances..there are chances! Michal would love to be a german resp. an european citizen..imagine your life in Israel!</p>
+
+
+	<p>she’ll present a israelian-german passport in Antwerp in order to make that clear..but hey Juan, omi! – you have to leave, your plane to Brussels is leaving tomorrow!</p>
+
+
+	<p>in the last minute omi does the selection for the 99 images which should “talk” about cittadellartes daily life..he took them during the last weeks..Miss Pi and You had the idea to put those next to logo- curtain-space..like a horizon behind the veil..and&#8230;lift-off to Belgium!</p>
+
+
+	<p>thanks for bringing us to the airport Daniele! see you residents, everything will be prepared for you&#8230;in Tom we trust!</p>
+
+
+	<p>the three calcies in Antwerp again..and Juan! Juan will build up all the structures he developed, such as the production office and the economy office.. and Tom Luyckx: finally, this guy is real!</p>
+
+
+	<p>Tom thought that omi is blond..the e-mails and phonecalls provoked blondness&#8230;omi though Tom is is a big bear! both were wrong, gracias a dios! nice to shake your hand Tomomi!</p>
+
+
+	<p>logo_curtain
+41Kb</p>
+
+
+	<p>the last days Miss Pi and You were preparing the drawing on the floor for the logo-curtain-installation..we all wonder if it will work as they all tell us. in few days we’ll know..they are cleaning the window while we are doing a joint session..</p>
+
+
+	<p>limpiacristal
+32Kb</p>
+
+
+	<p>Juan and Teresa Miss Pi started to do the Caravanskin..this time Juans wants to cover it with plastig bags..the caravan will serve as the economy office&#8230;</p>
+
+
+	<p>caravanskin
+16Kb</p>
+
+
+	<p>yesterdy the truck arrived..now all Minus Objects and the residents pieces are here..today we want to set up Imans falling-standing-up blackboard tower..</p>
+
+
+	<p>truckcame
+24Kb</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc138" href="#selector">setting up, setting up, setting up</a></h1>
+      <div class="date">2003/09/20</div>
+      <div class="body"><p>air vibrates..the following days will have very short nights..George, a technician free lancer of the museum, started to build up the wall Rufus needs for his three video-projections..we are happy that Rufus decided to do that wall, it cuts the symetry of the visitors traffic..</p>
+
+
+	<p>rufuswall
+29Kb</p>
+
+
+	<p>in the evening Imans tower stands..right there next to the window where she wanted it since the first moment when we presented them this space and the invitation..</p>
+
+
+	<p>towerview
+32Kb</p>
+
+
+	<p>and the caravan is done&#8230;Tom and Teresa decided that they’ll build the politics office, the workers let us know that they can’t do all&#8230; they started much too late and of course we have to hear that it is our fault..that we sent the drawings too late, that we..that we&#8230; forget it! no time for telenovelas &gt; action!</p>
+
+
+	<p>youomi
+26Kb</p>
+
+
+	<p>Tom de Luxe pays for a round..well, he found this dusty champagne upstairs in one of the office fridges..salud! viva la construcion!</p>
+
+
+	<p>poloffice
+26Kb</p>
+
+
+	<p>..Juan starded now to build the poduction office..a structure made out of simple cardboard boxes&#8230;we’re glad that in the end all uffizzi are pointing to and from the “poor”..from life to art and back again.</p>
+
+
+	<p>cardhouse
+24Kb</p>
+
+
+	<p>..and George is doing last sands on the Rufusdivider..</p>
+
+
+	<p>rufuswall2
+28Kb</p>
+
+
+	<p>..and Teresa stated to paint the polioffice..we decided to build also the logo..the love difference logo you know..by the way: “tomorrow the elements for the logo-sofa arrive!” says Tom.</p>
+
+
+	<p>poloffice2
+25Kb</p>
+
+
+	<p>..Teresa climbing Sacro Monte (religion office)..</p>
+
+
+	<p>reloffice
+23Kb</p>
+
+
+	<p>its true its true – the foamelements are comming, the sofa swashes into reality!</p>
+
+
+	<p>sofaswash
+32Kb</p>
+
+
+	<p>in two days people will come to make the orange covering.. time speed up..space speed up..hours fly, meters buzz..</p>
+
+
+	<p>aya_crew
+29Kb</p>
+
+
+	<p>what we’d do witout Aya? the curtainstory goes bad..the different textures and weights..but Aya..Aya is here, she rules the irons and threads! it won’t be as perfect as we imagined it, but i ti will be okay we hope!</p>
+
+
+	<p>miki_ruf_juan
+34Kb</p>
+
+
+	<p>Vaibhav, Michelangelo, Rufus came! they are setting up the Minis Objects with Juan..</p>
+
+
+	<p>kaibag_manu
+31Kb</p>
+
+
+	<p>..and Kai’s here too now..working on the shrinkbags for his installation..and Manu came! surprise surpise, she wanted to also see Imans tower which she pre-built in cittadellarte..</p>
+
+
+	<p>fips_maria
+34Kb</p>
+
+
+	<p>..and Filippo! day by day more people arrive from cittadellarte.. in three days we’ll be all and we’ll open the show!</p>
+
+
+	<p>topo_pi
+23Kb</p>
+
+
+	<p>Topo came too, with Eva!..all the way from Sevilla..sets up his installation with Miss Pi &#8211; Free Zone, the project he developed during <span class="caps">UNIDEE2002</span>..you know..and writes this lines on the walls..:</p>
+
+
+	<p><span class="caps">SIGUE ESTA L</span>ÍNEA. <span class="caps">TE DIR</span>Á QUE <span class="caps">HACER Y A DONDE IR</span>, DIBUJARÁ <span class="caps">TU CAMINO AQU</span>Í Y <span class="caps">AHORA</span>. SIN <span class="caps">EMBARGO ESTA L</span>ÍNEA SÓLO <span class="caps">TE DEJAR</span>Á CONOCER <span class="caps">UN CAMINO</span>. PARA <span class="caps">PODER RECORRER CUALQUIER OTRO CAMINO TIENES QUE BORRAR ESTA L</span>ÍNEA, <span class="caps">TIENES QUE CONSTRUIR UN ESPACIO EN BLANCO</span>. ¿PERO <span class="caps">EXISTEN LOS ESPACIOS SIN DIBUJOS</span>, SIN <span class="caps">MARCAS</span>? ¿EXISTE <span class="caps">UN ESPACIO</span> “VACÍO”?. <span class="caps">QUIZ</span>Á MÁS <span class="caps">QUE BORRAR DEBER</span>ÍAMOS <span class="caps">VOLVER A DIBUJAR</span>. OTROS <span class="caps">COLORES</span>, OTRAS LÍNEAS. RE-DIBUJAR <span class="caps">REALIDADES</span>. EN <span class="caps">CUALQUIER CASO</span>, PARECE <span class="caps">QUE CADA REALIDAD TRAE CONSIGO UNA GEOMETR</span>ÍA. ¿O <span class="caps">ES AL CONTRARIO</span>?</p>
+
+
+	<p><span class="caps">FOLLOW THIS LINE</span>. IT <span class="caps">WILL TELL YOU WHAT TO DO AND WHERE TO GO</span>, IT <span class="caps">WILL DRAW YOUR WAY HERE AND NOW</span>. HOWEVER, <span class="caps">THIS LINE WILL ONLY LET YOU KNOW ONE WAY</span>. IN <span class="caps">ORDER TO BE ABLE TO FOLLOW ANOTHER WAY YOU WILL NEED TO ERASE THIS LINE</span>, YOU <span class="caps">WILL HAVE TO CONSTRUCT A BLANK SPACE</span>. BUT <span class="caps">DO SPACES WITHOUT DRAWINGS</span>, WITHOUT <span class="caps">MARKS ACTUALLY EXIST</span>? DOES <span class="caps">AN EMPTY SPACE EXIST</span>? PERHAPS <span class="caps">RATHER THAN ERASE</span>, WE <span class="caps">OUGHT TO REDRAW</span>. OTHER <span class="caps">COLOURS</span>, OTHER <span class="caps">LINES</span>. REDRAW <span class="caps">REALITIES</span>. IN <span class="caps">ANY CASE</span>, IT <span class="caps">SEEMS THAT EACH REALITY BRINGS ITS GEOMETRY WITH IT</span>. OR <span class="caps">IS IT THE OTHER WAY AROUND</span>?</p>
+
+
+	<p><span class="caps">SUIS CETTE LIGNE</span>. ELLE <span class="caps">TE DIRA QUOI FAIRE ET OU ALLER</span>, ELLE <span class="caps">DESSINERA TON CHEMINEMENT ICI ET MAINTENANT</span>. POURTANT, <span class="caps">CETTE LIGNE NE TE MONTRERA QU</span>’UN <span class="caps">SEUL CHEMIN</span>. AFIN <span class="caps">DE SUIVRE UN AUTRE CHEMIN</span>, IL <span class="caps">FAUDRA GOMMER CETTE LIGNE</span>, IL <span class="caps">FAUDRA CONSTRUIRE UN ESPACE VIDE</span>. MAIS <span class="caps">EST</span>-CE QU’IL <span class="caps">Y A DES ESPACES SANS DESSINS</span>, SANS <span class="caps">MARQUES</span>? EST-CE QU’IL <span class="caps">Y A QUELQUE CHOSE COMME UN ESPACE VIDE</span>? PEUT-ETRE QU’IL <span class="caps">FAUT REDESSINER</span>, PLUTOT <span class="caps">QUE GOMMER</span>. AUTRES <span class="caps">COULEURS</span>, AUTRES <span class="caps">LIGNES</span>. REDESSINER <span class="caps">DES REALITES</span>. EN <span class="caps">TOUT CAS</span>, IL <span class="caps">PARAIT QUE TOUTE REALITE AMENE SA PROPRE GEOMETRIE</span>. OU, <span class="caps">EST</span>-CE <span class="caps">LE CONTRAIRE</span>?</p>
+
+
+	<p><span class="caps">VOLG DEZE LIJN</span>. ZE <span class="caps">ZAL JE VERTELLEN WAT TE DOEN EN WAAR JE MOET GAAN</span>, ZE <span class="caps">ZAL JE WEG HIER EN NU UITSTIPPELEN</span>. MAAR <span class="caps">DEZE LIJN ZAL JE SLECHTS</span> ÉÉN <span class="caps">WEG WIJZEN</span>. OM <span class="caps">EEN ANDERE WEG TE KUNNEN VOLGEN</span>, DIEN <span class="caps">JE DEZE LIJN UIT TE VEGEN</span>, JE <span class="caps">ZAL EEN LEGE RUIMTE MOETEN CRE</span>ËREN. <span class="caps">MAAR BESTAAN ER EFFECTIEF RUIMTEN ZONDER TEKENINGEN</span>, ZONDER <span class="caps">MARKERINGEN</span>? BESTAAT <span class="caps">ER ZOIETS ALS EEN LEGE RUIMTE</span>? MISSCHIEN <span class="caps">DIENEN WE TE HERTEKENEN</span>, EERDER <span class="caps">DAN UIT TE WISSEN</span>. ANDERE <span class="caps">KLEUREN</span>, ANDERE <span class="caps">LIJNEN</span>. WERKELIJKHEDEN <span class="caps">HERTEKENEN</span>. HET <span class="caps">SCHIJNT IN ELK GEVAL ZO TE ZIJN DAT ELKE VORM VAN WERKELIJKHEID HAAR EIGEN GEOMETRIE IMPLICEERT</span>. OF <span class="caps">IS HET NET OMGEKEERD</span>?</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc137" href="#selector">setting up and inauguration mhka antwerp</a></h1>
+      <div class="date">2003/09/28</div>
+      <div class="body"><p>michal_o_chiara_m_dani
+31Kb</p>
+
+
+	<p>Michal is here, Chiara is here and Dani also arrived last night. great! a lot of hands to help us..</p>
+
+
+	<p>hannah
+24Kb</p>
+
+
+	<p>..and Hannah..she comes tomorrow..and will paint the visual shadows of these little paintings outside the museum..</p>
+
+
+	<p>o_michal_maria
+29Kb</p>
+
+
+	<p>..and Michal explains omi how she thought of mounting her israel-german passport..while Maria calls half Europe to invite friends for the opening..the day after tomorrow!</p>
+
+
+	<p>alexandra
+28Kb</p>
+
+
+	<p>Alexandra also helps us since some days..she hangs now the 99 images..18 and 81..Teresa and omi remember the 99 names of God..Adel told them about it..in Egypt many years ago..</p>
+
+
+	<p>sofasleep
+35Kb</p>
+
+
+	<p>..the guys who should cover the sofa arrive today! and tomorrow we open for the press already! Tom and Juan and Roni are are supertired. last long night starts..</p>
+
+
+	<p>juan_curtain_tom
+34Kb</p>
+
+
+	<p>..some workers are on strike since yesterday! what we waited for..but okay, we’re painters, carpenters, cleaners, curtainhangers..curators of all countries bregade you!</p>
+
+
+	<p>tour_ists
+47Kb</p>
+
+
+	<p>Teresa and Michelangelo are doing the tour for the people who will do tours..</p>
+
+
+	<p>..and surprise surprise &gt; Ian Campbell sends a self-portrait..him as a cosmopolitan artist..</p>
+
+
+	<p>ratstop
+31Kb</p>
+
+
+	<p>and Roaring Roni lets an e-mail out..to all: opening.doc</p>
+
+
+	<p>and..we see the catalogue&#8230;well..hmm..we had to do this compromise &gt; europalia pays, but therefore they say with which designer we have to work..not bad..not good..but we’re all happy to have it finally&#8230;and we dedicated it to Maria!</p>
+
+
+	<p>ufff.sorry..Ryan Dolan arrives a night before the opening.. where is your painting? a poster? what poster? no way man, sorry, how could we <span class="caps">NOW</span> talk about that? too late..FILA? do we work with <span class="caps">FILA</span>? how could we make clear that..? no, time out, sorry &#8211; no space for you..omi tells him and feels sorry the next second..but still, the context is to webbed now..lets talk about it back in cittadellarte, okay?</p>
+
+
+	<p>everything else’s ready? how’s the porte-space? how are you? uuu, i’m tired..i’m a bit sick.. we all are paying a high prize..is it worth it?</p>
+
+
+	<p>4th of October 2003 – inauguration! it is! (is it?)</p>
+
+
+	<p>MC Bart conducts the opening speech while everybdoy is in the house..except omi..sick.. fever..sleeping..but hey, did you see? Luisa and Tom came from Widnau! grüezi amores!</p>
+
+
+	<p>bart_conducts
+58Kb</p>
+
+
+	<p>and Lou came, and Martin from Novaron and a lot a lot of people from all over..what a pitty that l°°ks and Malex couldn’t make it, they would like this mess!</p>
+
+
+	<p>marias_day
+33Kb</p>
+
+
+	<p>Michelangelo does a nice short speech: he opens the catalogue and reads the dedication: cittadellarte dedicates this book to Maria Pioppi! happy birthday Maria!</p>
+
+
+	<p>lets have a walk around..click around..</p>
+
+
+	<p>clickaround01 clickaround01 clickaround01 clickaround01 clickaround01 clickaround01
+clickaround01 clickaround01 clickaround01 clickaround01 clickaround01 clickaround01
+clickaround01 clickaround01 clickaround01 clickaround01 clickaround01 clickaround01
+clickaround01 clickaround01 clickaround01 clickaround01 clickaround01 clickaround01</p>
+
+
+	<p>the same evening we all meet upstairs in the museums restaurant..its Marias birthday party! omi comes too..he just can’t miss to congratulate Maria, to have Peters food and some drinks with the workers and the residents! feliz año nuevo Maria!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc136" href="#selector">el sur outward bound, looks sevilla, justice image</a></h1>
+      <div class="date">2003/10/03</div>
+      <div class="body"><p>Luc, boss of M HKAs finances helds a speech: thanks to M.P., thanks to c a l c, thanks to cittadellarte..best show we ever did.. omi does one a bit later (Miss Pi twitches him..): thanks to all technicians, workers..was nice to work with you people! viva Tom Luyckx, salud!</p>
+
+
+	<p>Ryan and omi are having a good long talk regarding the problem with (not)showing Ryans work in the <span class="caps">M HKA</span>- context &#8211; “lets do a talk also with Michelangelo and all the others when we’re all back in cittadellarte” they say..</p>
+
+
+	<p>its really open, its open..welcome to the all-round-cittadellarte- landscape! Bart talks to c a l c: <span class="caps">M HKA</span> is interested to buy the Porte space for their collection! yes, we are open to talk about everything..lets see what Michelangelo says..</p>
+
+
+	<p>wow amazing..almost everybody from cittadellarte is here! Cristiana, Armona, Paolo, the kids, and all the other office- people! its the first time that me meet all of them outside the Piemonte! and the first time that cittadellarte is presented outside its own walls!</p>
+
+
+	<p>what a time! Antwerp, we like you..we meet for a last dinner in Soeki where Peter cooks..Peter had an idea: why not aplying for <span class="caps">UNIDEE</span> as a cook? cookartist!? isn’t the nutrition office still without a concept and inputs? it is! you really should do that!</p>
+
+
+	<p>we have to go the day after already..Teresa, Topo, Eva and omi.. down south to Andalucia..one week off please..oh yes, and a little workshop regarding the culture center which Cristina wants to open up in Jerez, you remember?</p>
+
+
+	<p>You and Lou stay one more day up in the north before they leave to Turin..6th of October &#8211; ciao Residents..everybody.. see you soon in cittadellarte! bye Daniele, Benedetta and Benoit, hope you make a good experience with working in the offices in the exhibition! bye Tom, hope we can meet soon in another context!</p>
+
+
+	<p>one week in Sevilla..in the end we don’t do the workshop.. Cristina needs more time to think about her plans&#8230;you know the workshop was ment to think about it together &#8211; to outline the centers activities and attitudes..but now its postponed until Cristina feels more sure about..</p>
+
+
+	<p>but we do the goodbye party for Marisa (Evas mama..) and Lois! they are leaving for two years with their sailing boat &#8211; El Sur..</p>
+
+
+	<p>elsur
+16Kb</p>
+
+
+	<p>going all around the world, you remember? on the big family- party we meet also Moncho, a friend of Lois..he is an aircraft captain and invites Eva and omi to come with him to the Domenican Republic when Marisa and Lois will arrive there.. in about two and a half months..he really invites us, we can’t believe it!</p>
+
+
+	<p>in the end he also invites Carlos (Evas brother) and his girlfriend Eli – okay, we are comming, but you are sure that there will be empty seats? “you can sit in the cockpit if not..” okay, we come! and we’ll meet Marisa and Lois to cross the canal of Panama &#8211; x-mas trip..is it true? did a real captain just invite us to fly with him to the Caribbean?</p>
+
+
+	<p>Ola writes!
+New C.CRED webpage now launched.
+Visit on: http://www.ccred.org</p>
+
+
+	<p>after we came back to Sevilla some days ago Teresa became sick..she got the fever now..and has to stay in bed all the time we are there..after some days also L°°ks comes &#8211; as a surprise – to visit us! its the first time we meet in Sevilla! the place where we probably are going to have the c a l c &#8211; babyship 2004!</p>
+
+
+	<p>eldevi_y_looks
+66Kb</p>
+
+
+	<p>12th of October…the calcies have to leave to Biella..UNIDEE2003 is waiting..Teresa can’t come, so omi has to leave alone..bye Teresa, take care! don’t come before you are reallyreally well again, okay? i can manage <span class="caps">UNIDEE</span> with You, don’t worry, see you in Biella! bye Evitamor, in less than a month we meet in Madrid to fly to Colombia!</p>
+
+
+	<p>back in Biella! air vibrates and a.i.r. vibrate..there are lights in the studio now until every morning..and the heating is on already..most of the a.i.r. will show a continuation of what they presented in Antwerp..</p>
+
+
+	<p>while helping the residents omi is also working with Juan and tele- matically with Eva in preparing the workshop for Colombia! in less than a month we’re leaving!</p>
+
+
+	<p>Ryan and omi want to do the meeting..the talk: 20th of October &#8211; 6 days before the presentation..the talk regarding the “FILA-poster”..</p>
+
+
+	<p>final-fila-poster</p>
+
+
+	<p>except Jean Charles who’s is back in Paris for an exam he has to do for his art-teacher career and Teresa, who still is in bed in Sevilla, everybody’s here..lets do it now:</p>
+
+
+	<p>ryantalk_fila
+49Kb</p>
+
+
+	<p>good talk! Michelangelo also finds time, You is here too! and we are able to clear all the problems we had because of a lack of communication..from ours &#8211; c a l c’s &#8211; side we have to admit that we were overestimating our forces..we shouldn’t have done the curating of Antwerp and <span class="caps">UNIDEE</span>..this has actually nothing to do with this problem, but still: we would have been cooler if we wouldn’t have ha so much on ones hand..</p>
+
+
+	<p>talking for almost two hours things get clearer between us.. there is no anger or misunderstanding left, right? Ryan is taping the talk..look, after some days he already sends us all an e-mail with the transscription. . .</p>
+
+
+	<p>the presentation is getting closer, Colombia is getting closer, everything is getting closer <span class="caps">AND</span>: Teresa is back..since today! welcome Miss Pi, great that you made it some days before <span class="caps">UNIDEE2004</span> is finishing..</p>
+
+
+	<p>Armin – <span class="caps">UNIDEE</span>-resident from 2000 sends an ironic image playing with the content of the poster we made for the producion office&#8230;:</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc135" href="#selector">unidee 04 presentation day, leaving to colombia, ciao torino</a></h1>
+      <div class="date">2003/10/20</div>
+      <div class="body"><p>omi reserves the domain www.orilla-orilla.net and does some interface-sketches for the website we want to do in Medellin: el Puente!</p>
+
+
+	<p>..and Charley is here! he was resident in 2001 and came back to work on his project for a.i.m (arteattraverso i muri) – he wants to put a huge wall-graphic of Panganeas transformations..the continental drift as a metaphor for inevitable changes..</p>
+
+
+	<p>omi is going forward and backward Torino..packing things.. Teresa and Topo will take them all to Sevilla while Eva and him will be on their way to Colombia!</p>
+
+
+	<p>the presentation day!</p>
+
+
+	<p>present_01
+32Kb</p>
+
+
+	<p>Oier does the first speech! La Tormenta!</p>
+
+
+	<p>present_02
+49Kb</p>
+
+
+	<p>i wish we could add some links to pages they made in cittadellarte for this presentation or any other online- translation from what happened this <span class="caps">UNIDEE</span>-year, but they are redesigning www.cittadellarte.it and it will take some more time..</p>
+
+
+	<p>omi gets a visit from Robin and Scully..the guys who invented and run http://www.paperkut.net.. they’d like to collaborate..fine..we’ll check paperkut out until the end of the year..</p>
+
+
+	<p>the presentation day is good..the show (open studio) is great! although the parallel presence in Antwerp made hings more difficult we manage a good day! and a good night:</p>
+
+
+	<p>uni_party01
+36Kb</p>
+
+
+	<p>first party this <span class="caps">UNIDEE</span>-year! dancing night! DJ-omito (hiphopsoul’nfunk!) and DJ-Daniele (househouse!) do a good and long job! finally we dance! thanks God you sent Charley!</p>
+
+
+	<p>uni_party02
+24Kb</p>
+
+
+	<p>Juan, Cristina and Anis are leaving tomorrow already to Colombia..but before we have to cel-ebrate the r-evolution day..this year without Michelangelo, and without Ryan and André who had to leave already back home..where projects are waiting..again up there in the bee keepers club, where this long table is..</p>
+
+
+	<p>r_evolution
+48Kb</p>
+
+
+	<p>UNIDEEs final meal..the meal which wants to remember that this &#8211; although it ends &#8211; has only started..if we want..welcome in the network of cittadellarte! we all don’t know and we all are excited how this (and we) will go on..</p>
+
+
+	<p>Juan, Cristina and Anis are already gone, omi is leaving today to Madrid, L°°ks’ back home in mothership L.A. is preparing papers about geografia affettiva for http://www.sitemapping.ch and Miss Pi and Topo are staying some more days in Biella and Torino..packing their babyship-things..saying good bye to Torino..</p>
+
+
+	<p>and good bye residents2004! hope to see you all again! ciao Charley, hope to see you soon somewhere, why don’t you come to visit us in mother- or sister-ship?</p>
+
+
+	<p>“good bye torino”..omi says..a bit sad..today..last day of having a bed here&#8230;it didn’t really work like we were dreaming after <span class="caps">BIG</span> closed and we opened the babyship..or did it? oo yes! but everything moved to Sevilla..wishes, ideas, plans..dreams.. ..”ciao sister Iris, good luck with your thesis..ciao Max..hasta luego Maria..bye You..see you soon in Spain..maybe right after Colombia?”</p>
+
+
+	<p>just some hours before leaving Francesca, who runs cittas press office, sends out en e-mail about our colaboration in Colombia..in italian..</p>
+
+
+	<p>Madrid &gt; meeting Eva in the late afternoon of the 4th of November! tomorrow they leave to Paris and Bogotá where they have another last flight to Medellin the same night..Juan’s there already.. he and Natalia will pick them up..volamos flor!</p>
+
+
+	<p>airline01 airline02
+32Kb                32Kb</p>
+
+
+	<p>while the flying c a l c delegation is watching the little screen in front of them..reflecting about the potential of geografia affettiva and playing with ideas for the coming workshop-weeks, Teresa and Topo are driving on their way down south from Turin to Sevilla..</p>
+
+
+	<p>loleilo_full
+37Kb</p>
+
+
+	<p>full car..it was snowing when they left Turin..</p>
+
+
+	<p>..and its a clear warm night when Eva and omi are arriving in Bogotá..the international airport looks like a little national one but the national airport looks like the international one.. proportians and measures change and indicate that people are flying here a lot, si o que?</p>
+
+
+	<p>si! Eva and omi arrive to Medellin, Juan and Natalia are awaiting them alredy..hola bonitos! on their way downtown Medellin they get their first lesson in “where am i here?”. they knew that this is going to be something else, but they are surprised that a lot of information they hear the first time. “don’t talk in public, somebody could hear your foreign accent and sell you to the guerilla”..</p>
+
+
+	<p>coming down to Medellin from the north..seeing this huge slim city-bowl from above..we stop for some beers and a Arepa (flat bread of corn) and listen..”never take a taxi in the street..the taxidriver could betray you..always call for a taxi!”..</p>
+
+
+	<p>we can stay in Natalias sisters house the first days..”she’s in the <span class="caps">USA</span>..no problem”..fine! tomorrow we have one last free day before we meet the students who are going to work with us! lets have a walk around..”no walks alone, only if you’re with us or the students, okay?” “okay..its scary here..”</p>
+
+
+	<p>fruit01
+31Kb</p>
+
+
+	<p>but the fruits are so many! fruits we never saw..trees we never saw..downtown..how green this big city is..and how polluted..the buses seem to drive with coal..</p>
+
+
+	<p>fruit02
+33Kb</p>
+
+
+	<p>Natalia drives us around..its like a village..on the other hand it looks very clean here..this whole city is like hundreds of villages..no center..we pick up Cristina and Anis..Anis will go to the kindergarten the next weeks while we are working!</p>
+
+
+	<p>now we are going to the city center..next day..where el centro colombo americano is..the center which invited us.. or better said Juan Alberto who is the director of the gallery there..we are going to meet the students today!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc134" href="#selector">adios mario merz, flowers, el puente, el espacio</a></h1>
+      <div class="date">2003/11/01</div>
+      <div class="body"><p>puentis
+57Kb</p>
+
+
+	<p>hola todos! Liliana, Diana Z., Alejandro, Daniel, Julian, Diana G., Lina, Ricardo, Victor, David, Paola and Paula from the colombian shore! hola Juan, Cristina, Eva, Natalia and omi from the european one! we are all artists..except David..he’s a historian..</p>
+
+
+	<p>Natalia who was and partly is the art teacher of all the Medellin artists started to work with them already a year ago..”the bridge”. .</p>
+
+
+	<p>‘..what bridges we want to investigate or build knowing that Juan, Cristina, Eva and omi are comming with the intention to develop and set up a bridge for communication.. for exchange..a bridge where projects can be discussed, presented, found..?! Natalia maybe asked them 12 months ago..everybody presents his project..one after the other..</p>
+
+
+	<p>wow, we are surprised, there are so many good starting points! but to cut a long story short &gt; they are all (t)here:
+www.orilla-orilla.net ..</p>
+
+
+	<p>Key writes an e-mail..the first e-mail omi reads in Colombia: Maria Merz, our Torino neighbour, died..some days ago.. we left Torino and he left the world..ciao Mario, thanks for the numbers, the lights and igloos..</p>
+
+
+	<p>merz</p>
+
+
+	<p>now, after knowing what each one is planing to show in one week (when we want to open the gallery resp. the workshop to the public..) we are all going to Santa Helena.. up to the mountains where Natalia and her boyfriend Ricardo have a house!</p>
+
+
+	<p>red_tel
+54Kb</p>
+
+
+	<p>it rains on the pass..and there are these red phone &#8211; shells everywhere..it starts in the suburbs..every 500 meter there is one..thousends..Ricardo tell us that they are all for free..this phones got robed so many times that it was cheaper to let people make local calls for free than to repare them all the time..</p>
+
+
+	<p>brainstorm
+35Kb</p>
+
+
+	<p>it goes so well!..doing a big brainstorm..finding a lot of ideas together..que chimba! how great to be here, how great to be with you all! this will be a good bridge!</p>
+
+
+	<p>flor01
+33Kb</p>
+
+
+	<p>its all full of flowers here..flowers Eva and omi never saw.. we cook on the fire outside..its always spring here they say.. and war..everybody talks about heaven and hell..we are in heaven and in hell!</p>
+
+
+	<p>flor02
+32Kb</p>
+
+
+	<p>after 50 years of left extreme and right extreme terror we hear from everybody the same..BASTA YA! we have other ways of dealing with problems..yes injustice is still outrageous.. but the industry of guerilla- and paramilitary violence must stop..but how?</p>
+
+
+	<p>flor03
+36Kb</p>
+
+
+	<p>..we have to find ideas and ways to invent peace.. who is not rich enough yet, who not poor enough? this country could be wealthy only from exporting flowers and fruits..</p>
+
+
+	<p>flor04
+39Kb</p>
+
+
+	<p>the world seen from Colombia makes very helpless, pessimistic..and then optimistic, sanguine..just by looking at a flower..or listening to this young people..to the sound of their bridges..how they want art to be responsable.. and social..and yes, transformative..</p>
+
+
+	<p>fruit03
+47Kb</p>
+
+
+	<p>back in Medellin we have all our hands full of work! we decided and started so many things already!: that we want to draw a huge map of Medellin..over three walls, also the map of Colombia and the map of europe we start to project and draw..</p>
+
+
+	<p>drawmap
+36Kb</p>
+
+
+	<p>we won’t show products but processes..starting points, first conceptual pilars of different bridges..for geografia affettiva its too early here..only two of them are using a mobile phone..still very expansive..but just a questions of few years..or we do it phoneless in the beginnig and manage everything via the website..? lets have a Jugo (fresh fruit drink..) up in the 10th floor restaurant..</p>
+
+
+	<p>northview
+51Kb</p>
+
+
+	<p>but lets start analog for now..like a geografia afffettiva analogica..we want to to tense fine threads from where projects started..indicating it on the map and span the threads all over to a “zoom” &gt; the enlarged spot of it – and to present near those zooms the projects.. the processes..</p>
+
+
+	<p>we stop for some hours..omi is invited to talk about c a l c ..en la universidad de antioquia ..3, 4 hours again.. the little history of art again..some projects..dialog in a circle and dialog in a net..responsibilty in circles, re-sponding in nets..good talks, everybody so awake here! thanx everybody, thanks Evita!</p>
+
+
+	<p>at the same time Teresa, l°°ks and You..in Europe..are thinking what to show in Captown..remember? this “paradise exhibition”..</p>
+
+
+	<p>we don’t know what we have to do with “paradise” or “utopia”..we are just trying to propose and do small changes..we feel like the elephants in the paradise- shop..but we’ll show something there..okay Karin (Frei – curator..)! although there is no money to bring us there, only very little to develop something..we’ll..</p>
+
+
+	<p>we meet online..a park for L.A. says Miss Pi..we never showed the images we sent to the printer in Linz..okay lets play with the question how these images could move something..in Captown and in L.A..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc133" href="#selector">www.orilla.net, medellin, san jeronimo</a></h1>
+      <div class="date">2003/11/08</div>
+      <div class="body"><p>a mail from superflex arrives:</p>
+
+
+	<p><span class="caps">FREE SHOP</span>
+Any merchandise the costumer will purchase is free. Free shop takes place occasionally.</p>
+
+
+	<p>Participating shops:
+Dolce Vita &#8211; A deli in Bremen
+Nussbaum &#8211; Cheese shop on a market in Bremen
+Selin Izmir Feinkost &#8211; A grocery in Bremen
+AmPm &#8211; Convenient store in Tokyo
+Family Mart &#8211; Convenient store in Tokyo
+Mameda &#8211; A rise ball shop in Tokyo</p>
+
+
+	<p>See the documentation here:
+http://www.superflex.net/projects/freeshop/index.shtml</p>
+
+
+	<p>why are all Boteros so fat? here in Medellin they come across even fater..a whole huge square full of them..fat ladies, fat gentleman..why? and there is that fat horse without a neck which is also standing around in Oviedo..people say that Botero did a lot for the city..</p>
+
+
+	<p>back to real size &gt; Filippo (politics office – cittadellarte) arrives! ciao bello! Juan Alberto organized so many meetings, Filippo does them all..talking about his work, the foundation..there are like two bridge-ships here: c a l c and cittadellarte..nice new parallel presenting and weaving with Filippo and Juan!</p>
+
+
+	<p>the space is ready! the maps..the zooms, the icons, the terms, the posters, las hostias, the postcards, the 4 tracks, the small texts, the threads, the orange spots, the videos, the bi-personal scans, the flyers for finding the artist from under the bridge, the cushions, los afectos cotidianos, the golden shoes and the the big blackboard with the big white letters:</p>
+
+
+	<p>w w w . o r i l l a – o r i l l a . n e t</p>
+
+
+	<p>equipuente</p>
+
+
+	<p>buenas noches a todos..estamos inaugurando el puente.. esto solo es la hasta ahora..pero mas ahoras y mas siguen..entra! queremos hacer mas pasos en todas estas direciones..aqui..y alli..por el medio..</p>
+
+
+	<p>Juan Alberto is happy with his new interieur..says that he wants to give the gallery once a year to el puente..las orillas.. and he really means it, he let somebody paint the www on one of the outside walls of el centro c-a..!..</p>
+
+
+	<p>bigwww
+36Kb</p>
+
+
+	<p>enhorabuena tribu de las puntas naranjas, bienvenido en chimbatown! lets party?..fogdisco..fatbeats..weapon check, the shores are vibrating..could be anywhere..discos are visual and acoustical places of indifference..but emotional they are not..</p>
+
+
+	<p>good morning in Sevilla! Miss Pi and Topo are a happy new home couple! they were lucky..beside making their home their planet they are thinking in oranges and their images (Ms Pi), and in doing the definite plans for Manolos house ready..with Ruben (Topo)..and preparing the big job on the “ten for linares”..you’ll see..</p>
+
+
+	<p>L°°ks has 16:00 when omi starts at 09:00 in the gallery.. everybody here again..no time to loose, we also wanted to dispose a publication and do the www! and to ride the tube! Medellins tube is a bridge, the biggest bridge ever! cuting and connecting the whole city.. whole huge chimbatown from one end to the other.. la metro!</p>
+
+
+	<p>but before we are going to San Jeronimo for some days.. where Natalias sister got a friend..with a big country house.. and banana plantations..but for the flowers, no the fruits..</p>
+
+
+	<p>flor05
+32Kb</p>
+
+
+	<p>..but only the europeans and Natalia, her mother and her sister and her boyfriend Ricardo come..our friends from the workshop stay..guess they need some rest too..</p>
+
+
+	<p>on our way back we pass a long rope bridge by car.. they say that the engeneer who did this was working also with Eifel..</p>
+
+
+	<p>hangbridge
+47Kb</p>
+
+
+	<p>our last week runs as fast as all the weeks before..but we are able to do it..all what we said..quite crazy, but we want to “produce” as much as possible..to have material to go on when we’re on our two shores again..</p>
+
+
+	<p>Natalia is preparing her trip to Barcelona..she got a grant to her thesis there..she wants to investigate and write about social engaged art..and to do a study about cittadellarte..good luck!</p>
+
+
+	<p>somedays before we’re leaving Colombia we move to Andres and Monica..Juans brother and his girlfriend..the last two weeks we lived in Natalias house..more downtown.. next to the modern and dusty art museum..a quarter where we also could go alone to a near bar or have a small walk within the area..</p>
+
+
+	<p>its great to change again..first we feel to tired but then we like it a lot..the landscape, the archiscape, the people we’re living with! this neighbourhood was extremely dangerous and violent some months ago..streetfights.. between the guerilla who had a lot of people living here and the police, the parapolice..until they sent whole troopes..it got quiet they say..</p>
+
+
+	<p>circulodos
+78Kb</p>
+
+
+	<p>the guys from the private police are wearing guns who could kill two elephants who stand behind each other..</p>
+
+
+	<p>there is an exhibition in the studio where Julian works.. students of art..how exciting! omis favorite work are Lilianas dog-scans..her dog likes to be scanned..</p>
+
+
+	<p>..Paula and David found a restaurant they can rent! they thought this dream will take 10 years to come true..buenos tiempos it is called..Paula postpones the opening night.. or better said she does a pre-opening..an inauguration dinnerparty with all of us! the restaurant is 4 metro-stations from where Eva’n omi life..el Estadio..y los buenos tiempos..</p>
+
+
+	<p>we have a great dinner there..the last supper folks..every- body, almost everybody cooks something..Cristina, Evita, Paula, two mexican friends from Paula and omi..there is only one fire so it takes 8 hours to have all the dishes..</p>
+
+
+	<p>dish and dance, dish and dance, dish..tomorrow will be Evas and omis last day..the day after they’ll leave..</p>
+
+
+	<p>on their last day they do a long ride and walk through the city..it rains..its warm..there is a temporary x-mas sculpture on this big street..</p>
+
+
+	<p>sculpture
+43Kb</p>
+
+
+	<p>x-mas..everybody looks forward to x-mas.. x-mas means fiesta sin fin..they say..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc132" href="#selector">bye colombia, LA for capetown, geografiaffetiva.net, lapanaderia</a></h1>
+      <div class="date">2003/11/10</div>
+      <div class="body"><p>metro
+46Kb</p>
+
+
+	<p>the metro is a very curious phenomenon! like a parallel world..absolut clean, not one graffity nowhere, people sitting quiet on their benches..seem to enjoy the static fly through the city..</p>
+
+
+	<p>chabolas
+46Kb</p>
+
+
+	<p>from these houses architecture should start..from these houses architecture starts..all wishes and needs naked.. Julian, Ricardo, Victor, Alejandro and Daniel tell us about how people were educated for using the metro..for loving the metro before it was build..for years..</p>
+
+
+	<p>Manolo..the man who owns the house which Eva, Topo and Ruben are re-nov-ating and which we can use until the works start as a studio..sends a last mail before Eva and omi are leaving &gt; Marisa and Lois sent their coordinates..</p>
+
+
+	<p>posicion-24-11-2003
+51Kb</p>
+
+
+	<p>. . 25th of November . . thanks a lot! it was great to work with you..Liliana and Julian bring them to the airport.. chao todos.., lets meet soon online..lets try to help each other to bring the good things forward..take care..</p>
+
+
+	<p>viva las orillas!</p>
+
+
+	<p>Juan, Cristina, Anis and Filippo stay longer..some more days..they wanted to do a trip to the ocean, but it might be too stressy for the baby..and there are still some works to do for the map..</p>
+
+
+	<p>did we tell you about the map? we already decided the second day, when we where playing with the ideas for an analog geografia affettiva, that we want to do a map.. a city map of Medellin..with new weights and centers.. Eva was working on it with Juan until now..now Alejandro will finish it..the next chapter of the <span class="caps">BOO</span>© will show you..</p>
+
+
+	<p>or subscribe to the orillas..then you’ll see it before..Juan always was insisting that something printed, something tactile is important to do..adios amig@s..</p>
+
+
+	<p>army everywhere..all the road to the airport..</p>
+
+
+	<p>army
+46Kb</p>
+
+
+	<p>..on the airport we hear in the news that more than 800 paramilitares are expected this noon in Medellin..to decommision their weapons..lets hope that these are good last news!</p>
+
+
+	<p>airline03 airline04
+63Kb</p>
+
+
+	<p>Bogotá..Paris..Madrid..&gt; Sevilla! hola amores.. having Tapas with Miss Pi and Topo before anything else..hola piso nuestro!..hola jet lag..where have we been? where are all our friends?</p>
+
+
+	<p>Natalia writes in orillas-forum: they don’t give me the visa for Spain..shit, everything for nothing..well..actually a lot of people will be happy that you’ll stay longer..</p>
+
+
+	<p>Manolo sends another position message from Marisa and Lois! Eva talked to Marisa, cambio..tienen muy poco viento, cambio..estan pescando mucho, cambio..</p>
+
+
+	<p>posicion-31-11-2003
+38Kb</p>
+
+
+	<p>back in the babyship..in the temporary buildingsiteship.. Miss Pi arranged a nice little office in the forest..</p>
+
+
+	<p>forestoffice
+32Kb</p>
+
+
+	<p>Miss Pi and omi are doing a doblepage regarding the paradise..for this CH-magazine..the magazine for Captown..we decide to do something with two layers.. with an orange layer and with the plan of L.A. Miss Pi played before with the first portraits L°°ks did from the people of L.A&#8230;and with those images that we sent to the printer..but we want to keep it very simple..reflecting visual what happens in L.A&#8230;and to maybe work with this portraits in the Captownspace.. You proposed to let everybody in the village write about what for him/her means paradise..we don’t know..we just let it sleep in our common attention for some more weeks..</p>
+
+
+	<p>L_A
+170Kb</p>
+
+
+	<p>L°°ks like the doblepage too..You too.. L°°ks goes to Basel.. medical all round check up..in some days omi will go up north.. to keep the house, the dogs, the <span class="caps">BOO</span>©..until L°°ks will be back..just two days before we’ll be on the road again..to the Caribbean..by the way..Manolo sends a position again..they are almost there..where we’ll go in about two weeks..</p>
+
+
+	<p>posicion-08-12-2003
+33Kb</p>
+
+
+	<p>Miss Pi conducts the proposal we want to do for a submission from Madrid – premio arte ciencia y tecnología..we send them geografia affettiva.. we want to give this project priority next year.. anyway..also if Madrid doesn’t bite into..</p>
+
+
+	<p>ga_home_madrid
+18Kb</p>
+
+
+	<p>while Eva and omi were in Colombia the other calcies were talking about an early date in 2004 to meet..all of them..also Malex..in Sevilla! good idea, we have to take so many important decisions..</p>
+
+
+	<p>will we be again so active in cittadellarte as in all the years before? will we do more jobs to finance new projects? what projects want to be become real in 2004..? we could meet right after Eva and omi are back..middle of january?</p>
+
+
+	<p>omi leaves for 10 days to L.A&#8230;first they agree when to fly to the Caribbean..on the 20st of December..</p>
+
+
+	<p>Malex is still sweating with making the hello world project from Johannes running..</p>
+
+
+	<p>You is working in Biella..she just proposed that c a l c develops an online platform for manydee.. “..is too expensive”..let them do it with other people and they’l lfind out what expensive is..! if things come as we think we won’t have time anyway..</p>
+
+
+	<p>omi alone in Casqueiro..he can’t remember when he was the last time alone here..was he ever alone here?</p>
+
+
+	<p>Evita sends some images from the Model they just did for Linares..you know, these 10 houses next to a village outside Sevilla..</p>
+
+
+	<p>linares
+32Kb</p>
+
+
+	<p>its a space-division-model..but Eva says that these forms also approach now little by little to the shapes..</p>
+
+
+	<p>some days before..when omi was still down south..they went so see a space..an old bakery which could be their studio and babyship..”bakery” – nice name for an archi- tecture studio!..the space is okay, but quite a lot to do.. no water..no electricity..</p>
+
+
+	<p>but the price is cool – about 400€ only..hmm..</p>
+
+
+	<p>when omi arrives in L.A. Teresa tells him that they just saw another space – another bakery! same price, but bigger and ready to move in! Topo sends an image..</p>
+
+
+	<p>bakery
+29Kb</p>
+
+
+	<p>looks like we have our studio, no? lets decide when we’ll be together again&#8230;just before Eva and omi are leaving to the Caribbean, okay?..”the Bakery” is really a nice name for an architects collective..la panadería..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc131" href="#selector">LA studio, lets sail and sleep and...</a></h1>
+      <div class="date">2003/12/01</div>
+      <div class="body"><p>Malex forwards an e-mail..we’re out..Switzerland &#8211; sitemapping.ch &#8211; doesn’t like what we presented.. we were sending geografia affettiva also into this context..fits all..but nowbody seems to understand the potential of this project..</p>
+
+
+	<p>mierda&#8230;after more then 10 year of changing our work for theirs we get a fat bill from our accountants..game over..they want to see money from now on..actually they wanted us to do their website (they also have a travel agency..) so we did a sketch and a first concept many years ago..but they stop the deal..okay..but give us some months after you didn’t tell us the whole year!</p>
+
+
+	<p>L.A&#8230;sunny miercoles &gt; Juice and Alvaro come for lunch.. they want to talk about Juice’ logo.. for LAstudio..you remember? omi gave him some first sketches as a birthday present some months ago..now he wants the fair draughting..</p>
+
+
+	<p>LAtarjeta</p>
+
+
+	<p>its the 16th of December 2003..L°°ks is comming back tomorrow evening! and on the 18th omi leaves.. to pick up Evita in Sevilla and to take the plane again..</p>
+
+
+	<p>Ruben sends a mail &gt; Dani shows videos in the <span class="caps">METEORA</span> space in Sevilla..saturday 20th..pitty, Evita and omi will sit in the plane already..</p>
+
+
+	<p>danieye</p>
+
+
+	<p>at the bottom of the mail there’s this:</p>
+
+
+	<p>.....+ una pequeña actuación sobre el espejo del cuarto de baño a cargo de Ruben Alonso.</p>
+
+
+	<p>what will Ruben do on the bathroom mirror??</p>
+
+
+	<p>we are all so tired! we are all so much looking forward to some open and slow weeks..change of the year, time-swash..space-wash..restarting c a l c somewhen next year in january..or february..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc130" href="#selector">lift off > punta cana ! happy new yes 2004 !</a></h1>
+      <div class="date">2003/12/15</div>
+      <div class="body"><p>hola! 5 months without any boo©ed word!..but all quoted &#8211; ready to remember &#8211; fast backwards to the old new now &gt;</p>
+
+
+	<p>and.. &gt; 18th of December 2003</p>
+
+
+	<p>..a last signal arrives..from <span class="caps">EL SUR</span>..before Eva and omi are leaving again in direction southwest.. Punta Cana &#8211; this Captain really takes us! &gt;</p>
+
+
+	<p>croniquilla de la travesía del atlántico,
+11 &#8211; 12 diciembre 03             &gt; croniquilla01.doc</p>
+
+
+	<p>madrid_puntacana
+63Kb</p>
+
+
+	<p>while some beautiful little cards and wishes reach the mothership &gt; Silke and Mona &gt; bit pool &gt; and their babies send x-greetings..and Nico a postcard and a booktip &gt;</p>
+
+
+	<p>daybydaybyday
+56Kb</p>
+
+
+	<p>..amigo Luis Bueres 3 imgages..showing Navia from above.. in three steps &gt; the transformation of its riverbed.. from delta to channel &gt;</p>
+
+
+	<p>ria_navia
+127Kb</p>
+
+
+	<p>“buenos deseos” sends Monika Maerchy from +land.. and Calamity Christoph ..</p>
+
+
+	<p>buenos-deseos
+236Kb</p>
+
+
+	<p>..did you see the big belly on Monikas card? theres Wendelin in there!..he should come out beginning of April..</p>
+
+
+	<p>best-wishes
+30Kb</p>
+
+
+	<p>..and Ian and Key..and Agustin from a performance he did end of November in Bogotá.. &gt;</p>
+
+
+	<p>ian_tooly
+25Kb</p>
+
+
+	<p>epic-landscape
+21Kb</p>
+
+
+	<p>agus
+45Kb</p>
+
+
+	<p>..and we send one too..a happy-new-now-2004 to all our loves out there &gt;</p>
+
+
+	<p>happynewyes2004</p>
+
+
+	<p>..but wait..what is Ruben showing on the 20th of december.. in the toilet of el Espacio Meteora?</p>
+
+
+	<p>la-madrastra
+89Kb</p>
+
+
+	<p>..talking to the mirror..and to the girls who come to look into&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

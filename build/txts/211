@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+    <li>
+        <a href="/txts/210">erstes faX - interface</a>
+    </li>
+    <li>
+        <div class="active"><div class="head">introduction</div></div>
+    </li>
+    <li>
+        <a href="/txts/212">c a l c  review</a>
+    </li>
+    <li>
+        <a href="/txts/213">c a l c  revisión</a>
+    </li>
+    <li>
+        <a href="/txts/214">interface-design</a>
+    </li>
+    <li>
+        <a href="/txts/215">diseño-interfaz</a>
+    </li>
+</ul>
+
+<div class="main textile">
+  <p><strong>introduction: calcaxy</strong></p>
+
+
+	<p>The calcaxy, as you see it here, is on the way to become an advanced platform for the cooperation between artists, scientists and everybody else who is interested in <a href="/works/">c a l c &#8217;s projects</a> or who want to propose new ones.</p>
+
+
+	<p><strong>How the calcaxy came into being:</strong></p>
+
+
+	<p>Having heard about c a l c the first time in Vienna in autumn 93 I spontanously decided to spend half a year at Asturias where c a l c lives. I wanted to use my experience as an asocial scientist and as an interface designer to help developing a platform for international cooperation. Some kind of interface for c a l c that should allow artistic interaction without distance-barriers. Distance is a striking aspect as c a l c is situated in a lovely landscape but far away from commercial and artistic metropoles. InSpring and Summer 94 we analyzed the short history of c a l c and its goals and developed a first prototype that mirrored the future appearance of the calcaxy. We got first impressions of how cooperation could work using computer-telematics. Our first idea was to produce an own software apart from the <span class="caps">WWW</span>. Like in FirstClasseach member of the calcaxy would have to install this program on his PC. Finally we decided that the most easiest way is to join the Web and to grow slowly and to live with limited possibilites of interaction until we would be able to integrate advanced functionalities.</p>
+
+
+	<p>You can read a review of c a l c &#8217;s early history and goals ( in german &#38; spanish) made in Summer 94. This review mirrors my &#8211; external &#8211; view on c a l c as a group of artists and their goals. I think it influenced the identity of all of us and I think also of c a l c as a group. Our view on telematics became clearer. An english reader might get an impression of this document by the following summary ( but of course its written with the experience of almost two years later):</p>
+
+
+	<p><strong>calcaxy and the arts:</strong></p>
+
+
+	<p>In Spring 94 I read early texts of c a l c and realized that we share a common vision of the future of art &#8211; &#8216;though our ways might differ a lot. This vision of art is very much influenced by the philosphy of Vilem Flusser and in my case also by the idea of self-organization like Maturana, Heinz von Foerster and others have tought me.This vision may be best characterized by our believe that art is not a chain of art pieces but an aesthetic and social process, similar to Joseph Beuys&#8217; &#8220;soziale Plastik&#8221;:
+The art of c a l c consists in the space and structure that it provides for ideas and projects, that come out of their own minds and of those of their friends and visitors. You might have read that there will be space and tools for living and working. The Telematic Lab is already existing and one of its goals is the development of theCalcaxy. Later there shall be another house for traditional arts like painting or sculpture. We are very aware of the important fundaments of art and don&#8217;t want to cut our roots in the material world of substance, shape and sunlight. c a l c needs old fashioned people as well as avandgardists, artists as technicians. The calcaxy will be the platform for all of you, to find together in projects.There shall be space for your ideas.
+We have to confess that we don&#8217;t know exactly how this will function and how it will be accepted &#8211; this one of our biggest problem in getting support from state or similar institutions. Supporting the calcaxy and its goals needs imagination. Imagination is worth more than money.
+So, give us an imagination of how you will use the calcaxy. Write a scenario of your project using the calcaxy as workspace for communication and exchange.</p>
+
+
+	<p><strong>Gernot Tscherteu</strong>  &#8211;  <a href="http://www.realitylab.at/wp/home/">realitylab</a></p>
+</div>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

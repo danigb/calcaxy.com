@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">1995</div>
+          <ul>
+              <li><a href="#booc25">1995/01/12</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc25" href="#selector">calcaxy's structure</a></h1>
+      <div class="date">1995/01/12</div>
+      <div class="body"><p>Installing the telematic laboratory
+In April Malex comes (Marcus Spiegel, Electro-engineer, Zuerich, CH) to work with us in <span class="caps">CAL</span>©AXYs structure and in the garden.</p>
+
+
+	<p>Installing the fantastic <span class="caps">HIRSCHMANN</span>-parabolicreflector (sponsoring), starting to tape Talking Heads from all around the world &#8211; project for an exhibition</p>
+
+
+	<p>&#8220;Jardines Firmados&#8221; &#8211; group exhibition in Galeria de Arte, Marta Llames, Oviedo, Spain.</p>
+
+
+	<p>We give media workshops in Casqueiro.</p>
+
+
+	<p>We decide to start with the <span class="caps">CAL</span>©AXY as a fat mailbox system.</p>
+
+
+	<p>We make a tour with computed images to Austria and Switzerland, can sell 12 pieces and survive for another year.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

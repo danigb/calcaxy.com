@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+    <li>
+        <a href="/txts/210">erstes faX - interface</a>
+    </li>
+    <li>
+        <a href="/txts/211">introduction</a>
+    </li>
+    <li>
+        <a href="/txts/212">c a l c  review</a>
+    </li>
+    <li>
+        <div class="active"><div class="head">c a l c  revisión</div></div>
+    </li>
+    <li>
+        <a href="/txts/214">interface-design</a>
+    </li>
+    <li>
+        <a href="/txts/215">diseño-interfaz</a>
+    </li>
+</ul>
+
+<div class="main textile">
+  <p><strong>Gernot Tscherteu</strong>  &#8211;  <a href="http://www.realitylab.at/wp/home/">realitylab</a> &#8211; Septiembre 1994</p>
+
+
+	<p><strong>c a l c
+Revisión del proceso de diferenciación y del desarrollo de superficie</strong></p>
+
+
+	<p><strong>1. c a l c en Navia / Asturias</strong></p>
+
+
+	<p><strong>Geografía</strong></p>
+
+
+	<p>Lugar de residencia y trabajo es Navia, una pequeña villa en la costa cantábrica al norte de España. El paisaje alrededor es francamente encantador y muy variado. La vegetación se compone de bosque mixto (pino, castaño, roble y eucalipto) y una gran parte de pastizales y praderas. El verde también en verano es el color dominante. Los días de sol, en comparación con el resto de España, son escasos. Del Atlántico se acerca sin cesar aire húmedo en forma de nubes, niebla y bruma, que se acumula en las montañas; el resultado son lluvias frecuentes y una humedad del aire muy alta. Con niebla, el paso entre aire y agua es fluente. Los románticos acantilados son atravesados siempre de nuevo por hermosisimas rías. La diferencia entre marea baja y alta puede alcanzar 5 metros, situación ideal para surferos. Las montañas, que en muchos sitios se alzan detrás de la costa, no ceden nada en hermosura.
+En la zona se vive sobre todo de la pesca, la agricultura y un poco del turismo. La mayoría de los veraneantes llegan del centro de España en busca de temperaturas suaves.
+La industria pesada en Asturias lucha con los mismos problemas que en el resto de Europa.
+Los centros culturales mas cercanos son Oviedo y Gijón, que se alcanzan con el coche en dos horas por una carretera llena de curvas y peligrosa. Las ciudades gallegas Lugo, La Coruña y Santiago de Compostela quedan más o menos a la misma distancia pero son más comodas de alcanzar.
+Como casi todas las regiones en el oeste europeo, también Asturias tiene raíces celtas, lo cual no solo se percibe en las numerosas excavaciones, si no también por las pecas y los pelos rojos de muchos habitantes y las gaitas asturianas.</p>
+
+
+	<p>Por lo demás, posee una historia europea. Los moros no lograron imponerse en Asturias, por lo cual fué la región desde donde empezo la Reconquista. Esto es una de las razones por que Asturias es un Principado. El Principe de Asturias es &#8211; parecido al Principe de Wales &#8211; al mismo tiempo pretendiente al trono.
+La bebida caracteristíca es la sidra, un vino de manzana con efecto eufórico.
+Las singularidades del paisaje y la tradición cultural de esta región son para el modo de trabajo y la elección de temas de c a l c de suma importancia. La elección de una periferia europea lejos de los centros no es una casualidad, si no que se basa en la experiencia que las distancias desaparecen con los medios telecomunicativos y posibilitan así la colaboración através del espacio y del tiempo. El contacto personal tiene otro valor y está libre de esa superficialidad que marcan las metrópolis. No en último termino estos encuentros tienen lugar en una naturaleza grandiosa, que también influye en el modo de trabajo y los resultados.
+Nada merece más atención que la amabilidad siempre manifiesta de los asturianos.
+Sin exageraciones y sin genaralizaciones inadmisibles, se puede afirmar que aquí se vive y se cuida una calidad humana, que se ha olvidado en el centro de Europa. La manera de encontrarse, comunicarse y de mostrar sus sentimientos, son culturalmente rendimientos máximos, que aquí aún tienen carácter natural. No se necesitan más razones para saber porqué zonas periféricas como ésta, son los más importantes manantiales para el desarrollo humano de nuestro continente.</p>
+
+
+	<p><strong>c a l c intersección entre centro y periferia</strong></p>
+
+
+	<p>Solamente la posición periférica geográfica de c a l c contiene un potencial de intersección excepcional. Si, por una parte, el proceso de diferenciación en los centros, y por otra en las periferias, se toma como base de una cierta necesidad estructural, proyectos como c a l c parecen ideales para coordinar definidos procesos de intercambio. Uno de los principios más importantes para un intercambio coordinado debe ser no pretender nivelar, sino acceptar y apoyar a ambas partes en sus caracteristicas. La distinción puede ser para ambos favorable. Los teoréticos de la evolución tienen tendencia a declarar descriminadas las zonas periféricas. Seguro que tienen razón en cuanto a la economía, pero no tiene porque ser aplicable a otros factores que influyen en la calidad de vida; como podemos observar es todo lo contrario. Ante el fondo de diferenciación en los centros y la periferia resultan las siguientes necesidades de mediación: La periferia tiene que participar en desarrollos tecnológicos y culturales para poder subsistir económica e intelectualmente. Sobre todo, a la creación de posibilidades educativas en sectores tecnológicos, le corresponde una importancia extraordinaria. Al contrario las metrópolis empobrecen en el aspecto humano. Todas las metrópolis viven de la afluencia de la gente joven de la periferia, de sus sueños, su creatividad y su naturalidad. Se trata de apoyar a estas personas y a los habitantes de los centros en su fe en el valor de las relaciones interpersonales y en un entendimiento de desarrollo natural. Todos estos deberes se encuentran en una compresión contemporánea del arte, que es consciente de su función interseccional.</p>
+
+
+	<p><strong>El grupo</strong></p>
+
+
+	<p>c a l c vive en el octavo piso de un edificio en Navia, con una vista excepcional sobre la villa, la ría y la playa. El apartamento al mismo tiempo es oficina y taller.
+Los componentes de c a l c en este momento son Teresa Alonso Novo, Tomas Scheiderbauer y Lucas Brunner. En el pasado fueron hasta 5 personas.
+Los tres provienen de un entorno artístico y se conocieron en Basilea, su lugar de estudios. Teresa trabajaba y tuvo mucho exito con el grupo de musica &#8220;Les Reines Prochaines&#8221;. Tomas y Lucas se conocen de la academia de bellas artes donde estudiaron audiovisuales. Teresa y Tomas están casados; vivieron y trabajaron juntos los últimos 5 años. En un viaje que hicieron a Egipto nació la idea de c a l c. Los dos viven desde finales de 1992 en Navia. Lucas llego un poco más tarde a c a l c y vive también desde 1992 en España. El trabajo artístico de los tres se divide en música, gráfica y arte con ordenador y video.
+c a l c sobre todo es un proyecto artistico. Esto no solo resulta del hecho de que los tres componentes son artistas, si no también de las metas y los planos, de los cuales hablaremos después.</p>
+
+
+	<p><strong>c a l c diseño s.c. &#8211; punto de apoyo económico e intersección hacia el público</strong></p>
+
+
+	<p>Desde hace algún tiempo c a l c se dedica más al diseño, y no en último término por razones económicas. La gama de productos llega desde etiquetas para vinos, logotipos, tarjetas de visita y postales, camisetas, hasta conceptos y realizaciones para bares y la hostelería. Los conceptos que desarrolla c a l c tienen mucho éxito y no solo para quien los gestiona.
+El trabajo de diseño de c a l c es una de sus metas a medio plazo, sin olvidar las metas a largo plazo, como la creación de la &#8220;escultura interactiva&#8221;. Más adelante hablaré sobre este tema.</p>
+
+
+	<p>El trabajo de diseño ha creado dos intersecciones:</p>
+
+
+	<p>1. Intersección con la economía. Con la creación de la empresa c a l c diseño c.b., c a l c ha fijado una punto de apoyo legal en la economía. Ya había indicado en otra ocasión que los grupos si quieren persistir a largo plazo, tienen que asumir diferentes responsabilidades y unir en si varias funciones. Con la creación de la empresa, la superficie de c a l c ha sido acentuada en referencia al subsistema economía. A causa de la situación financiera, sobre todo al no haber recibido subvenciones del sector público, la necesidad de este paso surgió ya desde un principio. Aunque hay que suponer que también bajo condiciones óptimas habría sido necesario tarde o temprano.
+Se podría decir más generalmente que la creación de una empresa es el intento de definirse en referencia al sistema económico. El hecho de encontrar su lugar en este sistema puede ser absolutamente creador de identidad. No quiero decir que la identidad dependa solamente de si se gana dinero o no. Pero se debería saber porqué la labor que uno hace no reporta dinero. Y si se hace una labor así debe saberse que valor tiene, aunque no se pida.
+La experiencia nos demuestra que los grupos, al igual que los individuos, que no se enfrentan a esta pregunta, a largo plazo caen en una crisis de identidad. Los grupos que resuelven problemas económicos por su propia fuerza, se valoran más a si mismos y a su trabajo. El crear una intersección adecuada con la economía no significa solamente resolver el problema de &#8220;ganar dinero&#8221;. Sobre todo significa también, que los trabajos realizados alcanzan más rapido un público, si uno lo desea. Una y otra vez el mercado ha sido descubierto y usado como escenario; lo cual supone conocimientos especiales, aunque no se quiera hacer un negocio. Y exactamente esta es la segunda pregunta importante a la cual debería encontrarse respuesta. La pregunta es: ¿nos sometemos a las reglas de juego económicas y seguimos la guía de diferenciación de ser lucrativo o no lucrativo? ¿O usamos la economía solamente como medio? Normalmente la respuesta a esta pregunta se manifiesta como camino sobre la cresta, en el cual otros puntos de vista como el artístico amenazan despeñarse, o simplemente ya no son perceptibles. Los puntos de vista y mecanismos económicos van superponiendo cada vez más, y no solo en el arte, los propios del sistema, de manera igual que en la política hay que temer por la autonomía de estos sistemas. Ambos sistemas, arte y política, parecen ser manipulados cada vez más y aparentan carecer de una organización propia. La laudeable unificación de Europa en forma de la Unión Europea puede ser ejemplo para observar como la economía inicia y manipula los procesos políticos. La pregunta, cómo los diferentes intereses pueden ser separados, valorados y compaginados, es de suma importancia, y cada uno y cada grupo debería cuestionarlo por si mismos. Ya que aparecerá según las situaciones cada vez de nuevo. c a l c hasta ahora ha podido evitar el caer en una dependencia económica, que pudiera hacer peligrar las metas artísticas.
+La dependencia económica ha podido ser solventada gracias a la ayuda generosa de una persona privada, que no desea ser nombrada. La ayuda consiste en un préstamo para poder rehabilitar Casqueiro y comprar las terrazas y asi unir el conjunto que habia sido Casqueiro. c a l c a cambio se ha compremetido a crear cada dos meses una imagen (cuadro, video, etc..) que refleje en el sentido más amplio el proceso de c a l c. Despues de tres años, 1997, c a l c organizará una exposición de esta obra. La ganancia será dividida y a partir de ese momento empieza el reintegro del credito. Las imágenes son los intereses.</p>
+
+
+	<p><strong>2. c a l c la escultura de talleres interactiva</strong></p>
+
+
+	<p>La idea de Casqueiro y de la escultura interactiva es central para el entendimiento y la existencia de c a l c. Como me ha asegurado c a l c la idea de la escultura interactiva y c a l c es uno. Claro que nadie puede explicar la idea mejor que c a l c mismo, pero por otra parte el desarrollo de la idea muestra que los puntos de vista de terceros causan impresiones y cambian la idea. c a l c ha comprendido desde un principio que la propia identidad sólo se puede definir por medio de un proceso de comunicación con el entorno. Una frase de Flusser, que aparece en varios textos de c a l c, apunta en esta dirección, y al mismo tiempo señala al contenido principal de la escultura interactiva:</p>
+
+
+	<p>&#8220;Cuando hablamos de telemática, se trata de acercar lo lejano, es decir se trata de mensajeros y mensajes, pero sobre todo, de lo que no siempre son conscientes las personas, se trata de ese importantísimo mensaje que dice que solo podemos llegar a nosotros mismos si vamos a los demás.&#8221;</p>
+
+
+	<p>Identidad necesita el concepto de la individualidad, de la unicidad del otro, ya que solo el ser humano que dispone de esta cualidad, puede reflejar nuestra existencia de tal manera que nos permita sacar conclusiones sobre nuestra propia unicidad. El desarrollo de c a l c nos muestra, que esto no solo es valido para individuos si no también en forma variada para grupos y sus metas principales. Y tiene más validez aún si los individuos se identifican con el grupo y sus metas.
+En las siguientres páginas trataremos de mostrar, como se ha transformado la superficie de c a l c bajo la influencia de las relaciones y discusiones con su entorno. Como hemos observado durante el proceso del análisis, se pueden diferenciar tres niveles o mejor dicho dimensiones en las cuales se extiende el proceso de diferenciación y a lo largo de las cuales se ha desarrollado. También aqui hay que centrar la atención en el carácter de proceso en el cual se han cristralizado estas formas. Ambas, la diferenciación de las formas de interacción y la acentuación del caracter de proceso resultaron de experiencias practicas, es decir no son fruto de una teoría.</p>
+
+
+	<p><strong>Poético &#8211; Asociativo</strong></p>
+
+
+	<p>Sobre esta dimensión descansan la obra artística, los conceptos, sueños e ideas del contenido de c a l c. Tomas lo formula así: &#8220;Observando retrospectivamente estaba todo desde un principio en nuestras ideas y sueños, sin que hubieramos podido definirlo o expresarlo en imágenes concretas. Esto solo lo conseguimos por medio de la comunicación con otros y nosotros mismos.&#8221; 
+La idea de crear c a l c, o algo parecido, surgió durante la estancia en Egipto (finales 1989-finales 1990) de Tomas y Teresa. Colaboraron en la construcción de una casa de talleres en Shabramant cerca del Cairo, donde participaban tambien la Academia Sueca y la fundación suiza Pro Helvetia. Trabajaron como carpinteros y diseñadores en la terminación de la casa y ayudaron a Adel, el propietario de la casa, a formular el concepto. A pesar de la participación intensiva, la casa taller tuvo poca influencia en la idea de c a l c. Ellos criticaban sobre todo la paralelidad de los diversos procesos de trabajo. Ya en la <span class="caps">VIA</span> de Basilea (Video Audio Arte &#8211; una cooperativa de artistas) habian percibido, que no era suficiente, sólo compartir una infraestructura con otros y de producir arte separadamente.</p>
+
+
+	<p>La idea de una casa de talleres ideal se concretizó, al conocer al ingeniero Sherif el Ghamrawy. Sherif soñaba &#8211; y al parecer también tenia los medios &#8211; con construir un pueblo en el Sinai. Invitó a Teresa y Tomas a pensar sobre una casa que fuera un sitio de encuentro para artistas internacionales. El reto era fascinante, y así crearon los primeros planos y conceptos. De aquella aún no se hablaba de telemática. El tema de ordenadores solo lo conocia Teresa mínimamente.</p>
+
+
+	<p>El reto de imaginarse una casa taller no sólo concretizó la idea, sino también despertó el deseo de realizarla. La guerra en Kuwait, la circunstancia de vivir en el desierto y la necesidad de Teresa de contemplar naturaleza verde, les llevó a dejar Egipto y buscar en otro sitio el lugar apropiado para sus ideas.
+Aún en el desierto Teresa hablaba a menudo de su tierra verde, Asturias, donde había vivido su infancia y donde sabía que existía una casa de la familia.
+Además, ya en la travesía a Egipto, habia sucedido algo que debió ser para ambos impresionante: sobre barcos egipcios es costumbre, que hombres y mujeres tengan cabinas separadas. Tomas tuvo un sueño algo raro y volvió a subir a cubierta para anotarlo; poco después se encuentra a Teresa, que le relata un sueño parecido al suyo hasta en los detalles.</p>
+
+
+	<p>El sueño trata de una casa, situada en una curva, con una galeria grandisima, parecida a un invernadero, en la primera planta. Aún así las ideas ahora son más bien de un pueblo de talleres que de una casa. Un pueblo como nucleo para volver a descubrir la humanidad y las relaciones humanas.</p>
+
+
+	<p>&#8220;alrededor de 50 hectareas de terreno en una región climaticamente favorable, quizas en un eje cultural (...), quizas se pueda uno habituar y disfrutar en algo ya existente, de esquivar así los arquitectos, comprar unadostres casas y como habido vivirpensardecir arte, pero excluiria los castillos de sueños &#8211; la llave artística.&#8221;</p>
+
+
+	<p>Así crece el concepto para <span class="caps">CASARTE</span>, (Casa Arte), una vieja escuela en Asturias, cuyo concepto quiere abarcar todavia mucho más que el concepto despues para Casqueiro. Casarte habia sido desarrollado con el escultor suizo Spallo Kolb y tiene todas las características de una casa taller alrededor de la cual pueden formarse más casas.</p>
+
+
+	<p>&#8220;aberturas claras, detras de las que se puede ver todo lo contrario, los sonidos más suaves deben poder oirse. ventanas: vista a la naturaleza, al público. puerta: paso a la cultura, a la abertura. pared: condición previa para miradas, pasos, la ventana y puerta, luz y sombra paseante. no publico-privado, sino público-públicate. lo que quiere decir que en este interior, quiere existir un lugar, y apreciar e invitar, al &#8220;yo&#8221; a enseñarse, al niño, al ser humano como individuo, incondicional, verdadero.
+¿donde puede crecer? ¿y que aspecto tiene?
+la ciudad del arte&#8221;</p>
+
+
+	<p>Los planos con <span class="caps">CASARTE</span> fracasan, pero lo que queda, es una idea muy clara de lo que quieren y lo que no quieren. Teresa y Tomas vuelven a Basilea. En el año 1991 conocen los libros de Flusser y entusiasmados acogen las ideas de la telemática. La idea de la telemática, de separar la comunicación de espacio y tiempo, amplia su concepto radicalmente.
+Aparte del encuentro físico en la casa taller, las redes imateriales tendidas por todo el mundo de la telemática. Crean los primeros trabajos con el ordenador de Luisa, la hermana de Teresa.</p>
+
+
+	<p>A finales del año 1991 vuelven a Asturias esta vez con la intención de encontrar la casa, el terreno adecuado. Entretanto, instalan la vivienda-oficina-taller en un octavo piso en Navia. Finales de 1992 Lucas Brunner decide de acceder al grupo. Los tres empiezan a buscar casa intensivamente. Al solo quedar dos casas en la selección y tener que decidirse por una, surge una discusión que a punto estuvo de deshacer el grupo. La preferida de Tomas y Lucas es una casa nueva grande, que se podría adaptar rapidamente a las ideas de c a l c. Teresa prefiere Casqueiro, que necesita una rehabilitación, pero también ofrece más posibilidades de diseño y desarrollo.
+Casqueiro además dispone de cuatro o cinco terrazas, que se prestan para la cultivación igual que para construir, si fuera necesario ampliar. Teresa se impone con su posición, para Casqueiro y así también se decide una velocidad de desarrollo más orgánica y lenta. Entretanto los tres estan de acuerdo, que fue una decisión contra la megalomanía.
+Junto con la arquitecta Marina Hämmerle, Teresa empieza con la elaboración del concepto arquitectonico para Casqueiro, que despues se pública en forma de la <span class="caps">GREY BOX</span>. Los planos prevén en la planta baja un laboratorio telemático y una pequeña oficina. En la primera planta dos dormitorios y una cocina-salon grande. Los tres opinan del comer y así mismo de la preparación habil de platos especiales, del manjar como acto de encuentro, que tiene una posición central.
+Las dos plantas solo están conectadas por unas escaleras al exterior. Alrededor de Casqueiro está planeado construir una casa dormitorio, un espacio cubierto al aire libre y más tarde una casa taller-vivienda para los huéspedes. Piensan en una dimensión de 5, quizas 10 personas. En resumen una estructura y dimensión abarcable.
+Todos los proyectos que en un futuro se hagan en Casqueiro, tienen que ser proyectos conjuntos con c a l c o en el contexto de c a l c y con participación directa de los miembros del grupo. c a l c es más que una infraestructura o un lugar de trabajo neutro. El concepto de pueblo, al igual que muchos ideas, se ha ido transformando, lo cual es característico para un proceso de diferenciación. Cambios en el entorno y cambios en el grupo mismo, llevan adelante este proceso.</p>
+
+
+	<p>En este párrafo nos fijaremos en los cambios del grupo. Ideas, conceptos, sueños y finalmente arte, sirven de formas alineables concretas para expresar sentimientos, que así son comunicados y comparables en su tiempo. De este modo se crean dos cosas; por una parte, identidad tanto del grupo como de sus socios, creandose la identidad del grupo den un principio del nada, mientras que la identidad de Tomas, Teresa y Lucas como individuos ya está marcada. Segundo, la historia como sucesión de diferentes estadios de desarrollo e ideas. Ambas partes, identidad (del grupo) e historia (del grupo), se engendran mutuamente.
+La diferenciación entre cambios desde dentro y fuera, puede parecer a primera vista bastante arbitraria, pero quiere solo subrayar, que cada grupo desarrolla un mecanismo para reflejar su propio desarrollo, y que este mecanismo es al menos tán importante como las influencias desde fuera para la historia, la identidad y la autonomía relativa del grupo. El sistema poético- asociativo tiene propiedades parecidas al sistema nervioso (aunque suene un poco raro): primero porque es capaz de transformar acontencimientos exteriores sobre la base de sus propios conceptos y experiencias. Segundo, este sistema es de parte a parte creativo, al producir siempre nuevas ideas y conceptos que sirven como fondo para las interacciones con su entorno.
+A cambio, naturalmente, estas interacciones con el entorno marcarán las ideas y los conceptos del grupo. No sólo las interacciones con el entorno, si no también los procesos de transformación interior de un grupo, sobre todo en el ámbito poetíco-asociativo, definen y crean límites en los cuales el proceso de transformación que hemos descrito, es recorrido una y otra vez. Se puede hablar de estabilidad de un grupo en un proceso de diferenciación cuando, por una parte, los conceptos del grupo sobre sus perspectivas de desarrollo y sus deberes están &#8220;definidos&#8221;, y por otra, cuando su entorno tiene un concepto claro del grupo.
+Este último, es un proceso de cambio activo que parte del grupo. Como los individuos, los grupos tampoco se encuentran en una relación de dependencia pasiva de su entorno, si no que cambian esta continuamente por medio de su propia realización.
+El trabajo de la <span class="caps">BLACK BOX</span> marca en el proceso de diferenciación de c a l c un paso de desarrollo muy importante. La <span class="caps">BLACK BOX</span> adelantaba el futuro ambiente de trabajo en Casqueiro, y pretendia aparecer como hecha en Casqueiro.</p>
+
+
+	<p>Al mismo tiempo reflectaba en su contenido la idea básica de c a l c y lo presentaba al menos a nivel intuitivo, artístico, a un público más grande; la idea central de la <span class="caps">BLACK BOX</span> son el tejido, las transacciones entre el individuo y un todo universal, el cual se compone de aportaciones individuales integradas, al igual que la invitación a cada individuo de moverse hacia c a l c y de participar en un proceso conjunto creativo. Como señal visual de esta invitación en la <span class="caps">BLACK BOX</span> iba incluido un diskette que contenía textos explicativos. Finalmente, el diskette tenía también la función de medio de comunicación entre todos los compradores de la <span class="caps">BLACK BOX</span>. c a l c por esta razón dió el título a todos los compradores de &#8220;accionistas interactivos&#8221;, ya que por medio de la compra de la <span class="caps">BLACK BOX</span> podían participar y benificarse de la comunicación resultante.
+Desde el punto de vista artístico y económico la <span class="caps">BLACK BOX</span> fue un éxito. La serie entera de 43 piezas se vende y con la ganancia pueden financiar buena parte de la compra de Casqueiro.</p>
+
+
+	<p><strong>institucional &#8211; formal</strong></p>
+
+
+	<p>Las instituciones públicas, los ministerios de cultura, las consejerías provinciales y regionales, y las diversas fundaciones hasta ahora no han aportado mucho dinero para rehabilitar Casqueiro o facilitar la compra de los aparatos técnicos necesarios. A pesar de las reiteradas negativas c a l c persiste en la continuación del dialogo con las instituciones públicas y esponsores privados, lo cual tiene como consecuencia a veces reacciones de enojo. La razón para la insistencia de c a l c es que las negativas sirven también para reflejar la imagen que se ofrece al público. Si estudiamos más detenidamente la correspondencia de c a l c, aunque la mayoria de las respuestas de las instituciones públicas y privadas son superficiales, hay algunas donde se profundiza el diálogo. Y en algunos casos el sentimiento de no poder ayudar, sea porque les faltan los medios, o las bases estatuarias o jurídicas no lo permiten, parece verdadero. A pesar del fracaso económico se ha logrado por medio de las solicitudes, alcanzar a un grupo de gente extremamente importanté para la cultura.
+En un país como Austria, por ejemplo, en el cual el mercado de arte privado practicamente no existe y el esponsoring privado está todavía en pañales, las instituciones públicas no sólo son la fuente de recursos más importante: el grifo de recursos que abren o cierran decide normalmente no sólo sobre la existencia o no-existencia de iniciativas, sino también indirectamente sobre el valor artístico. Sin explicar aquí los mecanismos más detenidamente, me atrevo a hacer la afirmación de que un artista o una asociación cultural austríaca, que no esta subvencionada por las instituciones públicas, no llega al público y a ser reconocido por este, aunque fueran millonarios y no dependieran de subvenciones. Arte en Austria es, a pesar de todo el pluralismo y de toda modernidad, un monopolio estatal. Así que tambien una discusión con éstas y entidades parecidas es creadora de identidad.
+La esencia de todas las negativas públicas es la siguiente: &#8220;El proyecto nos parece sumamente interesante, pero por desgracia no estamos en la posición de poder subvencionar infraestructuras&#8221;. La interpretación de c a l c de ver el arte como proceso comunicativo en espacios creados especialmente para esta intención, no es aceptada o solo parcialmente.
+Aunque las negativas no quieran decir que lo que sucede en Casqueiro no es arte, niegan el caracter artistico del proceso entero. Una orden nueva de relación de trabajo y vida, un orden experimental artístico que todavía no se acepta como arte. Demasiado transparente, demasiado borrosa es la imagen del experimento y detrás siempre vuelve a asomar la imagen de una infraestructura técnica y de espacio. Así nace el nombre de la &#8220;infraescultura&#8221; es decir de la &#8220;esculturataller&#8221;. Este nombre está como mucho en c a l c relacionado con Joseph Beuys y su concepto de la plástica social.
+La meta de la escultura taller interactiva es de reunir personas, ideas y formas de creación de los diferentes campos (ciencia, técnica, economía y arte) y de crear circunstancias ideales para vivir y trabajar . Esto se inicia por una parte por medio de Workshops y sus talleres y por otra, por medio del laboratorio telemático, que posibilita el trabajo conjunto a traves del espacio y el tiempo, siendo posible el transporte de textos, imágenes y sonido. Así la anchura de banda de la herramienta posible llega desde el martillo, pasando por el pincel hasta la mesa de mezcla de video digital.</p>
+
+
+	<p>El concepto de la escultura taller intertactiva es legítimo en el sentido de que está enfocado a posibilitar trabajos en grupo que hasta ahora no eran posible; ya que no existian ni los espacios libres adecuados ni las herramientas necesarias. Pero c a l c no es solo una envoltura. c a l c existe también sin huespedes, y siempre presencia un ambiente básico, un sentimiento básico, un motor; al fin y al cabo las diferentes personas son seleccionadas y invitadas por c a l c.
+En nuestras charlas a menudo surgia la imagen de la célula: Teresa, Lucas y Tomas como nucleo celular que dirige el metabolismo y la reproducción permanente. Teresa encontrá en el Scientific American un artículo interesante, en que se expresa también la relación con huespedes: El artículo habla de una forma de convivencia simbiótica, en la cual pequeñas algas son huespedes celulares en otras formas monocelulares o tambien multicelulares y se encargan de determinadas funciones. La imagen de la cooperación de celulas pequeñas con una celula grande, la cual es para ambas una ventaja, y la &#8220;estética orgánica&#8221; de este conjunto, describe muy bien a c a l c, es decir la escultura interactiva. Aunque en esta imagen falten la cooperación entre los huespedes y la influencia mutua, la imagen sobre todo expresa bien que c a l c no es una estructura mediadora muerta, sino un organismo autonomo, que sin duda vive mejor con huéspedes. Un proceso orgánico que se sustenta de las interacciones y también las provoca, las cuales nuevamente mantienen otros procesos. Una imagen preciosa para arte, si se valora esta etiqueta, pero sobre todo una imagen hermosísima para vida, que supera los limites individuales.</p>
+</div>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

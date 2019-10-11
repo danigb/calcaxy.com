@@ -1,0 +1,514 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">1998</div>
+          <ul>
+              <li><a href="#booc75">1998/08/01</a></li>
+          
+              <li><a href="#booc74">1998/01/08</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc75" href="#selector">LKW-kunstforum - nouvelle desti_nation</a></h1>
+      <div class="date">1998/08/01</div>
+      <div class="body"><p>Michael Jörg goes back!
+We looking forward to see him again. he came- gottes WG ist unergründlich! &#8211; to brief us about a website we might do for for the toothfactory he&#8217;s working for. We would like to do a toothsite!</p>
+
+
+	<p>Paolo Bianchis <a href="http://www.artcontent.de/kunstforum/01_home/default.asp"><span class="caps">LKW</span>-Kunstforum</a> is published! we are in very good society!&#8212;&gt; nr.: 142 and 143..</p>
+
+
+	<p><span class="caps">EXPO</span>.01 invites us &#8211; the swiss goverment invites us* &#8211; to share a competition for a &#8220;swiss project&#8221;&#8212;&gt; Nouevelle DestiNation. * martin roth &#8211; roth communications and calc. martin invites Anja Maissen (architect), we invite <span class="caps">PLANHAUS</span> &#8211; Claudia Pöllabauer (architect) and Gernot Tscherteu (interfacedesigner) to work out a concept. We call our group desti.net, and will meet soon in Neuchâtel..</p>
+
+
+	<p>The phone surprises us with Paolo and two invitations for 99.
+In the <a href="http://www.ok-centrum.at/">OK &#8211; <span class="caps">LINZ</span></a> in spring,
+<a href="http://www.kunsthallewien.at/"><span class="caps">KUNSTHALLE</span> Vienna</a> in autumn,
+related to the <span class="caps">LKW</span> Kunstforum-theme &#8230; or not? Lets see, but we like to join further bianchis! For Vienna Paolo comes up with the idea to do a &#8220;Pistoletto-calc&#8221; cooperation. Good idea! What does Michelangelo think?</p>
+
+
+	<p>We need a new car &#8211; a bit newer, faster, cheaper, more comfortable. We will have to drive a lot! Driving is healthy. And driving lets time for parking. Toti! he could know something &#8211; omi calls (Totis is his Karatemaster. He works at Ford..) &#8211; he calls around-we drive together to Madrid 2 days later, &#8220;there they sell exactly what you want&#8221;... wow, selling cars with karaterythm. navia-madrid downtown in 255 minutes. Nobody will believe us. calc buys a turbodieselship, 100km on 7 litres, thats better than flying in heavy touristbombers.</p>
+
+
+	<p>omi meets Christoph Abbrederis, the magic pencil, in Madrid. .
+We should live a bit and work a bit together. Maybe winter in L.A. He got a whole wall full of drawings from artist friends he&#8217;s traded his own with&#8230;With pleasure we will draw one for <span class="caps">ABB</span>!
+<span class="caps">ABB</span> surprises us a lot!
+like with this comic he sent&#8230;
+<a href="/files/xymedia/0000/0388/abbrederis.png"><img src="/files/xymedia/0000/0386/abbrederis_th.png" alt="" /></a></p>
+
+
+	<p>Teresa works on <span class="caps">BILDINGS</span> in early autumn.</p>
+
+
+	<p>Yolanda gives T&#38;t (+ + +) a 12liter winething! &#8220;Bring this wine to Curt&#8217;s vernisage, directly!&#8221; Curt (omi&#8217;s papa) shows paintings and sculptures (radical geo!) in the <span class="caps">ORF</span>-Dornbirn.</p>
+
+
+	<p><a href="/files/xymedia/0000/0392/curtorf.jpg"><img src="/files/xymedia/0000/0390/curtorf_th.jpg" alt="" /></a></p>
+
+
+	<p>We really try to get to the opening, but it snows faster than car can drive. At the french-swiss border in Geneva we watch policemen pointing guns on arabian people in a mercedes-limo. Nobody moves, like a warning sculpture.</p>
+
+
+	<p>We go to visit Bregenz and Widnau (family), Paolo in Baden, the OK in Linz, the Pistolettos and the kunsthalle in Vienna, and desti.net people to go together to the &#8220;Bern-briefing&#8221;...
+Tranquilo,just close the door and go. With the new camera and the laptops we have all our work and our tools with us.</p>
+
+
+	<p>Luks stays in L.A.
+Chip ahoi amigos, we stay wired. Suerte!</p>
+
+
+	<p>The Laptop is the most important invention in the 20th century. But every nation needs another telephone-plug! These crutches are like &#8220;symbols of national intelligence&#8221;</p>
+
+
+	<p><a href="/files/xymedia/0000/0396/t_stecker.jpg"><img src="/files/xymedia/0000/0394/t_stecker_th.jpg" alt="" /></a></p>
+
+
+	<p>but anyway:
+writing mails in hotelbeds. France is a strange country. The people seem to sit behind white curtains; so much empty space.</p>
+
+
+	<p>We meet Paolo Bianchi in his officelivingroom in Baden. He shows us the first concept for Linz &#8211; and books from other people he invited. N-55 from Kopenhagen looks very interesting, and Ross Sinclair from Real Life. From the others Paolo didn&#8217;t find&#8230; he works in a book-cave&#8230; We are looking forward to <span class="caps">LKW</span> &#8211; Linz!</p>
+
+
+	<p>Johannes Gees from TA-Media, the man who&#8217;s the chief responsible for <a href="http://www.expo-archive.ch/index.html">expos official website</a> invites us to his office.
+We&#8217;ve got hangovers from last nights dinner party at Allfreds Preisigs house. We see his new Latex-sculps. What a original material! Could it be green too?</p>
+
+
+	<p>Johannes already knows that we drank and smoked too much, Zürich always was a spycity, but there&#8217;s no problem, we easily find a dialogue&#8230; we might listen the same kind of music. He proposes to search with him for three experimental webprojects, he wants to run in the <span class="caps">LAB</span> from expo&#8217;s site. in january 99 we will show up with a concept for <span class="caps">WEBILD</span> -
+We build Web Bild&#8230;
+We want to have this work online end of march 99!</p>
+
+
+	<p>Linz &#8211; the O.K. is a huge building with a huge history.</p>
+
+
+	<p><a href="/files/xymedia/0000/0400/ok_linz.jpg"><img src="/files/xymedia/0000/0398/ok_linz_th.jpg" alt="" /></a></p>
+
+
+	<p>We meet nice people in interesting spaces in there. we like the house-concept: exposing, performing as well as living, cooking, working in good studios, they even have a restaurant and a cinema downstairs. Everybody is busy, in a few days a big show opens. Linz is a surprise. So much more awake than we imagined.</p>
+
+
+	<p>We remember the <span class="caps">SWAPSPACE</span>-idea. A room which expresses itself&#8230; a softspace which transforms by net-inputs. the most interesting space in OK will be occupied then by another show&#8230; media&#8230;i don&#8217;t know what&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0402/swapspace.png"><img src="/files/xymedia/0000/0404/swapspace_th.png" alt="" /></a></p>
+
+
+	<p>Vienna &#8211; what happened? You got so clean and busy. We live with She. She is Vincent, the programm-director from the <a href="http://www.wuk.at/"><span class="caps">WUK</span></a>. what a special, nice man!
+We buy wintertulips for Maria. The Pistolettos are in a good mood! Two students from Michelangelo, dressed in american military clothes eat with us (they had to dress that way to assist McCartney and Kelly to install their work in the Secession, a few days ago).
+Maria always cooks sooo well! Michelangelo shows us his first text for &#8220;IL <span class="caps">ARTE AL CENTRO</span> &#8216;99&#8221;.</p>
+
+
+	<p>Where this spring only TimeCloud touched down, in &#8216;99 <span class="caps">TENDOPOLI</span> will be installed, a tent-village with people and contents from all around the world. The programme is incredible huge, this year 3 days, next year 2 month&#8217;s. We decide to come to <span class="caps">TENDOPOLI</span> to continue the work where we stopped last time. We want to work again with TimeClouds materials, but look for a different form. Maybe a flowercocoon? Rosebudspace.</p>
+
+
+	<p>Michelangelo likes the invitation from the Kunsthalle-Wien to do their a <span class="caps">CALC</span> &#8211; <span class="caps">PROGETTO ARTE</span> &#8220;piece&#8221;... We still don&#8217;t know the other artists &#8211; only Bechtold &#8211; Matt seems clear. They&#8217;ll <span class="caps">REZ</span> we guess&#8230;
+We will wait and see how Kunsthalle will brief us&#8230; And in Biella we will work on it. We will give the Pistolettos a feedback to their programme-text and will propose maybe a friends-tent. Ciao amici!</p>
+
+
+	<p>We visit Claudia and Gernot and Lotti from <span class="caps">PLANHAUS</span>. We want to propose <span class="caps">TENDOLPOLI</span> to them! They live in a funny chaos downtown. We talk also about our work in two weeks as desti.net in Neuchâtel. We&#8217;re looking forward to this experience. Will we like each other? Will we be able to develop the projects main part on the net? Will we find answers to the Swiss government&#8217;s wishes?</p>
+
+
+	<p>We like the time- and artbridge-idea between Progetto Arte and calc. But Vienna&#8217;s Kunsthalle got a bridge already! We see a groupshow from Loise Bourgeois, Jennie Holzer and Helmut Lang.
+We fell in love with <a href="http://en.wikipedia.org/wiki/Louise_Bourgeois">Loise.</a>
+The space doesn&#8217;t inspire us. Let&#8217;s delete some walls. We go to buy good spanish wine for She.</p>
+
+
+	<p><a href="/files/xymedia/0000/0406/caxyhome.jpg"><img src="/files/xymedia/0000/0408/caxyhome_th.jpg" alt="" /></a>
+homepage &#8211; august 1998  (homeology)</p>
+
+
+	<p>We stop in Bregenz again. Evi Rüscher lets us use her studio infrastructure (grafik-design). She&#8217;s a Sweetheart! As well as her brother Alois (rüscher source &#8211; webdesign, but no own url yet &#8211; too much work&#8230;)! Alois is living the first cyberlove we know! He met Fatima in a Peru-Lima-chatroom! Now they met in New York and say they want to get married soon.</p>
+
+
+	<p>We have to do a commercial grafik-folder for the multimedia- firm (GTS) who gave us the hardware to install TimeCloud II. More than half of all our &#8220;product-money&#8221; exchanges happens by &#8220;product-product&#8221; exchange. Maybe the Nomad tools and ways-of-work also bring Nomad culture- ideals back? <span class="caps">GTS</span> likes the folder, thanks to Evi &gt; all went well. &#8220;we plug &#8211; you play&#8221; is <span class="caps">GTS</span>&#8217; new slogan.
+it snows, it snows.</p>
+
+
+	<p><a href="/files/xymedia/0000/0412/itsnows.jpg"><img src="/files/xymedia/0000/0410/itsnows_th.jpg" alt="" /></a></p>
+
+
+	<p>we meet Silke, a student from <a href="http://www.en.fhv.at/edu/mas/im/">Intermedia</a>. We met her the first time, when we did a calc-speech there. She wants to work a semester in Casqueiro. Thats a very good idea! We have to fill out a lot of papers to make it possible. Silke will start on the first of April 99. Thats a big help for us, she maybe can come with us to Linz and Biella.
+We will see.</p>
+
+
+	<p>We do a little web-job for &#8216;the toothfactory&#8217;... they wanna redesign the whole site with calc in 99. Oh yeah, we will have a lot to do for Silke&#8230;</p>
+
+
+	<p>The day before we leave to Neuchâtel to meet the desti.net-team, <span class="caps">MALINA</span> is born!
+Bettina and Martin are the happy parents!
+T&#38;t are the godparents next spring!</p>
+
+
+	<p>Middle of december &#8211; way back to C starts. Still snowing. The snoworld sounds different, more bass than drum. Our new old car needs winterwheels. Artists say a lot of good byes. Good bye.</p>
+
+
+	<p>Neuchâtel: we all can live in Pipis flat. Where is Pipi? Does she have her own learjet and captain yet? The desti.net-team is formed by three bobs: the a-bob &#8211; Claudia and Gernot &#8211; <span class="caps">PLANHAUS</span>, the ch-bob &#8211; Martin (roth comunications) and Anja Architecture, and the e-bob, which is the we-bob. We-bob arrives first, short before half ch-bob comes, finally a-bob arrives, the gypsy bob. They brought Babylotti, Grandma and all kind of extras for travelling with babys and grandmas.</p>
+
+
+	<p>Anja comes the next morning. We&#8217;re all here now! We&#8217;ll drive to Bern for the briefing. They invited three teams more. The room is crowded, we need more chairs&#8230; We all imagined such a high-official briefing that was more professional&#8230;</p>
+
+
+	<p>Under the title Nouvelle DestiNation they want a kind of a &#8220;dialogue-machine&#8221;, which renovates makes a link between citizens and politicians&#8230;
+We sit a whole weekend together and brainstrom. Finally we decide to put &#8220;concepts of life&#8221; or &#8220;life-projects&#8221; into the middle of our proposal. We get the idea so far that we can continue online between Vienna, Navia and Zürich.</p>
+
+
+	<p>On our way back to Spain we stay in a hotel, which has the most beautiful bathroom we ever saw. Its the hotel &#8220;Claire de lune&#8221; in Biarritz, room 18. The Indian food in downtown Biarritz is good too.</p>
+
+
+	<p>Back in C,
+almost x-mas, almost new year, almost sleeping. We get a mail from Steffen and his friends &#8211; members from <span class="caps">HERZBLUT</span>, some &#8220;cultureclub&#8221; in Weimar.
+They invite us to <a href="http://www.uni-weimar.de/cms/en/university/faculty-of-art-and-design.html">Bauhaus-University</a> to tell them about calc, about our &#8220;life-concept&#8221;. We will go there somewhere in spring &#8216;99. Maybe between Linz and Biella.
+What &#8220;life-concept&#8221; do we have now?</p>
+
+
+	<p>We do nothing for two weeks, just playing, walking, listening to <span class="caps">RADIO TRES</span>, mailing a bit&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0414/1999.jpg"><img src="/files/xymedia/0000/0416/1999_th.jpg" alt="" /></a></p>
+
+
+	<p>let time sink into now.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc74" href="#selector">chiringuito - timecloud</a></h1>
+      <div class="date">1998/01/08</div>
+      <div class="body"><p><a href="/files/xymedia/0000/0312/eliosol.jpg"><img src="/files/xymedia/0000/0310/eliosol.png" alt="" /></a></p>
+
+
+	<p>While Teresa goes to Austria we (Luks and tOmi and Alvi and Marco and Curt) build a house for her!
+<span class="caps">EL CHIRINGUITO</span>.</p>
+
+
+	<p><a href="/files/xymedia/0000/0316/chiri02.jpg"><img src="/files/xymedia/0000/0314/chiri02_th.jpg" alt="" /></a></p>
+
+
+	<p><a href="/files/xymedia/0000/0320/chiri01.jpg"><img src="/files/xymedia/0000/0322/chiri01_th.jpg" alt="" /></a></p>
+
+
+	<p>This winter is summer, we can work each day from the morning till the last sun ray outside. Its nice to give a house to somebody.</p>
+
+
+	<p>Together with our dear internettle-friend <a href="http://www.islandnet.com/~ianc/"target_blank">Ian Campbell</a> we create <span class="caps">SYNCTANC</span>, a hard-soft- and fuzzyware-lab to fill in our upcomming ideas while we are playing in <span class="caps">SPANADA</span>. We invent a better toolworld.</p>
+
+
+	<p><a href="/files/xymedia/0000/0326/rotkohl.jpg"><img src="/files/xymedia/0000/0324/rotkohl_th.jpg" alt="" /></a></p>
+
+
+	<p>In may Teresa and tOmi meet in Neuchatel, where we work again with Pipi and her crew. Pipi flies around Europe like its a huge city: goodnight Geneva, good morning Berlin, good evening for dinner in Neuchâtel! Again we are deeply impressed by our little big sister Superpips.
+This time we do wall-systems to visualize scetches and first projects which will be realized at <span class="caps">EXPO01</span> (Pipi Lotti changed the name from <span class="caps">EXPO2001</span> to <span class="caps">EXPO01</span>).Pin-wall-technics. We get invited to do a Cuisine web-site.</p>
+
+
+	<p><a href="/files/xymedia/0000/0330/clacalcl.jpg"><img src="/files/xymedia/0000/0328/clacalcl_th.jpg" alt="" /></a></p>
+
+
+	<p>Teresa comes with Martina, a young designer from Bregenz, who we met a year ago. Martina will assist us the next months. In exchange we give her all we know about the web -&gt; martina wants to be a web-designer (on the other side shes involved in a <a href="http://www.fux-mi.net">huge bar-project</a>). After working 10 days in Neuchâtel we drive back home with Martina in her car.</p>
+
+
+	<p><img src="/files/xymedia/0000/0332/slowtime.jpg" alt="" /></p>
+
+
+	<p>We do some webjobs (like for <a href="http://www.kaufmann-holz.at/Ref_KunstSonderbau.html"><span class="caps">KAUFMANN</span></a>, the firm who sponsored <span class="caps">NAVE</span>&#8217;s structure) and start to do sketches for TIMEcloud I and II. When Teresa and tOmi sit together one long, winefine night, they get the idea for TIMEclouds body: a huge cocoon. Like the lamp over our table; one of these cheap chinese paper lamps, held together with fine wooden strips.</p>
+
+
+	<p><a href="/files/xymedia/0000/0336/tc_lampion.gif"><img src="/files/xymedia/0000/0334/tc_lampion_th.jpg" alt="" /></a></p>
+
+
+	<p>We get invited by the swiss artist Claude Garcon to share his <span class="caps">CARGO</span> CultTV &#8211; project. Claude the legendary ball-collector! Claude owns a bar <a href="http://www.cargobar.ch/">(CARGO Bar)</a> in Basilea, where he shows TV-documentaries from artist friends, which are travelling or living all around the world. Luks starts to work on it:short videos, only camera cuts, reflecting parts of Casqueiros life and progress. Luks videos, like the installation of the <span class="caps">SCHLAFHAUS</span> gets shown to the people of the <span class="caps">CARGO</span> Bar.</p>
+
+
+	<p><a href="/files/xymedia/0000/0338/07_-_fishd_by_ic.jpg"><img src="/files/xymedia/0000/0342/fishd_by_ic_th.jpg" alt="" /></a></p>
+
+
+	<p>We do a lot of drawings and finally some models for TIMEcloud.</p>
+
+
+	<p><a href="/files/xymedia/0000/0346/timecloud.jpg"><img src="/files/xymedia/0000/0344/timecloud_th.jpg" alt="" /></a></p>
+
+
+	<p>Alvaro shows us an interesting factory in Gijon, which produces kites, we find there all we need to make the shapes.</p>
+
+
+	<p><a href="/files/xymedia/0000/0350/retiface.jpg"><img src="/files/xymedia/0000/0348/retiface_th.jpg" alt="" /></a></p>
+
+
+	<p>Together with <a href="http://www.mkoeppel.ch/">marCo Koeppel</a> we decide on the materials:
+extremely thin, half transparent plastic for TIMEclouds skin, (as used in supermarkets to hold tomatoes..) and fiberglass rings for its structure.
+Strange how an organic, animalian thing made out of hightech materials can look!</p>
+
+
+	<p><a href="/files/xymedia/0000/0354/model.jpg"><img src="/files/xymedia/0000/0352/model_th.jpg" alt="" /></a></p>
+
+
+	<p>Were we all made hightech before we became animals?</p>
+
+
+	<p>Teresa finds a firm in Bilbao which produces the fiberglass we need. They are extremely nice open people who help us a lot. &#8220;We like new art,&#8221; they say.</p>
+
+
+	<p><a href="/files/xymedia/0000/0358/casqplan.jpg"><img src="/files/xymedia/0000/0356/casqplan_th.jpg" alt="" /></a></p>
+
+
+	<p>Teresa and tOmi travel in May to Neuchâtel. Luks stays in Casqueiro, looking after the house, the guests, the animals, the plants, CulTV &#8230;</p>
+
+
+	<p>Martina is so much in love with the guy who runs the &#8220;huge bar project&#8221;, that she leaves us in a hurry by plane&#8230; we can use her car to travel. We pass by Bilbao to pick up the fiberglass sticks. thats all? we thought of a big bunch, but it&#8217;s just a little bunch, no, no that can&#8217;t be, thats all? the whole timefish? We are stupid, and doubt. Through France on &#8220;the old truckroute&#8221;. The hotel-chief from the James-Bond-hotel (with a bath in a glasscube the middle of the room) recommended it. And he was right: nice route!</p>
+
+
+	<p>U! &#8220;What was that?&#8221; Teresa says. It looked like our sleep-egg, stop! We drive back: its a spacey grill- house in the shape of a biconcave lense.</p>
+
+
+	<p><img src="/files/xymedia/0000/0360/franceufo.gif" alt="" /></p>
+
+
+	<p>We remember that Claudius Baumann sent us photos of this lense-building after visiting <span class="caps">NAVE</span>.</p>
+
+
+	<p>We meet <a href="http://www.rothundmaerchy.com">Martin Roth</a> in the Direcion Artistique from the <span class="caps">EXPO01</span> in Neuchatel.
+This last month we had a good mailwire with Martin. Sometimes it really seems to be destiny what life is webbing. Allfred (Pipis ex-second tongue) briefs us:
+we shall do a virtual press conference tool for <span class="caps">EXPO</span>&#8217;s next public info step -&gt; concept, structure, design, programming. Great! We present our ideas to the whole chiefcrew 10 days later and get green light (light green..) to realize them. In the end no relevant feature shows up, it just gets a successfull infosite.</p>
+
+
+	<p>We work the first time with Kohli and Dill. Works fine! They are friends of Martin. Zürich seems newer somehow, wider.
+.
+But now we have to go to Biella to install TIMEcloud I ! We stop in Widnau, Switzerland, where we meet marCo. We buy a digital camera.
+A friend of marCo works in a icehockey hall! Thats our man! He lets us build TIMEcloud there the first time. In <span class="caps">CITTADELLARTE</span> we won&#8217;t have space to put the whole plastic surface, so we wanna prepare it like a tent system.</p>
+
+
+	<p><a href="/files/xymedia/0000/0364/tc_widnau.jpg"><img src="/files/xymedia/0000/0362/tc_widnau_th.jpg" alt="" /></a>
+At four in the morning the floor seems to leave us forever: we will never be able to bring this wabbleshit into the form we want! 10 minutes later (we all lost respect for the material, because we think it never will work) TIMEcloud almost stands up by itself! <span class="caps">WONDERFUL</span>!
+We don&#8217;t have words for it.
+We joydie.</p>
+
+
+	<p><a href="/files/xymedia/0000/0368/tc_widnau2.jpg"><img src="/files/xymedia/0000/0366/tc_widnau2_th.jpg" alt="" /></a></p>
+
+
+	<p>With trust and lust we leave to Biella the next day. Martin Gepp from <span class="caps">NOVARON</span> comes with us. He drives us and TC&#8217;s material to <span class="caps">CITTADELLARTE</span> where in 8 days the <span class="caps">SIMPOSIO</span> &#8220;IL <span class="caps">ARTE AL CENTRO</span>&#8221;will start. Michelangelo and Maria, the people from <span class="caps">STALKER TEATRO</span> and a lot more worked so hard in <span class="caps">CITTADELLARTE</span>! So many spaces got renovated since we were here the last time! Martin G. leaves the next morning. He will also pick us up when we will go back to Bregenz, where we open
+<a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html">TcII, the 23rd of July.</a> Ciao amigo Mahdiiin.. .
+Two weeks living and working in <span class="caps">CITTADELLARTE</span> is like a dream; a long busy night.</p>
+
+
+	<p><a href="/files/xymedia/0000/0372/tc1.jpg"><img src="/files/xymedia/0000/0370/tc1_th.jpg" alt="" /></a></p>
+
+
+	<p><a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/tc_I/index.html">TcI</a> works well and provokes Michelangelo and our decision to do a web-space for <span class="caps">PROGETTO ARTE</span> together. Later. Bye bye M and M and all you new faces and humours. Do you want to know when <span class="caps">PROGETTO ARTE</span> will be online?</p>
+
+
+	<p>Now we go to Bregenz! Another summer with the <span class="caps">KUB</span> around, behind and in front of us. How strange that so many people say this building gives to the arts a whole space &#8211; its so dominant!</p>
+
+
+	<p>A lot of work till <a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html">TcII</a> is running, mostly for Malex, who fights with long cgi-scripts and lousy computer- systems we get &#8220;sponsored&#8221;. But in the end the start, TcII runs better than we hoped! <a href="http://www.islandnet.com/~ianc/">Ian Campbell</a> again holds the record in sending files, like last year during <span class="caps">NAVE</span>. Ian is the best webartist we know!</p>
+
+
+	<p>We think about a physical <span class="caps">SWAPSPACE</span>. A space which overswaps because of influence. Swapstruction.</p>
+
+
+	<p>Teresa gets asked if she wants to do a concept for a women&#8217;s-wineshop. She asks Evi Rüscher if she&#8217;s interested in working together on it.
+They present a concept for <span class="caps">DIEWEIN</span>.
+.
+We meet Roland and Rita Jörg. Roland invites us to visit Bludenz&#8217; new Arthouse, the <span class="caps">REMISE</span>. We like the space.</p>
+
+
+	<p><img src="/files/xymedia/0000/0374/remise_in.jpg" alt="" /></p>
+
+
+	<p>It has a clear in- and out-side. we want to work with this clear situation. this idea started to dive..</p>
+
+
+	<p>We meet marCo end of July to talk about possibilities to cover the <span class="caps">SCHLAFHAUS</span>. We think of what we heard of <span class="caps">GORE</span>&#8217;s products, &#8220;textiles for architecture&#8221;. We call them, we meet them next day in München, (on the <span class="caps">ISPO</span> &#8211; are the snow &#8211; and skatboarders the real yuppies?) we propose a sponsership deal&#8230;we will see.
+.
+We kiss Bregenz byebye, all of you &#8211; hasta siempre. <a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/index/idx_290898.html">TcII spit well.</a> We see us.
+Lets drive through many miles.
+No highways, no rush.</p>
+
+
+	<p><img src="/files/xymedia/0000/0376/cubehaus.jpg" alt="" /></p>
+
+
+	<p>Teresa starts a tunnel-image-collection. The new digi-cam has a completly different way of &#8220;showing light&#8221; than an analog camera. This images seem closer to reality.</p>
+
+
+	<p>Back in C &#8211; We do a little web-job for <span class="caps">KFN</span> products. How good to have this work too! The pure-commercial jobs always give us practice listening. To the client, his product, his wishes. All depends on the quality of the dialogue&#8230; .
+Now its October, still no decision from Gore&#8217;s side. We do a winter Christo-Schlafhaus. Autumnwinds and rains and lights and visits. So many visits: now&#8212;&gt; Martin Roth cooks Vegesoup, TV shows a documentary of Lola Flores. Calc is a cool hotel on the digiside of the sea. We are at home on holydays.</p>
+
+
+	<p><a href="/files/xymedia/0000/0380/athome.jpg"><img src="/files/xymedia/0000/0378/athome_th.jpg" alt="" /></a></p>
+
+
+	<p>We should overhaul calcaxy! Soon.</p>
+
+
+	<p>Martin came after the <span class="caps">EXPO</span>-jury accepted his project <span class="caps">CYBERHELVETIA</span>. 
+<a href="http://www.onewordmovie.com/brogle/index.html">Beat Brogle</a> comes from Basel! We haven&#8217;t seen him for ten years. He tells us about a project called <span class="caps">AMORPH</span> he&#8217;s just showing in Switzerland.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<h1>&nbsp;</h1>
+
+<ul class="selector">
+    <li>
+        <a href="/txts/210">erstes faX - interface</a>
+    </li>
+    <li>
+        <a href="/txts/211">introduction</a>
+    </li>
+    <li>
+        <a href="/txts/212">c a l c  review</a>
+    </li>
+    <li>
+        <a href="/txts/213">c a l c  revisión</a>
+    </li>
+    <li>
+        <a href="/txts/214">interface-design</a>
+    </li>
+    <li>
+        <div class="active"><div class="head">diseño-interfaz</div></div>
+    </li>
+</ul>
+
+<div class="main textile">
+  <p><strong>Gernot Tscherteu</strong>  &#8211;  <a href="http://www.realitylab.at/wp/home/">realitylab</a> &#8211; Septiembre 1994</p>
+
+
+	<p><strong>Diseño de interfaz para c a l c</strong></p>
+
+
+	<p>Analizaremos el proceso de intercambio comunicativo de c a l c con su entorno para después optimarlo mediante un proceso de diseño. La meta del diseño será la creación y realización de un interface para c a l c hacia su entorno. Un Interface es, en este caso, la intersección (superficie) entre un grupo y su entorno. El concepto de entorno lo limitaremos al espacio que se se abre con los medios telemáticos. En el diseño del Interface se encuentran planteamientos técnicos, sociológicos y artísticos en un marco muy concreto y con metas tangibles. Aquí vemos la importancia de este proyecto que se extiende más allá de c a l c .
+La esencia del Interface será también la superficie de la &#8220;escultura de estudio interactiva&#8221;, y por lo tanto, parte de una obra artística en proceso.</p>
+
+
+	<p><strong>Porqué grupos cómo c a l c son importantes y cómo se pueden diseñar las relaciones con su entorno</strong></p>
+
+
+	<p>El arquetipo de una relación sistema-entorno es la relación de un ser vivo con su ambiente. Este aspecto, hoy en día, junto con la física, impulsa los conceptos mas importantes en el desarrollo de las teorías de sistemas que alcanzan también otros campos, como por ejemplo la sociología. Esencialmente se trata de un intento de describir los procesos interactivos de un grupo, c a l c , con su entorno, de forma similar a los sistemas vivientes. La biología nos sirve en este caso solo como fuente inspirativa, sin querer utilizarla para la explicación de procesos sociales.</p>
+
+
+	<p><strong>La imagen de la piel</strong></p>
+
+
+	<p>Todos los seres vivientes &#8211; al menos los que nosotros conocemos &#8211; tienen en común el estar limitados a un espacio. Semejante límite, por ejemplo la piel o una membrana celular, no se debe entender como línea de demarcación, sino como instrumento de conocimiento, por medio del cual se percibe el entorno y a la vez emite productos metabólicos.
+Entre los seres vivientes desarrollados, sobre todo entre aquellos que se distinguen por un sistema nervioso cerebral, se podrían definir los límites aún más ampliamente: además de la piel, contamos con todos los demás órganos sensoriales, así como con la capacidad de expresarse ante su entorno; expresión quiere decir simplemente reflejo en la superficie de los estados interiores. Si esta expresión es entendida, y si estaba pensada como tal, es otra pregunta en la cual no queremos entrar aquí. Puede ser suficiente constatar que la percepción de un sistema y la comprensibilidad de sus expresiones, en resúmen, la capacidad de comunicación, se basa en una relación experimentada, por tanto, en una coevolución de un sistema con su entorno.</p>
+
+
+	<p><strong>¿Comunicarse? Si, ¿pero con quien?</strong></p>
+
+
+	<p>¿Qué reflejo tendría esto en un sistema social, por ejemplo entre grupos? ¿Cómo desarrollan límites o mejor dicho una superficie que regule los procesos de interacción con el entorno?
+Claro que en este caso la libertad del diseño es mucho más amplia que para los límites de seres vivientes definidos por la evolución. Los grupos sociales pueden agilizar conscientemente su evolución, y por consiguiente, también planear y organizar las relaciones de interacción con su entorno; por lo que adquiere más importancia cuanto más diferenciada sea una sociedad (es decir cuanto más esté dividida en funciones y profesiones), y cuanto más grande sea la gama de posibilidades de comunicación que estén a su disposición. La amplitud aquí no sólo se refiere a la oferta de posibles interlocutores, sino también a los medios disponibles.
+La sociedad mundial de fin del siglo XX es tan diferenciada que cada vez es más dificil encontrar el interlocutor apropiado; se podría decir también que cada uno vive su realidad espec}fica, y feliz quien al menos la pueda compartir con un grupo.
+Sobre todo, el arte se halla sumido en una perplejidad y en una falta de imaginación asombrosas ante las posibilidades revolucionarias de la comunicación, simplemente porque la elección entre uno u otro medio y entre uno u otro interlocutor, parece arbitraria.
+La economía y la ciencia han entedido mucho mejor la penetración en el espacio telemático; por una parte naturalmente, porque en general tienen, a su disposición mejores fondos materiales, por la otra, porque quizás no es facil de entrar con fantasía en un espacio tán inmenso y, además, siempre en expansión.
+Los amplios grados de libertad en este caso resultan más bien ser un obstáculo. Aunque utopías no faltan, la minoría ha empezado a vivirlas seriamente.
+c a l c es uno de los pocos experimentos artísticos serios en esta dirección. La seriedad se muestra aquí y en otros casos, observando el arte no como producción de obra, sino como proceso, o mejor dicho, como camino por nuevos espacios. La obra solo tiene caracter acompañante.</p>
+
+
+	<p><strong>Grupos cómo columna vertebral social</strong></p>
+
+
+	<p>Es facil comprender que c a l c por su firmeza en buscar caminos al futuro y por su caracter experimental, se presta especialmente a reflexiones, como la comunicación de un grupo con un entorno maximamente tecnificado; se puede planear, o sea diseñar. No olvidemos que ni las posibilidades telemáticas ni su uso real están formadas culturalmente; ya que faltan las contribuciones esenciales por parte del arte. Principalmente porque demasiadas veces se trata sólo de ser el primero y no de las necesidades de comunicación artística en si. Por otra parte no debemos olvidar que serán cada vez más y más grupos, grandes y pequeños, y no como hasta ahora partidos o confesiones, los que apoyarán el desarrollo social. En el lugar correspondiente habrá que analizar más detalladamente las razones de esta afirmación.
+Aquí puede que la creación de superestructuras cómo la de la Unión Europea, y al mismo tiempo el hundimiento histórico de sociedades bajo mando, nos indique que es imposible conducir sistemas monumentales con aparatos monumentales e introducir novedades tecnológicas u otras por el camino institucional.
+Una superestructura como la de los Estados Unidos nos enseña que un estado impotente produce diversos tipos de grupos que parcialmente acceden de funciones estatales. Con más evidencia se muestra en el caos del aparato ruso. Quiere decirse que cuánto más grande sea el marco estructural estatal, jurídico y económico, más crece la importancia de los grupos. Y, naturalmente, esta creciente presencia de los grupos no tiene porque solo manifestarse de forma negativa, como pretenden los medios de consumo; medios que no son precisamente de los grupos, sino aún de los estados y consorcios. También esto cambiara.
+Si partimos de que la responsabilidad del poder irá filtrándose del nivel estatal al nivel de grupos, naturalmente tendrán que cambiar también sus formas de organización. Los grupos del próximo siglo serán empresas, familias, escuelas, consejo e iglesia al mismo tiempo, lo que no signifíca que todas las necesidades individuales tengan que satisfacerse en un grupo o que uno deberá pertenecer toda su vida al mismo. Los grupos estarán en intercambio contínuo con muchos otros grupos e individuos. De esta manera perduráran los subsistemas sociales (economía, política, ciencia, arte, educación) pero cada vez menos estarán dominados por especialistas. Claro que seguirán existiendo especialistas, pero formarán parte de grupos mulitfuncionales y la demanda de comunicación de estos individuos formará parte de la demanda de comunicación de sus grupos.</p>
+
+
+	<p><strong>La superficie de un grupo</strong></p>
+
+
+	<p>Exactamente en este punto quiero formular las preguntas:
+¿Cómo un grupo cubre su demanda de comunicación, cómo encuentra los interlocutores adecuados, cómo se presenta al público, de que vive, cómo encuentra nuevos socios, cómo se protege? Todas estas preguntas se podrían resumir en la frase: ¿qué sucede sobre la piel, sobre la superficie de grupos ?
+Quiero añadir que estas preguntas no se pueden comparar con las de &#8220;Marketing&#8221;, &#8220;Public Relation&#8221;, &#8220;Head Hunting&#8221;, etc., ya que todos estos planteamientos han sido formulados por un subsistema social &#8211; normalmente la economía &#8211; , pero los grupos son más multifuncionales que las empresas. Por eso también su entorno, y de este modo su demanda de comunicación, finalmente su piel, es muy diferente.
+La piel, el límite, la superficie, el interface de grupos es desde la perspectiva de la teoría de sistemas un mecanismo de diferenciación para las interacciones con su entorno. Por eso se distingue entre las comunicaciones que son convenientes para el grupo y las que no lo son.
+No obstante las comunicaciones casi siempre se desarrollan en los dos sentidos; hacia fuera del grupo y hacia su interior. Esta es la razón por la que un mecanismo de diferenciación es absolutamente necesario, ya que en cada momento surgen un sinfin de posibilidades de comunicación en el espacio telemático, además de &#8220;los de fuera&#8221;, y el grupo tiene que seleccionar de esta oferta. Si quisieran seguir todas las posibilidades de comunicación, sería un esfuerzo excesivo, y la actividad del grupo se manifestería en un &#8220;tembleque flojo&#8221;. La selectividad de interacciones (es decir el antes mencionado proceso de diferenciación) atrae la atención en dos sentidos. Por una parte el grupo elige entre las posibilidades de comunicación actuales: marcando un número de teléfono, cambiando el canal de televisión, entrando en un bar, llevando la correspondencia, etc.. Por otra, es posible preseleccionar futuras comunicaciones ya en el presente, por ejemplo por medio de un anuncio en el periódico, o en otros medios.
+En el espacio telemático es muy posible que estos anuncios sean interactivos, es decir que presenten al grupo, su trabajo y sus necesidades y que la presentación siga su interés respectivo. El uno se interesará más por la dotación técnica, otro más por los productos del grupo y el tercero por un programa educativo. Según como diseñemos el anuncio, se interesará al respecto, repulsará éste o el otro grupo o individuo, despertará estas u otras expectativas, invitará a una participación directa o no.
+A la inversa, el grupo buscará también activamente personas o grupos para la interacción, si el azar no lleva a resultados satisfactorios.
+En la ciencia de los ordenadores ya apareció el concepto del &#8220;agente&#8221;, un programa que se encarga en parte de este trabajo de presentación y selección, que por tanto representa y descarga al usuario de la red.
+Un sistema experto que conoce las necesidades de su usuario y que activamente &#8211; por tanto de algún modo inteligentemente &#8211; busca en la red cosas que podrían ser interesantes para su usuario.</p>
+
+
+	<p><strong>Comunicación en el espacio telemático</strong></p>
+
+
+	<p>Los medios telemáticos posibilitan establecer relaciones con cualquiera que participe en una red telemática, a cualquier hora y desde cualquier sitio. Es decir, que no existe ninguna restricción ni en el espacio ni en el tiempo para la comunicación. No es fácil compartir sin más la idea de que esto sean condiciones óptimas para comunicar, ya que facilita la comunicación pero en realidad no es muy probable que se desarrolle. Habra que analizar porque esto es así y cómo se puedesolucionar.
+Sea como sea, la solución, de que máquinas (en este caso programas), en calidad de agentes artificiales hagan el primer contacto, parece relativamente plausible, aunque el primer momento sea bastante impersonal y frío. Pero justamente esta impersonalidad ofrece algunas posibilidades: en primer lugar, me gusta, que en una red se puedan encontrar ideas separadas de las personas. No molestan las exterioridades ya que no se ven. El racismo, por ejemplo, no puede manifestarse, ya que en la mayoría de los casos no sabes más que el nombre y el domicilio de la persona. En segundo lugar son los interlocutores quienes deciden si quieren elevar el contacto a un nivel personal o no. Quizás hay que imaginarse la red cómo un &#8220;foyer&#8221; que lleva a una infinidad de habitaciones. Un espacio para encuentros, aunque no se pueda comparar con el confort de un encuentro directo y personal. Una &#8220;casa de paso&#8221; gigantesca, en la cual uno también se puede perder. Agentes o programas parecidos podrían estructurar la estancia en ella de manera que fuese más efectiva y agradable, presentándonos a otros y conduciendonos a las puertas adecuadas.</p>
+</div>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

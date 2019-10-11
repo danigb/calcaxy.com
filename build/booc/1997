@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">1997</div>
+          <ul>
+              <li><a href="#booc27">1997/01/12</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc27" href="#selector">nave, calcaxy 2.0</a></h1>
+      <div class="date">1997/01/12</div>
+      <div class="body"><p><a href="/files/xymedia/0000/0264/lux97.gif"><img src="/files/xymedia/0000/0262/lux97_th.gif" alt="" /></a></p>
+
+
+	<p>marCo and Carlos show us their first Schlafhaus-plans, its a Spacefish!</p>
+
+
+	<p><img src="/files/xymedia/0000/0270/spacefish.gif" alt="" /></p>
+
+
+	<p>We decide to look for sponsors to realise it. We find a supercollaboration with <a href="http://www.kaufmann-holz.at"><span class="caps">KAUFMANN</span></a> an austrian firm who co-invented a woodplotter, which can cut the <span class="caps">SCHLAFHAUS</span>-structure directly from CADfiles.</p>
+
+
+	<p><img src="/files/xymedia/0000/0272/wellko.gif" alt="" /></p>
+
+
+	<p>We&#8217;re giving classes to the profesors of Navias Highschool &#8211; &#8220;Departamento de artes plasticas&#8221;. <a href="http://www.pipilottirist.net">PiPi Lotti</a> invites us and another bunch of friends to do the June-edition of DU, a swiss culture-magazine.</p>
+
+
+	<p><a href="/files/xymedia/0000/0276/cub.gif"><img src="/files/xymedia/0000/0274/cub_th.gif" alt="" /></a></p>
+
+
+	<p>The <a href="http://www.kunsthaus-bregenz.at" title="KUB"><span class="caps">KUNSTHAUS BREGENZ</span></a> invites us to share a groupshow for the opening of the <span class="caps">KUB</span>. James Turell will do an installtion in the whole extraordinary building, we and another 26 artists will put &#8220;objects&#8221; all around the town &#8211; we start to develop (together with marCo and Carlos) <a href="/projects/nave/welcome.html"><span class="caps">NAVE</span></a>  &#8211; a communication-sculpture (just call it art and do it) which will find place in the <a href="/files/xymedia/0000/0237/1997_04_nave.pdf"><span class="caps">SCHLAFHAUS</span></a> .</p>
+
+
+	<p><a href="/files/xymedia/0000/0284/bartolo.jpg"><img src="/files/xymedia/0000/0282/bartolo-th.gif" alt="" /></a></p>
+
+
+	<p>We start the re-design of <span class="caps">CALCAXY</span> &#8211; C &#8211; <span class="caps">SITE 2</span>.0. The town of Vegadeo invites us to participate a Symposium about Tele-communication and work. The local interest for knowing and doing more in that direction is enormous. We&#8217;re happy that our background is influencing the &#8220;progress&#8221; of decisions and discussions around the telematic culture on this coast.</p>
+
+
+	<p>Designing and programming the C-site and the <span class="caps">NAVE</span>-site. We meet Navias Mayor, Mister Bedia to ask him for a special-permission to put the <a href="/files/xymedia/0000/0237/1997_04_nave.pdf"><span class="caps">SCHLAFHAUS</span></a>. We get it ! Bedia says &#8220;wow, this building won&#8217;t bring only tourist but also extraterrestrials!&#8221; Bedia invites us to give the &#8220;telematic classes&#8221; in the new &#8220;casa the cultura&#8221; they are conceiving. We&#8217;ll give it a try! After some weeks the official permission from Oviedo comes to put the <a href="/files/xymedia/0000/0237/1997_04_nave.pdf"><span class="caps">SCHLAFHAUS</span></a> ! This is only the first step for a &#8220;experimental architecture-park&#8221; 
+(as Teresa calls it).</p>
+
+
+	<p><a href="/files/xymedia/0000/0288/ufoh.jpg"><img src="/files/xymedia/0000/0286/ufoh_th.gif" alt="" /></a></p>
+
+
+	<p>The Pipi Lotti-DU goes well! We´re happy to have a connection again with Pips. The Net grows by art, life and lifenet swapping into an artnet!</p>
+
+
+	<p><a href="/files/xymedia/0000/0292/webuild.jpg"><img src="/files/xymedia/0000/0290/webuild_th.gif" alt="" /></a></p>
+
+
+	<p><ins>.</ins> +. leave to Bregenz in the beginning of July to do the installation of <span class="caps">NAVE</span>. Luks stays in Casqueiro, summer starts, friends and family comes. We will miss some original parties.</p>
+
+
+	<p>What a experience to <span class="caps">NAVE</span>! Around 30,000 people visit our Timeship-Internet-Installation in 7 weeks, 32.000 hits on <a href="projects/nave/welcome.html"><span class="caps">NAVE</span>&#8217;s homepage!</a> The wire to Ian Campell, which lives&#8217;nworks on the <a href="http://www.islandnet.com/~ianc/">spanadian westcoast,</a> swings fine!</p>
+
+
+	<p>Michelangelo and Maria Pistoletto, who also are participating the <a href="http://www.kunsthaus-bregenz.at/ehtml/kstadt_calc.htm"><span class="caps">KUB</span> &#8211; Kunst in der Stadt-Show</a>, invite us to Biella to show us the <span class="caps">CIDADELLARTE</span> and <span class="caps">PROGETTO ARTE</span> projects. they want the &#8220;nave espacial&#8221; to touch down in their progetto-context. We are invited to join the &#8220;simposio, mostra-evento &#8211; l&#8217;Arte al centro&#8221; in July &#8216;98. we want to build up on <span class="caps">NAVE</span>-experience and install a <span class="caps">TIMECLOUD</span>. We want to work with marCo and Carlos again.</p>
+
+
+	<p>Muda, Fränzi and Sus pass by! (almost all the <span class="caps">REINES PROCHAINES</span>) Fränzi is very pregnant! They are all very sweet! We wish them to come Navia and live with us for a while! Pipi Lotti Rist and friends visit us too, Pipi is a big chief now! She comes with three bags, three friends and and two computers (this nettle-Nokia and a digi-videocam). Lotti likes <span class="caps">NAVE</span> and <span class="caps">NAVE</span> likes Lotti! She said yes to do the <a href="http://www.expo-archive.ch/ger/index.html?siteSect=200"><span class="caps">EXPO</span>.02 jOb!</a></p>
+
+
+	<p>Pipi invites us to her <span class="caps">CUI</span>©INE in Neuchâtel, where they cook on ideas and concepts for the Swiss Landesausstellung &#8211; 2002. We meet Kurt Matt at the bregenzer yachts club. He&#8217;s in a good mood as always, he tells us about his sailing-around the world-and- do-sculptures plans. We invite him to do one on the Cantabrian coast. On his way to New York he will stop by in L.A. (Las Aceñas). We will talk to the officials from Luarca, and ask if Kurt can drop anchor in L´s harbour and do a sculpture there (&#8220;like&#8221; Ida K. did once for Castropol).</p>
+
+
+	<p>What a great Bregenz-Summer! We never saw this town so awake and pretty. James Turell opens the <span class="caps">KUB</span>-house with a bright lightshow, good start! Lets see the programs they´ll do next.</p>
+
+
+	<p><span class="caps">NAVE</span>´s <span class="caps">SKINPRINT</span>-Finisage at Lisi Hämmerles Gallery in Bregenz brings the work to a good end, which gets a start, when Rudolf Sagmeister invites us to share the <span class="caps">KUB</span>-98 <span class="caps">EVENTS</span>. at the opening @ Lisis gallery he talks about chinese duckskin as the best piece of the chinese duckmeal, to ilustrate the NAVEprints.
+he tells the whole audience that we are bad economists, we feel very proud.</p>
+
+
+	<p><a href="/files/xymedia/0000/0296/siebdruc.jpg"><img src="/files/xymedia/0000/0298/siebdruc_th.jpg" alt="" /></a></p>
+
+
+	<p>When we visit Biella in autumn Michelangelo shows us a space and says: &#8220;this is your space for the symposio, here you can do any instalation you like to&#8221; &#8220;Wow!&#8221; we say, &#8220;thanks, what a space! What a chance!&#8221; Next year in July in <span class="caps">CITTADELLARTE</span> in Biella! Rudolf Sagmeister, <span class="caps">KUB</span>&#8217;s curator invites us to the next summer-show. &#8220;Lifestyle&#8221; will be its title and <span class="caps">KUB</span>&#8217;s entrance is our prefered place to do something. We decide to do in Biella part one and in <span class="caps">KUB</span> part two of one and the same instalation. We don&#8217;t know why and not how, but we know that we want to work again with &#8220;architecture&#8221;(archi-texture) and telematic tools. We give it the worktitle TIMEcloud.</p>
+
+
+	<p><a href="/files/xymedia/0000/0304/roofroom.jpg"><img src="/files/xymedia/0000/0302/roofroom_th.jpg" alt="" /></a></p>
+
+
+	<p>Before we go back to Navia we meet Rainer Ganahl. He will do a singleshow next year in <span class="caps">KUB</span>. Something with language and the use of it. He does also a interview with Teresa. This show will be opened in <a href="http://www.kunsthaus-bregenz.at/ehtml/aus_ganahl.htm">Oktober 98</a>.</p>
+
+
+	<p>Maybe Biella-Timecloud can rain in Bregenz too? We meet many people, bars and drinks and talks all night. Roland Jörg and Ingo Springenschmid talk with us about possible dates for a solo-C-show in the new Kunsthaus in Bludenz.
+We would like to install a high-grid-holodeck. Maybe end of &#8216;98. It&#8217;s January 2000, a good date for homeplay.</p>
+
+
+	<p><a href="/files/xymedia/0000/0308/remise.jpg"><img src="/files/xymedia/0000/0306/remise_th.jpg" alt="" /></a></p>
+
+
+	<p>Arividerci Bregantia &#8211; We go cooking to Pipis Kitchen in a New Shuttle! <ins>.</ins> +. propose steps and do some. We get the okay to realise a simple web-bank for the intra-contact between the cooks..
+MAlex comes with Otto (Teresa gives names to all cars she drives), which wants to bring us save to naVia.
+MAlex will work with us for a few weeks in spain on a commercial job. Teresa, MAlex and tOmi ride slowly, from restaurant to restaurant all the way to naVia. We need 5 days. Best Restaurant: Chez Albert in the harbour of Biaritz. We take pictures from &#8220;architecture without architects&#8221;, we feel like clowns on holidays!</p>
+
+
+	<p>Back to the main-tent! We have to do a site-job right away&#8230;pay some bills. Claudia Pöllerbauer, young austrian architect, writes that she wants to investigate &#8220;asturian passive solar-architecture&#8221; related to the thesis she&#8217;s doing. Thats great! <span class="caps">CALC</span> allways wanted to be an architecture- provocation-machine! We help Claudia to get an official invitation from an asturian architect, so her university is able to help her&#8230;
+She and Gernot (who worked with us some years ago) and their daughter Lotti will come in April to live &#8216;n&#8217; work in Puerto de Vega for half a year!</p>
+
+
+	<p><a href="http://www.deasturias.com/index.asp?pagina=%2Fconcejos%2Fpueblos_asturias.asp%3Fpueblo%3D296%26nombrepueblo%3DPuerto%2520de%2520Vega"><img src="/files/xymedia/0000/0266/vega.gif" alt="" /></a></p>
+
+
+	<p>We buy a lot of good wine and dream from a calc-bodega. Maybe we can start to renovate the ruin in spring &#8216;98 yet! A little flat, another kitchen, another studio for the &#8220;classic-tools&#8221;, the wild room. X-mas. Fine dinner, a good wine. Only <ins>.</ins> +. in Casqueiro, Luks went to Basel. Nights clear as ice.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

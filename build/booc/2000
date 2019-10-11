@@ -1,0 +1,887 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">2000</div>
+          <ul>
+              <li><a href="#booc208">2000/12/05</a></li>
+          
+              <li><a href="#booc207">2000/11/04</a></li>
+          
+              <li><a href="#booc206">2000/09/25</a></li>
+          
+              <li><a href="#booc205">2000/09/01</a></li>
+          
+              <li><a href="#booc204">2000/08/01</a></li>
+          
+              <li><a href="#booc89">2000/07/18</a></li>
+          
+              <li><a href="#booc88">2000/06/01</a></li>
+          
+              <li><a href="#booc87">2000/05/01</a></li>
+          
+              <li><a href="#booc86">2000/04/01</a></li>
+          
+              <li><a href="#booc85">2000/08/18</a></li>
+          
+              <li><a href="#booc84">2000/02/01</a></li>
+          
+              <li><a href="#booc83">200/01/07</a></li>
+          
+              <li><a href="#booc82">2000/01/01</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc208" href="#selector">bilbao talks, aether 03</a></h1>
+      <div class="date">2000/12/05</div>
+      <div class="body"><p>the wire to Claudia and Gernot starts to swing again! in an e-mail they even offer to help us in restarting calc next year. Gernot is working now in an e-game lab , claudia keeps working on planhaus&#8230; 2001 &#8211; perfect year to welcome them here!</p>
+
+
+	<p>Bilbo! founded in 1300, first realcalc visit in december2000. Soto, Fermin, Ismael, Kasi, Jose, Ainara, Dani &#8211; all our friends who visited us this summer are around! there&#8217;s an opening of a groupshow of (almost all of) them the night we arrive. art on walls. a underwear naked girl on a sofa, a pornopainting (which reminds us a lot in what Esche Leissing did 10 years ago), some projections, good vino tinto, noticeable nice people. we never knew where Bilbao was when we passed through. all full of terrible and wonderful buildings, highways and chimneys, but where is the 1300-Bilbao?
+two nights before we&#8217;ll present calc and its net in La faculdad the bellas artes, <span class="caps">ETA</span> plants a bomb in a neighbour faculty (of journalism). the police finds and defuses the bomb. the &#8220;seven streets&#8221; of the old bilbao, we found them! from here the guggenheim is just a crumpled can on the skyline horizon. Isozaki will build two luxary towers between the Calatrava bridge and the Gehry-Guggi. Sir Foster&#8217;s subway jaws near. Bilbo goes Architown. do we like that? do you like that?</p>
+
+
+	<p>next day &#8211; 21st of december, el dia de san tomàs 11:00 am: good morning, we are calc and we like to be here. no bomb&#8217;s, just art. we show some projects (by databeam) after teresa talks about where we came from, why and how we try to be calcies, what is <span class="caps">UNIDEE</span> and why we collaborate. two hours, good broadcast rate, few questions, open, curious eys. we propose to establish a thread between calc and the students and to go now downtown where la fiesta starts. both is welcome &#8211; lets go. Asier, one of the young professors, comes with us. nice man! he knows so many people that we know too &#8211; artcircus phenomenon&#8230; but with Asier there swings the &#8220;net project&#8221; &#8211; we are moving in the &#8220;same&#8221; net of people and projects and didn&#8217;t know! he tells us about a project he wants do soon in Belfast. he wants to invite more than 1300 couples to do a simultanous kiss! in Belfast!
+interesting detail: Asier tells us that they have 9 people from Navia studying art in Bilbao, thats a lot! more than from all other little towns! does it have to do with calc and and the Manolo, Yolanda and Paco, our friends who teach artes plasticas in Navias highschool?
+we want to come back soon, we never again will just pass by this city &#8211; Bilbainos, see you soon&#8230;</p>
+
+
+	<p>the incredible credit!
+belleville, namely Swami Martin Ginger Roth lends us money &#8211; enough to change the whole digital junkequipment in the calc-lab!! thats amazing, in a few weeks we will be able to work on another level. while the machines are much faster and fater, we can get slower and more concentrated in the questions and ideas. lets see.
+new e-tools before restart calc 2001! we&#8217;ll pay back this money by working for belleville till cyberhelvetia is entirely realized. perfect deal for us! muchas gracias colegas!!</p>
+
+
+	<p>Michelangelo Pistoletto calls &#8211; we talk about <span class="caps">UNIDEE2001</span> and <span class="caps">BIG TURINO 2002</span> &#8211; we should meet soon, in order to find first conceptlines and desicions for both projects. we will fly to Turino end of january, beginning of february&#8230;working week or two&#8230;we agree to prepare meanwhile rough concepts on both sides to see where ideas overlap from the beginning&#8230; &#8220;lets phone us soon again&#8230;for a fantastic 2001!&#8221;</p>
+
+
+	<p>Ricardo did a yearcube for Yheppa, who will do a .cubeyear, a play with &#8220;cubes and light&#8221;... print your 100dpi-version. 130KB download!
+yheppa_calendario_01</p>
+
+
+	<p>hey! Johannes made it! <span class="caps">HELLO MR</span>. PRESIDENT. will be realised, he got the okay from the sponsor, the mayor, the farmer who owns the field and the man who owns the window, from which massages will be projected! we&#8217;ll do the interface beginning of January.</p>
+
+
+	<p>Penelope asks if we could take a picture of the assembled construction kit she sent us when <span class="caps">AETHER3</span> started. she wants to show these images (everybody got a different c-kit) before entering the space where the talks can be listened, January 2001 in Munich&#8230;
+aether
+Teresa just finished the pages for Nikola &#8211; the comics he did in cittadellarte this summer&#8230;
+31-12-2000 &#8211; only 7 hours till the milleshift! we&#8217;ll have a dinner tonight in Alvaros house. later we will go downtown to dance&#8230;
+happy new year, may all your wishes come shoe!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc207" href="#selector">richard, johannes, asacuna, big business</a></h1>
+      <div class="date">2000/11/04</div>
+      <div class="body"><p>back on the green coast! some days of just breathing and walking, sleeping&#8230;first of all we do the new <span class="caps">UNIDEE</span>-site. studio2 was growing well! Luks and Alvaro managed the new steps. Casqueiro looks better then ever!
+Ricardo does the presentation concept for the &#8220;spirit level&#8221;. in cittadellarte we met Mark Bain &#8211; the fantastic soundman! we asked him if he could help us to do the technical sound part of the piece. Mark didn&#8217;t see any problem and sends us a plan, which is based on hydrophones. some days later, after Curt sends the construction plans he made with a swiss artist blacksmith, we send the plans to <span class="caps">AUA EXTREMA</span> -&gt; sorry just deutsch. would be great if they want to realise our idea &#8211; the money we could put directly into the progress of studio2!</p>
+
+
+	<p>Ricardo made a streetsign for the park for L.A.</p>
+
+
+	<p>thats good &#8211; a little step to make clearer that we got a playground in our center. next year we definitly want to continue the parkwork &#8211; some benches, a fireplace, a projection-wall, water, light&#8230;</p>
+
+
+	<p>we are working on the second step for the new universitiy in Bolzano&#8230;impossible to imagine something real, because we still can&#8217;t do the model of the space &#8211; the architects are still moving walls and changing details&#8230;but we write a basic concept which clearly shows the direction of our installation &#8211; working title: r e a l i t y v e r s u s l i f e . university is &#8220;reality&#8221;, outside the windows and doors is &#8220;life&#8221; and in between is our piece. a bridgepiece again, versuspiece&#8230;our first project with time and a real budget (60.000.000 Lire), 2004 it should be done &#8211; and: start!</p>
+
+
+	<p>yippiiii &#8211; they selected the spirit level to be realised!</p>
+
+
+	<p>we get a phonecall from Javier, a profesor in Bilbaos faculdad de bellas artes. Soto, who studies there made the contact. Javier invites us to do the last speach, in a serie of speaches, about our way of (net)working. okay &#8211; we&#8217;ll be there on the 21st of december, fine &#8211; we always wanted to know Bilbao better!</p>
+
+
+	<p>another aether-call. Penelope and Kyra choose in this 4th and last round who talks to whom &#8211; omi talks again with Stefan Muenker from Berlin. thats perfect, he would have chosen also him&#8230;again a pleasure to listen and talk to Stefan. we talk about god and dog, world and ownworld, how we can imagine that good ideas or projects can reach more stupidity and drowsiness of people. from the subject to the project (Villem Flusser). we agree that we need a fresh and full portion of humility. omi decides what Mila Zoufall proposes in another talk &#8211; to avoid the term <span class="caps">ARBEIT</span> (work). horrible word! and used in such senses that it doesn&#8217;t make sense anymore. but how else can we call it? <span class="caps">SPIELEN</span> (play)? sounds much too <span class="caps">FUN</span>, too american way of can&#8230;SCHAFFEN (create)? too pathetic? anyway &#8211; but this could heal a bit: to recognize that every desiccion is a &#8220;creative act&#8221; and therefore we are humans and re-spons-ible. we are dialogical animals learning to express and impress, all life long. what else? work becomes network (Benoit Roussel).</p>
+
+
+	<p>Richard Jochum lets us know that dis-positiv worked well in Bregenz, he&#8217;ll send us some of the magazine he did in addition.</p>
+
+
+	<p>Johannes calls.. he tells us from a new project he wants to do during the world economic forum in Davos and asks us if we want to join &#8211; do the interface. yes! the project is called <span class="caps">HELLO MR</span>. PRESIDENT and the idea is to throw with a laser projector massages which arrive by sms and through a web-site onto a hill next to the place where all the mister presidents have their talkes. 160 signs, running letters, like a huge (&lt;<del>150m</del>&gt;) &#8220;open Jenny Holzer board&#8221;... its still not fixed, Johannes talks tomorrow with a president from the swiss TV, in order to win them as a sponsor for the project.
+Davos
+Eva, miss president of the association of the local. retail trade <span class="caps">ASACUNA</span> and owner of Navias fashion shop <span class="caps">ESCANDALO</span>, calls and wants us to make a concept for a protest action they want to do from Vegadeo till Luarca. they want to act against the big stores groups, which are planning to build mega malls along the cantabrian coast. we don&#8217;t like megamalls in small town or villages, and agree o develop an idea till next week. when we talk about how these places would look like in the worth mega mall case, we imagine all little stores closed, no windows, but bricks&#8230;
+montaje_ventanas
+we propose &gt; to not work activly with massmedia, save all the money for the actions in the associated villages and towns. &gt; to concentrate in &#8220;closing&#8221; all stores for a week of the pequeño comercio (retail trade): all stores from Vegadeo at the galizian border till Luarca, 50km in the east (around 500) should be visually closed for 7 days with grey brick paper. all windows, all shops. just the doors stay open. inside all stores its darker, the streets look cramped &#8211; science megamall fiction&#8230; &gt; to inform just the massmedia, politicians, etc., not the. people, &gt; to make special events in each shop during the whole week and a big conclusion fiesta on the last day. sunday night all wall-papers will be removed from all windows, back to the usual view.
+we calculated that we have to print 10.000&#215;1m of brick paper. if they accept our concept we&#8217;ll show it soon on calcaxy. as it was art. brickchristo. soon they&#8217;ll have a meeting and decide which proposal they want to realise (another two firms will present an idea).
+cartel
+short before we leave to Bilbao we present ours to Eva. she likes it! she&#8217;ll let us know in 5 days what the meeting brought&#8230;when we will be back from Bilbao.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc206" href="#selector">SPACEplace , -BIG torino ?</a></h1>
+      <div class="date">2000/09/25</div>
+      <div class="body"><p>T &#38; o go to Bregenz at the end of september. to de-install spacePLACE, to visit famely&#8217;n friends and to think about what to propose and do in <span class="caps">UNIDEE</span>, where they&#8217;ll go after a trip to the &#8220;famous Zumthor-bath&#8221; in Vals, Switzerland.</p>
+
+
+	<p>Madin and Beetli invite them to come. Madin is Beetlis boyfriend and Beetl omis cousin&#8230;.what a valley, what a village! the bath is much better than the homepage promised, but not as good as so many people toled us. not at all. the water is great, entering water is like entering a feeling. but why do all newbuild elements have these radical angular and rough shapes and make the feeling harder as the water asks for? you can take your life while relaxing on one of the borders of the bath&#8217;s and cut your neck.
+doesn&#8217;t water ask for round shapes, soft corners? or does Zumthor want that the water makes softshapes with time (almost everything made out of slate)? lets come back in 200 years. well, the hotel is funny, sometimes even pretty, expansive&#8230;we reservated a room which was &#8220;renovated by the architect&#8221;: like sleeping in a design museumshop &#8211; table from Grey, chair from van der Rohe, bed by Zumthor&#8230; but everything is okay after we have the first meal. they know how to cook here! 3 days chilling out in rosebud water in the foggy valley of Vals. the moody russian waitress transforms the ambient in a kind of postsovietic science fiction. but the best architecture we saw was a little chapel in the last curve before leaving the village..
+vals_chapel
+cyberhelvetia.ch &#8211; still secret, still evolving in a closed circuit will be a parallel project while we will work in <span class="caps">UNIDEE</span>. and <span class="caps">AETHER3</span> &#8211; the project from Penelope Wehrli, you remember? Penelope invited us and 9 more (like Kyong Park from Detroit, Milla Zoufall from Berlin, <span class="caps">N55</span> from Kopenhagen or Stefan Muenker from Berlin too&#8230;) to talk on the phone about questions like &#8220;for what would we fighting for?&#8221;, &#8220;do we have &#8216;utopias&#8217;?&#8221;. these talks will be &#8220;shown&#8221; in Munich in an ex atom reactor somewhen in january 2001.
+the cyberhelvetia.ch (cybe) our job is dealing with the question how to present cybe in real life within the swiss expo.02 ex- hibitions, which will open spring 2002. with martin, one of the bosses of belleville, who is behind the cybeproject, we agree to have weekly mail-, chat- and telephone sessions. every week we will give feedbacks and inputs in order to find ideas and a first concept till end of october. Luks and Ricardo will partizipate the process from Spain.</p>
+
+
+	<p>arriving in cittadellarte, first week of october. incredible rain storms the night before, when we stoped in a small town near the lago maggiore. heavy showers sounds like big fire. when we arrive Tal, Steffen, Biju, Yoav and Esther are playing volley in citta&#8217;s yard. a strange sceleton hangs on a rope which is crossing the whole yard. Lyn, another Zero, is here since a month. the following month will last a year! so many people, questions, reasons for parties! the &#8220;cooperation&#8221; with Tal Adler ended quick. too much things and speculations between us. check out his collectors item #52!</p>
+
+
+	<p>october in headlines: fresh chaos and order, &#8220;the university of ideas&#8221; is born, but only few people seem to realise it. opening of Eytan Shoukers <span class="caps">PENPAL</span> project, and son&#8217;s &#38; fathers within the context of <span class="caps">THE BORDER</span>. every week working on cybe too, Benoit Roussel runs a &#8220;cinè club&#8221;, every wendsday in the performance space.</p>
+
+
+	<p>[Alberto from Veracruz-Mexico writes an e-mail. he saw communimage in Mexico ciudad and liked it. now he wants to write an article about the project in a fanzine he&#8217;s doing there. Johannes sends him two posters from the new years image we did almost a year ago.]</p>
+
+
+	<p>we present to Michelangelo the idea to make a kind of magazine for <span class="caps">UNIDEE</span>, he likes it, we start right away. the same work (files) we can use later on to do the web site. the magazine wants to be radically visual, images and <span class="caps">URL</span>&#8217;s. probably just on CD and mainly for the a.i.r (artists in residence) &#8211; like a very visual adressbook&#8230;.
+Michelangelo will do the next artistic direction of <span class="caps">BIG TORINO 2002</span> (page from 2000) the bienal of Turin! he asks us if we want to work with him for the concept and&#8230;yes, sounds very interesting, but we have to talk to Luks first&#8230;</p>
+
+
+	<p>end of october &#8211; revolution &#8211; two days where everybody puts everything on the table in <span class="caps">UNIDEE</span>. but the table stays almost empty &#8211; evolution. Teresa and omi stay some more days, after all a.i.r. and zeros left, to talk with Michelangelo about next year. mainly about how we can conect the exhibitions more to the contents of <span class="caps">UNIDEE</span>. this year it was like a contradiction: to invite for &#8220;heterodox art&#8221;, but presenting &#8220;orthodox art&#8221;. we&#8217;ll work out a proposal when we all are back home in mothership&#8230; now we talk about our last subject for this time: the piece for Bolzano. together with Michelangelo Teresa and omi talk and imagine about a window, which can change position and view, attitude and content. we will continue the talk by e-mail and telephone, its geting late &#8211; ciao amici, ciao, we stay in contact&#8230;</p>
+
+
+	<p>but now &gt;&gt; fast forward &gt; nevertheless T &#38; o need a week for the 1500 miles. time gets slower, but seems faster, when you are tired and travelling.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc205" href="#selector">parque del naranjo - 2º fiesta, dis-positiv, sandpit, judith</a></h1>
+      <div class="date">2000/09/01</div>
+      <div class="body"><p>on the 1st of september Markus and Jasmin from the austrian television arrive! they realy did it and produced a special version of the documentary they made last year about calc and the park for L.A. we show the video as well as all digi-shots we made last year the next day in the parkpartyII ! Manolo from Navias highschool lent us the beamer&#8230;.
+2000_Sanantolines
+again we have a great parkparty. at 22:00 30 bagpipes and drums show up! timeless sound fills the square for an hour. old and young, mild and wild &#8211; everybody&#8217;s here and enjoying an a-typical villageparty. all the drinks and things we had to buy we sell very cheap &#8211; just to be able to pay the musicians. Luks shows the video twice, at 23:00 and at 01:00. the village people like to see themself talking about the park in the video. Markus and Yasmin did it very well &#8211; looks like a real. TV-produktion! next year we want to reanimate the classicle soccergame they used to play in the marsh near L.A. and we also decide to make the projectionwall a permanent installation. children asked for it!
+fiesta_musica
+we get a letter from <span class="caps">AUA EXTREMA</span>, they congratulate. and ask us to make detailed plans for end of november. then they&#8217;ll decide wich 8 projects out of 12 they are going to realize. we realy would like to do it. also good money &#8211; we could invest in studio2.</p>
+
+
+	<p>we are working on the text for <span class="caps">DIS</span>-POSITIV, the project of Richard Jochum. we write about the windoor. a better contact and wider possibility between theory (window) and practice (door)- soory just in deutsch.
+fenstuer
+mailpingpong with Paolo Bianchi. he lets us know what will be the next <span class="caps">KUNSTFORUM</span>-int.theme: art without euvre (werk). good theme/question &#8211; is there still an euvre if people don&#8217;t care about quality-of-euvre, but quality-of-life?</p>
+
+
+	<p>homepage &#8211; september 1998  (homeology)</p>
+
+
+	<p>now we are preparing Bolzano. we had this idea to project a very simple homepage, not show it on a monitor. Tal came up with the idea to project it on sand. now we imagine a children&#8217;s sandbox, people sitting around looking the web&#8230; the homepage just shows three spots/grains of. sand, like the beginning or the end of something, and behind each spot theres a link &#8211; 1-cittadellarte, 2-calc and 3-the university of bolzano. we like the idea, because its the offer to exchange, to weave, to &#8220;build&#8221;. we want it as simple as possible, like a built scetch. ordanary pressboards on a marked square.
+bolzano_sketch
+so much work to do! Teresa and omi will leave to Bolzano next monday already! Luks and Richard will stay in Casqueiro, they&#8217;ll work on new calcaxy and some jobs we urgently have to do &#8211; the fridge is growing thin again.</p>
+
+
+	<p>11-09-2000 &#8211; sky is closed and gray. art is a windmashine for blue holes.</p>
+
+
+	<p>26-12-2000
+good evening.</p>
+
+
+	<p>Luks and Ricardo don&#8217;t have time&#8230;
+they mainly work on <span class="caps">STUDIO2</span>, some updates for <span class="caps">YHEPPA</span> and on the new infrasturcture plans for the Lab.
+will spring 2001, when the YEARoff starts to lighten up, bring calcaxy.03?</p>
+
+
+	<p>28_12_2000 &#8211; outside the warm, quiet lab, there&#8217;s the moody sky again, shaking the world, changing quickly from bigblue to darkgrey light. x-mas time on the lazecoast. the barometer is drawing an extreme valley-mountain curve since weeks. the wind surfs us.</p>
+
+
+	<p>kaufmann_kaufmann.com still isn&#8217;t done.
+where men build house men also build trouble &#8211; but we just heared they&#8217;ll be solved before the milleniumshift. but <span class="caps">FRED</span> won a design prize, so we&#8217;ll make a simple webfanzine for the 12th of january, when this prize will be presented to K_K. and later on we&#8217;ll do the w-site&#8230;</p>
+
+
+	<p>timebackmemoryloop: middle of september, T + o leave to Bolzano. this time just an idea on board, they&#8217;ll realise all in the AR/GE Kunst gallery there&#8230;we had a lot of time to talk about and to imagine the web-sandbox.</p>
+
+
+	<p>one week later, 1600miles away from mothership it&#8217;s. done &#8211; light on sand. the first real meeting with Erik Steinbrecher, the &#8220;curator&#8221; and pARTizipater and Judith, the nicest gallerist of all, ist good! Erik will curate the whole university-(p)art. we also can meet the architects, Bischof &#38; Azzola from Zürich. Erik shows us the huge hole in the middle of Bolzano, where the uni is gonna be build. we have time to think and to experiment what we will install there. faculty of design, space in between, students. 2004 should be the opening. we agree to present a next step of &#8220;sandbox&#8221;after we have talked to Michelangelo, soon.
+sandbox</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc204" href="#selector">first fiesta in studio 02, soto, adios raul</a></h1>
+      <div class="date">2000/08/01</div>
+      <div class="body"><p>begining of August &#8211; back in Casqueiro!
+with Tal in Casqueiro! Luks and Märle and Curt, everything looks good. the animals, the plants, the walls, the structures, the new roof, only Tita the goat looks sick. she shits stinky water. we have to bring the doctor.its a virus, we have to give her 5 days a milky liquid, antibiotika, to kill it. Tita is getting really old. she hardly makes it up the slate stairs.</p>
+
+
+	<p>fax from Andreas Maier, Centre PasquArt, Biel: sorrysorrysorry but no money for the show&#8230;we already smelled it. Paolo also mailed us some days ago that they are proposing a twiggyversion of <span class="caps">LKWII</span>. but we are not interested. we won&#8217;t show images, no. actually these are good news. we just need some days to realize: all the time for the Biella and Bolzano-projects, and some web-jobs we have/want to do.
+.
+Curt tells us that there is a very good view from where you drive up to Talaren to take images from the sleeping house for Uschas styleguide. Tal and omi go there &#8211; true, amazing view, just one spot where the bushes and tree give a view. from here it seems even more landed. we send Uscha this image:
+styleguide
+Curt and Märle leave to Bregenz. Alvaro and Luks. will organize the finishing of S2 (all glass fassades) till they return &#8211; probably February 2001. but we can use it already as a sunday picknickhall or open studio.
+paella
+Janine from <span class="caps">ARTLAB</span>, London, her husband Bernie and their daughter Cecile show up! you see &#8211; now it would be perfect to have a <span class="caps">FRED</span> here, we just would open the &#8220;black cube&#8221; and a world would appear, a whole house! lets think about it!</p>
+
+
+	<p>by the way &#8211; for the same architects who developed <span class="caps">FRED</span> and <span class="caps">SUSI</span> from <span class="caps">KFN</span>-products, Johannes and Oskar Leo Kaufmann, we are doing the website for the whole studio now. for all projects, not just the systems. soon, we hope around middle of september www.kaufmannkaufmann.com will be online. have a click!</p>
+
+
+	<p>Janine and Charlotte will visit us in the cittadellarte, when Teresa, Tal and omi will go back there in Oktober. good idea! we want to present them to Michelangelo, he will like their (way of) work. Janinefamily is here just a day&#8217;n night. the first time we hope!</p>
+
+
+	<p>Teresa, Tal and omi visit with Soto his exhibition in la casa de cultura in Taramundi. paintings. Teresa and omi bye two little ones and get one as a. present. Soto likes Richter a lot. sharp/ unsharp overlaying Richter-structures on one, fantastic landscape on i-2 and on i-3, the present. we find Soto an interesting searcher. what did we do with 24? also art, no?
+tres_sotos
+Soto proposes to trade the paintings for 8 meters of the good canvas we have left from the sleeping house covering.</p>
+
+
+	<p>marCo calls &#8211; the spirit level made it to round2! the jury liked the idea. okay, so we have to profound it till november.</p>
+
+
+	<p>Erik didn&#8217;t like the proposal so much, it doesn&#8217;t fit the whole and the window is already used by Heimo Zobernig. we understand and like the concept he explains, that the Bolzano exhibition shall bring up the same or similar questions like our projects in the university would bring up. &#8220;where am i here? is this art?&#8221; border-inbetween-works. we have to sleep over it&#8230;and talk to Michelangelo soon about these changes&#8230; anyway we wanted to call him soon and tell him that we just finished the <span class="caps">UNIDEE</span>.01 site and sent it online.</p>
+
+
+	<p>again we get a visit from Bilbao &#8211; Kasilde and Fermin show up with Soto, who brings the paintings and cuts 10m canvas from the big role. good moment to install Tal&#8217;s collectors item ? <span class="caps">SECRETS</span> n <span class="caps">III</span>. Alvaro finds a blue carpet for the &#8220;secrets-island&#8221;, Soto and Fermin leave a secret in the bottle. they will show us the artschool scene, when we pass by the next time Bilbao. <span class="caps">SECRETS</span> will be installed till end of February in calc&#8217;s mothership. Fermin proposes to bring it then to Bilbao, conected with a talk Tal could invite to. Damian Krpan, who does all models for us we can&#8217;t do, like the sleeping house models, sends an <span class="caps">SMS</span> to tell that firstbOx is ready. Curt and omi (father and son) will present firstbOx during Sons &#38; .Fathers &#8211; Oktober in the Cittadellarte. our idea is (because we really don&#8217;t know who inspired whom in our early days of cooperation) to show a painting and a playbox with 100 wooden cubes, who have the same six colors on their sides, like the painting. so the playbox gets the &#8220;image-bank&#8221; of Curts geometrical paintings.
+sons_fathers
+21st of August, quiet day, the ventilators are the loudest. fast changing skylights, dark lab, lighten lab&#8230; Jesus still didn&#8217;t show up, &#8220;tomorrow&#8221; is already 2.5 month ago! si si las fiestas, las fiestas.</p>
+
+
+	<p>after a little reportage some spanish newspapers made about the sleeping house we get a lot of visits. we have to put signs where people just can walk in: visits only after calling! Soto introduces almost every day friends from Bilbos artschool to us. thats good &#8211; yearOFF starts already &#8211; we will visit back!</p>
+
+
+	<p>22nd of August. we hear that Raul, a friend of us, died last night in an accident with his motorcycle.
+.
+we will miss Raul a lot. we want to dedicade him this whole year, all our projects and wishes. no te olvidaremos Amigo!
+raul
+07-09-2000 bright day, today Tal is leaving. he&#8217;ll. travel to Barcelona and after some days to Biella, where we&#8217;ll meet again beginning of Oktober. he takes the secrets from the bottle with him. he changes his mind &#8211; actually we don&#8217;t know why. so no secretbottle in Casqueiro, no in Bilbao. only the blue secret-island we leave in the entrance. pitty, all our friends thought about their secrets and wanted to put them.
+lake_of_secrets
+Richard arrived a week ago! he lives with Gemma downtown Navia and likes what he finds. we have a good feeling, great to have him here, he can do a lot! for example working over the whole calcaxy, when Teresa and omi are gone in oktober. days are still warm, we go to the beach everyday. Richard likes our sandoffice.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc89" href="#selector">SPACEplace - spirit level - unidee 00</a></h1>
+      <div class="date">2000/07/18</div>
+      <div class="body"><p>homepage -july 2000  (homeology)</p>
+
+
+	<p>back in B &#8211; <span class="caps">KUB</span>, Luks and Richard did good work, we are already near a first view of the whole..
+process
+Islandic love [in the first view] corporation arrives when we sit in the black <span class="caps">KUB</span> cafe. ssssssshhht and we understood each other. camping at Lisis: Lisi Hämmerle, the best gallerist of all, invites for camping: people who work in any of the event-exhibition-...- contexts can sleep in the gallery (matraces) and expose (walls, floors, windows, etc.). an art and life village grows. Mona and Dominique from @home live there. we go there when Lisi organized a haircutnight. Sylvia comes. and cuts. professional hairtist. camping. we install Tal&#8217;s collectors item ? &#8220;SECRETS&#8221; the second time in camping. and we put the models model from spacePLACE. the model Teresa, Luks and Alvaro did when omi went to Madrid.
+modell_bottle_bregenz.
+<span class="caps">KUB</span>-opening, 14th of July. crowded, speeches, talks, chats and gossip, nice. Ross asks us to take some diggimages because his camera can&#8217;t see nothing. we try
+fortress_ross
+spacePLACE would be stronger we think if we would have had two more weeks. but its not weak now, just not &#8220;finished&#8221;, still&#8230;lets take distance from it.
+so many people come to see us! Luks and Teresa reserved a half restaurant, because they heard that <span class="caps">KUB</span> organizes nothing that night. full albanian pizza-house. artdays nonstop, yesterday was the inofficial friends-of-the-house-opening, tomorrow the opening of Orlan in magazin4. Luks is going back to Basel, he&#8217;ll fly soon back to Spain, a lot of work and summer is waiting there. c u soon! Magazin4 &#8211; crowded again, loud. we meet Charlotte and Janine from <span class="caps">ARTLAB</span>! they worked in the theatre next to the <span class="caps">KUB</span>. as part of <span class="caps">KUNST IN DER STADT4</span>. Orlan is nice too. the weather strange, autumn-like, really cold sometimes, raining a lot. Thomas, who has a castle we heard, invites all artists and friends to a chillout party. we will meet Charlotte and Janine again there, see you tomorrow / its really a castle! even a picturebookcastle &#8211; top of the hill, eagleview. veryverynice! best food, fine music, people, children, excellent wine &#8211; everybody dances late at night. its so good to &#8220;see&#8221; people you talked with talking with all their body suddenly! pity, that Luks, Paolo, Lyn and Lilly and Ross left already. the castlespeakers have club-quality. Orlan dances like a happy girl.</p>
+
+
+	<p>from Curt and Märle we hear that they covered the S2roof with slate now, Alvaro and Freddy are managing everything. they feel okay first time without the aborigines calcis there.</p>
+
+
+	<p>back to biella 10 days Teresa, Tal and omi want to work/talk with the a.i.r. now also Yoav arrived, sababa! a friend of Tal from Jerusalem who will also be an a.i.r. Teresa gets sick, Fever, cold, she stays in bed some days, reads and sleeps. we tell her all the news and steps from healthy world. the a.i.r. do very different work.Tal and omi meet them all and have talks about it. Teresa stops smoking! we also propose together with them and Sylvia (a young webdesigner who came for a month to help) a first concept for <span class="caps">UNIDEE</span>&#8217;s own website. a very simple, clear structure without any tricky programming, so &#8220;everyone&#8221; can do updates and changes later. we want to get nearer all the a.i.r. when we return in september. and we talk with Michelangelo. about God, the World and Bolzano. Bolzano?</p>
+
+
+	<p>didn&#8217;t we mention it? Marion Daminai called us some weeks/months? ago and told us about a very interesting sounding project in Bolzano. they are planning there a new part of the university, scientific faculties, and they develop the &#8220;art&#8221; for the &#8220;sciencehouse&#8221; already from zero between the architects and the artists. they can imagine that calc and M.P. do another colaboration for a &#8220;mediaspace&#8221;. we called Michelangelo then and decided that we accept the invitation if they officially will invite us. this happened some days/weeks later when Erik Steinbrecher mailed. he will cordinate/curate a show in ar/ge kunst gallery &#8211; Bolzano. we are invited to &#8220;give an idea&#8221; what our work in the university will/could be. but we really can&#8217;t know/think now. we just know that we want to work with telematic tools and programs to open a specific &#8220;netspace&#8221;. a knot in the net. we sit on cittadellartes afternoon sun-shadow-border and have the idea to work with one of Michelangelos minus objects (painting for meeting). we imagine to install it right on the glassborder/streetwindow of the gallery, so one half would be out, one in. the reflecting glass between the two who sit in the wooden frame, would not only overlay the two, but also making a conversation impossible. we draw several &#8220;lines&#8221; between the two, to clear this acoustic hurdle. then we find the oldest system we know: the yohgurt beaker telephone! we like that! it could be a good start for this project. yes, we will propose that to Erik soon.
+.
+ooops, we almost forgot: we have to send our proposal for <span class="caps">AUA EXTREMA</span>, a project that east-switzerland does for the <span class="caps">EXPO</span>.02. we got invited to share a competition. its all about water&#8230;a jury will select who go into the second round, in the end 8 will be realized &#8211; travelling &#8220;sculptures&#8221; who shall provoke interest and discussion for what they are presenting 2002 in Biel. when we still were in Casqueiro and sat with Curt together he came up with the idea to do a huge spirit level. now we imagined with Teresa and Tal that we enlarge the idea with sound, who comes from the bubble-splash, because the spirit level has to be installed on soft tilting grounds, and with a conected website, who reflects the journey of the spirit levels and the &#8220;levels&#8221; of the place where it is now. fast concept, borderpeople get happy, a package for switzerland is coming.
+auadraw
+okay, we have to pack, Casqueiro is waiting! we are back in about a month and a half, hasta pronto amigos!</p>
+
+
+	<p>lets drive along the cote d&#8217;azur&#8230;lets take time for the trip. Teresa, Tal and omi leave the Cittadellarte in the morning. Tal started to do a telematic collectors item. a kind of diary he sends every week or more by mail to friends. reports from the ownroad. 4 days we need, or five?, we stay again in too-much-Menton, and in some other places, Teresa still is a bit sick, still not smoking, we send the proposal to Erik &#8211; the yoghurt-line&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc88" href="#selector">tendopoli informatica - zero's exhibition</a></h1>
+      <div class="date">2000/06/01</div>
+      <div class="body"><p>we do communimage &#8211; a moment in time2 in the <a href="http://www.macg.inba.gob.mx">Museo de Arte Carrillo Gil</a> in Mexico City. they don&#8217;t have a big budget, so we calculate the image down to where they can pay it. the print we show is about 3 by 2 meters. but Mario (the curator of the media-museum there) says that you still see all the details.</p>
+
+
+	<p><img src="/files/xymedia/0000/0630/comm_mexico_th.jpg" alt="" /></p>
+
+
+	<p>21st of June, what a springbuilding the near past!</p>
+
+
+	<p>when we (Teresa and omi) stop somewhere in southfrance for the night, 10 hours later, we get a phonecall from Esther, Luks mother. Luks had a terrible carcrash in the middle of France! he is okay, but shocked, his car is totally smashed, it turned over, no other people or cars were involved. Esther tells that Luks is after hours of police-ambulance interviews in a little hotel now, he tries to calm down, he&#8217;ll continue with train tomorrow. we can&#8217;t reach him, Luks has no mobile phone. so we have a walk and try to greet and kiss him through thoughts&#8230; we are very happy that Luks is near! what happpened on the highway?</p>
+
+
+	<p>biella, two days later. we could talk to Luks now. still very shocked, but quiet. we are looking so forwad to see him soon in Bregenz! he got a mobile phone now! &#8220;my new car&#8221; he says and sends little <span class="caps">SMS</span> messages. we are looking so forward to see him soon in Bregenz! but now we see: Tal! he just arrived from Jerusalem, his bag is bigger than him, great &#8211; he will stay some month in Europe! he shows us an incredible photo-work. the project we didn&#8217;t understand when he explained it in a mail. the &#8220;camera-studio&#8221;. with this camerastudio he took direct images from tiny little fossils. they look like flying meteorites from ex-planets, pieces which show like forests, roads, tracks and fields. like some world you never saw, but at the same time close to you. &#8220;fossils were the first photographs&#8221; Tal says. the way they got &#8220;second photographs&#8221; now shows a kind of presence and clearness, although the images are actually negatives &#8211; more blacks, than whites &#8211; we never saw on paper. beyond Bechers. Tal brought just small versions of it, the &#8220;original&#8221; big ones are still in Jerusalem. where could they be presented?</p>
+
+
+	<p>.
+Tal brings also the recorded sound of the cystern in Jerusalem&#8217;s old city, which we maybe want to play together with the model of <a href="http://en.wikipedia.org/wiki/Mamilla">Mamila pool</a>. the sound of drops, few drops, no rhythm &#8211; surprise/chaos, which fall from high into a huge underground pool. we heard this together when Tal showed us this cystern in december. but we saw nothing, we just heard the space.
+the disk and the ring from DROPone don&#8217;t arrive, problems with the border control. they might have got stuck by controlling the control of the control.</p>
+
+
+	<p>Peter Lütje and Stefan Potengovsky working already in the Tendopoli informatica &#8211; their &#8220;tents&#8221;. down there is an image &#8211; the coloured .drunk-platon-tent is Peter&#8217;s, theres only a little radio hanging inside. the round one behind is Stefans, he covered it now with a special kind of shimmering silk. behind you see DROPone as we installed it some weeks later, when we returned from Bregenz&#8217; opening.</p>
+
+
+	<p><a href="/files/xymedia/0000/0634/peter_bucki.jpg"><img src="/files/xymedia/0000/0632/th_peter_bucki.jpg" alt="" /></a></p>
+
+
+	<p>we are installing together with Tal his collectors item &#8230; <span class="caps">SECRETS</span> and our model from sleeping house marCo sent in the meantime to cittadellarte. Steven arrives from UK, he brought mysterious suitcases full of stuff he wants to arrange to a. &#8220;history&#8221; of modern art. Cees prints of the central heating system in the house of his mother arrive too, Suwan is working on a orange video-wigwamm with Anna.</p>
+
+
+	<p><a href="/files/xymedia/0000/0638/modell_bottle.jpg"><img src="/files/xymedia/0000/0636/th_modell_bottle.jpg" alt="" /></a></p>
+
+
+	<p>Franz we meet the first time. but not the last time we hope!</p>
+
+
+	<p>Cees introduces Uscha Pohl to us &#8211; <a href="http://www.verystyleguide.com/upandco/.Uscha">UP&#38;CO gallery, <span class="caps">NYC</span></a> likes the sleeping house model and asks us if we wanna do a doublepage in her styleguide, she presents every year. hmm, our bedhouse in a styleguide? but its not design or style. she tells us about this special styleguide which doesn&#8217;t care about a huge overview, but a special, irritating one, that puts &#8220;art&#8221;, &#8220;design&#8221; and &#8220;fashion&#8221; also in question. we like it. we&#8217;ll send a file from the real sleepinghouse when we&#8217;ll be back in Casqueiro, soon&#8230;</p>
+
+
+	<p>shit, marCo sent the disk and ring for DROPone from switzerland, from outside europe&#8230;now they have to control even the control of the control of the control. we imagine that the last borderpeople in europe are happy when packages from switzerland are coming. they can use all formulas and technics to make it pass the border. we wait a week for it now, and can&#8217;t wait more. we let Roberto and Paolo in on the DROPone-problem &#8211; we draw a detailed manual, step by step, they will install it when they&#8217;ll bring the parts. Roberto has done Michelangelo&#8217;s installations all around the world for many years. he will find it easy &#8211; we hope&#8230;</p>
+
+
+	<p>Luks dreams every night of the crash. he wakes up and remembers that he was totally cool in the moment it happened. like saying &#8220;that was it, relax, that&#8217;s it&#8221;. he got out of the car, which was laying on top and started right away to get his stuff together. than already cars stopped, people came to help him, police&#8230; &#8220;everybody was extremely nice&#8221; he says, &#8220;I don&#8217;t know what happened, I had a something to eat just 10 minutes before, I felt awake and wanted to continue&#8221;. however, thank god Luks is still is calc&#8217;s first engineer and secretary!</p>
+
+
+	<p>we meet in Bregenz end of June. first we go get Luks from the trainstation, we can all live in the house of Curt and Märle, while their are having Casqueiro. Luks looks good! we install our office in C&#38;M&#8217;s house and start the next day to phone all parts for spacePLACE together. we really have to coordinate everything well now, little time for a lot of different work. but with the help of the KUBpeople, especially Markus and Mäx, we don&#8217;t have to worry. Ross Sinclair is already around! tons of wood, raw trunks, strong cut-smell. he does <a href="http://www.kunsthaus-bregenz.at/ehtml/aus_lkw.htm">fortress real life</a>,...</p>
+
+
+	<p>Richard, the one who helped us already in Linz and will start to work with us in Casqueiro from September on, comes. good! two hands and brainhalves more to do this mountain of work. we have to buy a little soundsytem and promise each other to never leave it at home when we drive away. we work more than a week in the <span class="caps">KUB</span>, everywhere in the house and in the city people work on their installations and preparations for their events and performances.we always like this circusfeeling a lot. on this level, while more or less clear things get build up by more or less clear plans, everyone is nearer to the other, because our hands are talking too. and isn&#8217;t it always saying a lot <span class="caps">HOW</span> artists build up and arrange things or let it be done? there are so many ways as artists, but mainly there are like two tribes: the hand-in-the poket-master-tribe and thehands-in-the-material-pupil-tribe. they live in peaceful groupshow-coincidence.</p>
+
+
+	<p>and Lyn, darLyn is also here! she brought Lilly and they are the Art-Service. its written on their car and on ballons they blew up. they talk to people in the streets, ask them what art in the past <span class="caps">KUB</span>-context they liked, what not and why.</p>
+
+
+	<p>one day and night we go to biella &#8211; Tal, Lyn, Lilly, Teresa and omi for <a href="http://www.cittadellarte.it/news/index_e.html"><span class="caps">UNIDEE</span>&#8217;s</a> opening! Luks and Richard will continue work on the sleeping house model. now we are already fixing the glued pieces to the structure, we like to work the weekend. 8th of July, Biella, so many people. Hague, Cees, Suwan! congratulations Michelangelo and Maria and all the amazing Staff! bien hecho! we meet all the artists in residence, Natascha, Gloria, Benoit, Juan, Biju, Esther, Steffen, Jaume, Tom, Leopold, Armin&#8230; partytime &#8211; everyone knows everyone and nobody knows nobody. <span class="caps">UNIDEE</span> is open! apply when you are an inventor, visioneer, revolutionist or explorer! the ano zero exhibition was as &#8220;light and empty&#8221; as we hoped. imagine. we&#8217;ll (Teresa, Tal, omi) be back in a week or so, bye.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc87" href="#selector">justo gallego - building studio 02</a></h1>
+      <div class="date">2000/05/01</div>
+      <div class="body"><p>when omi arrived in Madrid Teresa calls and tells from a mail that Paolo Bianchi sent: near Madrid lives Justo Gallego, he&#8217;s building a cathedral since 40 years, Paolo wants him to share also the <span class="caps">LKWII</span> this sommer in the <span class="caps">KUB</span>, on the same plant as we and Walter.they all say his cathedral is fantastic. a fantastic cathedral next to our modelneighbourshiping? well, omi IS in Madrid! he asks a taxidriver on the way to the hotel if he knows the cathedral from..&#8221; what you don&#8217;t know?? you have to see it, you won&#8217;t believe it, you never saw&#8230;&#8221; for half an hour. the next taxidriver he asks reacts the same. we have to go there! Martin and Johannes like the idea to extend the office till Mejorada del Campo, where Justo is living/working. Paolo calls omi after hearing that he&#8217;s in Madrid. he tells him more from Justo, his curator-wishes&#8230;</p>
+
+
+	<p>Joooolines! we see it already from far &#8211; a huge building with all kind of shapes and structures lightning in the hot sun. when omi opens the big metal door he first sees Justo. he is working on something little in his hands, sees us and comes with very critical eyes &#8220;what do you want!?&#8221;, &#8220;well we want to wonder first and then talk to you about an exhibition where we could be neighbours&#8221;. we like each other! he shows us the Catedral de Nuestra Señora del Pilar, we don&#8217;t have words. since only two years Justo got an assistant! we stay some hours, look around from the crypta to the highest spot in the towers and on the roof. we are in the first church for the poor. this is really a church, hopefully also when its finished. Justo says he needs 10 more years, then he will be 84 and the cathedral ready. .he wants to see the first mess. thats also why Justo won&#8217;t come to the opening. but he gives us some paintings Paolo also can use when he wants&#8230; he says everything what helps to finish the cathedral he does, we shall greet the others&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0620/justo.jpg"><img src="/files/xymedia/0000/0618/th_justo.jpg" alt="" /></a></p>
+
+
+	<p>we like that Justo will be our Neighbour. now the situation changed in a way we like. Walters room Lebenssee, our models and Justos cathedral, reflected by photopraphs of Pierre Montavon, together. like three ways met by coincidences in a space where they start to touch each other, just for a curve to change energies. now we are looking forward to do the installation!</p>
+
+
+	<p>. weeks later, Jesus didn&#8217;t show up. well, no hurry, &#8216;cause now we go to Santiago again to pick up Curt &#8211; he&#8217;ll be also in the Fred-team! soon Märle will come back too, they&#8217;ll stay in Casqueiro when we all leave to Biella and Bregenz. but now comes Fred and Brigitta! Fred and Brigitta allready? sunny day, we all are doing last preparations for S2 buildup, when they walk into Casqueiro. Curt lives with us in the mothership so Fred and Brigitta can have the Casita next to S2. we didn&#8217;t finish the first glass of wine when a man from the navias gas station calls: &#8220;listen, we have a packed austrian truck here, the driver always says &#8216;calc, calc&#8217;, you expect something?&#8221; &#8220;the wood!&#8221; Fred says, &#8220;its the wood!&#8221; me and Fred go downtown to pick up Jaroslav, a nice man, who brought the wood from upper austria where Fred bought it (with transport 30% cheaper .and better wood than here). Luks and Curt went out get a Dumper, to carry with it beam by beam to Casqueiro. Luks is a born dumper-driver! one day and the forest is where it has to be.</p>
+
+
+	<p><a href="/files/xymedia/0000/0624/wood.jpg"><img src="/files/xymedia/0000/0622/th_wood.jpg" alt="" /></a></p>
+
+
+	<p>Fred prepares beam after beam with drawings after meassuring everything again what we sent him by mail. Paco, Pablo and Freddy come again. one of us work half day in the lab, to keep on organizing all we need for the <span class="caps">KUB</span> now. we will build the models all there, so all depends how good we can organize all their parts to be ready when we arrive. we propose to Paolo to use this text here for the catalog. will he use it?</p>
+
+
+	<p>Fred likes Pablo and Pablo likes Fred. Pablo says: &#8220;joder, when i could go with him, i mean for some weeks or month, to learn, i&#8217;d do it right away!&#8221; Fred tells us that Pablo works very well&#8230; Freddy serves lunch.</p>
+
+
+	<p>after some days of cutting and making all kind of holes and teeth we start to rise in the 3rd dimension! wooow! Alvaro shows up everyday and helps/learns with us. Fred is really amazing! we all are proud to be his assistants! his mayor tool is the chainsaw and he works with it like it is a fine, precise tool. Fred and Brigitta tell us one evening &#8211; we work since almost a week now &#8211; that they talked about the possibility to invite Pablo to work and live with them. they are restoring an old farmhouse, where a lot of the wooden structure need to be changed&#8230;we can&#8217;t wait to meet Pablo the next morning to tell him! today we already worked on the roof, tomorrow we maybe will have the ridge-party! sky the whole week was more than open, almost a blue hole which sucked us to the infinite.</p>
+
+
+	<p>Fred and Brigitta tell Pablo that he can come if he .wants&#8230;he wants, he laughs, he almost cries, he is very happy about it. he doesn&#8217;t think about it 5 minutes, he imagined it the whole week! Pablo will learn to be a carpenter! that Pablo goes wood we celebrate as a calcfruit! like the house we just build, wow look at that, a real house!</p>
+
+
+	<p><a href="/files/xymedia/0000/0628/studiohouse.jpg"><img src="/files/xymedia/0000/0626/th_studiohouse.jpg" alt="" /></a></p>
+
+
+	<p>we do an original upperaustrian ridge-party: first all who helped and are associated with the house must go up to the roof. then the houseowners say something: &#8220;thank you all for putting up this roof, which would not be here if you couldn&#8217;t have build it so perfectly, gracias, gracias!&#8221; then the Fred must say something:&#8221;this was a good week with good people good wood and good sky. we are lucky people! now we will all drink a deep sip out of this bowl [filled with orujo, like asturian grappa], I&#8217;ll take the last one and then throw it down over my shoulder, if the bowl brakes this house will never have problems&#8221;. sip, sip, sip &#8211; throw, smash &#8211; never problems!
+now Casqueiro is the first time more real that imagined. welcome home in 80% real life of our concept for a infrasculpture! Fred and Brigitta will stay some more days in Angelos flat in Puerto de Vega, Curt moves back to the Casita which has the &#8220;biggest forehouse of the world&#8221; (Fred) now. he&#8217;ll pick up Märle in few days. Freddy will be Curts assitant the time we are gone. one month, probably a bit more&#8230;bye you all, lets keep in e-touch&#8230;Loop, cuida bien la casa!</p>
+
+
+	<p>two days later Teresa, Luks and omi leave Navia. they go with two cars, Luks first to Basel, to get the old model from mothership which we produced 8 or 9 years ago when we presented calc the first time (in the theatre of Bregenz, the <span class="caps">KUB</span> was an architecture competition then), T &#38; o go first to Biella to hopefully get DROPone installed. the first night we spend together in Biaritz. we want to eat again in the indian restaurant&#8230; we say good bye after indidinner &#8211; Lukswants to leave very early to make it till Basel in one day &#8211; see you in Bregenz, take care!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc86" href="#selector">second modell studio 02 - nave in LA</a></h1>
+      <div class="date">2000/04/01</div>
+      <div class="body"><p>we are also in good contact &#8211; sababa! &#8211; with Tal. we&#8217;ll meet soon in cittadellarte to join <span class="caps">UNIDEE</span>&#8217;s opening! we invite Tal to share the KUBproblem. he does, but he also is very busy with a photographic project he wants to finish before coming to Europe some month. he tells us about a roomsize-camera wich is at the same time the studio where the image gets projected on the final printmaterial. it&#8217;s an absolute world-premiere! no one ever did it! but we don&#8217;t understand what.</p>
+
+
+	<p>for the ano <span class="caps">ZERO</span>-exhibition in cittadellarte in july we decide to show just the first schlafhaus-model marCo did and one silkscreenprint on its skin. we imagine this exhibition, which shall give the artists in residence an idea of our work, light, empty, almost nothing, few things, a lot of open space. what will the others bring/do?</p>
+
+
+	<p>Ian starts to mail us this first plan. he proposes a platonic game on this plans. ping-pong.</p>
+
+
+	<p><a href="/files/xymedia/0000/0604/platon.jpg"target=_platon"><img src="/files/xymedia/0000/0602/th_platon.jpg" alt="" /></a></p>
+
+
+	<p>Fred sends plans, detailed drawings and images of the model of S2! he just translated our first clear sketch to a carrying structure out of wood. we see nothing that we should change. Curt and Märle are leaving, they take Freds plans, we will decide the definite plans next week, but there will probably be no changes.</p>
+
+
+	<p><a href="/files/xymedia/0000/0608/model_2.jpg"><img src="/files/xymedia/0000/0606/th_model_2.jpg" alt="" /></a></p>
+
+
+	<p>little updates for <span class="caps">KFN</span> &#8211; they really build the prototype, and how ironic: they name it <span class="caps">FRED</span>. we are in fredtimes! Fred &#8211; the bi-mobile system &#8211; would also fit into casqueiro very well. a guesthouse for shortstoppers, it happens so often!</p>
+
+
+	<p>suddenly we have an idea for Bregenz. when we remember the invitation from Rudolf Sagmeister from the <span class="caps">KUB</span> to do something retrospective and see all the models around us, we start to talk about a modelshow: a kind of &#8220;prospektive&#8221; which shows calc-models of past, present and future projects. we imagine to transform the space into a poetic &#8220;holodeck&#8221;, where models &#8220;show up&#8221;. we see that Zumthor did the whole museum within a grid, which is also reflected in the ceiling-glasses. we transmitt the same grid with fine lines onto the model. this could work. we will do that! we like to see models of different projects in a modelrelation. we always do models, just models. also the &#8220;final pieces&#8221; are models, because we learn again from some mistake, or something ugly&#8230;the last model is never.</p>
+
+
+	<p>end of april, marCo arrives in two days! sleeping house is prepared, all materials and people ready, sky grey but what else can we do? &#8211; we have to risk it! we go to Santiago where marCo lands tomorrow! 7 days we will have together! lets start the first in Santiago. short walk/break in the Sizamuseum, a bit of the old city. lets go to Navia now, the crew is waiting &#8211; next morning Paco, Pablo, David and Freddy arrive. Freddy will be the cook for this week, so we all can concentrate 100% in the covering. weather looks terrible, like the fat black belly breaks every moment and lets tons of water fall. marCo prepares a system to cut the canvas easily, we put the scaffolds, Freddy serves lunch I. sky opens a bit. first evening &#8211; we did a lot, almost 2 thirds of the underpart is covered. marCo says &#8220;tomorrow we&#8217;ll finish the canvas, in two days everything is ready!&#8221; sky laughs loud and rains a bit&#8230; next days full of work, like weeks. sky always the same,. terrible. we remember Bregenz. when we finished there the last aluminium paint and took away the protecting tent, it started to rain like hell. little water entered then and the next morning we had to get a cranecar to paint the top again. almost the same happens this time &#8211; when we put away all scaffolds, after the last beer of the done!-party (marCo already left yesterday) it starts to rain. and it rains the whole night. next morning sunnyblue &#8211; no drop entered the sleepinghouse!</p>
+
+
+	<p><a href="/files/xymedia/0000/0612/schlafhouse.jpg"><img src="/files/xymedia/0000/0610/th_schlafhouse.jpg" alt="" /></a></p>
+
+
+	<p>we call Jesus Frank Chappa, he already did the rain gauge, now we want to ask him to do the leg-endings with metal sheets. we worked with Jesus about 8 years ago when we realized the concept for the blue bOx. he made the conic tin-saucer-lamps then for it. &#8220;tomorrow&#8221; he will come to have a look, so maybe in a week he will come.</p>
+
+
+	<p>we have a last pingpong of question with Fred &#8211; wood &#8211; transport -skills&#8230; everything should be ready.</p>
+
+
+	<p>almost end of may, omi goes to Madrid some days. he meets Johannes and Martin from <a href="http://www.belleville.ch/">Belleville</a> there, because Casqueiro is to overloaded with projects all- ready&#8230; Teresa and Luks stay in casqueiro, they start do build the models models. in madrid we concentrate in few questions around Cyberhelvetia and feedbacking Navia. in Navia we conecentrate in finding the models measurements and feedbacking Madrid. after two days Luks sends an image of the models model! Alvaro helped also.</p>
+
+
+	<p><a href="/files/xymedia/0000/0616/modellmodell.jpg"><img src="/files/xymedia/0000/0614/th_modellmodell.jpg" alt="" /></a></p>
+
+
+	<p>Teresa came up with the idea to put in the middle of the space a huge amount of the &#8220;modelplastic&#8221; we used for TIMEcloud and DROPone. like a modelmountain of possibilities. this &#8220;open hill&#8221; we call yearOFF &#8211; the model for next year, when we want to have an art-break. we want to retire at least a year from doing shows in a-houses. yearOFF means to be more in Spain, at home and all around. restart calc. actually the artbreak means an artstart, because we want to come back to our first questions and ideas, to see what we did with it and where we are with it. is this it? now we can afford to stop and take a overview. its going too fast and we don&#8217;t really know where to stop. did we get up to this bus? or did we get kidnapped by vanities and curators? we have to find like our own timesystem for our projects. we need more times for everything. and more time for nothing too.</p>
+
+
+	<p>with Martin and Johannes omi is officing through Madrid. we start to talk in the first office, the breakfestoffice in the hotel, have a walk and continue in the cafe next to the lake in Madrids park Retiro. after talking we have a walk again, till we find a bar or a restaurant, where we can have a chair and a water to talk again, till we&#8230; till late night, when we walk after the last office back to the hotel. this madrid-office-method provokes a little revolution within Cyberhelvetias concept! soon it shouldn&#8217;t be so secret any more and we can talk more about it. well anyway the revolution came from the <span class="caps">FOTOBOT</span>, Belleville invented&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc85" href="#selector">studio 02 second sketch - amador, el muro nuevo</a></h1>
+      <div class="date">2000/08/18</div>
+      <div class="body"><p>18th of august, where did all the time go?. today it&#8217;s sunny. no, now it rains. yesterday was &#8220;la gira de navia&#8221;, the biggest party of the year, when all people of navia and from all around come to the beach.</p>
+
+
+	<p><a href="/files/xymedia/0000/0586/gira.jpg"><img src="/files/xymedia/0000/0588/th_gira.jpg" alt="" /></a></p>
+
+
+	<p>we saw the &#8220;little-big-wheel&#8221; again &#8211; the one we wanted to bring to . the <span class="caps">KUB</span>-square. did we mention this here? we wanted to bring it as our contribution of &#8220;LKWII &#8211; things between art and life&#8221;, right next to michelangelo pistolettos segno-arte-sculpture. we wanted to invite the little-big-wheel and the whole family who runs it.</p>
+
+
+	<p><a href="/files/xymedia/0000/0592/big_wheel.jpg"><img src="/files/xymedia/0000/0590/th_big_wheel.jpg" alt="" /></a></p>
+
+
+	<p>but no way &#8211; the square was already occupied with other events, cinema, performances, ..., so we did spacePLACE, a play with models of some of our projects. but slowly, one after the other, where did we stop? end of february, coming back from biella. after some quiet days in casqueiro &#8211; to visit and to get visited &#8211; we start to do the preparations for the <span class="caps">SCHLAFHAUS</span>. beginning of may marCo is coming, then we&#8217;ll have 7 days to cover it! we ask Potcholo, our carpenter-neighbour to do the windowboxes. after looking at the possible windows again we change plans radically: now there are 7 windows looking to the southeast and only one to the northwest. schlafhaus will show its back to casqueiro.</p>
+
+
+	<p>middle of march and spring is like warm winter. rains and mists, brooms and frogs. Amador (on of the 8 neighbours son) comes often to look at the wall he wants to build up again. he started almost half year ago, but stopped then because of a better job. now he could continue, but spring is too wintery.</p>
+
+
+	<p>from middleeurope we hear that spring is an african summer, from south-spain that its a stormy autumn. is this a mood of nature or is nature moody because of us? Amador decides (he&#8217;s an artist) to work whenever he has the feeling that the rain is far. and he brings Javi, his brother as an assistant. they wash every single stone before they set them!</p>
+
+
+	<p>we are in contact with Fred. you remember? the carpenter from Linz, we met when we installed a park for L.A. Fred made a model for the second studio, which we want to build in a traditional woodway. we want to include the whole old structure. Fred and Brigitta (Fred&#8217;s love who will come too when we wanna do the buildup beginning of June) ask if we have things clear allready &#8211; date, permission&#8230;but we don&#8217;t. the next morning we start also to think and decide about studio2. we get a big box right away: a real expert tells us that we.need to spend around 8.000.000 pesetas to fix the northern ruin-wall, which is stuck to the hill. joooooder!! tanto?? yes so much &#8211; no alternative, if we want to use the original structure. &#8220;we don&#8217;t&#8221; says Curt, &#8220;we just use the half, where the hill is not so critical, and extend the structure to the street&#8221;. we look at it, we draw it, we talk about it, we like it! we mail to Fred and show him the new drawings.</p>
+
+
+	<p><a href="/files/xymedia/0000/0596/sketch.jpg"><img src="/files/xymedia/0000/0594/th_sketch.jpg" alt="" /></a></p>
+
+
+	<p>Fred likes it too! he says now the re-building &#8220;is more a sculpture than a house&#8221;. Curt loves it and we love Curt! Märle also rises her eyebrows when she sees us dancing around the new decision: S2 will be not long, but fat! as we always said we want to leave everything open to Fred and his way of doing wooden structures for buildings. not architecture but old knowledge of how to put things in relation. or is it the same?</p>
+
+
+	<p>we meet the people from Feve, the little railway which passes Casqueiro. Feve have to give, beside the townhouse, permission to S2 actually we are too near to the rails with our plans, but where there is a law there&#8217;s an idea to go around it. at least here sometimes &#8211; we really have lucklaw! again the argument that &#8220;this is <span class="caps">ONE</span> project&#8221; helps us. the context with the sleeping house, the mother ship and the new road makes clear that we need the new building. we are looking confidently into the future of art and real life.</p>
+
+
+	<p>Potscholo and Tarzan start to work on the window boxes for the sleepinghouse. also the water and the e-people come, great, it looks like we really can organize the first mayweek for its covering. with marCo we are almost in daily contact, by icq. we meet in the net, we click each other, because we have so many questions to type. also about his invitation to write something for the book that will be edited for the biennale of venice (of architecture this summer), where he and Carlos will &#8220;represent switzerland&#8221;. what can we say? but we like that calc goes book and try between the lines of the busy build-days to write about how we work/construct with marCo.</p>
+
+
+	<p>Märle is 60! we travel to las rias bajas, Galicia.. what a good moment for a break! feliz año nuevo guapa!</p>
+
+
+	<p>end of April, sky still crowded, and Amador and Javi finished the wallwork!</p>
+
+
+	<p><a href="/files/xymedia/0000/0600/amador_muro.jpg"><img src="/files/xymedia/0000/0598/th_amador_muro.jpg" alt="" /></a></p>
+
+
+	<p>its funny that all the craftsmen we ask to do a job for <span class="caps">SCHALFHAUS</span> like to do it. they really say: i like to do it! we go to Gijon to see bath-pieces. what toilet, what shower-saucer, what bath? Gijon! and when we only come to you to buy a toilet in your ugly suburb, we love your city!</p>
+
+
+	<p>little time and lust to work on the question how we want to &#8220;fill&#8221; the KUBspace in summer. we don&#8217;t like that the curators decided that there will be one or two more &#8220;positions&#8221; shown on the same plant. much more people than in Linz get invited to share the show. we really thought and started to imagine in the direction of the whole, empty space as the problem. not a crowded groupthing again! we get drawings and sketches from our art-neighbour Walter Pilar. its a seperate room he wants to implant there. so we won&#8217;t work &#8220;against&#8221; an architecture, but with. we won&#8217;t skip the chance, but no idea what we could do now. neighbourhoodart again?</p>
+
+
+	<p>Teresa says: &#8220;we should bring thousands of butterflies to this introverted space, their lightness and beauty would give the house the touch of a breed-jail&#8221;. Luks talks of his grandpa, who collected and bred butterflies. after having the butterfly-idea for some days on the table, we love it and decide to extend the greenhouse Stefan Potengovski wants to do with us next spring for a butterfly-section. there are so many in casqueiro, on this coast. maybe we can bring some rare specimens back. when we look at the flight of them we think about a lightsystem which can simulate this nervous fly by a flipping spot. but no way, no, maybe we come back to it in September in Biel, when <span class="caps">LKWIII</span> should happen.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc84" href="#selector">communimage in space - unidee talks</a></h1>
+      <div class="date">2000/02/01</div>
+      <div class="body"><p>only one crazy week in Casqueiro and Teresa and omi leave again for austria. right after we will meet in Biella for the <span class="caps">UNIDEE</span>-brainstorming&#8230;</p>
+
+
+	<p>in Vienna <span class="caps">GET TOGETHER</span> ends&#8230; about 1000 people left their Segno Arte in oneDROP&#8217;s system, more that we thought, we also did not expect that so many realy did signs&#8230;have a look! Stefan Potengofsky (the one who wants to do the c-greenhouse) does the de-installation. mille grazie!</p>
+
+
+	<p>another time going through france, stoping in Biaritz to have dinner in the little indian restaurant&#8230; is this all true? how can we move so fast from one world into the other? its not. we still are in isreal, eating gefillte indian fish in Biaritz, missing Tal, looking forward to see him and the others soon&#8230; but where are we, why? aaa the big print&#8230; we arrive in austria, we go right away to the lab, Malex sent us a CD with all patches. we can put the dinA-0 pieces together in this lab, almost 600 megs fo one image with 72 dpi&#8230;but no problem and hey, wow, the test looks perfect! shining colors, amazing details. we print the 1:1 communimage on five 107&#215;350 cm parts and glue them on wooden pannels (we can&#8217;t affort aluminium, the photo burns all the budget already..). all goes so easy, why did we worry so much? the installation of the big image is a pleasure, the room is made for it, all goes well. thats the best part of doing shows: getting it all ready, how all pieces fit together more or less by themselves, just because they are part of one idea. Teresa gets ill some days before the opening, omi and Johannes have to do it without her&#8230;25th of january, gong, welcome everybody! we miss Teresa&#8230; she sleeps and sweats while we are confronted with a strange situation. Teresa said: interesting is the turn around of the normal situation. normally many (the audience) look at the work of one (the artist), but here one (the potential artist) looks at the work of many&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0580/cui_remise.jpg"><img src="/files/xymedia/0000/0578/cui_remise_th.jpg" alt="" /></a></p>
+
+
+	<p>after Bludenz we meet marCo again to take with him the last <a href="/projects/schlafhaus/sh.html"><span class="caps">SCHLAFHAUS</span></a> decisions, windows and all that. at the end we <span class="caps">WON</span>&#8217;T use the Goretex material. its great, but not for this use. we lost a lot of time by checking this synthetic texture. now we are back at the beginning: we&#8217;ll do it as it was done in Bregenz: cotton, tension varnish&#8230;in April we can maybe do it marCo could come to Spain, he&#8217;s the one who knows the technique best&#8230;we also talk about how to make DROPone as a permanent system for cittadellarte&#8230;see the best results in real space and life in summer 2000 in via Serralunga 27 in Biella!</p>
+
+
+	<p>okay, lets go to Biella now. when teresa and omi drive (Teresa is mostly the copilot, reading maps, talking route decisions, while omi drives) they feel more and more like spaceriders. like making huge drawings on the asphalt, songlines. we pass by Biel to meet Andreas Meier who invited us with <span class="caps">LKW</span> for a show in september. the Centre parsquArt looks good to us. what the architects Diener &#38; Diener from Basel did there to bring the light in is simple and clear, we remember what Zumthor did in Bregenz&#8217; <span class="caps">KUB</span> &#8211; complicated and not convincing, too much structure for a strange twilight&#8230;in this light &#8220;we&#8221; should &#8220;stand&#8221; in july&#8230;</p>
+
+
+	<p>pero vamos a Biella ahora!
+the crew arrives from all around, Hague Yang from Frankfurt, Stephen Miller from Leeds, Suwan Laimanee from Vienna, Lyn Lowenstein from Edinburgh, Cees Krijnen from Amsterdam and Digi Tal Adler from Jerusalem. we thought we come early, but we are the last, they all sit with Michelangelo in the salon and drink wine when we arrive in the evening. mama mia what a bunch of people. Michelangelo and Maria have the best nose we know! they smell it all together!
+the next day we start early to work, how will we talk next week. Michelangelo brings all basic questions around <span class="caps">UNIDEE</span> to the table. he also wants us to think about a congress he wants to do in late summer or autumn, dedicated to the (not)relation between art and religion or art and spirituality. why do the confessionists own all symbols and all language about religion today? why is there no spoken language outside confession circles? what can art do?
+should art try to work on that &#8220;border&#8221;. the <span class="caps">BORDER</span>. Tal tells what Teresa started in Israel some weeks before&#8230;the congress will be called <span class="caps">THE BORDER</span>, we all want to participate&#8230;</p>
+
+
+	<p>Tal also tells us about Eitans project with the palästinian and israeli children. this would fit perfectly into <span class="caps">THE BORDER</span>. Michelangelo thinks the same, Eitans project will take place in <span class="caps">THE BORDER</span> context&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0584/thezeros.jpg"><img src="/files/xymedia/0000/0582/thezeros_th.jpg" alt="" /></a></p>
+
+
+	<p>we start to lay out the structure (draw) <span class="caps">UNIDEE</span>&#8217;s main conceptual lines. the students will work for 3 months in Cittadellarte (July, September and October &#8211; August they can stay and continue or just relax&#8230;), so we are simulating this 3 months ourselves. we are <span class="caps">THE ZEROS</span>. THE <span class="caps">ZEROS</span> are mediators between the students and <span class="caps">THE ONES</span>. THE <span class="caps">ONES</span> are the &#8220;professors&#8221; who come (almost every week a new one)to present their way of thinking and working and to help the students bringing further the project which they came to Biella to complete. we like <span class="caps">THE ZEROS</span> and <span class="caps">THE ONES</span> because it implicates all possible &#8220;codes&#8221; of interacting. the week is very productive. we sit together every day for 12 &#8211; 14 hours and imagine how it would be to be a student of <span class="caps">UNIDEE</span>. we also come to the very practical things, we make a kind of <span class="caps">DUTY</span>-ROTA as well as the designs (plans for carpenters, etc.) for the huge round table (oval), the Aula and the workshops. but we also leave a lot of decisions open for the students. this has to grow, as all living things&#8230;one off our last common decisions (Haegue and Cees have to go back to their work..) is that at the end of every student year there is the &#8220;student congress&#8221; which is about the future of <span class="caps">UNIDEE</span>. this congress shall formulate questions on all our decisions and correct them if better ideas come up&#8230; why don&#8217;t <span class="caps">YOU</span> apply for <a href="http://unidee.cittadellarte.it/index.php"target==_blank"><span class="caps">UNIDEE</span></a>?</p>
+
+
+	<p>we make a plan which decides when individual <span class="caps">ZEROS</span> will come back, so almost always some of us will be around&#8230; Teresa and omi and Tal decide that they will work together with Luks for sure on two projects this year &#8211; the two <span class="caps">LKW</span> shows in Bregenz and in Biel&#8230;so we three will be there between and during the shows in Biella&#8230;</p>
+
+
+	<p>one after the other leave, Teresa, Tal and omi are the last&#8230;
+last breakfest with our dear Pisti friends and then we are leaving, Ciao bellos, we&#8217;ll see and hear each other soon, grazie per tutto!</p>
+
+
+	<p>we bring Tal to milanos airport, he&#8217;s going back to Israel until June when we meet in Cittadellarte to install DROPone and start our ZEROcareer&#8230; Ciao Digi, see you soooooooon&#8230;.</p>
+
+
+	<p>on the spaceride again&#8230;.we go down south to the mediterian, one night in Menton, still cold down here, but first fruit trees have blossoms&#8230;Luks tells us that in Casqueiro the spring has already started! in a little town in france we meet omis parents, they are coming to Navia for a few months. we take it slowly, three days and we are back, back to the place were we want to live.</p>
+
+
+	<p>the dogs almost eat us&#8230; Luks looks good! the Callas flowers are open already, it smells like spring, yeah. lets stop a while, walk a while on the seashore&#8230;
+we want to work on calcaxy 3.0 soon, its just a boring system now&#8230;</p>
+
+
+	<p>17th of february, its raining today&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc83" href="#selector">egypt - studio 02 first model</a></h1>
+      <div class="date">200/01/07</div>
+      <div class="body"><p>we have to go back. Anna arrives tomorrow from Sweden. Anna studies landscape architecture and looks good. thats all we know, we just met her a moment when she visited Tal last year in Biella.</p>
+
+
+	<p>thank you Amir, hope to see you again! take care man&#8230;</p>
+
+
+	<p>Bienvenido Anna! Jerusalem is quiet. where are the masses they all predicted? we like that people seem to prefer their private home space. this year even fewer people than other years come out. angst from bombs, milleniumstress&#8230; good sign that everything happens dfferently than the marketing manipulators hoped for and worked on. there is no mass, there is no society. just people everywhere. digiTal goes crazy. he wants to send a huge hand into communimage. when we go to bed late at night he still is working, he has to send about 50 patches&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0558/digi_tal.jpg"><img src="/files/xymedia/0000/0556/digi_tal_th.jpg" alt="" /></a></p>
+
+
+	<p>we like that he transforms the whole image into one big buddy. at least the &#8220;newyear-print&#8221; (link auf totale print) we wanna show in january in Bludenz will be this body, before the hand will be overgrown by new image patches&#8230; when we wake up the next morning Tal is just finished. he realy did it! digi Tal!</p>
+
+
+	<p>we wanna go down south now, down down south. for new years eve. through the whole Negev to the red sea where omi and Teresa lived 10 years ago and where the idea for calc was born (we talked the first time about a &#8220;infrasculpture&#8221; there&#8230;) we pass by endless fields of greenhouses. like another planet, the reflecting light from the plastic reflects and changes air into flimmershimmer.</p>
+
+
+	<p><a href="/files/xymedia/0000/0562/greenhouses.jpg"><img src="/files/xymedia/0000/0560/greenhouses_th.jpg" alt="" /></a></p>
+
+
+	<p>Basata, where we once lived, building huts for &#8220;artists in the desert&#8221; and now: the village Sherif and Maria always dreamed of. even a mosque has been built, a station where they change salt- into sweetwater and a little school where their own and bedouin children go. Basata grew the same way as Casqueiro. Tal doesn&#8217;t like it first, because Sherif gives us a stressed welcome (so many people arrive from escaping center-millenium-stress&#8230;), but soon we sit glad in the sand and drink tea. new years eve, <span class="caps">THE</span> new years eve is what we all wished &#8211; a night at the beach on red sea like so many &#8211; sky clear and people calm&#8230;we go to dinner to a neighbour bedouin camp, Tal knew it. great fish with Koriander! Tal did a collectors item piece there Nr.:21)... on the wall&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0566/collectors_item_21.jpg"><img src="/files/xymedia/0000/0564/collectors_item_21_th.jpg" alt="" /></a></p>
+
+
+	<p>Sherif and Maria also built houses.
+we told them to install a telephoneline in one. we would like to work out a project with Tal here&#8230;
+on the the 01.01.2000 at 00:00 we sit together and Tal says: I want to call my mother. in this moment omi&#8217;s handy is ringing, it&#8217;s Tal&#8217;s mother&#8230;hours later we sit under the bright star sky and omi says: i&#8217;ll switch off my telephone now, my mother won&#8217;t call anymore, right at the end of this sentence the telephone rings, its mami&#8230;
+mamis night. the future belongs to women!</p>
+
+
+	<p>now Malex does (the program he made does..) the &#8220;communimage- taping&#8221;. this moment of the growing image we will expose soon in Bludenz. back to Jerusalem, adios Sherif and Maria, how good to know you in the middle of your dreams, see you soon and please put a telephoneline to one house&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0570/basata.jpg"><img src="/files/xymedia/0000/0568/basata_th.jpg" alt="" /></a></p>
+
+
+	<p>Jerusalem! Tal makes his last supersoup for us, we have to leave tomorrow, we would like to stay much more time&#8230;but we feel it:
+this land is our friend, as conflictive and shimmering it is. this is calcfloor. we tell Tal that Michelangelo Pistoletto will invite him and we will meet soon in Italy, where we will brainstorm about <span class="caps">UNIDEE</span>&#8230; and hey! good news from Luks, who had a visit from people from the trainline, which passes our land. they will give us the permission to built the second studio house! after so many years of planning, waiting, asking&#8230;they probably changed their mind after they saw that we mean what we say when we did the park for L.A&#8230;
+they maybe understood that we just need more space&#8230; shortly before we left spain two weeks ago Fred from Linz sent images from the model he made for this studio. we want to build it like he planned it, a clear wooden structure for a big roof:</p>
+
+
+	<p><a href="/files/xymedia/0000/0574/hallezwei.jpg"><img src="/files/xymedia/0000/0572/hallezwei_th.jpg" alt="" /></a></p>
+
+
+	<p>Tal! byebye, see you soon in Italy! lets work together this year on some projects, lets talk in Biella&#8230;thanks for all&#8230;ooo wow, we get all Shimon &#38; Shimon posters! when tal comes to spain we should do webpages of it, so you all can see it&#8230;
+sababa DigiTal!</p>
+
+
+	<p>back in Casqueiro on the 3rd of january. Luks comes to the airport, we talktalktalk all the way back home, so many new ideas, questions and plans&#8230;but now we have to concentrate right away in communimage&#8217;s production. we make contact with the people who produced the orange prints for the park for L.A. good, they are able to &#8220;print&#8221; it on photographic paper, we&#8217;ll try that. from communimage&#8217;s facettes we want to make simple statistic visualisations&#8230;just copies to take away for free, we also want to produce visitor cards, on which communimage from the 01.01.2000 is shown as 1 pixel per patch&#8230;.</p>
+
+
+	<p><img src="/files/xymedia/0000/0576/tarjeta.jpg" alt="" /></p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc82" href="#selector">eytan, golan, the border</a></h1>
+      <div class="date">2000/01/01</div>
+      <div class="body"><p>Happy new yeah!!</p>
+
+
+	<p>when we visit a performance night in an artschool in some Jerusalem suburbs, we meet Eitan, a good friend of Tal. Eitan did a great project. when we hear of it we feel happy that people over here think and act similar in their hopes to give art a wider effect. he bought these cheap throw-away-cameras and gave them to palästinian and jewish children. the children then took images of their daily life and sent the cameras back to Eitan. then Eitan produced postcards and gave them to the children who did the images. he also gave them then an address from a child on &#8220;the other side&#8221;. the children started to send each other this cards, it worked much better (with much more engagement from the children) than Eitan thought. a great exhibition was also realized, and the artists were all invited&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0534/home_1_2000.jpg"><img src="/files/xymedia/0000/0536/home_1_2000_th.jpg" alt="" /></a></p>
+
+
+	<p>homepage &#8211; january 2000  <a href="/projects/homeology/index.html">(homeology)</a></p>
+
+
+	<p>Teresa comes up with image or question of the <span class="caps">BORDER</span>. what does <span class="caps">BORDER</span> mean when its on one hand an old, not working concept (the net&#8230;) and on the other a painful certainty every day. imagine to live in a land where you can not visit your neighbourlands. Teresa and Tal talk the whole night about this image. they decide to put it on top of our &#8220;projectlist&#8221;. we will work with the <span class="caps">BORDER</span>.</p>
+
+
+	<p>we make a trip to the dead sea. really dead this sea, but funny dead. you go into the water, try to swim and bloooobs you lay on top of the water like a fallen leave. you have to laugh because its against all experience-data in your mind and what can&#8217;t be is funny when it doesn&#8217;t scare. we lay a bit in the water, we sit a bit in this strange air (the place is 800 metres below sealevel!) and we take a bath in a sulphur tank, which stinks but feels good. what a strange place. nowhere, a light like too much light, but not bright, salt like dancing in the air. all sounds different, a bit like when snow makes the tones more bassy.</p>
+
+
+	<p><a href="/files/xymedia/0000/0540/deadsea.jpg"><img src="/files/xymedia/0000/0538/deadsea_th.jpg" alt="" /></a></p>
+
+
+	<p>we have to laugh because there is a bay watch. why when you can&#8217;t go under?
+.
+we drive back northwards towards the Golan heights because Inbal, a friend from Tal invited us to meet her in the Kibbuz Kineret for x-mas night. we are looking so forward too! Kineret! wasn&#8217;t that the lake where Jesus walked over? we stop. Tal wants us to show a huge panorama painting a soldier made when they had a kind of camp here. did they go because of this bomb?</p>
+
+
+	<p><a href="/files/xymedia/0000/0546/panoramabomb.jpg"><img src="/files/xymedia/0000/0542/panoramabomb_th.jpg" alt="" /></a></p>
+
+
+	<p>Kineret!
+our night in the Kibbutz is fantastic! Inbal and her sister Reut meet us in front of the huge kitchen where they all (600 live here) eat together. people are friendly, because friends of friends are friends&#8230;
+its x-mas eve and nobody seems to be interested about, just a quiet evening with good food. Inbal tells us that more and more the Kibbutz structures fall apart. people taking better jobs outside and don&#8217;t want to share with those who do less inside&#8230;
+this Kibbutz is a rich one. good houses. and good cars standing around, which you can take if you are a member and got the card for the car-start-slot&#8230; where do we go? to the disco! there is a x-mas party in the disco! we arrive to Kinerets main club. its getting crowded, Tom Jones sings Burning down the house with miss Carnegies. Teresa, Inbal and Reut dance allready. Tom would be proud of them! Tal and omi talk and hang around, while the rain is pouring on the discos thin roof. happy x-mas, thanks for this present Tal, its the best place on earth to be now.</p>
+
+
+	<p><a href="/files/xymedia/0000/0550/kineret.jpg"><img src="/files/xymedia/0000/0548/kineret_th.jpg" alt="" /></a></p>
+
+
+	<p>Kineret became so wealthy because they have a baptism-station, where buses of pilgrims arrive to be born again. they say its the place at the river Jordan where Jesus got baptised. so they sell all kind of gifts there, holy water and so on&#8230;
+Inbal wants to come with us the next day when we go up to the Golan Heights to visit Amir, another friend from Tal. Inbal says its maybe the last change to visit the Golan&#8230;she also would give it back&#8230; but then she can&#8217;t come, hangover&#8230;</p>
+
+
+	<p>Amir is already awaiting us. its raining and foggy, we don&#8217;t see the green landscapes all talked about. Teresa talkes an image of us three. military police is passing slowly by when we pose in the fog&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0554/golan_three.jpg"><img src="/files/xymedia/0000/0552/golan_three_th.jpg" alt="" /></a></p>
+
+
+	<p>behind us, this little fence is the syrian border. the <span class="caps">BORDER</span>. we drive up up up till a UN-checkpoint. a sign says: <span class="caps">STOP</span>. we keep on driving. only few seconds later the soldier in the tower comes out with his gun and a military jeep is behind us. without changing speed Tal makes an elegant curve and goes back, the jeep only follows till the sign&#8230;lets go eat at a Druse restaurant says Amir. a what? wow! we like it. full of people. an israeli soldier looks like a comicbook soldier. 2 meters high, wide as a closet and trashy uniform like he was thieving before he came here. but he smiles, while putting his old Uzi gun on a chair next to him. it&#8217;s the first time in our life that we see soldiers with a relaxed eye. would we be soldiers if we would live here? would we want to try so that nobody throws us to nowhere? we remember Ronny who told us about his three years on the south lebanon border. every night fights and stress with the arab fanatics. we hear that Barak wants to give back south Lebanon to make a clear signal to the Syrians&#8230;</p>
+
+
+	<p>Ronny was the first soldier we understood. but he also was the first one who toled us more than national-clishes. he doesn&#8217;t want war, but protection and expanded peace. but how? when all neighbours are pointing their guns at you? the first question in Israel is: do you accept Israel? you think, should this state should be this state? yes, but..but it&#8217;s not so simple. and fundamentalists who believe in the truth of the eternal word are on both sides blended by their weak way of giving responsibility to a blind ruling god. why respond with your own words when all is written? the <span class="caps">BORDER</span>.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

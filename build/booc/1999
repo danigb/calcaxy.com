@@ -1,0 +1,760 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <a href="/booc/2008">2008</a>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <div class="active">
+          <div class="head">1999</div>
+          <ul>
+              <li><a href="#booc81">1999/15/11</a></li>
+          
+              <li><a href="#booc80">1999/10/10</a></li>
+          
+              <li><a href="#booc79">1999/09/13</a></li>
+          
+              <li><a href="#booc78">1999/08/20</a></li>
+          
+              <li><a href="#booc77">1999/06/10</a></li>
+          
+              <li><a href="#booc76">1999/03/04</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc81" href="#selector">unidee online - israel</a></h1>
+      <div class="date">1999/15/11</div>
+      <div class="body"><p>next stop Biella. Michelangelo is awaiting us because he wants us to analyze the structure of his website. we like to do it, although it hurts to analyze what italian &#8220;professional designers&#8221; sold him.
+we do the redesign-concept online with Luks, who is back in Casqueiro with the animals. we have to work with the navigation metaphor, there&#8217;s is not enough time to start from zero&#8230;
+we make all the decisions in an intense, short week. its always a pleasure to be and work with the Pistis!</p>
+
+
+	<p>after a week we drive slowly back to L.A. we take a new route, France is huge, but in all corners the same strange sensation of no people. hundreds of kilometers where we see no children, although it was sunny and the trees inviting. Michelangelo calls</p>
+
+
+	<p><a href="/files/xymedia/0000/0524/loleilo.jpg"><img src="/files/xymedia/0000/0522/loleilo_th.jpg" alt="" /></a></p>
+
+
+	<p>he came up with another idea for the redesign&#8230;
+since we wrote our <span class="caps">URL</span> fat on our car, we get a lot of questioning looks. the web still is mostly a white sheet for projection from people who never been there. we want to work with the car&#8217;s <span class="caps">URL</span>. see C later&#8230;</p>
+
+
+	<p>we get home, the dogs almost eat us, Luks looks great, morer relaxed than Teresa and omi, who need some days of sleep and visiting friends. our professor friends from Navias highschool, Yoli and Rata got a fine idea to do a kind of transborder childrens project. they made contacts with schools in all the world, specially with unknown or poorly developed regions. now children draw their daily life and home. they will exchange all these drawings. a visual-childrens-perception-bank is growing slowly. we want to think about how to bring it onto the net&#8230; we work like moody robots in <a href="http://www.cittadellarte.it.it">http://www.cittadellarte</a> not easy to do it all in one week, but it&#8217;s really necessary, because Hans_extrem, the net callboy and ex etoy.com former wants to do the web launching for <span class="caps">UNIDEE</span>. realize your idea! add your proposal to it, <a href="http://unidee.cittadellarte.it/index.php"><span class="caps">UNIDEE</span></a> is the university we waited for!
+<span class="caps">UNIDEE</span> opens up in the beginning of July 2000!</p>
+
+
+	<p>we made it, its online! now the informations are at least not boring and the structure should be clearer&#8230;</p>
+
+
+	<p>Israel! we are coming, on the 15th of december Luks brings Teresa and omi to the airport of Oviedo. Luks wants to have some quiet days on the coast with Susi, Marco and their friends. Teresa and omi too, but on another coast. in the airplane, after a long interview with an israeli security man, we realize that its a crazy moment to go to Israel&#8230;the half world is expected&#8230;but they remember Tal, when he said he wants to go with them to the desert, away from all which is important and heavy. they touchdown at Tel Aviv airport late at night. Tal wrote in his last e-mail: don&#8217;t miss to see Tel Aviv when you fly in from the sea, its a great view. o yeah, surprise surprise, this looks like the future, not like the past.</p>
+
+
+	<p>we stay some days in Tel Aviv before Tal comes picking us up. Tel Aviv means spring hill. and spring hill is full of great architecture! although we don&#8217;t see any hill, except the hill Jaffa is built on and the enormous junk hill on the way to Jerusalem&#8230; (they invited artists to think about how to transform this hill into life, because it stinks like hell and an aeroplane almost crashed because of the amount of seagulls..) Tel Aviv is like a mediterean Gijon, we love it, we want to buy a house, we want to stay a few years. Shankin street is like little Berlin-mitte&#8230; but better for us, more calclike, more time here and people who look into your eyes, like they want to scan your soul and like we saw it only from the egyptians before. calc loves Tel Aviv!</p>
+
+
+	<p>we meet Tal in a weird cowboy-pub, hola amigo, we were looking so forward to see you! we have a beer and then a good ride to Tal&#8217;s Moshaf (little village), which lays on a hill over Jerusalem. we can see Tel Aviv from here! Israel is small, and so huge in worlds history and actuality&#8230; we would give the Golan back&#8230;although the syrians attacked years ago on Yom Kippur and although its strategically so important. also the water, yes, but there could be good contracts and there could be UN&#8230; but can the world trust mister Assad? at least majority still trusts Barak&#8230;
+this trip opens our eyes and Tal is the best Israeli guide in the whole universe! Ronny (Tals partner in Shimon &#38; Shimon series, see their last poster half meter down&#8230;) shows us the center of the world, Tal once defined ironically.</p>
+
+
+	<p><a href="files/xymedia/0000/0528/worldcenter.jpg"><img src="/files/xymedia/0000/0526/worldcenter_th.jpg" alt="" /></a></p>
+
+
+	<p>it&#8217;s downtown Jerusalem where these strange diagonal Zebra stripes make the border between the orthodox and the modern neighbourhood. we walk through an ultra orthodox quarter. Jesus! where did the last five hundred years go? we also see the arab street in the old town which leads directly to the dome of the rock. an incredible crowded and beautiful street with a roof, one good or strange smelling little shop after an other. a wonder that people seem not to touch each other while walking through it without changing speed. when we want to enter the dome of the rock (Tal is now also an european tourist&#8230;) a israeli policeman stops us: too late, we&#8217;re closed now!
+we can only see inside. there are trees and calmness, no market at all, the opposite. since Jesus threw the money changers out it seems to be respected in there that &#8220;moneypower&#8221; has no home where &#8220;heartpower&#8221; rules.
+.
+walking in Jerusalems old town, we remember again the last poster Tal made with Ronny, Shimon &#38; Shimon Nr.:?:</p>
+
+
+	<p><a href="/files/xymedia/0000/0532/shimonandshimon.jpg"><img src="/files/xymedia/0000/0530/shimonandshimon_th.jpg" alt="" /></a></p>
+
+
+	<p>I love Lebanon. below its written: garanteed promotion in case of death. when we got their mail in Casqueiro we asked ourselves:
+so we need to glue beards on when we walk with Shimon &#38; Shimon in the streets? no, said Ronny, as long as you don&#8217;t kill the prime minister nobody cares. they really didn&#8217;t get one reaction from it! in europe, specially in the official art-scene this kind of political, ironic, symbol-playing poster would be a political incorrect hype!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc80" href="#selector">get together</a></h1>
+      <div class="date">1999/10/10</div>
+      <div class="body"><p>jesus christ &#8211; so much time without writing in here, but we really have been far out:</p>
+
+
+	<p>middle of september:
+we (again Teresa and omi) leave to Widnau, Switzerland, where we meet marCo, who has the wooden pieces from oneDROP, which we want to install in Vienna soon. they are exactly the same as they where in Biella when oneDROP was DROPone (italian for huge drop). Luks found a shareware program on the net which allows us to program the thousands of Segno Artes with a few clicks&#8230;great, after a few hours and all pages were done!</p>
+
+
+	<p>Switzerland is as boring as it ever was. it really seems to be stuck in the past where everything was &#8220;all right&#8221; and the world thought swissies were very clever people with integerity.
+then the &#8220;nazi-gold&#8221; was found there and since then they have a similar attitude as the austrians, which also never worked on their fascist past&#8230;
+what a strange strange &#8220;balance&#8221; between rich and boringness here! but we like both, sometimes, only the permanent combination makes living hard in S. but thats the view of &#8220;most people&#8221;, the little circles of experiments and trans-living are great. awake.</p>
+
+
+	<p>did we say yet that Fabio Cucci said yes to our question if we could have his online-paint-tool for oneDROP &#8211; SegnoArte ? well anyway &#8211; it gives us a lot of problems, because Fabio has no time and doesn&#8217;t give us the source code&#8230;as happy as we were when he said yes, we&#8217;re frustrated now when he lets us wait and wait&#8230;and Vienna is getting closer&#8230;</p>
+
+
+	<p>austria has huge holes, for example the Arlberg Tunnel</p>
+
+
+	<p><a href="/files/xymedia/0000/0508/arlberghole.jpg"><img src="/files/xymedia/0000/0506/arlberghole_th.jpg" alt="" /></a></p>
+
+
+	<p>we have so many tunnel images, we should do something with them.
+we arrive in Vienna three weeks before the opening. the ride from western to eastern austria is like time travel, not from past to future or vice versa, but going through all ages like going over hills of time. in some regions the last 100 years seem to have not arrived yet in the present&#8230; we feel like aliens (people look at us like we are) and our Ford transforms into a spaceship. but in Oberösterreich (upper austria) we see something reeealy strange:
+they have huge banners over the bridges which cross the highway, saying:
+<span class="caps">LAND OF THE HAMMERS</span>. is this self-critical/ironical?
+because in austria they use the word <span class="caps">HAMMER</span> also for <span class="caps">IDIOT</span>. hmm, really strange, because the banners are done so &#8220;lovely&#8221;, with flowers and rustic ornaments around&#8230;.then omi, who is a native austrian, remembers that they have this line in their national-hymn: land of the hammers you are rich of future&#8230;they meant working not fooling&#8230;</p>
+
+
+	<p>we are the first artists and will be the last. we like to do things slowly, try various positions and meet the stuff. the stuff always tells us more than the &#8220;directors and curators&#8221;. maybe because thinking while building installations is not as attractive as working&#8230;hands say more than tongues. anyway, Viennas <span class="caps">KUNSTHALLE</span> has a great stuff team, Richard is the boss. he looks like he could pound a nail by shouting at it. but he and his team can do much more!: in only two weeks they built up all the architectonic structure <span class="caps">PAUHOF</span> developed for this show.</p>
+
+
+	<p><a href="files/xymedia/0000/0512/aufpauhof.jpg"><img src="/files/xymedia/0000/0510/aufpauhof_th.jpg" alt="" /></a></p>
+
+
+	<p>incredible what money and good people can move. we feel at home also because the <span class="caps">PAUHOF</span> architects. they are always around and take their job seriously as it should be when architects prepare space for a show. they call oneDROP &#8220;the lapidare architecture we always wanted to see&#8221;. they help us with all decisions to put oneDROP in its best position&#8230;we would like to work with them in another project&#8230;</p>
+
+
+	<p>also with Kaoli, the man who looks after all digital equipment in Kunsthalle, we&#8217;d like to work with him again&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0516/kaoli_resi_.jpg"><img src="/files/xymedia/0000/0514/kaoli_resi_th.jpg" alt="" /></a></p>
+
+
+	<p>Michelangelo and Maria Pistoletto come to visit us and to decide the last steps before they leave for Halifax to open another show. they like the space <span class="caps">PAUHOF</span> prepared for us as much as we do. we show them the interface and the pages we made for SegnoArte. the paint tool (§<img src="##" alt="" />!krckxs<img src="#" alt="" />!) still doesn&#8217;t work! it would be so easy but Fabio doesn&#8217;t give the source code.so we write him a flaming please-man-don&#8217;t-fuck-us-mail. that works, it seems that it will run till the opening!
+Clementine Deliss comes also for a short visit. shes in Vienna because shes presenting here her new <span class="caps">METRONOME</span> edition. pity we can&#8217;t go, but we have to finish the installation&#8230;</p>
+
+
+	<p>our sculptural neighbour is mister Jason Rhoades. if we would have known what a hurry-hurry-career-torpedo he is we would have wished to be as far as posible from his work. he acts exactly the way we never wanted to, so its a good example to see how not to be&#8230; why do conservative american men (like the other heros from the westcoast) get so famous? faster-bigger-better-mainstream as its art version?</p>
+
+
+	<p><a href="/files/xymedia/0000/0520/home_autumn_99.jpg"><img src="/files/xymedia/0000/0518/home_autumn_99_th.jpg" alt="" /></a></p>
+
+
+	<p>homepage &#8211; october 1999  (homeology)</p>
+
+
+	<p>8th of october, big bammbamm, the show <span class="caps">GET TOGETHER</span> opens and so does oneDROP &#8211; Segno Arte. The book they made about it is better than the real thing. <span class="caps">GET TOGETHER</span> &#8211; Art as Teamwork, <span class="caps">ISBN</span>: 3-85256-135-3</p>
+
+
+	<p>byebye big old town, thank you Vincent Abbrederis, old treasure where we lived, ciao stuff, adios artistas, see you in another space.</p>
+
+
+	<p>we drive back in time through rainy Austria. spend days in Widnau, Teri (Teresas mami) celebrates her 60th birthday! Feliz cumpleaños!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc79" href="#selector">park for LA - 1ª fiesta</a></h1>
+      <div class="date">1999/09/13</div>
+      <div class="body"><p>fresh rain and now :<del>&#8212;</del>&gt; 13-09-99</p>
+
+
+	<p>we&#8217;re working on the interface and the tools for oneDROP &#8211; Segno Arte, but before Teresa and tOmi go vienna-wards in about a week, we want to send the last week&#8217;s events to the curriculum &#8211; the park opened! and still summer winding round on greencoast.
+Luks and omi visit almost all bars in navia. they all give us something to drink for the party, they all &#8220;know&#8221; about the project, they like it, they like parties in general&#8230;we come back with a car full of bottles, everything, except hard drinks. Alvaro and Klaus are painting Alvaro&#8217;s house white!
+a triple-party: opening of the park, goodbye to Silke, bienvenido a L.A. Alvaro!</p>
+
+
+	<p>Silke really leaves in two days! what a good time we had! and have, come on, lets brake the wall!</p>
+
+
+	<p>up until the last moment we doubt if mister mayer sends the workers he promised&#8230;
+but what are we waiting for?
+briiight sunnny dayy!! we start with hands and lust and also anger #!!&#38;, no workers show up till 12:00.. but Klaus! Silkes Süsser, who came to pick her up. on the first of september, in the afternoon the official-excavater comes! ha! in one day we chop the wall into pieces and carry them away.</p>
+
+
+	<p><a href="/files/xymedia/0000/0480/reallife.jpg"><img src="/files/xymedia/0000/0478/reallife_th.jpg" alt="" /></a></p>
+
+
+	<p>Hola Ross, que tal estas?
+greetings from real-life-L.A.!</p>
+
+
+	<p>they use the wall-stones in Las Vegas (Las Vegas is a quarter in Navia, only 7 minutes from L.A.), where they dry out a swampy space to build a new block. tomorrow we and some nice workers from mayor&#8217;s team want to finish the &#8220;wallbench&#8221;. when a wall gets a bench a revolution happens.</p>
+
+
+	<p><a href="/files/xymedia/0000/0484/senoras.jpg"><img src="/files/xymedia/0000/0482/senoras_th.jpg" alt="" /></a></p>
+
+
+	<p>we can&#8217;t believe it, 2nd of september and at 18:30 the last stone finds a place in the cement bed! Paco Sandchidrian (painter) paints a great transparent: <span style="color:orange;"><span class="caps">EL PARQUE DEL NARANJO</span></span>, Manolo Rata (pintor!) quita un montón de escombro, gracias carino! people come, women, children, tortillas and cakes and wines and dogs. we put lights and Mano Chao&#8230; que alegria, verdad?!
+we are surprised by the village peoples direct- and open way. even more because the austrian TV (director: markus Barnay, camera: Rheinhard Moor, holydays: Jasmin Oelz, Miss Moor and children) is here! but no problem, they act as if they have cameras around all year.
+a lot of them show joy as well as criticize themselves. &#8220;why didn&#8217;t we do anything all the years?&#8221; Teresa and Silke made a kind of image-information-board with all the webimages from the o-show we did in Linz. with a little cleartext about the link between art and park. the people understand fast how it came, and, we wonder again: they talk about it! about &#8220;art&#8221; and &#8220;our park&#8221;.
+ten o&#8217;clock, the parkbar is crowded! kids are playing in the orange tree and Sidra floats in rivers &#8211; La Gaita y el tambor vienen!</p>
+
+
+	<p><a href="/files/xymedia/0000/0488/gaita_tambor.jpg"><img src="/files/xymedia/0000/0486/gaita_tambor_th.jpg" alt="" /></a></p>
+
+
+	<p>we sit on the wallbench and watch the people live. there&#8217;s only peace where there is food and music&#8230;first ideas show up how we could &#8220;install&#8221; a park for L.A. next year in Bregenz and Biel. we use the hole installation-budgets for the journey of all people from L.A., they bring tortillas and gaitas..</p>
+
+
+	<p>we remember sometimes Beuys&#8217; 7000 Eichen when we see the ~150 oranges. we like how these two projects touch each other. but it grows in very different ways. now it grew even together! Paolo Bianchi put an image from from the Linzinstallation next to an image from Beuys&#8217; Eichen-Basalt- project&#8230;in Kunstforum int. we are happy about this sync! it sync&#8217;s a lot with Paolo!</p>
+
+
+	<p>the parkproject will go slow from now on. the most important step is done, it&#8217;s open. now a good contract has to be worked out. we want to donate the. park, but keep the &#8220;total design right&#8221;, in the name and voice of the L.A.people. but slowly, first of all we want to ask Juanin if he could come with his tractor to open the hole parkearth, so we can remove all beastieroots&#8230;and plant fresh&#8230;</p>
+
+
+	<p>2nd of september, we did it! and it just started today! art is how people meet.</p>
+
+
+	<p><a href="/files/xymedia/0000/0492/los_peques.jpg"target:_blank"><img src="/files/xymedia/0000/0490/los_peques_th.jpg" alt="" /></a></p>
+
+
+	<p>oneDROP &#8211; Segno Arte, the first project we&#8217;ve done without Silke for a long time. Silke is back &#8220;home&#8221; in the tirolean alpitecture. she wants to open a firm: <span class="caps">SATTELITE</span> or <span class="caps">SETALIGHT</span> or &#8230; , we wonder how she&#8217;ll write it&#8230; anyway Silke will be a star!
+and we miss her!</p>
+
+
+	<p><a href="/files/xymedia/0000/0496/satellite.jpg"><img src="/files/xymedia/0000/0494/satellite_th.jpg" alt="" /></a></p>
+
+
+	<p>for the oneDROp installation we work over all on the website for Segno Arte. it shall be clear and easy to handle&#8230;as the first text from M.Pistoletto. now we are programming all the art marks he collected during the long run of this idea. it should be online with the opening in Vienna on the 8th of october. pass by and show us your Segno Arte!
+onDROP will be as DROPone, but with different furniture and workstation, more like a concentrated &#8220;myself-dropspace&#8221;.
+see C on the 8th!</p>
+
+
+	<p>Lisi H. goes Paris! the o-show in her gallery was economically twiggy, but party big! well, no problem, tranquilo, maybe in Paris o-art is better wished and selled. people are still afraid of digi-images, they don&#8217;t know if there isn&#8217;t maybe a virus in the image&#8230;we have to think more in the &#8220;data-contract&#8221; we want to sell with the images; the original data and some copyrights&#8230;</p>
+
+
+	<p><span class="caps">FIAC</span> -paris <span class="caps">CALC</span> &#8220;a park for L.A.&#8221; gallery Lisi Hämmerle stand h12 &#8220;Perspectives&#8221;, 15 &#8211; 20 sept 1999.
+we never liked artferys. now that we are presented on one we do like it. we are interested how those simple digi-iamges of oranges reach people. this images mean a tree, although they show only calculated colors and shapes in order of an idea. the special esthetic of digitechnics are too new and too &#8220;unjudged&#8221; to be boring. no it won&#8217;t be boring&#8230; Lisi produced the same wall-elements as we used in Linz to show the images. tomorrow in Paris!</p>
+
+
+	<p>the first time we can not only just work for, but also with money! the firm and the art play well together. one bank sits the other&#8230; we are looking forward to do the site for <span class="caps">K96</span>, the architects who develop the systems for <span class="caps">KFN</span>.
+we just talked to <a href="http://www.olk.cc/">Oskar Leo</a>, one of them, they already can do a <span class="caps">BIMO</span>-prototype!
+before x-mas, and we go to visit Tal and Israel, it should be online.</p>
+
+
+	<p>Ian Feldglocke from oversea Spanada does the new linkbank-extension for the <span class="caps">KUB</span>! thats fine! how often we want to beam mister Campbell over! we definitely would like to work with him in a &#8220;big project&#8221;!
+could be, could really be that another swiss expoproject, for which we just concepted a special virtual section, brings these possibilities faster as we know now&#8230;
+but will swiss-expo01 happen?? actually it looks like all the visions got snapshots and not enough time to build up this huge swissship for 2001. isn&#8217;t it ironic?: communimage seems the only &#8220;public and common project really working&#8221; till now&#8230;</p>
+
+
+	<p>Ian is the only one we know who has a communimage-up-do-date-link on his website! commi works pretty good, well, some corners really suck! but others glimm like a transartistic visual rap! its time to generate the facettes&#8230;, but in the moment theres no money &#8216;round to pay this work. big sponsor wanted&#8230;lets see what the expopeople decide and do&#8230; it grows anyway.</p>
+
+
+	<p>Juan forwards a mail &#8211; <span class="caps">VIPER</span> &#8211; Luzern wants to show communimage! we wonder how! will they contact/ask us too? or is the expanding image also expanding rules? we do nothing and like to not know. let the image expand.</p>
+
+
+	<p>last rays of sun in days of concentration, intensive calculations! can we afford a swimming pool? and would it be luxury or healthy or both? but pah! we still have the naked schlafhaus-skeleton waiting for its <acronym title="R">GORE</acronym> -skin. we have to call them! will we make it this year? or next spring? never?</p>
+
+
+	<p><a href="/files/xymedia/0000/0498/alba_tita.jpg"><img src="/files/xymedia/0000/0500/alba_tita_th.jpg" alt="" /></a>
+19-09-99</p>
+
+
+	<p>after two weeks enjoing the fields and vibes of casqueiro and its calcdynamics, Märle (omis mami) leaves. we bring her to santiagos airport, which is crowded like never before. whats happening here? Teresa finds out that four heavy pilgrim-charter will leave soon to southamerica&#8230;its the &#8220;holy year&#8221; in Santiago&#8230;whole town same as the airport! only in the Centro Gallego der Arte Contemporanea &#8211; <span class="caps">CGAC</span>, we find &#8220;relaxing emptyness&#8221;, like most of the time in all museums (or churches) ...we meet Manuel Olveira, one of the curators&#8230;in the name of Paolo we show him the <span class="caps">LKW</span>-project in book form, the video and all the other print-things Paolo did&#8230; he likes it, they will talk about it&#8230;maybe 2001 <span class="caps">LKW</span> parks in Santiago? we would like a lot to work there!
+Santiago!</p>
+
+
+	<p><a href="/files/xymedia/0000/0504/santiago.jpg"><img src="/files/xymedia/0000/0502/santiago_th.jpg" alt="" /></a></p>
+
+
+	<p>on tuesday Teresa and omi will leave for vienna, slowly by car, zigzag-northeast&#8230; first to Bilbao to bring a present to our fiberglasssponsors (big prints from TIMEcloud and DROPone..), maybe to see Serras and Chillidas works in the Guggi&#8230; see you on oneDROP &#8211; Segno Artes pages, which will be linked on <a href="http://www.cittadellarte.it">http://www.cittadellarte.it</a> from the 7th of october!</p>
+
+
+	<p>now &#8211; briiightsun came out of windysky. birds don&#8217;t sing, next autumnstorm seems near, domingo tipico, tranquilo pero animado..
+hasta pronto, los calcis</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc78" href="#selector">artists in residence 01 cittadellarte</a></h1>
+      <div class="date">1999/08/20</div>
+      <div class="body"><p>the A.i.R get nervous. artists without projects get angry, take care! but we have 3 more weeks to meet, hey!</p>
+
+
+	<p>our sculpture-neighbour this time is Stefan Potengowski (&#8220;potenzgoofy&#8221;), he makes an iron-paper gugelhupf next to DROPone. from Stefan we hear the first time about balloon-silk and its characteristics. sounds like a perfect skin to install DROPone permantly (but mobile) inside cittadellartes infrastructure. togehter with Michelangelo we decide to study DROPone&#8217;s structure with a balloonsilk-dress; it&#8217;s so &#8220;solid&#8221;, that it can be heated easily and serve as a digital workingspace for max. 4 persons (but only one c-station).
+Stefan wants to visit us in August in Casqueiro, and bring some samples. his gugelhupf also inspires us to tell him about a geenhouse we want to build in Casqueiro. Stefan wants to help us to build it when he comes! we start to draw it into the air&#8230;</p>
+
+
+	<p>with Leopold Kessler we talk about our installation we want to do in January 2000 in the <span class="caps">REM</span>/SE Bludenz&#8230;.because we like how he makes an alarm clock running backwards by tapping the river Cervo&#8217;s energy. we tell him about the &#8220;fountain-estuary&#8221; idea we had&#8230; he likes it, &#8220;we&#8217;ll stay wired..&#8221;</p>
+
+
+	<p>&#8220;we will continue, we go on&#8221; is the last thing Michelangelo says before we leave Biella after 5 weeks. we saw that DROPone, works as an intimate, concentrated, but also fragile and &#8220;unsure space&#8221;. the space drops. and we imagine the last time together in real life how we will put oneDROP &#8211; Segno Arte into Viennas context &#8220;see you in Vienna&#8221;, we say, &#8220;see you in Vienna&#8221;. ciao tutti, ciao A.i.i.i.i.i.i.i.i.i.R.R.R&#8230;.</p>
+
+
+	<p><a href="http://www.itemz.org">digiTal Adler</a>, an old friend from Israel, we met the first time in citta&#8217;, invited Teresa and omi to Jerusalem. to the desert, where he owns a house, and a dog, and a computer&#8230;yes, come on, x-mas and total-2000-mas in the holy desert!
+.
+slowly, but very slowly, in about 8, 9 days we drive home. from Biella, over the cote d&#8217;azur. we stay some days in Menton. swimswimswim.</p>
+
+
+	<p><a href="/files/xymedia/0000/0462/menton.jpg"><img src="/files/xymedia/0000/0460/menton_th.jpg" alt="" /></a></p>
+
+
+	<p>and come home end of July. a car full of herbs, books, new music-cd&#8217;s and tunnel images. finally! casqueiro under our feet again! summer, L.A. freshfish and deepsleep!</p>
+
+
+	<p><a href="/files/xymedia/0000/0466/lkw.jpg"><img src="/files/xymedia/0000/0464/lkw_th.jpg" alt="" /></a></p>
+
+
+	<p>homepage &#8211; july 1999  <a href="/projects/homeology/index.html">(homeology)</a></p>
+
+
+	<p>Johannes is already here! Bienvenido Juan Surfero! with him we did communimage (Juan is from swiss expo&#8217;s official web-site and is main one responsible ..) and with him we decide the next steps. after Luks, Silke and the Malex-crew realized Juan&#8217;s idea for a <a href="http://www.communimage.ch/cgi-bin/engl/postcard.pl?n0e0&#38;2&#38;3&#38;16&#38;20">post office</a>, we have to slow down any further facettes. communimage is a expensive tool and image, and Juan has to find first a sponsor who can finance next applications.</p>
+
+
+	<p>then, over the question how communimage could be shown in space, we come up with the idea to install it as a room-installation (no digital interaction) in the <span class="caps">REM</span>/SE next January&#8230;yes, why not, we want to build a model and play with it&#8230; we tell Leopold about it and ask him if solar pannels can run a databeam. &#8220;shure! but how?&#8221;</p>
+
+
+	<p>see communimage as an &#8220;image in a gallery&#8221; at the beginning of January 2000 in the <span class="caps">REM</span>/SE Bludenz! or at least on this page.</p>
+
+
+	<p>the first of August and the beach calls every day. we pack some things, like a pencil and towel and go to Freixulfe, our housebeach. Ester and Steffen from Berlin (HERZBLUT) come! we all go to the beach and eat an endless paella! Manolo Pasodoble tells us about a mysterious hot waterbulb, which traveled from the gulf of mexico to the cantabrian coast&#8230; a proposito!:
+Peter Lütje and Maike are arriving! when Esther and Steffen left. we met Peter when he was one of the A.i.R. in citta&#8217;, Meike we only knew from what he told us (&#8220;my wife is doing a lightning-career, while I resi-dance!&#8221;). they are married and run <a href="http://www.rraum.de/">rraum in Frankfurt</a>. a space, this or that space, in their apartment, which they give to people for a while, so they can inform the room. we are happy to be invited to rraum too!.</p>
+
+
+	<p>during their stay in Casqueiro we also work on some new <span class="caps">KFN</span> updates. Peter names the developing <span class="caps">KFN</span> baby : <span class="caps">BIMO</span> &#8211; the BIMObile-system.</p>
+
+
+	<p>one night, mild, long night with deep basstones weaving round casqueiro, it started that we open rraum <span class="caps">III</span> in . in &#8220;Navia York&#8221;, like Peter said. like a glow-worm, parked in space among us, this idea became more and more&#8230; an idea.
+we imagine a public space within the social daily-structure, which opens periodically its real space with new works (all kind of works..) in Navia, and announce it (by web and mailings and print and all) as if it would be in Navia York. kind of the same question like in the hole calc-thing is interesting: can this &#8220;kind of gallery&#8221; be successful in the sense of influence and thereby change daily life, or not?</p>
+
+
+	<p>is it a good idea to open a &#8220;modern art gallery&#8221; (for a period of a year we said..) in a village where it seems that no nose has any interest in it? how can we know if we don&#8217;t try? can we know if we don&#8217;t? no.</p>
+
+
+	<p>so &#8211; ... rrrauuummmm! Maike said probably after their last year in Städelschule in 2001. we have it fat written in our count-down-agenda!</p>
+
+
+	<p>and all visits go, Olivier Feraud, another A.i.R. and his friend Elise come just a half day and a night and a morning,... and where are we? oh yes, at home, at the coast, living on level zero, with a hot waterbubble swinging in front of our housebeach!</p>
+
+
+	<p>good! Mister Bedia, Navias mayor, gives us the inofficial okay to help us in further &#8220;parksteps&#8221;. he&#8217;ll participate with machines and workers which will help us very soon with first big step: to break down the wall to the height of a bench, and clean up the canel and the field.</p>
+
+
+	<p>we want to inaugurate the 2nd of September, dia de San Antolín! no time left! but first the &#8220;park-issue&#8221; must be accepted by the town-representatives, so we only got 5 short days, when they start the 26 of August&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0470/park.png"><img src="/files/xymedia/0000/0468/park_th.png" alt="" /></a></p>
+
+
+	<p>lets see, but anyhow &#8211; we print the invitations and invite!</p>
+
+
+	<p>we want music and Sidra, lights and oranges! we do what we can, Alvaro too, who will live soon right next to el Parque del Naranjo.</p>
+
+
+	<p>eclipse totale! we are in the 80% shadowfield and find the strange sunglasseffect nice.but seagulls laugh as ever and the dogs do not even look up&#8230; all we hear from people who have been in the 100%field is unbelievable!</p>
+
+
+	<p><img src="/files/xymedia/0000/0472/eclipse_big.jpg" alt="" /></p>
+
+
+	<p>Teresa and Silke were in <a href="http://www.ok-centrum.at/carteblanche/park/la/11-08-99.html">L.A.</a> when it happened.</p>
+
+
+	<p>now we will finance the buying of the land with the money we made with communimage. <a href="http://www.galerie-lisihaemmerle.at/">Lisi Hämmerle</a> wants to do an orange- party in her gallery specially for potential buyers of the O-images we did&#8230; we hope it works, at least that we can pay the expenses (~1.300.000 Pesetas, and the town pays the rest&#8230;). art is to gamble seriously.</p>
+
+
+	<p>after that, end of August 99, Lisi H. wants to take &#8220;us&#8221; and the O-park-project to the <span class="caps">FIAC</span> in Paris&#8230;&#8221;new tendecies&#8221; or something like that&#8230;the dimensions of the &#8220;market-box&#8221; she got there is boring and ugly! we don&#8217;t know what to do there&#8230;difficult&#8230;we make a model&#8230; and an invitation card.</p>
+
+
+	<p><a href="/files/xymedia/0000/0476/postal_big.jpg"><img src="/files/xymedia/0000/0474/postal_th.jpg" alt="" /></a></p>
+
+
+	<p>Luks is working a lot on the proposal he was asked for by Michelangelo Pistoletto for Cittadellarte&#8217;s communication: to develop a maillist-sytem which garantees a continous information about citta&#8217;s activities and plans. Hans Extreme from <a href="http://www.etoy.com/">e-toy</a> helps us a lot. he knows 100 times more about it! Luks is also doing researches for the draw-tool we want to send online for oneDROP &#8211; Segno Arte in oktober in Vienna&#8230;</p>
+
+
+	<p>and in two days Aquilino and his excavator comes to break down the first part of the orange trees chains!</p>
+
+
+	<p>sky falls into deepdeepsea.
+last greens showing out of light
+and Tita shouts for bread.
+she always gets a bit of bread
+before to go to straw.</p>
+
+
+	<p>20 &#8211; 0 8 &#8211; 1 9 9 9 &#8211; 1 3 : 2 7 c a s q u e i r o &#8211; - &#8211; o+T+L+thanxs <a href="http://www.islandnet.com/~ianc/"><span class="caps">I A N</span></a> !</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc77" href="#selector">superSilke, communimage, a park for LA, DROPone </a></h1>
+      <div class="date">1999/06/10</div>
+      <div class="body"><p><a href="/files/xymedia/0000/0430/lkw_home.png"><img src="/files/xymedia/0000/0432/lkw_home_th.png" alt="" /></a></p>
+
+
+	<p>homepage &#8211; march 1999  (homeology)</p>
+
+
+	<p>newnow&#8212;&gt; 18-08-99 casqueiro &#8211; blue-white-windy coincidence-sky &#8211; omi and Teresa have been traveling and installing calc-satellites or presenting calc, Silke and Luks stayed in casqueiro, working mostly on the new CI for the Hospital de Jarrio.</p>
+
+
+	<p><img src="/files/xymedia/0000/0434/animation_hospital.gif" alt="" /></p>
+
+
+	<p>and on <span class="caps">WEBILD</span>, which became the <a href="http://www.communimage.ch">communimage</a> in the meantime. and has been officially online since june &#8211; growing like hell!</p>
+
+
+	<p>Silke? Supersilki who arrived in april, two weeks before Teresa and omi left&#8230; will stay till september and be our first real assistant! she landed in Oviedo when Esther from skim.com was here. (www zürich you know, wired by the roth-brothers..) Esther came to chillout and to recharge their spanish, in all senses.</p>
+
+
+	<p>april &#8211; Teresa and omi leave for switzerland, where they meet marCo Koeppel, to build with him the &#8220;artbud&#8221; or DROPone, as we call the &#8220;architecture&#8221; for <span class="caps">IL ARTE AL CENTRO 99</span>. we can treat the material with more experience this year and everything works better than we had imagined. the DROPone-tentsystem was done in two days (thanks to the people from the <span class="caps">EISHALLE WIDNAU</span>! and to TIMEcloud).</p>
+
+
+	<p>a lot of tunnels &#8211; a lot of digimages</p>
+
+
+	<p>we visit Rudolf Sagmeister in the <span class="caps">KUB</span> and bring him a little surprise: a poster-grid composed with webcam images we downloaded a year from <a href="http://www.kunsthaus-bregenz.at/ehtml/ewelcome00.htm"><span class="caps">KUB</span>&#8217;s lifecam</a>. he likes it so much, that we decided to do a print series to sell&#8230; you can order it online or download it for free and print it yourself. our life and webfriend Evi Rüscher (who also did the new KUBsite) helps us to do the QX-file&#8230;</p>
+
+
+	<p>our plans for the OK-Linz changed radically. the spaces we wanted were wanted by other people and in the end we got the three rooms we wanted at last&#8230;
+although we almost gave up&#8230; but then the orange tree from near Las Aceñas inspired us and like a fresh rain the idea was born: <a href="http://www.ok-centrum.at/carteblanche/park/home.html">a park for L.A.</a>
+we like a lot how the idea of a swapspace swapped itself to another level of expression. the three rooms start to look good to us.</p>
+
+
+	<p>we visited the tree every day untill our last day in Casqueiro, took digi-images of him in many different skymoods and lights. we leave with 300 mega orange-images. .
+and also with essence-of-orange-oil &#8211; by chance we met Arturo and Isabel, an inventor and a philosopher, who bought a huge old farmhouse in our neighbourhood! 15 years ago Arturo invented a kind of Mosquito-killer. we can use the prototype of his invention to spray a fine orange-essence-cloud into the central-room of our Linz-installation every 15 minutes.</p>
+
+
+	<p><a href="/files/xymedia/0000/0438/pulverizador_b.jpg"><img src="/files/xymedia/0000/0436/pulverizador_th.jpg" alt="" /></a></p>
+
+
+	<p>when Paolo tells us that <a href="http://www.n55.dk/"><span class="caps">N55</span> from Kopenhagen</a> is also participating and that they are planning to install a &#8220;hydroponic unit&#8221; in the corridor next to our work, we ask them if we should plant orange seeds there. they send a nice mail back and some days later later we send the seeds to copenhagen, where <span class="caps">N55</span> is planting them. when they arrive in Linz some leaves will be showing&#8230;</p>
+
+
+	<p><a href="/files/xymedia/0000/0442/lkw_home1.png"><img src="/files/xymedia/0000/0440/lkw_home1_th.jpg" alt="" /></a>
+homepage &#8211; may 1999  (homeology)</p>
+
+
+	<p>the <a href="http://www.ok-centrum.at/">OK-Linz</a> &#8211; we never worked in a house with such professional and open people! we can close doors like they were never there and open new ones like they&#8217;ve never been closed. thanks to Georg Seyfried, Eva Immervoll and their ideas and technical crew we will open a show on the 21st of May!
+we&#8217;ve been looking forward to for a long time</p>
+
+
+	<p>Paolo did a really good catalog:
+<span class="caps">LKW</span> &#8211; <span class="caps">THINGS BETWEEN LIFE</span>, KUNST (ART)&#38; <span class="caps">WORK LEBENSKUNSTWERKE</span>
+it can be <a href="http://www.ok-centrum.at/english/publikationen.html...or">ordered directly from the OK</a>
+<span class="caps">ISBN</span> : 3 &#8211; 8 5 4 1 5 &#8211; 2 5 2 &#8211; 3</p>
+
+
+	<p>and right away the Linz-LKW gets invited by the <span class="caps">KUB</span> (for summer 2000) and by the new <span class="caps">KUNSTHAUS</span> in Biel (for autumn 2000)! we, and also Ross Sinclair and Faisal Abdu&#8217;allah want to make something completely new for those houses. but calc will follow the orange line&#8230;</p>
+
+
+	<p>Cecilla from <span class="caps">N55</span> points out that in a &#8220;california&#8221; L.A. context the oranges industry makes big social problems. we didn&#8217;t know, we will get more information about it! we used the name L.A. only to point out the changing of significance between &#8220;centers&#8221; and places like Las Aceñas&#8230;</p>
+
+
+	<p>Silke sends every thursday a <a href="http://www.ok-centrum.at/carteblanche/park/la/index.html">life-image</a> from L.A. to the Linz museum entrance. these images show the process and changes of the piece of closed-land in the center of Las Aceñas. the printer will stay for one year in Linz &#8211; last image will arrive on the 18th of May 2000.&#8221;</p>
+
+
+	<p>luks sends a great image from the new goathouse they just finished!</p>
+
+
+	<p><a href="/files/xymedia/0000/0444/goat.jpg"><img src="/files/xymedia/0000/0446/goat_th.jpg" alt="" /></a></p>
+
+
+	<p><a href="/files/xymedia/0000/0450/drop_home.jpg"><img src="/files/xymedia/0000/0448/drop_home_th.jpg" alt="" /></a></p>
+
+
+	<p>homepage &#8211; june 1999  (homeology)</p>
+
+
+	<p>between Linz and Biella, where we soon will install DROPone, omi goes to Weimar and Berlin, Teresa back to Widnau. Weimar &#8211; so many Goethe and Schillers! they cloned them in all kind of materials and they are behind every corner. and more places than that! but no time to meet statues &#8211; students are waiting! the little calc-speach omi does in this gallery (Esther &#8211; sorry, but what was its name?) was a &#8220;success&#8221;. nobody left before it was finished. and Steffen Wolfrum and Esther (oops, and what was your name??) from the cultural association <span class="caps">HERZBLUT</span> are very nice people. they get married a few days after omi leaves.</p>
+
+
+	<p>while omi goes to Berlin one day after to visit the <span class="caps">KUNSTWERKE</span>, Teresa clears up one of the last details for the DROPone-tentsystem:
+the little rubber rings that fix the fine aluminium tubes much better than the the scotch-tape we used last year for <a href="http://www.kunsthaus-bregenz.at/kubuse/timecloud/welcome.html">TIMEcloud</a>.</p>
+
+
+	<p>Berlin! Mitte! just Mitte and <span class="caps">KUNSTWERKE</span>, thats enough for now. a lot of digital images of the yard where they wanted the <a href="/projects/schlafhaus/sh.html"><span class="caps">SCHLAFHAUS</span></a> and we will propose a new system for &#8220;A <span class="caps">FLEXIBLE PROJECT</span>-OFFICE&#8221;, as soon they give us an offcial invitation. maybe for 2001. next year we can&#8217;t do another bigship, it&#8217;s booked up.
+Ellen Blumenstein, the right hand of mister Biesenbach, is very friendly and let omi see the yard from all windows and views. Dan Graham did a great glass-cubes-restaurant-architecture in the same yard. Ross Sinclair already told us in Linz about the problems of installing something next to it&#8230; it&#8217;s true?...lets see&#8230;</p>
+
+
+	<p><a href="http://www.communimage.ch">communimage</a> goes online officially. Luks and Silke work on the design-side, Malex and Roger on the programming-side. they finished the interface and some other onliners, like Johannes, Gilo, omi; Teresa&#8230;we decide to not start with &#8220;Image Zero&#8221;, but to leave what showed up during the testphase. Johannes had the good idea to ask mister Picard, who just globed around the world! but naaah, Picard has no time to do a firstpatch, he&#8217;s sponsed out&#8230;the pope neither, didn&#8217;t even answer the telephone&#8230;</p>
+
+
+	<p>first bildbauern are patching quiet pitchpatch. <a href="http://www.sito.org/"><span class="caps">SITO</span></a> and some semi- under-cover agents from <a href="http://www.sito.org/synergy/hygrid/" title="THE ORIGINAL!">high-grid</a> start a minipolemic in the message board&#8230;reverent Ian Feldglocke brings the hotheads with warm words to listen to reason!</p>
+
+
+	<p>but in Biella! we are the first. where are all the others? we arrived the day when Michelangelo had four bottles of wine to decide which wine will be the <span class="caps">IL ARTE AL CENTRO</span>-wine. we try and try and decide too late, all bottles are empty, weren&#8217;t they all very good?
+&#8220;ooo life is sooo beautiful&#8221; sings Michelangelo, and we are happy to be here!</p>
+
+
+	<p><a href="/files/xymedia/0000/0454/home_summer_99.png"><img src="/files/xymedia/0000/0452/home_summer_99_th.png" alt="" /></a></p>
+
+
+	<p>homepage &#8211; june 1999  (homeology)</p>
+
+
+	<p>the next days we find time to talk about the invitation for vienna.
+we imagine to install oneDROP &#8211; Segno Arte in vienna, a combination of DROPone and <a href="http://www.ljudmila.org/~vuk/dx/pistolet/index_e.htm">Michelangelos Segno Arte</a>. we want to do a little online- programm which allows to draw and save his Segno Arte on a single netlinked c-station. in the kunsthalle-Wien these Segnos can be printed out every morning and put to walls, where the Segno Arte-memory grows also in &#8220;real-space&#8221;...</p>
+
+
+	<p>but first we have to install and make the experience of DROPone! only a few days and the &#8220;Artists in Residence&#8221; are coming! and we also want to help the Pistolettos to take control and responsibility over the 5 c-stations they just ordered&#8230; a pleasure to put in DROPone, we have to call marCo right away, we all imagined because of the spaceheight it would not stand up, but its flexibility stands up almost by itself!</p>
+
+
+	<p><a href="/files/xymedia/0000/0458/drop.jpg"><img src="/files/xymedia/0000/0456/drop_th.jpg" alt="" /></a></p>
+
+
+	<p>the &#8220;A.i.R.&#8221; are coming, one after the other! Teresa does a great job and finally all stations and the net works! and the place is crowded: <a href="http://www.cittadellarte.it/"><span class="caps">CITTADELLARTE</span></a> opens officially!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc76" href="#selector">casita - desti_nation - cui concept</a></h1>
+      <div class="date">1999/03/04</div>
+      <div class="body"><p>The little house, we renovated together with omi&#8217;s parents is almost finished. They paid almost every- thing and it will be their little house, whenever they&#8217;re in Navia. Now next step can be the second studiohouse, which will be around the little house&#8230; Schlafhaus is still waiting. Gore tells us that they will tell us their definite decision in february&#8230; this year we must finish it!</p>
+
+
+	<p>Alvaro leads all the building projects in C now. That&#8217;s great, so we can concentrate on other plans and calc levels, and Alvaro is slowly but surely becoming a calci.</p>
+
+
+	<p>Luks leaves to Basel. He wants distance and to switch off all calcbulbs for some weeks. By the way his sister Rösl and her husband Philip want to give Luks their old car. They can&#8217;t afford it anymore in richland.</p>
+
+
+	<p>We hear that Pipi Lotti gives up the art-directors-job for <span class="caps">EXPO</span>-01.
+A pity for Switzerland, but probably the best for Pipi. We also like it, because we want to do a project together and with this decision it gets closer&#8230;
+Maybe in the year 2001?</p>
+
+
+	<p>Lisi Hämmerle, our one and only galerist shows up. She comes with her son David. Three quiet days with a lot of loud laughs. In C everybody sleeps well. Its like the atlantic ocean &#8211; at sealevel &#8211; syncronizes his brand with your alphawaves&#8230;
+Together with Lisi we decide to produce art. Except she got nothing from the <span class="caps">NAVE</span>-skinprint. We&#8217;d like to do a <span class="caps">BILDING</span>-DATA-COLLECTION. A &#8220;piece&#8221; you can open up in different ways. Bildings because we want to show bilder of buildings we did in c&#8217;s-context. Maybe beginning of 2000? The Remise would be a fine place to present it. Or should we show parallel in <a href="http://www.galerie-lisihaemmerle.at/">Lisis Gallery</a>?</p>
+
+
+	<p>All days working in our parts for Nouvelle DestiNation, a lot of time we spend together in chats. Distance disappears, the wire swings very well for desti.net, our idea grows fast into words and forms!</p>
+
+
+	<p>A good idea for the Remise in January 2000 appears &#8211; we want to see the clear inside-outside situation of one of the art halls walls as a fountain-estuary installation. Like outside only solar panels and inside only sun. Wanna know more?</p>
+
+
+	<p>Also we are doing the concept for expo&#8217;s <span class="caps">LAB</span>. Soon omi will fly to Zürich to finish the proposal for the expo-invitation, to present the <span class="caps">LAB</span>-idea and to meet Paolo Bianchi.</p>
+
+
+	<p>Now &#8211; omi is in Zürich, Luks and Teresa in L.A, Gernot in Vienna.</p>
+
+
+	<p>A desti.net delegation &#8211; Martin, Claudia, omi and sporadicly Anja &#8211; meet in Martin&#8217;s, Balz&#8217; and Olaf&#8217;s flat. Together with the onliners Teresa and Gernot we finish this work in one week. Then we got a colour- and content-full folder, explaining the idea of a &#8220;digital oracle&#8221;... as well as dark rings under our eyes.</p>
+
+
+	<p>omi and calc&#8217;s first digital engeneer Malex meet Johannes Gees, the man responsible for <a href="http://www.expo-archive.ch/index.html">expo&#8217;s web- site</a> . expo&#8217;s site designer Gilles Bachmann comes too. we present the concept for <span class="caps">WEBILD</span> (worktitle). they like it. We get green light right away! Malex can install his own Linux-server in Zürich for <span class="caps">WEBILD</span>. It has to be online by the end of March! Malex will come one week to L.A. in the beginning of march to do the programming with us. We will do the interface as a &#8220;baby&#8221; of Gilles.</p>
+
+
+	<p><span class="caps">WEBILD</span> &#8211; will be an online-possibility to create one image with a lot of 4&#215;4 cm images. The only rule is: respect your image-neighbour. With the opening of the expo this image will also be printed in realspace. Have a look in expos website <span class="caps">LAB</span> at the end of March &#8216;99. And play it!</p>
+
+
+	<p>Paolo Bianchi visits omi in martins flat in Zürich. He tells me the news about the Linz-show. Ross Sinclair wants the big hall too, maybe we can do something as art-neighbours?</p>
+
+
+	<p>omi visits Pipi Lotti&#8217;s exhibition in Zürich &#8211; <span class="caps">THE REMAKE OF THE WEEKEND</span> &#8211; the show is as beautiful, as funny, as surprising. Pipi looks like a chinese dragqueen.
+.
+It starts to snow in Zürich&#8230; while in L.A. the first roses open. After eight days omi is back in the mothership. When we wake up the next morning they cut our horizon!</p>
+
+
+	<p><a href="/files/xymedia/0000/0420/horizont.jpg"><img src="/files/xymedia/0000/0418/horizont_th.jpg" alt="" /></a></p>
+
+
+	<p>Chainsaw-men cut all old pinetrees in front of Casqueiro. We are shocked. After two days we start to like it &#8211; much more light is reaching us now and the horizon has become wider.</p>
+
+
+	<p>Working on the &#8220;swapspace&#8221; for Linz and for <span class="caps">WEBILD</span>. For swapspace we decide to build a room, which swaps digital and analog (maybe with lenses and mirrors) the virtual and real outside in.
+For <span class="caps">WEBILD</span> we do the fine-concept and first interface-studies.</p>
+
+
+	<p>Also for &#8220;IL <span class="caps">ARTE AL CENTRO 99</span>&#8221;. We want to change the last-years metaphor of the horizontal cocoon to a vertical cocoon &#8211; an artbud.</p>
+
+
+	<p><a href="/files/xymedia/0000/0426/L_K_W_.png"><img src="/files/xymedia/0000/0424/L_K_W_th.jpg" alt="" /></a></p>
+
+
+	<p>homepage &#8211; february 1998  (homeology)</p>
+
+
+	<p>Now &#8211; 18th of february in L.A. &#8211; a moody sky is playing crazy between spring and Noahs arks set off. Martin calls &#8211; we didn&#8217;t win the expo-competition. Too bad, but okay &#8211; not one of us would have had time to spend for it.
+What shall we do with the concept now?</p>
+
+
+	<p>Alvaro comes with a dog. A present for Loop, the calc-dog. The new dogs name is Camela, shes only three months old, Loop likes her, the cats don&#8217;t. We&#8217;d like to design a doghouse- architecture.</p>
+
+
+	<p>or do you like?</p>
+
+
+	<p>camela  &lt;&#8212;the dog-design</p>
+
+
+	<p><img src="/files/xymedia/0000/0428/camela_klein.jpg" alt="" /></p>
+
+
+	<p>now: 04-03-99&#8230; will be continued soon&#8230;</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>

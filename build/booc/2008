@@ -1,0 +1,574 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <title>calc</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <link href="/stylesheets/xy.css" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/jquery.fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/jquery.fancybox-1.2.1.pack.js" type="text/javascript"></script>
+    <script src="/javascripts/calcaxy.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="file_preview">&nbsp;</div>
+    <div id="container">
+      <table id="header"><tr>
+          <td><a id="logo" href="/"> </a></td>
+          <td><div id="calc_name">clueless and loving completely</div></td>
+          <td><a id="mail" href="mailto:calcies@calcaxy.com"></a></td>
+        </tr>
+      </table>
+
+      <div id="tabs">
+        <a class="" href="/home">HOME</a>
+        <div class="space">&nbsp;</div>
+        <a class="active" href="/booc/2008">BOOC</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/works">FILES</a>
+        <div class="space">&nbsp;</div>
+        <a popup="true" href="/images/pix_cell.png">PIXCELL</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/biobiblio/217">BIOBIBLIO</a>
+        <div class="space">&nbsp;</div>
+        <a class="" href="/txts/210">TXT'S</a>
+        <div class="space">&nbsp;</div>
+
+        <div class="tab">&nbsp;</div>
+        <div class="space">&nbsp;</div>
+
+      </div>
+      <img id="modern_browsers" src="/images/worksinall.png" alt="ie sucks" />
+      <a id="calclab" href="http://calclab.com"><img  alt="looking for calclab?" src="/images/calcaxy_calclab.gif" /></a>
+      <div id="page">
+        
+
+<div id="files_browser">
+</div>
+
+<h1>&nbsp;</h1>
+
+<a name="selector">&nbsp;</a>
+
+<ul class="selector">
+    <li>
+        <div class="active">
+          <div class="head">2008</div>
+          <ul>
+              <li><a href="#booc232">2008/11/06</a></li>
+          
+              <li><a href="#booc224">2008/11/06</a></li>
+          
+              <li><a href="#booc226">2008/10/31</a></li>
+          
+              <li><a href="#booc225">2008/10/19</a></li>
+          
+              <li><a href="#booc231">2008/05/11</a></li>
+          
+              <li><a href="#booc230">2008/04/11</a></li>
+          
+              <li><a href="#booc229">2008/03/11</a></li>
+          
+              <li><a href="#booc228">2008/02/11</a></li>
+          
+              <li><a href="#booc227">2008/01/11</a></li>
+          </ul>
+        </div>
+    </li>
+    <li>
+        <a href="/booc/2007">2007</a>
+    </li>
+    <li>
+        <a href="/booc/2005">2005</a>
+    </li>
+    <li>
+        <a href="/booc/2004">2004</a>
+    </li>
+    <li>
+        <a href="/booc/2003">2003</a>
+    </li>
+    <li>
+        <a href="/booc/2002">2002</a>
+    </li>
+    <li>
+        <a href="/booc/2001">2001</a>
+    </li>
+    <li>
+        <a href="/booc/2000">2000</a>
+    </li>
+    <li>
+        <a href="/booc/1999">1999</a>
+    </li>
+    <li>
+        <a href="/booc/1998">1998</a>
+    </li>
+    <li>
+        <a href="/booc/1997">1997</a>
+    </li>
+    <li>
+        <a href="/booc/1996">1996</a>
+    </li>
+    <li>
+        <a href="/booc/1995">1995</a>
+    </li>
+    <li>
+        <a href="/booc/1994">1994</a>
+    </li>
+    <li>
+        <a href="/booc/1993">1993</a>
+    </li>
+    <li>
+        <a href="/booc/1992">1992</a>
+    </li>
+    <li>
+        <a href="/booc/1991">1991</a>
+    </li>
+    <li>
+        <a href="/booc/1990">1990</a>
+    </li>
+</ul>
+
+<div class="boocs main">
+    <div class="booc">
+      <h1><a name="booc232" href="#selector">opening @ MOMA</a></h1>
+      <div class="date">2008/11/06</div>
+      <div class="body"><p>finally! we are happy that the &#8216;Art of Participation&#8217; opens today!
+and we feel in best conceptual and artistic company!</p>
+
+
+	<p><a href="/files/xymedia/0000/1065/momaopening02.jpg"><img src="/files/xymedia/0000/1063/momaopening02_th.jpg" alt="" /></a></p>
+
+
+	<p>thanks a lot Rudolf Frieling and his team (Melissa, Tammy, Frederic, 
+Steven, andandand..) to have enabled us this experience! as (almost) 
+always we miss the link to the outside space, the participation of the 
+local and the locals &#8211; but we understand that this was not easy to create 
+in this context, and hope that this is only a first collaboration-step for 
+c a l c and San Francisco.</p>
+
+
+	<p><a href="!files/xymedia/0000/1061/momaopening01.jpg"><img src="/files/xymedia/0000/1059/momaopening01_th.jpg" alt="" /></a></p>
+
+
+	<p>we have some good projects in the drawer..and want to send Rudolf 
+the project outlines. all four project want to be realized in collaboration 
+with this city and with people we would like to find here! artists.
+activists. scientists.</p>
+
+
+	<p><a href="/files/xymedia/0000/1069/momaopening03.jpg"><img src="/files/xymedia/0000/1067/momaopening03_th.jpg" alt="" /></a></p>
+
+
+	<p>why here and not in Seville or elsewhere? because we think that we can 
+find these partners here.. the four projects are in the drawer because we 
+gave up finding them there..</p>
+
+
+	<p>soon we&#8217;l let you know!</p>
+
+
+	<p><a href="/files/xymedia/0000/0939/2008_11_cui20.jpg"><img src="/files/xymedia/0000/1075/cuifile.jpg" alt="" /></a>
+have a look at <span class="caps">FILES</span> to see and read more about how we presented 
+communimage here!</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc224" href="#selector">finally (t)here</a></h1>
+      <div class="date">2008/11/06</div>
+      <div class="body"><p><a href="/files/xymedia/0000/0998/watchman.jpg"><img src="/files/xymedia/0000/0996/watchman_th.jpg" alt="" /></a></p>
+
+
+	<p>n o v e m b e r 2 0 0 8
+and the <span class="caps">BOOC IS BACK</span> again!
+..but we&#8217;re still translating the old booc &#8211; our pre-blog for 
+so many years &#8211; and have so many other things rolling!</p>
+
+
+	<p><a href="/files/xymedia/0000/0990/tvobama.jpg"><img src="/files/xymedia/0000/0988/tvobama_th.jpg" alt="" /></a></p>
+
+
+	<p>omi and malex (with Pam and Salome!) are in San Francisco
+to install and to present <a href="http://www.communimage.net">communimage</a>, Teresa works on different
+jobs and over all in editing <span class="caps">THIS</span> new site, Dani is between flying
+between the three groups he&#8217;s playing in: Los The Shapiros,
+<a href="http://www.lasbuenasnoches.com/">Las Buenas Noches</a> y c a l c . . .</p>
+
+
+	<p><a href="/files/xymedia/0000/0994/butterfly.jpg"><img src="/files/xymedia/0000/0992/butterfly_th.jpg" alt="" /></a></p>
+
+
+	<p>so this little note is just for letting you know that we&#8217;re back on
+the track &#8211; but that we&#8217;ll need a bit more time to finish editing
+the old booc (there are just links and images missing). and some 
+more days to tell you then about the last weeks! communimage 
+went to the <a href="http://www.sfmoma.org/pages/exhibitions/306/aop_online_artworks"><span class="caps">MOMA</span></a>, Obama straight foward to the white house and 
+you are going well, we</p>
+
+
+	<p><a href="http://images.google.com/images?q=hope%20obama&#38;ie=UTF-8&#38;oe=utf-8&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;um=1&#38;sa=N&#38;tab=wi"><strong><span class="caps">H O P E</span></strong></a>.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc226" href="#selector">haight ashbury</a></h1>
+      <div class="date">2008/10/31</div>
+      <div class="body"><p>..it seems everybody does..hOpes.. we are living in <a href="http://images.google.com/images?q=haight%20ashbury&#38;ie=UTF-8&#38;oe=utf-8&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;um=1&#38;sa=N&#38;tab=wi">Haight Ashbury</a>, 
+the legendary corner on which the hippies were laying so many eggs! 
+the house were we&#8217;re living is called the &#8220;Herbn Inn &#8211; Psycodelical 
+museum of History&#8221;. owned by Pam Brennan, a hippy from the first 
+hour of history, it is a real bonanza of posters, books, documents of 
+these days of the summer of love and its progress. all around this
+house there are all these legendary places: this is <a href="http://images.google.com/images?q=san%20francisco%20janis%20joplin%20lived%20in%20this%20house&#38;ie=UTF-8&#38;oe=utf-8&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;um=1&#38;sa=N&#38;tab=wi">the house where Janis 
+Joplin lived</a>, and this is <a href="http://images.google.com/images?hl=en&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;hs=oQb&#38;resnum=0&#38;q=grateful%20dead%20house%20haight%20ashbury&#38;um=1&#38;ie=UTF-8&#38;sa=N&#38;tab=wi">the house where the Greatful Dead lived</a>.. and 
+<a href="http://images.google.com/images?q=jimmy%20hendrix%20in%20golden%20gate%20park&#38;ie=UTF-8&#38;oe=utf-8&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;um=1&#38;sa=N&#38;tab=wi">this is where Jimi Hendrix played for free</a>.. and <a href="http://images.google.com/images?q=fillmore%20east%20san%20francisco&#38;ie=UTF-8&#38;oe=utf-8&#38;client=firefox-a&#38;rls=org.mozilla:en-US:official&#38;um=1&#38;sa=N&#38;tab=wi">this is the Fillmore east</a>, where all of them, really all all all of them were playing!! it feels like dyving in childhood parallel world, where our heros were real! ..and there is also this huge record shop in Haight street,
+where they all are still alive!</p>
+
+
+	<p><a href="/files/xymedia/0000/1009/records.jpg"><img src="/files/xymedia/0000/1007/records_th.jpg" alt="" /></a></p>
+
+
+	<p>Bruce Brennan is Pam Brennans brother.. he lives downstairs and just
+showed us some episodes of the 
+<span class="caps">HIPPY GOURMET</span>, a cook show he does
+on TV.. <a href="http://www.youtube.com/watch?v=pIlClLdCQDI">see some on <span class="caps">YOUTUBE</span>!</a></p>
+
+
+	<p>..Today is Helloween! the day of the sweet horror! or what day is that?
+what are we celebrating here? if we would have know that &#8211; that <span class="caps">EVERYBODY</span>
+takes the day to play on life and death / love and lough &#8211; we also would have
+ironed the skeleton!</p>
+
+
+	<p><img src="/files/xymedia/0000/1011/helloween.jpg" alt="" /></p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc225" href="#selector">p + o are leaving to S.F.</a></h1>
+      <div class="date">2008/10/19</div>
+      <div class="body"><p>&#8220;wow &#8211; now! 
+we are really leaving&#8221; &#8211; Pam and omi fly to the <span class="caps">USA</span>.
+first to Philadelphia, the to San Francisco. we&#8217;ll install
+and inaugurate communimage there (in the S.F.MOMA) and
+explore the city and the Bay Area.</p>
+
+
+	<p><a href="/files/xymedia/0000/1005/casapam.jpg"><img src="/files/xymedia/0000/1003/casapam_th.jpg" alt="" /></a></p>
+
+
+	<p>only some weeks and the <span class="caps">MOMA</span> will open a show called &#8220;The
+Art of Participation &#8211; 1950 to Now&#8221; for which c a l c was invited (again)
+to show a huge print of communimage. already a year or more ago
+Rudolf Frieling, MOMAs curator for media arts, was asking us.. yesterday
+he sent the <a href="/files/xymedia/0000/1000/FMmoma_AoP_release_FINAL.pdf">official press release</a></p>
+
+
+	<p><img src="/files/xymedia/0000/1001/stencilobi.jpg" alt="" /></p>
+
+
+	<p>just a day before <strong>The Art of Participation</strong> opens on the 5th of
+november &#8211; there is the O-day! Obama-day! we hOpe.</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc231" href="#selector">the day after = the day before</a></h1>
+      <div class="date">2008/05/11</div>
+      <div class="body"><p>we still can&#8217;t believe it! you feel it every step you make.. that
+times they are CHANGEing.. in front of the garage they were
+hanging the first results of the ballots counted so far:</p>
+
+
+	<p><img src="/files/xymedia/0000/1049/votetotalasreport.jpg" alt="" /></p>
+
+
+	<p>..we all knew that this neighbourhood will vOte like this, no
+surprise. actually the whole result was not suprising.. looking
+back at our perceptions and feelings.. but there was also the
+feeling of fear &#8211; that people don&#8217;t go vote.. that some O-man
+turn out being Mc-C-man when they are all alone in the cabin..
+but nO! the O was rounded this night, welcome to the new
+era! gOd knows how Obama and his team can face and solve
+the mountain of problems Bush leaves them. nothing won&#8217;t be 
+as we wish it to be: straight, fast, better.. but everything will be 
+on its way towards something more human anyway.. 
+how strange: we just said that it is the first time that we have the
+honest feeling of trusting a politician.</p>
+
+
+	<p><a href="/files/xymedia/0000/1053/forward.jpg"><img src="/files/xymedia/0000/1051/forward_th.jpg" alt="" /></a></p>
+
+
+	<p>but today is not only the day after, its also the day before: before
+tomorrow the show in the <span class="caps">MOMA</span> will be opened to the public.. 
+malex and omi are going downtown to join the press- conference and 
+-preview this morning. Rudolf Frieling does a nice speach.. mentioning
+how much he was hOping that the election result would be what it is,
+so the &#8220;Art of Participation&#8221; would also throw some light on (t)his show!</p>
+
+
+	<p><a href="/files/xymedia/0000/1057/press.jpg"><img src="/files/xymedia/0000/1055/press_th.jpg" alt="" /></a></p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc230" href="#selector">tOday's the day!</a></h1>
+      <div class="date">2008/04/11</div>
+      <div class="body"><p><a href="/files/xymedia/0000/1041/in_flag_ranti.jpg"><img src="/files/xymedia/0000/1039/in_flag_ranti_th.jpg" alt="" /></a></p>
+
+
+	<p>bellow, where they installed the polling place yesterday we
+see people waiting in a line when we&#8217;re waking up at 7 in
+the morning!</p>
+
+
+	<p><a href="/files/xymedia/0000/1035/polling2.jpg"><img src="/files/xymedia/0000/1033/polling2_th.jpg" alt="" /></a></p>
+
+
+	<p>the whole day is O-day, just O!
+we are invited by Pam and Peg and Bruce Brennan to join the
+election night at the <a href="http://upcoming.yahoo.com/event/1304791/">Westin St.Francis Hotel</a>, Grand Ballroom,
+where the democratic party invites to celebrate a democratic
+party!</p>
+
+
+	<p><img src="/files/xymedia/0000/1037/ivoted.jpg" alt="" /></p>
+
+
+	<p><strong>I voted</strong> stickers everywhere.. Ben and Jerry gives icecream, Starbucks
+gives coffee, the bakery around the corner gives a Waffel..</p>
+
+
+	<p>as you all already know we made it, the whole democratic world made it!
+Barack Obama is the elected president of the United States of America!</p>
+
+
+	<p><a href="/files/xymedia/0000/1045/Oelected.jpg"><img src="/files/xymedia/0000/1043/Oelected_th.jpg" alt="" /></a></p>
+
+
+	<p>this is much more a millenium new year party! a mega-hug-event as none
+of use ever experienced. omi + Pam had the same feeling: the feeling that
+they wanted to cry from joy&#8230;as so many others in the St. Francis this night!
+so many tears, so many loughs, so many african-american faces just full up
+to tears with joy and confidence. thanks US, we do love you as well!
+lets see what will happen nOw! we are looking forward to the exposition preview
+tomorrow!</p>
+
+
+	<p><img src="/files/xymedia/0000/1047/yeswecan.jpg" alt="" /></p>
+
+
+	<p>after the democratic milleniums new years eve we&#8217;re going to meet the technicians
+from the <span class="caps">MOMA</span> at the election party in the <a href="http://www.ybca.org/">Hierba Buena Center for the Arts</a>.. but they all
+left already.. so, last dance with oPAMa!</p>
+
+
+	<p><a href="/files/xymedia/0000/1073/yerbabuena.jpg"><img src="/files/xymedia/0000/1071/yerbabuena_th.jpg" alt="" /></a></p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc229" href="#selector">tomorrow!</a></h1>
+      <div class="date">2008/03/11</div>
+      <div class="body"><p>tomorrow is O-day! we are in that <a href="http://www.obamarama.org/"><span class="caps">OBAMARAMA</span></a> since we arrived!
+its in every mouth, on every sticker, in almost all the windows..at
+least in the neighbourhood we live: Obama &#8211; Biden 08. ..amd still
+no Bush who showed up to help his party. but this afternoon we 
+say Cheney saying some &#8220;helpfull&#8221; words on a republican meeting.
+what happens to this party, why they do they do their best to loose?</p>
+
+
+	<p><img src="/files/xymedia/0000/1027/polling.jpg" alt="" /></p>
+
+
+	<p>..but we pass by the <span class="caps">MOMA</span> again.. there were some problems with
+some tiles so they had to be reprinted, lets see if things are going well:</p>
+
+
+	<p><a href="/files/xymedia/0000/1031/cuialmostup.jpg"><img src="/files/xymedia/0000/1029/cuialmostup_th.jpg" alt="" /></a></p>
+
+
+	<p>yes! much better now! tomorrow we vote (we spiritually do..) and the
+day after thers the press-preview for the show.. we hOpe that everything
+goes well and we can celebrate the two dates as one <a href="http://www.sfmoma.org/exhibitions/306">Art of Particiation!</a></p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc228" href="#selector">only three days left!</a></h1>
+      <div class="date">2008/02/11</div>
+      <div class="body"><p>only three days until c-day and only two until the O-day!
+communimage opens at the 5th in the <span class="caps">MOMA</span> (public pre-view)
+and Obama starts his winning speach the night on the 4th &#8211; we hOpe..</p>
+
+
+	<p>it is very strange: since we arrived in the US and since we see
+almost every night <span class="caps">CNN</span> and other channels on which we can get
+an idea how this pre-election time is communicated, we <span class="caps">NEVER</span>
+saw mister Bush or any of his comrade-in-arms in public. on no
+channel, on no news paper, nowhere! everybody, even John Mc Caine
+speaks about <img src="/files/xymedia/0000/1021/change.jpg" alt="" />. 
+its like the republican party doesn&#8217;t exist any-more.. or doesn&#8217;t know 
+anymore which ideology they represent.</p>
+
+
+	<p>the only image we saw so far, really the only one far and wide,
+was this t-shirt in this shop around the corner on Haigh Ashbury:</p>
+
+
+	<p><a href="/files/xymedia/0000/1019/goodbye.jpg"><img src="/files/xymedia/0000/1017/goodbye_th.jpg" alt="" /></a></p>
+
+
+	<p>..and today is <a href="http://en.wikipedia.org/wiki/Day_of_the_Dead">the day of the death</a> &#8211; goodbye death, hello live!
+we all are going downtown to Mission street.. to the latino neighbourhood
+which we wanted to visit anyway because of its graffity tradition.</p>
+
+
+	<p><img src="/files/xymedia/0000/1023/diadelosmuertos.jpg" alt="" /></p>
+
+
+	<p>photo by: <a href="http://www.flickr.com/photos/t-bet/">t-bet</a></p>
+
+
+	<p>if we look and listen around <span class="caps">ALL</span> indicates that Obama wins..straight
+and with a mayoiruty which allows changes, poco a poco, bus although
+it seems to be so obvious we all doubt at the same time. Larry King,
+the calcies, everybody we ask. aren&#8217;t they more racist when they are
+alone in the voting cabin then? what ugly joker may carry this republicans
+of change? late this night we see Obama talking in Florida&#8230;&#8221;Florida, I
+have two words for you: three days!&#8221;</p>
+
+
+	<p><img src="/files/xymedia/0000/1025/chanel.jpg" alt="" /></p>
+
+
+	<p>by the way &#8211; did you see that the Obama-CHANGE uses the same 
+typograpghy than <span class="caps">CHANEL</span>? do think thats a coincidence? when omi and
+Pam recognized that the first time, they were sure it isn&#8217;t, even the distance
+between the letters are the same! it makes a subconscious link to what we 
+are associating with elegance, beauty, &#8220;smells good&#8221;.. come on <span class="caps">CHANGE</span> #5!
+Pam and omi want to do a graphic work with this observation..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+    <div class="booc">
+      <h1><a name="booc227" href="#selector">mali and Sali arrive!</a></h1>
+      <div class="date">2008/01/11</div>
+      <div class="body"><p>..fist of november and mali and Sali (his girfriend) arrive late
+in the evening. after a long trip from Zurich via <span class="caps">NYC</span> they feel
+tired and happy to be here and jump to bed right after a dinner
+at <a href="http://www.magnoliapub.com/">Magnolias</a>.</p>
+
+
+	<p>the next day omi and mali are going downtown to the <span class="caps">MOMA</span>
+to meet Rudolf Frieling, the curator of <em>&#8220;The Art of Participation&#8221;</em>
+and to see how the insallation of the big print of communimage
+goes.</p>
+
+
+	<p><a href="/files/xymedia/0000/1015/momamount.jpg"><img src="/files/xymedia/0000/1013/momamount_th.jpg" alt="" /></a></p>
+
+
+	<p>goes quite well&#8230; allthough we wouldn&#8217;t agree again on printing the image on
+Sintra (a kind of plastic), because it is nearly impossible to mount the single
+tiles precisely and because the print became a bit blurry by using this technic.
+next time we&#8217;d do it on paper again; also because that makes clearer that the
+project is not about this fixed image, but about how this image is growing..</p></div>
+
+      <div class="spacer">&nbsp;</div>
+      <a href="#selector">back to top</a>
+      <div class="image">
+      </div>
+
+    </div>
+    <br/>
+</div>
+
+<div class="spacer">&nbsp;</div>
+<br/><br/><br/>
+
+<script type="text/javascript">
+  (function($) {
+    String.prototype.trim = function() { return this.replace(/^s+|s+$/g, ""); };
+    $("form").submit(function() {
+      var completed = true;
+      $(this).find(".required").each(function() {
+        if ($.trim(this.value) == "") {
+          completed = false;
+          $(this).addClass("error");
+        } else {
+          $(this).removeClass("error");
+          this.value = $.trim(this.value);
+        }
+      });
+      return completed;
+    });
+
+    var matcher = /^\/files\/xymedia/;
+    $("a").each(function() {
+      var href = $(this).attr('href');
+      if (matcher.test(href)) {
+        //$(this).click(function(event) {               });
+        $(this).fancybox();
+      }
+    });
+  })(jQuery);
+</script>
+
+      </div>
+    </div>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3241357-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.calcaxy.com" style="border:0px;display:none" id="clustrMapsImg" />
+
+  </body>
+</html>
